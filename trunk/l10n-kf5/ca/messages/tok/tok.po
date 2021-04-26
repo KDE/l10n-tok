@@ -1,0 +1,187 @@
+# Translation of totalreqall.po to Catalan
+# Copyright (C) 2021 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: tok\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-26 00:19+0000\n"
+"PO-Revision-Date: 2021-04-26 10:54+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: data/components/PlaintextMessage.qml:22
+#, kde-format
+msgid "GIF"
+msgstr "GIF"
+
+#: data/components/PlaintextMessage.qml:24
+#, kde-format
+msgid "Music"
+msgstr "Música"
+
+#: data/components/PlaintextMessage.qml:26
+#, kde-format
+msgid "Attachment"
+msgstr "Adjunt"
+
+#: data/components/PlaintextMessage.qml:28
+#, kde-format
+msgid "Photo"
+msgstr "Foto"
+
+#: data/components/PlaintextMessage.qml:30
+#, kde-format
+msgid "Expired Photo"
+msgstr "Foto caducada"
+
+#: data/components/PlaintextMessage.qml:32
+#, kde-format
+msgid "Sticker"
+msgstr "Adhesiu"
+
+#: data/components/PlaintextMessage.qml:34
+#, kde-format
+msgid "Video"
+msgstr "Vídeo"
+
+#: data/components/PlaintextMessage.qml:36
+#, kde-format
+msgid "Expired Video"
+msgstr "Vídeo caducat"
+
+#: data/components/PlaintextMessage.qml:38
+#, kde-format
+msgid "Video Note"
+msgstr "Nota de vídeo"
+
+#: data/components/PlaintextMessage.qml:40
+#, kde-format
+msgid "Voice Note"
+msgstr "Nota de veu"
+
+#: data/components/PlaintextMessage.qml:42
+#, kde-format
+msgid "Location"
+msgstr "Ubicació"
+
+#: data/components/PlaintextMessage.qml:44
+#, kde-format
+msgid "Venue"
+msgstr "Lloc"
+
+#: data/components/PlaintextMessage.qml:46
+#, kde-format
+msgid "Contact"
+msgstr "Contacte"
+
+#: data/components/PlaintextMessage.qml:48
+#, kde-format
+msgid "Dice"
+msgstr "Dau"
+
+#: data/components/PlaintextMessage.qml:50
+#, kde-format
+msgid "Game"
+msgstr "Joc"
+
+#: data/components/PlaintextMessage.qml:52
+#, kde-format
+msgid "Poll"
+msgstr "Enquesta"
+
+#: data/components/PlaintextMessage.qml:54
+#, kde-format
+msgid "Invoice"
+msgstr "Factura"
+
+#: data/components/PlaintextMessage.qml:81
+#: src/extractinator.cpp:19
+#, kde-format
+msgid "Unsupported"
+msgstr "No admès"
+
+#: data/routes/Chats.qml:115
+#, kde-format
+msgid "No chats available."
+msgstr "No hi ha cap xat disponible."
+
+#: data/routes/entry/AuthenticationCode.qml:14
+#, kde-format
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr ""
+"Introduïu el codi d'autenticació que heu rebut des d'un altre client de"
+" Telegram"
+
+#: data/routes/entry/AuthenticationCode.qml:19
+#, kde-format
+msgid "Authentication code"
+msgstr "Codi d'autenticació"
+
+#: data/routes/entry/Password.qml:14
+#, kde-format
+msgid "Enter your password"
+msgstr "Introduïu la contrasenya"
+
+#: data/routes/entry/PhoneNumber.qml:14
+#, kde-format
+msgid "Enter your phone number"
+msgstr "Introduïu el número de telèfon"
+
+#: data/routes/entry/PhoneNumber.qml:19
+#, kde-format
+msgid "Phone number"
+msgstr "Número de telèfon"
+
+#: data/routes/entry/Welcome.qml:13
+#, kde-format
+msgid "Welcome to Tok"
+msgstr "Us donem la benvinguda al Tok"
+
+#: data/routes/entry/Welcome.qml:17
+#, kde-format
+msgid "Get Started"
+msgstr "Introducció"
+
+#: data/routes/messages/NoView.qml:18
+#, kde-format
+msgid "Select a chat to start messaging"
+msgstr "Seleccioneu un xat per a iniciar la missatgeria"
+
+#: data/routes/messages/View.qml:64
+#, kde-format
+msgid "Write your message..."
+msgstr "Escriviu un missatge..."
+
+#: src/extractinator.cpp:13
+#, kde-format
+msgid "Unknown Sender"
+msgstr "Remitent desconegut"
+
+#: src/notificationmanager.cpp:37
+#, kde-format
+msgid "Reply"
+msgstr "Respon"
+
+#: src/notificationmanager.cpp:38
+#, kde-format
+msgid "Reply to %1..."
+msgstr "Respon a %1..."
+
+#: src/userdata.cpp:44
+#, kde-format
+msgid "Loading..."
+msgstr "S'està carregant..."
+
+
