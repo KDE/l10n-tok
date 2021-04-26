@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-25 10:23+0300\n"
+"POT-Creation-Date: 2021-04-26 00:19+0000\n"
 "PO-Revision-Date: 2021-04-25 10:31+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -14,123 +14,104 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 20.12.0\n"
 
 #: data/components/PlaintextMessage.qml:22
 #, kde-format
 msgid "GIF"
-msgstr ""
-"GIF"
+msgstr "GIF"
 
 #: data/components/PlaintextMessage.qml:24
 #, kde-format
 msgid "Music"
-msgstr ""
-"Музика"
+msgstr "Музика"
 
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
 msgid "Attachment"
-msgstr ""
-"Долучення"
+msgstr "Долучення"
 
 #: data/components/PlaintextMessage.qml:28
 #, kde-format
 msgid "Photo"
-msgstr ""
-"Фото"
+msgstr "Фото"
 
 #: data/components/PlaintextMessage.qml:30
 #, kde-format
 msgid "Expired Photo"
-msgstr ""
-"Застаріле фото"
+msgstr "Застаріле фото"
 
 #: data/components/PlaintextMessage.qml:32
 #, kde-format
 msgid "Sticker"
-msgstr ""
-"Наліпка"
+msgstr "Наліпка"
 
 #: data/components/PlaintextMessage.qml:34
 #, kde-format
 msgid "Video"
-msgstr ""
-"Відео"
+msgstr "Відео"
 
 #: data/components/PlaintextMessage.qml:36
 #, kde-format
 msgid "Expired Video"
-msgstr ""
-"Застаріле відео"
+msgstr "Застаріле відео"
 
 #: data/components/PlaintextMessage.qml:38
 #, kde-format
 msgid "Video Note"
-msgstr ""
-"Відеонотатка"
+msgstr "Відеонотатка"
 
 #: data/components/PlaintextMessage.qml:40
 #, kde-format
 msgid "Voice Note"
-msgstr ""
-"Голосова нотатка"
+msgstr "Голосова нотатка"
 
 #: data/components/PlaintextMessage.qml:42
 #, kde-format
 msgid "Location"
-msgstr ""
-"Адреса"
+msgstr "Адреса"
 
 #: data/components/PlaintextMessage.qml:44
 #, kde-format
 msgid "Venue"
-msgstr ""
-"Місце"
+msgstr "Місце"
 
 #: data/components/PlaintextMessage.qml:46
 #, kde-format
 msgid "Contact"
-msgstr ""
-"Контакт"
+msgstr "Контакт"
 
 #: data/components/PlaintextMessage.qml:48
 #, kde-format
 msgid "Dice"
-msgstr ""
-"Кістки"
+msgstr "Кістки"
 
 #: data/components/PlaintextMessage.qml:50
 #, kde-format
 msgid "Game"
-msgstr ""
-"Гра"
+msgstr "Гра"
 
 #: data/components/PlaintextMessage.qml:52
 #, kde-format
 msgid "Poll"
-msgstr ""
-"Опитування"
+msgstr "Опитування"
 
 #: data/components/PlaintextMessage.qml:54
 #, kde-format
 msgid "Invoice"
-msgstr ""
-"Рахунок"
+msgstr "Рахунок"
 
-#: data/components/PlaintextMessage.qml:81
-#: src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
 #, kde-format
 msgid "Unsupported"
-msgstr ""
-"Немає підтримки"
+msgstr "Немає підтримки"
 
 #: data/routes/Chats.qml:115
 #, kde-format
 msgid "No chats available."
-msgstr ""
-"Немає доступних спілкувань."
+msgstr "Немає доступних спілкувань."
 
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
@@ -142,71 +123,59 @@ msgstr ""
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
 msgid "Authentication code"
-msgstr ""
-"Код розпізнавання"
+msgstr "Код розпізнавання"
 
 #: data/routes/entry/Password.qml:14
 #, kde-format
 msgid "Enter your password"
-msgstr ""
-"Введіть пароль"
+msgstr "Введіть пароль"
 
 #: data/routes/entry/PhoneNumber.qml:14
 #, kde-format
 msgid "Enter your phone number"
-msgstr ""
-"Введіть ваш номер телефону"
+msgstr "Введіть ваш номер телефону"
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
 msgid "Phone number"
-msgstr ""
-"Номер телефону"
+msgstr "Номер телефону"
 
 #: data/routes/entry/Welcome.qml:13
 #, kde-format
 msgid "Welcome to Tok"
-msgstr ""
-"Вітаємо у Tok"
+msgstr "Вітаємо у Tok"
 
 #: data/routes/entry/Welcome.qml:17
 #, kde-format
 msgid "Get Started"
-msgstr ""
-"Початок"
+msgstr "Початок"
 
 #: data/routes/messages/NoView.qml:18
 #, kde-format
 msgid "Select a chat to start messaging"
-msgstr ""
-"Виберіть спілкування, щоб розпочати обмін повідомленнями"
+msgstr "Виберіть спілкування, щоб розпочати обмін повідомленнями"
 
 #: data/routes/messages/View.qml:64
 #, kde-format
 msgid "Write your message..."
-msgstr ""
-"Напишіть ваше повідомлення…"
+msgstr "Напишіть ваше повідомлення…"
 
 #: src/extractinator.cpp:13
 #, kde-format
 msgid "Unknown Sender"
-msgstr ""
-"Невідомий відправник"
+msgstr "Невідомий відправник"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
 msgid "Reply"
-msgstr ""
-"Відповісти"
+msgstr "Відповісти"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
 msgid "Reply to %1..."
-msgstr ""
-"Відповісти %1…"
+msgstr "Відповісти %1…"
 
 #: src/userdata.cpp:44
 #, kde-format
 msgid "Loading..."
-msgstr ""
-"Завантаження…"
+msgstr "Завантаження…"
