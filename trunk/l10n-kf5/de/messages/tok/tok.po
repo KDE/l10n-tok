@@ -102,8 +102,7 @@ msgstr "Abstimmung"
 msgid "Invoice"
 msgstr "Rechnung"
 
-#: data/components/PlaintextMessage.qml:81
-#: src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
 #, kde-format
 msgid "Unsupported"
 msgstr "Nicht unterstützt"
@@ -118,8 +117,8 @@ msgstr "Kein Chat verfügbar."
 msgid ""
 "Enter your authentication code that you received from another Telegram client"
 msgstr ""
-"Geben Sie Ihren Authentifizierungs-Code ein, den Sie von einem anderen"
-" Telegram-Programm erhalten haben"
+"Geben Sie Ihren Authentifizierungs-Code ein, den Sie von einem anderen "
+"Telegram-Programm erhalten haben"
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format

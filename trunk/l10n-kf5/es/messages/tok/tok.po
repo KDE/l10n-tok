@@ -119,8 +119,8 @@ msgstr ""
 msgid ""
 "Enter your authentication code that you received from another Telegram client"
 msgstr ""
-"Introduzca el código de autenticación que ha recibido de otro cliente de"
-" Telegram"
+"Introduzca el código de autenticación que ha recibido de otro cliente de "
+"Telegram"
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format

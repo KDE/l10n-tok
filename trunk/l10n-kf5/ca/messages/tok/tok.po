@@ -105,8 +105,7 @@ msgstr "Enquesta"
 msgid "Invoice"
 msgstr "Factura"
 
-#: data/components/PlaintextMessage.qml:81
-#: src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
 #, kde-format
 msgid "Unsupported"
 msgstr "No admès"
@@ -121,8 +120,8 @@ msgstr "No hi ha cap xat disponible."
 msgid ""
 "Enter your authentication code that you received from another Telegram client"
 msgstr ""
-"Introduïu el codi d'autenticació que heu rebut des d'un altre client de"
-" Telegram"
+"Introduïu el codi d'autenticació que heu rebut des d'un altre client de "
+"Telegram"
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
@@ -183,5 +182,3 @@ msgstr "Respon a %1..."
 #, kde-format
 msgid "Loading..."
 msgstr "S'està carregant..."
-
-

@@ -102,8 +102,7 @@ msgstr "Enkät"
 msgid "Invoice"
 msgstr "Faktura"
 
-#: data/components/PlaintextMessage.qml:81
-#: src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
 #, kde-format
 msgid "Unsupported"
 msgstr "Stöds ej"
