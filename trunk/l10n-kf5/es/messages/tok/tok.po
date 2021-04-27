@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-26 00:19+0000\n"
-"PO-Revision-Date: 2021-04-26 11:28+0200\n"
+"PO-Revision-Date: 2021-04-27 20:09+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -47,7 +47,7 @@ msgstr "La foto ha expirado"
 #: data/components/PlaintextMessage.qml:32
 #, kde-format
 msgid "Sticker"
-msgstr ""
+msgstr "Pegatina"
 
 #: data/components/PlaintextMessage.qml:34
 #, kde-format
@@ -77,7 +77,7 @@ msgstr "Ubicación"
 #: data/components/PlaintextMessage.qml:44
 #, kde-format
 msgid "Venue"
-msgstr ""
+msgstr "Lugar"
 
 #: data/components/PlaintextMessage.qml:46
 #, kde-format
@@ -102,7 +102,7 @@ msgstr "Encuesta"
 #: data/components/PlaintextMessage.qml:54
 #, kde-format
 msgid "Invoice"
-msgstr ""
+msgstr "Factura"
 
 #: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
 #, kde-format
@@ -112,7 +112,7 @@ msgstr "No permitido"
 #: data/routes/Chats.qml:115
 #, kde-format
 msgid "No chats available."
-msgstr ""
+msgstr "Ningún chat disponible."
 
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
@@ -150,12 +150,12 @@ msgstr "Bienvenido a Tok"
 #: data/routes/entry/Welcome.qml:17
 #, kde-format
 msgid "Get Started"
-msgstr ""
+msgstr "Empezar"
 
 #: data/routes/messages/NoView.qml:18
 #, kde-format
 msgid "Select a chat to start messaging"
-msgstr ""
+msgstr "Seleccione un chat para empezar a enviar mensajes"
 
 #: data/routes/messages/View.qml:64
 #, kde-format
