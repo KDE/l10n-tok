@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-28 00:19+0000\n"
-"PO-Revision-Date: 2021-04-28 08:33+0200\n"
+"PO-Revision-Date: 2021-04-28 11:22+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -110,7 +110,7 @@ msgstr "Nicht unterstützt"
 #: data/routes/Chats.qml:25
 #, kde-format
 msgid "Search chats"
-msgstr ""
+msgstr "Chats suchen"
 
 #: data/routes/Chats.qml:69
 #, kde-format
@@ -126,13 +126,13 @@ msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
-msgstr ""
+msgstr "Neueste Nachricht von %1: %2"
 
 #: data/routes/Chats.qml:74
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
-msgstr ""
+msgstr "Neueste Nachricht: %1"
 
 #: data/routes/Chats.qml:126
 #, kde-format
