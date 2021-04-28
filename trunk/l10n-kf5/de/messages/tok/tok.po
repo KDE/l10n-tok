@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-28 00:19+0000\n"
-"PO-Revision-Date: 2021-04-26 06:11+0200\n"
+"PO-Revision-Date: 2021-04-28 08:33+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -113,12 +113,12 @@ msgid "Search chats"
 msgstr ""
 
 #: data/routes/Chats.qml:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
-msgstr[0] "Schreiben Sie Ihre Nachricht ..."
-msgstr[1] "Schreiben Sie Ihre Nachricht ..."
+msgstr[0] "1 ungelesene Nachricht."
+msgstr[1] "%1 ungelesene Nachrichten."
 
 #: data/routes/Chats.qml:72
 #, kde-format
@@ -196,7 +196,7 @@ msgstr "Schreiben Sie Ihre Nachricht ..."
 #: data/routes/messages/View.qml:78
 #, kde-format
 msgid "Send message"
-msgstr ""
+msgstr "Nachricht senden"
 
 #: src/extractinator.cpp:13
 #, kde-format
