@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-26 00:19+0000\n"
+"POT-Creation-Date: 2021-04-28 00:19+0000\n"
 "PO-Revision-Date: 2021-04-26 10:41+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
@@ -107,7 +107,34 @@ msgstr "Rekening"
 msgid "Unsupported"
 msgstr "Niet-ondersteund"
 
-#: data/routes/Chats.qml:115
+#: data/routes/Chats.qml:25
+#, kde-format
+msgid "Search chats"
+msgstr ""
+
+#: data/routes/Chats.qml:69
+#, fuzzy, kde-format
+#| msgid "Write your message..."
+msgid "1 unread message."
+msgid_plural "%1 unread messages."
+msgstr[0] "Schrijf uw bericht..."
+msgstr[1] "Schrijf uw bericht..."
+
+#: data/routes/Chats.qml:72
+#, kde-format
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"the message contents"
+msgid "Latest message from %1: %2"
+msgstr ""
+
+#: data/routes/Chats.qml:74
+#, kde-format
+msgctxt "%1 is the message contents"
+msgid "Latest message: %1"
+msgstr ""
+
+#: data/routes/Chats.qml:126
 #, kde-format
 msgid "No chats available."
 msgstr "Geen chats beschikbaar."
@@ -150,6 +177,12 @@ msgstr "Welkom bij Tok"
 msgid "Get Started"
 msgstr "U kunt beginnen"
 
+#: data/routes/messages/components/PhotoMessage.qml:17
+#, fuzzy, kde-format
+#| msgid "Write your message..."
+msgid "Photo message."
+msgstr "Schrijf uw bericht..."
+
 #: data/routes/messages/NoView.qml:18
 #, kde-format
 msgid "Select a chat to start messaging"
@@ -159,6 +192,11 @@ msgstr "Selecteer een chat om met messaging te beginnen"
 #, kde-format
 msgid "Write your message..."
 msgstr "Schrijf uw bericht..."
+
+#: data/routes/messages/View.qml:78
+#, kde-format
+msgid "Send message"
+msgstr ""
 
 #: src/extractinator.cpp:13
 #, kde-format
