@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-29 00:18+0000\n"
-"PO-Revision-Date: 2021-04-27 20:09+0200\n"
+"PO-Revision-Date: 2021-04-29 18:48+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -112,15 +112,15 @@ msgstr "No permitido"
 #: data/routes/Chats.qml:25
 #, kde-format
 msgid "Search chats"
-msgstr ""
+msgstr "Buscar chats"
 
 #: data/routes/Chats.qml:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
-msgstr[0] "Escriba un mensaje..."
-msgstr[1] "Escriba un mensaje..."
+msgstr[0] "1 mensaje sin leer."
+msgstr[1] "%1 mensajes sin leer."
 
 #: data/routes/Chats.qml:72
 #, kde-format
@@ -128,13 +128,13 @@ msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
-msgstr ""
+msgstr "Último mensaje de %1: %2"
 
 #: data/routes/Chats.qml:74
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
-msgstr ""
+msgstr "Último mensaje: %1"
 
 #: data/routes/Chats.qml:126
 #, kde-format
@@ -180,10 +180,10 @@ msgid "Get Started"
 msgstr "Empezar"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Photo message."
-msgstr "Escriba un mensaje..."
+msgstr "Mensaje fotográfico."
 
 #: data/routes/messages/NoView.qml:18
 #, kde-format
@@ -196,15 +196,15 @@ msgid "Write your message..."
 msgstr "Escriba un mensaje..."
 
 #: data/routes/messages/View.qml:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "You cannot send messages."
-msgstr "Escriba un mensaje..."
+msgstr "No puede enviar mensajes."
 
 #: data/routes/messages/View.qml:80
 #, kde-format
 msgid "Send message"
-msgstr ""
+msgstr "Enviar mensaje"
 
 #: src/extractinator.cpp:13
 #, kde-format
