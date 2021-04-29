@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:19+0000\n"
+"POT-Creation-Date: 2021-04-29 00:18+0000\n"
 "PO-Revision-Date: 2021-04-28 01:25+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
@@ -185,12 +185,19 @@ msgstr "xxPhoto message.xx"
 msgid "Select a chat to start messaging"
 msgstr "xxSelect a chat to start messagingxx"
 
-#: data/routes/messages/View.qml:64
+#: data/routes/messages/View.qml:66
 #, kde-format
 msgid "Write your message..."
 msgstr "xxWrite your message...xx"
 
-#: data/routes/messages/View.qml:78
+#: data/routes/messages/View.qml:66
+#, fuzzy, kde-format
+#| msgid "1 unread message."
+#| msgid_plural "%1 unread messages."
+msgid "You cannot send messages."
+msgstr "xx%1 unread messages.xx"
+
+#: data/routes/messages/View.qml:80
 #, kde-format
 msgid "Send message"
 msgstr "xxSend messagexx"

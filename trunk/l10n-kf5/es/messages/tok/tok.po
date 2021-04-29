@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:19+0000\n"
+"POT-Creation-Date: 2021-04-29 00:18+0000\n"
 "PO-Revision-Date: 2021-04-27 20:09+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -190,12 +190,18 @@ msgstr "Escriba un mensaje..."
 msgid "Select a chat to start messaging"
 msgstr "Seleccione un chat para empezar a enviar mensajes"
 
-#: data/routes/messages/View.qml:64
+#: data/routes/messages/View.qml:66
 #, kde-format
 msgid "Write your message..."
 msgstr "Escriba un mensaje..."
 
-#: data/routes/messages/View.qml:78
+#: data/routes/messages/View.qml:66
+#, fuzzy, kde-format
+#| msgid "Write your message..."
+msgid "You cannot send messages."
+msgstr "Escriba un mensaje..."
+
+#: data/routes/messages/View.qml:80
 #, kde-format
 msgid "Send message"
 msgstr ""

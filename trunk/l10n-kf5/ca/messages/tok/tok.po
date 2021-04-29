@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:19+0000\n"
+"POT-Creation-Date: 2021-04-29 00:18+0000\n"
 "PO-Revision-Date: 2021-04-28 09:50+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -117,7 +117,6 @@ msgstr "Cerca xats"
 
 #: data/routes/Chats.qml:69
 #, kde-format
-#| msgid "Write your message..."
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "1 missatge sense llegir."
@@ -182,7 +181,6 @@ msgstr "Introducció"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
-#| msgid "Write your message..."
 msgid "Photo message."
 msgstr "Missatge de foto."
 
@@ -191,12 +189,19 @@ msgstr "Missatge de foto."
 msgid "Select a chat to start messaging"
 msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 
-#: data/routes/messages/View.qml:64
+#: data/routes/messages/View.qml:66
 #, kde-format
 msgid "Write your message..."
 msgstr "Escriviu un missatge..."
 
-#: data/routes/messages/View.qml:78
+#: data/routes/messages/View.qml:66
+#, fuzzy, kde-format
+#| msgid "1 unread message."
+#| msgid_plural "%1 unread messages."
+msgid "You cannot send messages."
+msgstr "1 missatge sense llegir."
+
+#: data/routes/messages/View.qml:80
 #, kde-format
 msgid "Send message"
 msgstr "Envia un missatge"
@@ -220,4 +225,3 @@ msgstr "Respon a %1..."
 #, kde-format
 msgid "Loading..."
 msgstr "S'està carregant..."
-

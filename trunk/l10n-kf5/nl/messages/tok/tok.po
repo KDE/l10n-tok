@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:19+0000\n"
+"POT-Creation-Date: 2021-04-29 00:18+0000\n"
 "PO-Revision-Date: 2021-04-28 15:18+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
@@ -114,7 +114,6 @@ msgstr "Chats zoeken"
 
 #: data/routes/Chats.qml:69
 #, kde-format
-#| msgid "Write your message..."
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "1 ongelezen bericht."
@@ -123,8 +122,7 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:72
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2"
-" is "
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -143,8 +141,7 @@ msgstr "Geen chats beschikbaar."
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
 msgid ""
-"Enter your authentication code that you received from another Telegram"
-" client"
+"Enter your authentication code that you received from another Telegram client"
 msgstr ""
 "Voer uw authenticatiecode in die u van een andere Telegram-client hebt "
 "ontvangen"
@@ -181,7 +178,6 @@ msgstr "U kunt beginnen"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
-#| msgid "Write your message..."
 msgid "Photo message."
 msgstr "Fotobericht."
 
@@ -190,12 +186,19 @@ msgstr "Fotobericht."
 msgid "Select a chat to start messaging"
 msgstr "Selecteer een chat om met messaging te beginnen"
 
-#: data/routes/messages/View.qml:64
+#: data/routes/messages/View.qml:66
 #, kde-format
 msgid "Write your message..."
 msgstr "Schrijf uw bericht..."
 
-#: data/routes/messages/View.qml:78
+#: data/routes/messages/View.qml:66
+#, fuzzy, kde-format
+#| msgid "1 unread message."
+#| msgid_plural "%1 unread messages."
+msgid "You cannot send messages."
+msgstr "1 ongelezen bericht."
+
+#: data/routes/messages/View.qml:80
 #, kde-format
 msgid "Send message"
 msgstr "Bericht verzenden"

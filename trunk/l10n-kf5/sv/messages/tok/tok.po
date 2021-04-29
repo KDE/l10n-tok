@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:19+0000\n"
+"POT-Creation-Date: 2021-04-29 00:18+0000\n"
 "PO-Revision-Date: 2021-04-28 08:09+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -114,7 +114,6 @@ msgstr "Sök chatter"
 
 #: data/routes/Chats.qml:69
 #, kde-format
-#| msgid "Write your message..."
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "1 oläst meddelande."
@@ -178,7 +177,6 @@ msgstr "Kom igång"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
-#| msgid "Write your message..."
 msgid "Photo message."
 msgstr "Fotomeddelande."
 
@@ -187,12 +185,19 @@ msgstr "Fotomeddelande."
 msgid "Select a chat to start messaging"
 msgstr "Välj en chatt för att börja skicka meddelanden"
 
-#: data/routes/messages/View.qml:64
+#: data/routes/messages/View.qml:66
 #, kde-format
 msgid "Write your message..."
 msgstr "Skriv in meddelande..."
 
-#: data/routes/messages/View.qml:78
+#: data/routes/messages/View.qml:66
+#, fuzzy, kde-format
+#| msgid "1 unread message."
+#| msgid_plural "%1 unread messages."
+msgid "You cannot send messages."
+msgstr "1 oläst meddelande."
+
+#: data/routes/messages/View.qml:80
 #, kde-format
 msgid "Send message"
 msgstr "Skicka meddelande"
