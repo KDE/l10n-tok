@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-29 00:18+0000\n"
-"PO-Revision-Date: 2021-04-28 11:22+0200\n"
+"PO-Revision-Date: 2021-04-29 05:41+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -177,10 +177,10 @@ msgid "Get Started"
 msgstr "Erste Schritte"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Photo message."
-msgstr "Schreiben Sie Ihre Nachricht ..."
+msgstr "Foto-Nachricht"
 
 #: data/routes/messages/NoView.qml:18
 #, kde-format
@@ -193,11 +193,11 @@ msgid "Write your message..."
 msgstr "Schreiben Sie Ihre Nachricht ..."
 
 #: data/routes/messages/View.qml:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "1 unread message."
 #| msgid_plural "%1 unread messages."
 msgid "You cannot send messages."
-msgstr "1 ungelesene Nachricht."
+msgstr "Sie können keine Nachrichten senden."
 
 #: data/routes/messages/View.qml:80
 #, kde-format
