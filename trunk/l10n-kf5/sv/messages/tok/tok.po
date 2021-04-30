@@ -192,8 +192,6 @@ msgstr "Skriv in meddelande..."
 
 #: data/routes/messages/View.qml:66
 #, kde-format
-#| msgid "1 unread message."
-#| msgid_plural "%1 unread messages."
 msgid "You cannot send messages."
 msgstr "Du kan inte skicka meddelanden."
 

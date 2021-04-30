@@ -196,8 +196,6 @@ msgstr "Escriviu un missatge..."
 
 #: data/routes/messages/View.qml:66
 #, kde-format
-#| msgid "1 unread message."
-#| msgid_plural "%1 unread messages."
 msgid "You cannot send messages."
 msgstr "No es poden enviar missatges."
 
@@ -225,4 +223,3 @@ msgstr "Respon a %1..."
 #, kde-format
 msgid "Loading..."
 msgstr "S'està carregant..."
-

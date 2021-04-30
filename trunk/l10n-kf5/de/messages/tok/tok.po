@@ -178,7 +178,6 @@ msgstr "Erste Schritte"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
-#| msgid "Write your message..."
 msgid "Photo message."
 msgstr "Foto-Nachricht"
 
@@ -194,8 +193,6 @@ msgstr "Schreiben Sie Ihre Nachricht ..."
 
 #: data/routes/messages/View.qml:66
 #, kde-format
-#| msgid "1 unread message."
-#| msgid_plural "%1 unread messages."
 msgid "You cannot send messages."
 msgstr "Sie können keine Nachrichten senden."
 

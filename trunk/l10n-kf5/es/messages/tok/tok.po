@@ -116,7 +116,6 @@ msgstr "Buscar chats"
 
 #: data/routes/Chats.qml:69
 #, kde-format
-#| msgid "Write your message..."
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "1 mensaje sin leer."
@@ -181,7 +180,6 @@ msgstr "Empezar"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
-#| msgid "Write your message..."
 msgid "Photo message."
 msgstr "Mensaje fotográfico."
 
@@ -197,7 +195,6 @@ msgstr "Escriba un mensaje..."
 
 #: data/routes/messages/View.qml:66
 #, kde-format
-#| msgid "Write your message..."
 msgid "You cannot send messages."
 msgstr "No puede enviar mensajes."
 

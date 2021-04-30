@@ -122,8 +122,7 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:72
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2"
-" is "
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -142,8 +141,7 @@ msgstr "Geen chats beschikbaar."
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
 msgid ""
-"Enter your authentication code that you received from another Telegram"
-" client"
+"Enter your authentication code that you received from another Telegram client"
 msgstr ""
 "Voer uw authenticatiecode in die u van een andere Telegram-client hebt "
 "ontvangen"
@@ -195,8 +193,6 @@ msgstr "Schrijf uw bericht..."
 
 #: data/routes/messages/View.qml:66
 #, kde-format
-#| msgid "1 unread message."
-#| msgid_plural "%1 unread messages."
 msgid "You cannot send messages."
 msgstr "U kunt geen berichten verzenden."
 
