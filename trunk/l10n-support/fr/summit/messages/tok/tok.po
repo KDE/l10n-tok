@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-29 10:10+0200\n"
-"PO-Revision-Date: 2021-04-29 08:44+0200\n"
+"PO-Revision-Date: 2021-04-30 08:41+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 20.12.3\n"
+"X-Generator: Lokalize 21.04.0\n"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:22
@@ -139,7 +139,9 @@ msgstr[1] "%1 messages non lus."
 #. +> trunk5
 #: data/routes/Chats.qml:72
 #, kde-format
-msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is"
+" the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
@@ -159,8 +161,10 @@ msgstr "Aucun salon de discussion disponible."
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
-msgid "Enter your authentication code that you received from another Telegram client"
-msgstr "Saisissez votre code d'authentification, reçu par un autre client Telegram."
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr ""
+"Saisissez votre code d'authentification, reçu par un autre client Telegram."
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:19
@@ -218,11 +222,11 @@ msgstr "Écrire votre message..."
 
 #. +> trunk5
 #: data/routes/messages/View.qml:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "1 unread message."
 #| msgid_plural "%1 unread messages."
 msgid "You cannot send messages."
-msgstr "Un message non lu."
+msgstr "Vous ne pouvez envoyer des messages."
 
 #. +> trunk5
 #: data/routes/messages/View.qml:80
