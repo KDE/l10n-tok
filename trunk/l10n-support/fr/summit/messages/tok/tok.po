@@ -139,9 +139,7 @@ msgstr[1] "%1 messages non lus."
 #. +> trunk5
 #: data/routes/Chats.qml:72
 #, kde-format
-msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2 is"
-" the message contents"
+msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
@@ -161,10 +159,8 @@ msgstr "Aucun salon de discussion disponible."
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
-msgid ""
-"Enter your authentication code that you received from another Telegram client"
-msgstr ""
-"Saisissez votre code d'authentification, reçu par un autre client Telegram."
+msgid "Enter your authentication code that you received from another Telegram client"
+msgstr "Saisissez votre code d'authentification, reçu par un autre client Telegram."
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:19
