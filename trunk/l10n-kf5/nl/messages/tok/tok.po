@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-02 00:18+0000\n"
-"PO-Revision-Date: 2021-04-29 11:06+0200\n"
+"PO-Revision-Date: 2021-05-02 14:25+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
 "Language: nl\n"
@@ -28,7 +28,7 @@ msgid "Music"
 msgstr "Muziek"
 
 #: data/components/PlaintextMessage.qml:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
@@ -126,7 +126,8 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:72
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"%1 is the message author (probably, but not necessarily a human), and %2"
+" is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -145,7 +146,8 @@ msgstr "Geen chats beschikbaar."
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
 msgid ""
-"Enter your authentication code that you received from another Telegram client"
+"Enter your authentication code that you received from another Telegram"
+" client"
 msgstr ""
 "Voer uw authenticatiecode in die u van een andere Telegram-client hebt "
 "ontvangen"
@@ -184,7 +186,7 @@ msgstr "U kunt beginnen"
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
@@ -214,10 +216,10 @@ msgstr "Bericht verzenden"
 #: src/extractinator.cpp:13
 #, kde-format
 msgid "we know that this person is a human, but we don't know their name"
-msgstr ""
+msgstr "we weten dat deze persoon een mens is, maar we weten niet de naam"
 
 #: src/extractinator.cpp:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
@@ -226,10 +228,10 @@ msgstr "Niet-ondersteund"
 #: src/notificationmanager.cpp:37
 #, kde-format
 msgid "button action"
-msgstr ""
+msgstr "knopactie"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
