@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-02 00:18+0000\n"
-"PO-Revision-Date: 2021-04-29 08:19+0200\n"
+"PO-Revision-Date: 2021-05-02 12:03+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -28,7 +28,7 @@ msgid "Music"
 msgstr "Musik"
 
 #: data/components/PlaintextMessage.qml:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
@@ -183,7 +183,7 @@ msgstr "Kom igång"
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
-msgstr ""
+msgstr "Ta bort"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
@@ -213,10 +213,10 @@ msgstr "Skicka meddelande"
 #: src/extractinator.cpp:13
 #, kde-format
 msgid "we know that this person is a human, but we don't know their name"
-msgstr ""
+msgstr "vi vet att personen är en människa, men vi vet inte namnet"
 
 #: src/extractinator.cpp:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
@@ -225,10 +225,10 @@ msgstr "Stöds ej"
 #: src/notificationmanager.cpp:37
 #, kde-format
 msgid "button action"
-msgstr ""
+msgstr "knappåtgärd"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
