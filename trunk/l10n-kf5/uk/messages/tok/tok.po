@@ -7,15 +7,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-02 00:18+0000\n"
-"PO-Revision-Date: 2021-04-29 08:56+0300\n"
+"PO-Revision-Date: 2021-05-02 09:26+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
-"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Lokalize 20.12.0\n"
 
 #: data/components/PlaintextMessage.qml:22
@@ -29,7 +28,7 @@ msgid "Music"
 msgstr "Музика"
 
 #: data/components/PlaintextMessage.qml:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
@@ -187,6 +186,7 @@ msgstr "Початок"
 msgctxt "popup menu for message"
 msgid "Delete"
 msgstr ""
+"Вилучити"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
@@ -217,9 +217,10 @@ msgstr "Надіслати повідомлення"
 #, kde-format
 msgid "we know that this person is a human, but we don't know their name"
 msgstr ""
+"Ми знаємо, що це людина, але не знаємо її імені"
 
 #: src/extractinator.cpp:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
@@ -229,9 +230,10 @@ msgstr "Немає підтримки"
 #, kde-format
 msgid "button action"
 msgstr ""
+"дія кнопки"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
