@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 10:10+0200\n"
+"POT-Creation-Date: 2021-05-02 09:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -33,6 +33,7 @@ msgstr ""
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
+msgctxt "Specifically a file; I use Attachment in English because it sounds better than File in this context."
 msgid "Attachment"
 msgstr ""
 
@@ -121,7 +122,7 @@ msgid "Invoice"
 msgstr ""
 
 #. +> trunk5
-#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81
 #, kde-format
 msgid "Unsupported"
 msgstr ""
@@ -203,6 +204,13 @@ msgid "Get Started"
 msgstr ""
 
 #. +> trunk5
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
+#. +> trunk5
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -235,18 +243,26 @@ msgstr ""
 #. +> trunk5
 #: src/extractinator.cpp:13
 #, kde-format
-msgid "Unknown Sender"
+msgid "we know that this person is a human, but we don't know their name"
+msgstr ""
+
+#. +> trunk5
+#: src/extractinator.cpp:19
+#, kde-format
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
 msgstr ""
 
 #. +> trunk5
 #: src/notificationmanager.cpp:37
 #, kde-format
-msgid "Reply"
+msgid "button action"
 msgstr ""
 
 #. +> trunk5
 #: src/notificationmanager.cpp:38
 #, kde-format
+msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr ""
 
