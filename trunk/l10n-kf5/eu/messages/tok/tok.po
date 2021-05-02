@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 00:18+0000\n"
+"POT-Creation-Date: 2021-05-02 00:18+0000\n"
 "PO-Revision-Date: 2021-05-01 23:55+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -31,7 +31,11 @@ msgid "Music"
 msgstr "Musika"
 
 #: data/components/PlaintextMessage.qml:26
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Attachment"
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
 msgid "Attachment"
 msgstr "Eranskina"
 
@@ -106,7 +110,6 @@ msgid "Invoice"
 msgstr "Faktura"
 
 #: data/components/PlaintextMessage.qml:81
-#: src/extractinator.cpp:19
 #, kde-format
 msgid "Unsupported"
 msgstr "Euskarririk gabea"
@@ -179,6 +182,12 @@ msgstr "Ongi etorri Tok-era"
 msgid "Get Started"
 msgstr "Hasi"
 
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -206,16 +215,25 @@ msgstr "Bidali mezua"
 
 #: src/extractinator.cpp:13
 #, kde-format
-msgid "Unknown Sender"
-msgstr "Bidaltzaile ezezaguna"
+msgid "we know that this person is a human, but we don't know their name"
+msgstr ""
+
+#: src/extractinator.cpp:19
+#, fuzzy, kde-format
+#| msgid "Unsupported"
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "Euskarririk gabea"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
-msgid "Reply"
-msgstr "Erantzun"
+msgid "button action"
+msgstr ""
 
 #: src/notificationmanager.cpp:38
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Reply to %1..."
+msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Erantzun %1(e)ri..."
 
@@ -223,3 +241,9 @@ msgstr "Erantzun %1(e)ri..."
 #, kde-format
 msgid "Loading..."
 msgstr "Zamatzen..."
+
+#~ msgid "Unknown Sender"
+#~ msgstr "Bidaltzaile ezezaguna"
+
+#~ msgid "Reply"
+#~ msgstr "Erantzun"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 00:18+0000\n"
+"POT-Creation-Date: 2021-05-02 00:18+0000\n"
 "PO-Revision-Date: 2021-04-29 11:10+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -31,7 +31,11 @@ msgid "Music"
 msgstr "Música"
 
 #: data/components/PlaintextMessage.qml:26
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Attachment"
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
 msgid "Attachment"
 msgstr "Adjunt"
 
@@ -105,7 +109,7 @@ msgstr "Enquesta"
 msgid "Invoice"
 msgstr "Factura"
 
-#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81
 #, kde-format
 msgid "Unsupported"
 msgstr "No admès"
@@ -179,6 +183,12 @@ msgstr "Us donem la benvinguda al Tok"
 msgid "Get Started"
 msgstr "Introducció"
 
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -206,16 +216,25 @@ msgstr "Envia un missatge"
 
 #: src/extractinator.cpp:13
 #, kde-format
-msgid "Unknown Sender"
-msgstr "Remitent desconegut"
+msgid "we know that this person is a human, but we don't know their name"
+msgstr ""
+
+#: src/extractinator.cpp:19
+#, fuzzy, kde-format
+#| msgid "Unsupported"
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "No admès"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
-msgid "Reply"
-msgstr "Respon"
+msgid "button action"
+msgstr ""
 
 #: src/notificationmanager.cpp:38
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Reply to %1..."
+msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Respon a %1..."
 
@@ -223,3 +242,9 @@ msgstr "Respon a %1..."
 #, kde-format
 msgid "Loading..."
 msgstr "S'està carregant..."
+
+#~ msgid "Unknown Sender"
+#~ msgstr "Remitent desconegut"
+
+#~ msgid "Reply"
+#~ msgstr "Respon"

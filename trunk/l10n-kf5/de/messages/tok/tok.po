@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 00:18+0000\n"
+"POT-Creation-Date: 2021-05-02 00:18+0000\n"
 "PO-Revision-Date: 2021-05-01 06:55+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -28,7 +28,11 @@ msgid "Music"
 msgstr "Musik"
 
 #: data/components/PlaintextMessage.qml:26
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Attachment"
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
 msgid "Attachment"
 msgstr "Datei"
 
@@ -102,7 +106,7 @@ msgstr "Umfrage"
 msgid "Invoice"
 msgstr "Rechnung"
 
-#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81
 #, kde-format
 msgid "Unsupported"
 msgstr "Nicht unterstützt"
@@ -176,6 +180,12 @@ msgstr "Willkommen bei Tok"
 msgid "Get Started"
 msgstr "Erste Schritte"
 
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -203,16 +213,25 @@ msgstr "Nachricht senden"
 
 #: src/extractinator.cpp:13
 #, kde-format
-msgid "Unknown Sender"
-msgstr "Unbekannte Absender"
+msgid "we know that this person is a human, but we don't know their name"
+msgstr ""
+
+#: src/extractinator.cpp:19
+#, fuzzy, kde-format
+#| msgid "Unsupported"
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "Nicht unterstützt"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
-msgid "Reply"
-msgstr "Antworten"
+msgid "button action"
+msgstr ""
 
 #: src/notificationmanager.cpp:38
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Reply to %1..."
+msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Antworten an %1 ..."
 
@@ -220,3 +239,9 @@ msgstr "Antworten an %1 ..."
 #, kde-format
 msgid "Loading..."
 msgstr "Laden ..."
+
+#~ msgid "Unknown Sender"
+#~ msgstr "Unbekannte Absender"
+
+#~ msgid "Reply"
+#~ msgstr "Antworten"

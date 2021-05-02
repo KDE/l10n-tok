@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 00:18+0000\n"
+"POT-Creation-Date: 2021-05-02 00:18+0000\n"
 "PO-Revision-Date: 2021-04-29 01:22+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
@@ -28,7 +28,11 @@ msgid "Music"
 msgstr "xxMusicxx"
 
 #: data/components/PlaintextMessage.qml:26
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Attachment"
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
 msgid "Attachment"
 msgstr "xxAttachmentxx"
 
@@ -102,7 +106,7 @@ msgstr "xxPollxx"
 msgid "Invoice"
 msgstr "xxInvoicexx"
 
-#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81
 #, kde-format
 msgid "Unsupported"
 msgstr "xxUnsupportedxx"
@@ -175,6 +179,12 @@ msgstr "xxWelcome to Tokxx"
 msgid "Get Started"
 msgstr "xxGet Startedxx"
 
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -202,16 +212,25 @@ msgstr "xxSend messagexx"
 
 #: src/extractinator.cpp:13
 #, kde-format
-msgid "Unknown Sender"
-msgstr "xxUnknown Senderxx"
+msgid "we know that this person is a human, but we don't know their name"
+msgstr ""
+
+#: src/extractinator.cpp:19
+#, fuzzy, kde-format
+#| msgid "Unsupported"
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "xxUnsupportedxx"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
-msgid "Reply"
-msgstr "xxReplyxx"
+msgid "button action"
+msgstr ""
 
 #: src/notificationmanager.cpp:38
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Reply to %1..."
+msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "xxReply to %1...xx"
 
@@ -219,3 +238,9 @@ msgstr "xxReply to %1...xx"
 #, kde-format
 msgid "Loading..."
 msgstr "xxLoading...xx"
+
+#~ msgid "Unknown Sender"
+#~ msgstr "xxUnknown Senderxx"
+
+#~ msgid "Reply"
+#~ msgstr "xxReplyxx"

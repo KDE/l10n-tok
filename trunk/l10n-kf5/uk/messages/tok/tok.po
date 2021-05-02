@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 00:18+0000\n"
+"POT-Creation-Date: 2021-05-02 00:18+0000\n"
 "PO-Revision-Date: 2021-04-29 08:56+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -29,7 +29,11 @@ msgid "Music"
 msgstr "Музика"
 
 #: data/components/PlaintextMessage.qml:26
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Attachment"
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
 msgid "Attachment"
 msgstr "Долучення"
 
@@ -103,7 +107,7 @@ msgstr "Опитування"
 msgid "Invoice"
 msgstr "Рахунок"
 
-#: data/components/PlaintextMessage.qml:81 src/extractinator.cpp:19
+#: data/components/PlaintextMessage.qml:81
 #, kde-format
 msgid "Unsupported"
 msgstr "Немає підтримки"
@@ -178,6 +182,12 @@ msgstr "Вітаємо у Tok"
 msgid "Get Started"
 msgstr "Початок"
 
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -205,16 +215,25 @@ msgstr "Надіслати повідомлення"
 
 #: src/extractinator.cpp:13
 #, kde-format
-msgid "Unknown Sender"
-msgstr "Невідомий відправник"
+msgid "we know that this person is a human, but we don't know their name"
+msgstr ""
+
+#: src/extractinator.cpp:19
+#, fuzzy, kde-format
+#| msgid "Unsupported"
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "Немає підтримки"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
-msgid "Reply"
-msgstr "Відповісти"
+msgid "button action"
+msgstr ""
 
 #: src/notificationmanager.cpp:38
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Reply to %1..."
+msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Відповісти %1…"
 
@@ -222,3 +241,9 @@ msgstr "Відповісти %1…"
 #, kde-format
 msgid "Loading..."
 msgstr "Завантаження…"
+
+#~ msgid "Unknown Sender"
+#~ msgstr "Невідомий відправник"
+
+#~ msgid "Reply"
+#~ msgstr "Відповісти"
