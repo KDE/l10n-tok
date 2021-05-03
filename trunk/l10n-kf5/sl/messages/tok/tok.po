@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-02 00:18+0000\n"
-"PO-Revision-Date: 2021-04-30 13:52+0200\n"
+"PO-Revision-Date: 2021-05-03 07:44+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 && n"
+"%100<=4 ? 2 : 3);\n"
 "X-Generator: Poedit 2.4.2\n"
 
 #: data/components/PlaintextMessage.qml:22
@@ -29,7 +29,7 @@ msgid "Music"
 msgstr "Glasba"
 
 #: data/components/PlaintextMessage.qml:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
@@ -187,7 +187,7 @@ msgstr "Začnimo"
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
-msgstr ""
+msgstr "Zbriši"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
@@ -217,10 +217,10 @@ msgstr "Pošlji sporočilo"
 #: src/extractinator.cpp:13
 #, kde-format
 msgid "we know that this person is a human, but we don't know their name"
-msgstr ""
+msgstr "vemo, da je ta oseba človek, a ne vemo njenega imena"
 
 #: src/extractinator.cpp:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
@@ -229,14 +229,14 @@ msgstr "Nepodprto"
 #: src/notificationmanager.cpp:37
 #, kde-format
 msgid "button action"
-msgstr ""
+msgstr "akcija gumba"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
-msgstr "Odgovori %1..."
+msgstr "Odgovori na %1..."
 
 #: src/userdata.cpp:44
 #, kde-format
