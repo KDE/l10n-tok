@@ -29,7 +29,6 @@ msgstr "Musik"
 
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
-#| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
 "than File in this context."
@@ -218,7 +217,6 @@ msgstr "Ein Mensch, dessen Name unbekannt ist"
 
 #: src/extractinator.cpp:19
 #, kde-format
-#| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
 msgstr "Nicht unterstützt"
@@ -230,7 +228,6 @@ msgstr "Knopfaktion"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
-#| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Antworten an %1 ..."

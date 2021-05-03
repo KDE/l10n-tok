@@ -29,7 +29,6 @@ msgstr "Muziek"
 
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
-#| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
 "than File in this context."
@@ -126,8 +125,7 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:72
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2"
-" is "
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -146,8 +144,7 @@ msgstr "Geen chats beschikbaar."
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
 msgid ""
-"Enter your authentication code that you received from another Telegram"
-" client"
+"Enter your authentication code that you received from another Telegram client"
 msgstr ""
 "Voer uw authenticatiecode in die u van een andere Telegram-client hebt "
 "ontvangen"
@@ -220,7 +217,6 @@ msgstr "we weten dat deze persoon een mens is, maar we weten niet de naam"
 
 #: src/extractinator.cpp:19
 #, kde-format
-#| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
 msgstr "Niet-ondersteund"
@@ -232,7 +228,6 @@ msgstr "knopactie"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
-#| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Beantwoorden aan %1..."

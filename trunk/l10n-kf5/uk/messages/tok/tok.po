@@ -14,7 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Lokalize 20.12.0\n"
 
 #: data/components/PlaintextMessage.qml:22
@@ -29,7 +30,6 @@ msgstr "Музика"
 
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
-#| msgid "Attachment"
 msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
 "than File in this context."
@@ -185,8 +185,7 @@ msgstr "Початок"
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
-msgstr ""
-"Вилучити"
+msgstr "Вилучити"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
@@ -216,12 +215,10 @@ msgstr "Надіслати повідомлення"
 #: src/extractinator.cpp:13
 #, kde-format
 msgid "we know that this person is a human, but we don't know their name"
-msgstr ""
-"Ми знаємо, що це людина, але не знаємо її імені"
+msgstr "Ми знаємо, що це людина, але не знаємо її імені"
 
 #: src/extractinator.cpp:19
 #, kde-format
-#| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
 msgstr "Немає підтримки"
@@ -229,12 +226,10 @@ msgstr "Немає підтримки"
 #: src/notificationmanager.cpp:37
 #, kde-format
 msgid "button action"
-msgstr ""
-"дія кнопки"
+msgstr "дія кнопки"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
-#| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Відповісти %1…"
