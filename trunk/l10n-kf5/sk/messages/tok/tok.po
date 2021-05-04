@@ -1,0 +1,237 @@
+# translation of tok.po to Slovak
+# Roman Paholík <wizzardsk@gmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: tok\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-04 00:19+0000\n"
+"PO-Revision-Date: 2021-05-04 19:48+0200\n"
+"Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
+"Language-Team: Slovak <kde-sk@linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.3\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: data/components/PlaintextMessage.qml:22
+#, kde-format
+msgid "GIF"
+msgstr "GIF"
+
+#: data/components/PlaintextMessage.qml:24
+#, kde-format
+msgid "Music"
+msgstr "Hudba"
+
+#: data/components/PlaintextMessage.qml:26
+#, kde-format
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
+msgid "Attachment"
+msgstr "Príloha"
+
+#: data/components/PlaintextMessage.qml:28
+#, kde-format
+msgid "Photo"
+msgstr "Fotka"
+
+#: data/components/PlaintextMessage.qml:30
+#, kde-format
+msgid "Expired Photo"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:32
+#, kde-format
+msgid "Sticker"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:34
+#, kde-format
+msgid "Video"
+msgstr "Video"
+
+#: data/components/PlaintextMessage.qml:36
+#, kde-format
+msgid "Expired Video"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:38
+#, kde-format
+msgid "Video Note"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:40
+#, kde-format
+msgid "Voice Note"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:42
+#, kde-format
+msgid "Location"
+msgstr "Umiestnenie"
+
+#: data/components/PlaintextMessage.qml:44
+#, kde-format
+msgid "Venue"
+msgstr "Miesto konania"
+
+#: data/components/PlaintextMessage.qml:46
+#, kde-format
+msgid "Contact"
+msgstr "Kontakt"
+
+#: data/components/PlaintextMessage.qml:48
+#, kde-format
+msgid "Dice"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:50
+#, kde-format
+msgid "Game"
+msgstr "Hra"
+
+#: data/components/PlaintextMessage.qml:52
+#, kde-format
+msgid "Poll"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:54
+#, kde-format
+msgid "Invoice"
+msgstr "Faktúra"
+
+#: data/components/PlaintextMessage.qml:81
+#, kde-format
+msgid "Unsupported"
+msgstr ""
+
+#: data/routes/Chats.qml:25
+#, kde-format
+msgid "Search chats"
+msgstr ""
+
+#: data/routes/Chats.qml:69
+#, kde-format
+msgid "1 unread message."
+msgid_plural "%1 unread messages."
+msgstr[0] "1 neprečítaná správa"
+msgstr[1] "%1 neprečítané správy."
+msgstr[2] "%1 neprečítaných správ."
+
+#: data/routes/Chats.qml:72
+#, kde-format
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"the message contents"
+msgid "Latest message from %1: %2"
+msgstr ""
+
+#: data/routes/Chats.qml:74
+#, kde-format
+msgctxt "%1 is the message contents"
+msgid "Latest message: %1"
+msgstr ""
+
+#: data/routes/Chats.qml:126
+#, kde-format
+msgid "No chats available."
+msgstr ""
+
+#: data/routes/entry/AuthenticationCode.qml:14
+#, kde-format
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr ""
+
+#: data/routes/entry/AuthenticationCode.qml:19
+#, kde-format
+msgid "Authentication code"
+msgstr ""
+
+#: data/routes/entry/Password.qml:14
+#, kde-format
+msgid "Enter your password"
+msgstr "Zadajte svoje heslo"
+
+#: data/routes/entry/PhoneNumber.qml:14
+#, kde-format
+msgid "Enter your phone number"
+msgstr ""
+
+#: data/routes/entry/PhoneNumber.qml:19
+#, kde-format
+msgid "Phone number"
+msgstr "Telefónne číslo"
+
+#: data/routes/entry/Welcome.qml:13
+#, kde-format
+msgid "Welcome to Tok"
+msgstr ""
+
+#: data/routes/entry/Welcome.qml:17
+#, kde-format
+msgid "Get Started"
+msgstr ""
+
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr "Vymazať"
+
+#: data/routes/messages/components/PhotoMessage.qml:17
+#, kde-format
+msgid "Photo message."
+msgstr ""
+
+#: data/routes/messages/NoView.qml:18
+#, kde-format
+msgid "Select a chat to start messaging"
+msgstr ""
+
+#: data/routes/messages/View.qml:66
+#, kde-format
+msgid "Write your message..."
+msgstr "Napíšte vašu správu..."
+
+#: data/routes/messages/View.qml:66
+#, kde-format
+msgid "You cannot send messages."
+msgstr ""
+
+#: data/routes/messages/View.qml:80
+#, kde-format
+msgid "Send message"
+msgstr "Poslať správu"
+
+#: src/extractinator.cpp:13
+#, kde-format
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr ""
+
+#: src/extractinator.cpp:19
+#, kde-format
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "Nepodporované"
+
+#: src/notificationmanager.cpp:37
+#, kde-format
+msgctxt "button action"
+msgid "Reply"
+msgstr "Odpovedať"
+
+#: src/notificationmanager.cpp:38
+#, kde-format
+msgctxt "placeholder text"
+msgid "Reply to %1..."
+msgstr "Odpovedať %1..."
+
+#: src/userdata.cpp:44
+#, kde-format
+msgid "Loading..."
+msgstr "Načítava sa..."
