@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-02 00:18+0000\n"
+"POT-Creation-Date: 2021-05-04 00:19+0000\n"
 "PO-Revision-Date: 2021-05-02 14:25+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
@@ -211,9 +211,11 @@ msgid "Send message"
 msgstr "Bericht verzenden"
 
 #: src/extractinator.cpp:13
-#, kde-format
-msgid "we know that this person is a human, but we don't know their name"
-msgstr "we weten dat deze persoon een mens is, maar we weten niet de naam"
+#, fuzzy, kde-format
+#| msgid "Unknown Sender"
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Onbekende afzender"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -222,9 +224,11 @@ msgid "Unsupported"
 msgstr "Niet-ondersteund"
 
 #: src/notificationmanager.cpp:37
-#, kde-format
-msgid "button action"
-msgstr "knopactie"
+#, fuzzy, kde-format
+#| msgid "Reply"
+msgctxt "button action"
+msgid "Reply"
+msgstr "Beantwoorden"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
@@ -237,8 +241,8 @@ msgstr "Beantwoorden aan %1..."
 msgid "Loading..."
 msgstr "Bezig met laden..."
 
-#~ msgid "Unknown Sender"
-#~ msgstr "Onbekende afzender"
+#~ msgid "we know that this person is a human, but we don't know their name"
+#~ msgstr "we weten dat deze persoon een mens is, maar we weten niet de naam"
 
-#~ msgid "Reply"
-#~ msgstr "Beantwoorden"
+#~ msgid "button action"
+#~ msgstr "knopactie"

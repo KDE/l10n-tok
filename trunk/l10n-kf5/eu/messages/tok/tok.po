@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-02 00:18+0000\n"
+"POT-Creation-Date: 2021-05-04 00:19+0000\n"
 "PO-Revision-Date: 2021-05-02 15:50+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -213,9 +213,11 @@ msgid "Send message"
 msgstr "Bidali mezua"
 
 #: src/extractinator.cpp:13
-#, kde-format
-msgid "we know that this person is a human, but we don't know their name"
-msgstr "badakigu pertsona hori gizatiarra dela, baina ez dakigu haren izena"
+#, fuzzy, kde-format
+#| msgid "Unknown Sender"
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Bidaltzaile ezezaguna"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -224,9 +226,11 @@ msgid "Unsupported"
 msgstr "Ez da onartzen"
 
 #: src/notificationmanager.cpp:37
-#, kde-format
-msgid "button action"
-msgstr "botoiaren ekintza"
+#, fuzzy, kde-format
+#| msgid "Reply"
+msgctxt "button action"
+msgid "Reply"
+msgstr "Erantzun"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
@@ -239,8 +243,8 @@ msgstr "Erantzun %1(e)ri..."
 msgid "Loading..."
 msgstr "Zamatzen..."
 
-#~ msgid "Unknown Sender"
-#~ msgstr "Bidaltzaile ezezaguna"
+#~ msgid "we know that this person is a human, but we don't know their name"
+#~ msgstr "badakigu pertsona hori gizatiarra dela, baina ez dakigu haren izena"
 
-#~ msgid "Reply"
-#~ msgstr "Erantzun"
+#~ msgid "button action"
+#~ msgstr "botoiaren ekintza"

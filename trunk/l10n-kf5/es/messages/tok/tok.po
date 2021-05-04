@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-02 00:18+0000\n"
+"POT-Creation-Date: 2021-05-04 00:19+0000\n"
 "PO-Revision-Date: 2021-05-02 20:35+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -213,9 +213,11 @@ msgid "Send message"
 msgstr "Enviar mensaje"
 
 #: src/extractinator.cpp:13
-#, kde-format
-msgid "we know that this person is a human, but we don't know their name"
-msgstr "sabemos que esta persona es humana, aunque desconocemos su nombre"
+#, fuzzy, kde-format
+#| msgid "Unknown Sender"
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Remitente desconocido"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -224,9 +226,11 @@ msgid "Unsupported"
 msgstr "No permitido"
 
 #: src/notificationmanager.cpp:37
-#, kde-format
-msgid "button action"
-msgstr "acción del botón"
+#, fuzzy, kde-format
+#| msgid "Reply"
+msgctxt "button action"
+msgid "Reply"
+msgstr "Responder"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
@@ -239,8 +243,8 @@ msgstr "Responder a %1..."
 msgid "Loading..."
 msgstr "Cargando..."
 
-#~ msgid "Unknown Sender"
-#~ msgstr "Remitente desconocido"
+#~ msgid "we know that this person is a human, but we don't know their name"
+#~ msgstr "sabemos que esta persona es humana, aunque desconocemos su nombre"
 
-#~ msgid "Reply"
-#~ msgstr "Responder"
+#~ msgid "button action"
+#~ msgstr "acción del botón"

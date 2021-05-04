@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-02 00:18+0000\n"
+"POT-Creation-Date: 2021-05-04 00:19+0000\n"
 "PO-Revision-Date: 2021-05-02 09:26+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -213,9 +213,11 @@ msgid "Send message"
 msgstr "Надіслати повідомлення"
 
 #: src/extractinator.cpp:13
-#, kde-format
-msgid "we know that this person is a human, but we don't know their name"
-msgstr "Ми знаємо, що це людина, але не знаємо її імені"
+#, fuzzy, kde-format
+#| msgid "Unknown Sender"
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Невідомий відправник"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -224,9 +226,11 @@ msgid "Unsupported"
 msgstr "Немає підтримки"
 
 #: src/notificationmanager.cpp:37
-#, kde-format
-msgid "button action"
-msgstr "дія кнопки"
+#, fuzzy, kde-format
+#| msgid "Reply"
+msgctxt "button action"
+msgid "Reply"
+msgstr "Відповісти"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
@@ -239,8 +243,8 @@ msgstr "Відповісти %1…"
 msgid "Loading..."
 msgstr "Завантаження…"
 
-#~ msgid "Unknown Sender"
-#~ msgstr "Невідомий відправник"
+#~ msgid "we know that this person is a human, but we don't know their name"
+#~ msgstr "Ми знаємо, що це людина, але не знаємо її імені"
 
-#~ msgid "Reply"
-#~ msgstr "Відповісти"
+#~ msgid "button action"
+#~ msgstr "дія кнопки"

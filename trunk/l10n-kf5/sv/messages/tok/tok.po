@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-02 00:18+0000\n"
+"POT-Creation-Date: 2021-05-04 00:19+0000\n"
 "PO-Revision-Date: 2021-05-02 12:03+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -210,9 +210,11 @@ msgid "Send message"
 msgstr "Skicka meddelande"
 
 #: src/extractinator.cpp:13
-#, kde-format
-msgid "we know that this person is a human, but we don't know their name"
-msgstr "vi vet att personen är en människa, men vi vet inte namnet"
+#, fuzzy, kde-format
+#| msgid "Unknown Sender"
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Okänd avsändare"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -221,9 +223,11 @@ msgid "Unsupported"
 msgstr "Stöds ej"
 
 #: src/notificationmanager.cpp:37
-#, kde-format
-msgid "button action"
-msgstr "knappåtgärd"
+#, fuzzy, kde-format
+#| msgid "Reply"
+msgctxt "button action"
+msgid "Reply"
+msgstr "Svara"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
@@ -236,8 +240,8 @@ msgstr "Svara till %1..."
 msgid "Loading..."
 msgstr "Läser in..."
 
-#~ msgid "Unknown Sender"
-#~ msgstr "Okänd avsändare"
+#~ msgid "we know that this person is a human, but we don't know their name"
+#~ msgstr "vi vet att personen är en människa, men vi vet inte namnet"
 
-#~ msgid "Reply"
-#~ msgstr "Svara"
+#~ msgid "button action"
+#~ msgstr "knappåtgärd"
