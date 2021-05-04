@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-04 00:19+0000\n"
-"PO-Revision-Date: 2021-05-02 14:36+0200\n"
+"PO-Revision-Date: 2021-05-04 04:59+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -211,11 +211,11 @@ msgid "Send message"
 msgstr "Nachricht senden"
 
 #: src/extractinator.cpp:13
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unknown Sender"
 msgctxt "we know that this person is a human, but we don't know their name"
 msgid "Unknown Sender"
-msgstr "Unbekannte Absender"
+msgstr "Unbekannter Absender"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -224,7 +224,7 @@ msgid "Unsupported"
 msgstr "Nicht unterstützt"
 
 #: src/notificationmanager.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply"
 msgctxt "button action"
 msgid "Reply"
