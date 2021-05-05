@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-04 00:19+0000\n"
+"POT-Creation-Date: 2021-05-05 00:19+0000\n"
 "PO-Revision-Date: 2021-05-04 01:19+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
@@ -115,13 +115,13 @@ msgstr "xxUnsupportedxx"
 msgid "Search chats"
 msgstr "xxSearch chatsxx"
 
-#: data/routes/Chats.qml:69
+#: data/routes/Chats.qml:71
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "xx%1 unread messages.xx"
 
-#: data/routes/Chats.qml:72
+#: data/routes/Chats.qml:74
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -129,13 +129,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "xxLatest message from %1: %2xx"
 
-#: data/routes/Chats.qml:74
+#: data/routes/Chats.qml:76
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "xxLatest message: %1xx"
 
-#: data/routes/Chats.qml:126
+#: data/routes/Chats.qml:128
 #, kde-format
 msgid "No chats available."
 msgstr "xxNo chats available.xx"
@@ -184,6 +184,14 @@ msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "xxDeletexx"
 
+#: data/routes/messages/components/MessageDelegate.qml:49
+#, fuzzy, kde-format
+#| msgctxt "button action"
+#| msgid "Reply"
+msgctxt "popup menu for message"
+msgid "Reply"
+msgstr "xxReplyxx"
+
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
@@ -194,17 +202,17 @@ msgstr "xxPhoto message.xx"
 msgid "Select a chat to start messaging"
 msgstr "xxSelect a chat to start messagingxx"
 
-#: data/routes/messages/View.qml:66
+#: data/routes/messages/View.qml:126
 #, kde-format
 msgid "Write your message..."
 msgstr "xxWrite your message...xx"
 
-#: data/routes/messages/View.qml:66
+#: data/routes/messages/View.qml:126
 #, kde-format
 msgid "You cannot send messages."
 msgstr "xxYou cannot send messages.xx"
 
-#: data/routes/messages/View.qml:80
+#: data/routes/messages/View.qml:140
 #, kde-format
 msgid "Send message"
 msgstr "xxSend messagexx"
