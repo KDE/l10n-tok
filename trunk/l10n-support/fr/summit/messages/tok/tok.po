@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-02 09:26+0200\n"
+"POT-Creation-Date: 2021-05-04 11:02+0200\n"
 "PO-Revision-Date: 2021-05-03 09:46+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -29,7 +29,6 @@ msgstr "Musique"
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
-#| msgid "Attachment"
 msgctxt "Specifically a file; I use Attachment in English because it sounds better than File in this context."
 msgid "Attachment"
 msgstr "Pièce jointe"
@@ -239,28 +238,30 @@ msgstr "Envoyer un message"
 
 #. +> trunk5
 #: src/extractinator.cpp:13
-#, kde-format
-msgid "we know that this person is a human, but we don't know their name"
-msgstr "Nous savons si cette personne est un humain mais nous ne connaissons as son nom."
+#, fuzzy, kde-format
+#| msgid "Unknown Sender"
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Émetteur inconnu"
 
 #. +> trunk5
 #: src/extractinator.cpp:19
 #, kde-format
-#| msgid "Unsupported"
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
 msgstr "Non pris en charge"
 
 #. +> trunk5
 #: src/notificationmanager.cpp:37
-#, kde-format
-msgid "button action"
-msgstr "Action du bouton"
+#, fuzzy, kde-format
+#| msgid "Reply"
+msgctxt "button action"
+msgid "Reply"
+msgstr "Répondre"
 
 #. +> trunk5
 #: src/notificationmanager.cpp:38
 #, kde-format
-#| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1..."
 msgstr "Répondre à %1..."
@@ -271,8 +272,8 @@ msgstr "Répondre à %1..."
 msgid "Loading..."
 msgstr "Chargement..."
 
-#~ msgid "Unknown Sender"
-#~ msgstr "Émetteur inconnu"
+#~ msgid "we know that this person is a human, but we don't know their name"
+#~ msgstr "Nous savons si cette personne est un humain mais nous ne connaissons as son nom."
 
-#~ msgid "Reply"
-#~ msgstr "Répondre"
+#~ msgid "button action"
+#~ msgstr "Action du bouton"
