@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-05 00:19+0000\n"
-"PO-Revision-Date: 2021-05-04 04:59+0200\n"
+"PO-Revision-Date: 2021-05-05 05:58+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -186,12 +186,12 @@ msgid "Delete"
 msgstr "Löschen"
 
 #: data/routes/messages/components/MessageDelegate.qml:49
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "button action"
 #| msgid "Reply"
 msgctxt "popup menu for message"
 msgid "Reply"
-msgstr "Antworten"
+msgstr "Antwort"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
