@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-05 00:19+0000\n"
-"PO-Revision-Date: 2021-05-06 14:54-0300\n"
+"PO-Revision-Date: 2021-05-06 15:03-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -128,66 +128,67 @@ msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
-msgstr ""
+msgstr "Última mensagem de %1: %2"
 
 #: data/routes/Chats.qml:76
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
-msgstr ""
+msgstr "Última mensagem: %1"
 
 #: data/routes/Chats.qml:128
 #, kde-format
 msgid "No chats available."
-msgstr ""
+msgstr "Nenhum bate-papo disponível."
 
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
 msgid ""
 "Enter your authentication code that you received from another Telegram client"
 msgstr ""
+"Digite o código de autenticação que você recebeu de outro cliente Telegram"
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
 msgid "Authentication code"
-msgstr ""
+msgstr "Código de autenticação"
 
 #: data/routes/entry/Password.qml:14
 #, kde-format
 msgid "Enter your password"
-msgstr ""
+msgstr "Digite sua senha"
 
 #: data/routes/entry/PhoneNumber.qml:14
 #, kde-format
 msgid "Enter your phone number"
-msgstr ""
+msgstr "Digite o seu número do celular"
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
 msgid "Phone number"
-msgstr ""
+msgstr "Número do celular"
 
 #: data/routes/entry/Welcome.qml:13
 #, kde-format
 msgid "Welcome to Tok"
-msgstr ""
+msgstr "Bem-vindo ao Tok"
 
 #: data/routes/entry/Welcome.qml:17
 #, kde-format
 msgid "Get Started"
-msgstr ""
+msgstr "Começando"
 
 #: data/routes/messages/components/MessageDelegate.qml:44
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
-msgstr ""
+msgstr "Excluir"
 
 #: data/routes/messages/components/MessageDelegate.qml:49
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
-msgstr ""
+msgstr "Responder"
 
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
@@ -202,17 +203,17 @@ msgstr ""
 #: data/routes/messages/View.qml:126
 #, kde-format
 msgid "Write your message..."
-msgstr ""
+msgstr "Escreva sua mensagem..."
 
 #: data/routes/messages/View.qml:126
 #, kde-format
 msgid "You cannot send messages."
-msgstr ""
+msgstr "Você não pode enviar mensagens."
 
 #: data/routes/messages/View.qml:140
 #, kde-format
 msgid "Send message"
-msgstr ""
+msgstr "Enviar mensagem"
 
 #: src/extractinator.cpp:13
 #, kde-format
@@ -224,19 +225,19 @@ msgstr ""
 #, kde-format
 msgctxt "we don't know what kind of user sent this message"
 msgid "Unsupported"
-msgstr ""
+msgstr "Não suportado"
 
 #: src/notificationmanager.cpp:37
 #, kde-format
 msgctxt "button action"
 msgid "Reply"
-msgstr ""
+msgstr "Responder"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
 msgctxt "placeholder text"
 msgid "Reply to %1..."
-msgstr ""
+msgstr "Responder para %1..."
 
 #: src/userdata.cpp:44
 #, kde-format
