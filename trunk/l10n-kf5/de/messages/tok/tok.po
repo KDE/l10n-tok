@@ -187,8 +187,6 @@ msgstr "Löschen"
 
 #: data/routes/messages/components/MessageDelegate.qml:49
 #, kde-format
-#| msgctxt "button action"
-#| msgid "Reply"
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Antwort"

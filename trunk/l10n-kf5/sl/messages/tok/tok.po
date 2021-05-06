@@ -190,7 +190,6 @@ msgstr "Zbriši"
 
 #: data/routes/messages/components/MessageDelegate.qml:49
 #, kde-format
-#| msgid "Reply"
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Odgovor"
@@ -222,7 +221,6 @@ msgstr "Pošlji sporočilo"
 
 #: src/extractinator.cpp:13
 #, kde-format
-#| msgid "Unknown Sender"
 msgctxt "we know that this person is a human, but we don't know their name"
 msgid "Unknown Sender"
 msgstr "Neznan pošiljatelj"
