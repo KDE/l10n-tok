@@ -1,0 +1,286 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the tok package.
+#
+# Tommi Nieminen <translator@legisign.org>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: tok\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-05 07:54+0200\n"
+"PO-Revision-Date: 2021-05-06 17:09+0300\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 20.04.2\n"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:22
+#, kde-format
+msgid "GIF"
+msgstr "GIF"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:24
+#, kde-format
+msgid "Music"
+msgstr "Musiikki"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:26
+#, kde-format
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better"
+" than File in this context."
+msgid "Attachment"
+msgstr "Liite"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:28
+#, kde-format
+msgid "Photo"
+msgstr "Valokuva"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:30
+#, kde-format
+msgid "Expired Photo"
+msgstr "Vanhentunut valokuva"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:32
+#, kde-format
+msgid "Sticker"
+msgstr "Tarra"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:34
+#, kde-format
+msgid "Video"
+msgstr "Video"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:36
+#, kde-format
+msgid "Expired Video"
+msgstr "Vanhentunut video"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:38
+#, kde-format
+msgid "Video Note"
+msgstr "Videomuistiinpano"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:40
+#, kde-format
+msgid "Voice Note"
+msgstr "Äänimuistiinpano"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:42
+#, kde-format
+msgid "Location"
+msgstr "Sijainti"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:44
+#, kde-format
+msgid "Venue"
+msgstr "Tapahtumapaikka"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:46
+#, kde-format
+msgid "Contact"
+msgstr "Yhteystieto"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:48
+#, kde-format
+msgid "Dice"
+msgstr "Noppa"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:50
+#, kde-format
+msgid "Game"
+msgstr "Peli"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:52
+#, kde-format
+msgid "Poll"
+msgstr ""
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:54
+#, kde-format
+msgid "Invoice"
+msgstr "Lasku"
+
+#. +> trunk5
+#: data/components/PlaintextMessage.qml:81
+#, kde-format
+msgid "Unsupported"
+msgstr "Ei tuettu"
+
+#. +> trunk5
+#: data/routes/Chats.qml:25
+#, kde-format
+msgid "Search chats"
+msgstr "Etsi keskusteluista"
+
+#. +> trunk5
+#: data/routes/Chats.qml:71
+#, kde-format
+msgid "1 unread message."
+msgid_plural "%1 unread messages."
+msgstr[0] "Yksi viesti lukematta."
+msgstr[1] "%1 viestiä lukematta."
+
+#. +> trunk5
+#: data/routes/Chats.qml:74
+#, kde-format
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is"
+" the message contents"
+msgid "Latest message from %1: %2"
+msgstr "Viimeisin viesti käyttäjältä %1: %2"
+
+#. +> trunk5
+#: data/routes/Chats.qml:76
+#, kde-format
+msgctxt "%1 is the message contents"
+msgid "Latest message: %1"
+msgstr "Viimeisin viesti: %1"
+
+#. +> trunk5
+#: data/routes/Chats.qml:128
+#, kde-format
+msgid "No chats available."
+msgstr "Ei keskusteluja saatavilla."
+
+#. +> trunk5
+#: data/routes/entry/AuthenticationCode.qml:14
+#, kde-format
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr "Anna toiselta Telegram-asiakkaalta vastaanottamasi todennuskoodi"
+
+#. +> trunk5
+#: data/routes/entry/AuthenticationCode.qml:19
+#, kde-format
+msgid "Authentication code"
+msgstr "Todennuskoodi"
+
+#. +> trunk5
+#: data/routes/entry/Password.qml:14
+#, kde-format
+msgid "Enter your password"
+msgstr "Syötä salasana"
+
+#. +> trunk5
+#: data/routes/entry/PhoneNumber.qml:14
+#, kde-format
+msgid "Enter your phone number"
+msgstr "Anna puhelinnumerosi"
+
+#. +> trunk5
+#: data/routes/entry/PhoneNumber.qml:19
+#, kde-format
+msgid "Phone number"
+msgstr "Puhelinnumero"
+
+#. +> trunk5
+#: data/routes/entry/Welcome.qml:13
+#, kde-format
+msgid "Welcome to Tok"
+msgstr "Tervetuloa Tokiin"
+
+#. +> trunk5
+#: data/routes/entry/Welcome.qml:17
+#, kde-format
+msgid "Get Started"
+msgstr "Aloita"
+
+#. +> trunk5
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr "Poista"
+
+#. +> trunk5
+#: data/routes/messages/components/MessageDelegate.qml:49
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Reply"
+msgstr "Vastaa"
+
+#. +> trunk5
+#: data/routes/messages/components/PhotoMessage.qml:17
+#, kde-format
+msgid "Photo message."
+msgstr "Valokuvaviesti."
+
+#. +> trunk5
+#: data/routes/messages/NoView.qml:18
+#, kde-format
+msgid "Select a chat to start messaging"
+msgstr "Aloita viestittely valitsemalla keskustelu"
+
+#. +> trunk5
+#: data/routes/messages/View.qml:126
+#, kde-format
+msgid "Write your message..."
+msgstr "Kirjoita viesti…"
+
+#. +> trunk5
+#: data/routes/messages/View.qml:126
+#, kde-format
+msgid "You cannot send messages."
+msgstr "Viestejä ei voi lähettää."
+
+#. +> trunk5
+#: data/routes/messages/View.qml:140
+#, kde-format
+msgid "Send message"
+msgstr "Lähetä viesti"
+
+#. +> trunk5
+#: src/extractinator.cpp:13
+#, kde-format
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Tuntematon lähettäjä"
+
+#. +> trunk5
+#: src/extractinator.cpp:19
+#, kde-format
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "Ei tuettu"
+
+#. +> trunk5
+#: src/notificationmanager.cpp:37
+#, kde-format
+msgctxt "button action"
+msgid "Reply"
+msgstr "Vastaa"
+
+#. +> trunk5
+#: src/notificationmanager.cpp:38
+#, kde-format
+msgctxt "placeholder text"
+msgid "Reply to %1..."
+msgstr "Vastaa: %1…"
+
+#. +> trunk5
+#: src/userdata.cpp:44
+#, kde-format
+msgid "Loading..."
+msgstr "Ladataan…"
