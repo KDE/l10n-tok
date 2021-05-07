@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-07 00:18+0000\n"
-"PO-Revision-Date: 2021-05-05 08:19+0200\n"
+"PO-Revision-Date: 2021-05-07 08:38+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -204,23 +204,23 @@ msgstr "Välj en chatt för att börja skicka meddelanden"
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "Ladda upp foto"
 
 #: data/routes/messages/View.qml:26
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "Ladda upp fil"
 
 #: data/routes/messages/View.qml:147
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "Ladda upp foto"
 
 #: data/routes/messages/View.qml:155
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "Ladda upp fil"
 
 #: data/routes/messages/View.qml:169
 #, kde-format
