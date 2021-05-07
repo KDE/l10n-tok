@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-07 00:18+0000\n"
-"PO-Revision-Date: 2021-05-05 10:56+0100\n"
+"PO-Revision-Date: 2021-05-07 10:54+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -208,23 +208,23 @@ msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "Pujada de foto"
 
 #: data/routes/messages/View.qml:26
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "Pujada de fitxer"
 
 #: data/routes/messages/View.qml:147
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "Pujada de foto"
 
 #: data/routes/messages/View.qml:155
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "Pujada de fitxer"
 
 #: data/routes/messages/View.qml:169
 #, kde-format
