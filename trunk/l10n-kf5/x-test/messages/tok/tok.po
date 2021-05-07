@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-07 00:18+0000\n"
-"PO-Revision-Date: 2021-05-05 01:20+0000\n"
+"PO-Revision-Date: 2021-05-07 01:20+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
 "Language: x-test\n"
@@ -204,23 +204,23 @@ msgstr "xxSelect a chat to start messagingxx"
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "xxUpload photoxx"
 
 #: data/routes/messages/View.qml:26
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "xxUpload filexx"
 
 #: data/routes/messages/View.qml:147
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "xxUpload photoxx"
 
 #: data/routes/messages/View.qml:155
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "xxUpload filexx"
 
 #: data/routes/messages/View.qml:169
 #, kde-format
