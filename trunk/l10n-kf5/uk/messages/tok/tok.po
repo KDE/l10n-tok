@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-05 00:19+0000\n"
+"POT-Creation-Date: 2021-05-07 00:18+0000\n"
 "PO-Revision-Date: 2021-05-05 08:27+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -203,17 +203,39 @@ msgstr "Фотоповідомлення."
 msgid "Select a chat to start messaging"
 msgstr "Виберіть спілкування, щоб розпочати обмін повідомленнями"
 
-#: data/routes/messages/View.qml:126
+#: data/routes/messages/View.qml:26
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload photo"
+msgstr ""
+
+#: data/routes/messages/View.qml:26
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload file"
+msgstr ""
+
+#: data/routes/messages/View.qml:147
+#, kde-format
+msgid "Upload photo"
+msgstr ""
+
+#: data/routes/messages/View.qml:155
+#, kde-format
+msgid "Upload file"
+msgstr ""
+
+#: data/routes/messages/View.qml:169
 #, kde-format
 msgid "Write your message..."
 msgstr "Напишіть ваше повідомлення…"
 
-#: data/routes/messages/View.qml:126
+#: data/routes/messages/View.qml:169
 #, kde-format
 msgid "You cannot send messages."
 msgstr "Ви не можете надсилати повідомлення."
 
-#: data/routes/messages/View.qml:140
+#: data/routes/messages/View.qml:183
 #, kde-format
 msgid "Send message"
 msgstr "Надіслати повідомлення"

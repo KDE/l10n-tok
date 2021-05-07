@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-05 00:19+0000\n"
+"POT-Creation-Date: 2021-05-07 00:18+0000\n"
 "PO-Revision-Date: 2021-05-02 15:50+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -204,17 +204,39 @@ msgstr "Argazki mezua."
 msgid "Select a chat to start messaging"
 msgstr "Hautatu berriketa bat mezuekin hasteko"
 
-#: data/routes/messages/View.qml:126
+#: data/routes/messages/View.qml:26
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload photo"
+msgstr ""
+
+#: data/routes/messages/View.qml:26
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload file"
+msgstr ""
+
+#: data/routes/messages/View.qml:147
+#, kde-format
+msgid "Upload photo"
+msgstr ""
+
+#: data/routes/messages/View.qml:155
+#, kde-format
+msgid "Upload file"
+msgstr ""
+
+#: data/routes/messages/View.qml:169
 #, kde-format
 msgid "Write your message..."
 msgstr "Idatzi zure mezua..."
 
-#: data/routes/messages/View.qml:126
+#: data/routes/messages/View.qml:169
 #, kde-format
 msgid "You cannot send messages."
 msgstr "Ezin duzu mezurik bidali."
 
-#: data/routes/messages/View.qml:140
+#: data/routes/messages/View.qml:183
 #, kde-format
 msgid "Send message"
 msgstr "Bidali mezua"

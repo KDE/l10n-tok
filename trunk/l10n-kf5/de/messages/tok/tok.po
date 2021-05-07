@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-05 00:19+0000\n"
+"POT-Creation-Date: 2021-05-07 00:18+0000\n"
 "PO-Revision-Date: 2021-05-05 05:58+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -201,17 +201,39 @@ msgstr "Foto-Nachricht"
 msgid "Select a chat to start messaging"
 msgstr "Wählen Sie einen Chat"
 
-#: data/routes/messages/View.qml:126
+#: data/routes/messages/View.qml:26
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload photo"
+msgstr ""
+
+#: data/routes/messages/View.qml:26
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload file"
+msgstr ""
+
+#: data/routes/messages/View.qml:147
+#, kde-format
+msgid "Upload photo"
+msgstr ""
+
+#: data/routes/messages/View.qml:155
+#, kde-format
+msgid "Upload file"
+msgstr ""
+
+#: data/routes/messages/View.qml:169
 #, kde-format
 msgid "Write your message..."
 msgstr "Schreiben Sie Ihre Nachricht ..."
 
-#: data/routes/messages/View.qml:126
+#: data/routes/messages/View.qml:169
 #, kde-format
 msgid "You cannot send messages."
 msgstr "Sie können keine Nachrichten senden."
 
-#: data/routes/messages/View.qml:140
+#: data/routes/messages/View.qml:183
 #, kde-format
 msgid "Send message"
 msgstr "Nachricht senden"
