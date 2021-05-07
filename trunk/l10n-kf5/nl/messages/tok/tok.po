@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-07 00:18+0000\n"
-"PO-Revision-Date: 2021-05-05 09:58+0200\n"
+"PO-Revision-Date: 2021-05-07 14:01+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
 "Language: nl\n"
@@ -125,7 +125,8 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:74
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"%1 is the message author (probably, but not necessarily a human), and %2"
+" is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -144,7 +145,8 @@ msgstr "Geen chats beschikbaar."
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
 msgid ""
-"Enter your authentication code that you received from another Telegram client"
+"Enter your authentication code that you received from another Telegram"
+" client"
 msgstr ""
 "Voer uw authenticatiecode in die u van een andere Telegram-client hebt "
 "ontvangen"
@@ -205,23 +207,23 @@ msgstr "Selecteer een chat om met messaging te beginnen"
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "Foto uploaden"
 
 #: data/routes/messages/View.qml:26
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "Bestand uploaden"
 
 #: data/routes/messages/View.qml:147
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "Foto uploaden"
 
 #: data/routes/messages/View.qml:155
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "Bestand uploaden"
 
 #: data/routes/messages/View.qml:169
 #, kde-format
