@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-07 00:18+0000\n"
-"PO-Revision-Date: 2021-05-02 12:15+0100\n"
+"PO-Revision-Date: 2021-05-07 10:54+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -189,8 +189,7 @@ msgid "Delete"
 msgstr "Suprimeix"
 
 #: data/routes/messages/components/MessageDelegate.qml:49
-#, fuzzy, kde-format
-#| msgid "Reply"
+#, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Respon"
@@ -209,23 +208,23 @@ msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "Pujada de foto"
 
 #: data/routes/messages/View.qml:26
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "Pujada de fitxer"
 
 #: data/routes/messages/View.qml:147
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "Pujada de foto"
 
 #: data/routes/messages/View.qml:155
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "Pujada de fitxer"
 
 #: data/routes/messages/View.qml:169
 #, kde-format
@@ -243,8 +242,7 @@ msgid "Send message"
 msgstr "Envia un missatge"
 
 #: src/extractinator.cpp:13
-#, fuzzy, kde-format
-#| msgid "Unknown Sender"
+#, kde-format
 msgctxt "we know that this person is a human, but we don't know their name"
 msgid "Unknown Sender"
 msgstr "Remitent desconegut"
@@ -256,8 +254,7 @@ msgid "Unsupported"
 msgstr "No admés"
 
 #: src/notificationmanager.cpp:37
-#, fuzzy, kde-format
-#| msgid "Reply"
+#, kde-format
 msgctxt "button action"
 msgid "Reply"
 msgstr "Respon"
