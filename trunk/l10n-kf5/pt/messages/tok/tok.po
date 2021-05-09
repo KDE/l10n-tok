@@ -17,6 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-POFile-SpellExtra: Telegram Tok\n"
+"X-POFile-IgnoreConsistency: Venue\n"
 
 #: data/components/PlaintextMessage.qml:22
 #, kde-format
