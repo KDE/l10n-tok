@@ -147,7 +147,8 @@ msgstr "Sem conversas disponíveis."
 #, kde-format
 msgid ""
 "Enter your authentication code that you received from another Telegram client"
-msgstr "Indique o seu código de autenticação que recebeu de outro cliente de Telegram"
+msgstr ""
+"Indique o seu código de autenticação que recebeu de outro cliente de Telegram"
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
