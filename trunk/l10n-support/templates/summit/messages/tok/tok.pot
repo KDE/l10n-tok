@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-07 09:35+0200\n"
+"POT-Creation-Date: 2021-05-13 10:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -125,6 +125,13 @@ msgstr ""
 #: data/components/PlaintextMessage.qml:81
 #, kde-format
 msgid "Unsupported"
+msgstr ""
+
+#. +> trunk5
+#: data/main.qml:12 data/maui_main.qml:11
+#, kde-format
+msgctxt "window title"
+msgid "Tok"
 msgstr ""
 
 #. +> trunk5
@@ -258,7 +265,7 @@ msgstr ""
 #. +> trunk5
 #: data/routes/messages/View.qml:169
 #, kde-format
-msgid "Write your message..."
+msgid "Write your message…"
 msgstr ""
 
 #. +> trunk5
@@ -298,11 +305,11 @@ msgstr ""
 #: src/notificationmanager.cpp:38
 #, kde-format
 msgctxt "placeholder text"
-msgid "Reply to %1..."
+msgid "Reply to %1…"
 msgstr ""
 
 #. +> trunk5
 #: src/userdata.cpp:44
 #, kde-format
-msgid "Loading..."
+msgid "Loading…"
 msgstr ""
