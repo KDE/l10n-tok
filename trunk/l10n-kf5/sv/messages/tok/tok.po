@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-07 00:18+0000\n"
+"POT-Creation-Date: 2021-05-13 00:18+0000\n"
 "PO-Revision-Date: 2021-05-07 08:38+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -109,6 +109,12 @@ msgstr "Faktura"
 #, kde-format
 msgid "Unsupported"
 msgstr "Stöds ej"
+
+#: data/main.qml:12 data/maui_main.qml:11
+#, kde-format
+msgctxt "window title"
+msgid "Tok"
+msgstr ""
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -223,8 +229,9 @@ msgid "Upload file"
 msgstr "Ladda upp fil"
 
 #: data/routes/messages/View.qml:169
-#, kde-format
-msgid "Write your message..."
+#, fuzzy, kde-format
+#| msgid "Write your message..."
+msgid "Write your message…"
 msgstr "Skriv in meddelande..."
 
 #: data/routes/messages/View.qml:169
@@ -256,14 +263,17 @@ msgid "Reply"
 msgstr "Svara"
 
 #: src/notificationmanager.cpp:38
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "placeholder text"
+#| msgid "Reply to %1..."
 msgctxt "placeholder text"
-msgid "Reply to %1..."
+msgid "Reply to %1…"
 msgstr "Svara till %1..."
 
 #: src/userdata.cpp:44
-#, kde-format
-msgid "Loading..."
+#, fuzzy, kde-format
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Läser in..."
 
 #~ msgid "we know that this person is a human, but we don't know their name"
