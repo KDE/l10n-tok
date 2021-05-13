@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-13 00:18+0000\n"
-"PO-Revision-Date: 2021-05-07 12:30+0200\n"
+"PO-Revision-Date: 2021-05-13 09:28+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -116,7 +116,7 @@ msgstr "No permitido"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -232,7 +232,7 @@ msgid "Upload file"
 msgstr "Enviar archivo"
 
 #: data/routes/messages/View.qml:169
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Escriba un mensaje..."
@@ -266,7 +266,7 @@ msgid "Reply"
 msgstr "Responder"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
@@ -274,7 +274,7 @@ msgid "Reply to %1…"
 msgstr "Responder a %1..."
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Cargando..."
