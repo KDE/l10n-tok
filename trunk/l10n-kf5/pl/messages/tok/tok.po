@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-14 00:18+0000\n"
-"PO-Revision-Date: 2021-05-09 06:45+0200\n"
+"PO-Revision-Date: 2021-05-14 09:34+0200\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10"
+" || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 20.12.1\n"
 
 #: data/components/PlaintextMessage.qml:22
@@ -115,7 +115,7 @@ msgstr "Nieobsługiwane"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -232,10 +232,10 @@ msgid "Upload file"
 msgstr "Wyślij plik"
 
 #: data/routes/messages/View.qml:174
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
-msgstr "Napisz własną wiadomość…"
+msgstr "Napisz swoją wiadomość…"
 
 #: data/routes/messages/View.qml:174
 #, kde-format
@@ -266,7 +266,7 @@ msgid "Reply"
 msgstr "Odpowiedz"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
@@ -274,7 +274,7 @@ msgid "Reply to %1…"
 msgstr "Odpowiedź do %1..."
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Wczytywanie..."
