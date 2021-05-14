@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-13 00:18+0000\n"
+"POT-Creation-Date: 2021-05-14 00:18+0000\n"
 "PO-Revision-Date: 2021-05-13 01:18+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
@@ -141,7 +141,7 @@ msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "xxLatest message: %1xx"
 
-#: data/routes/Chats.qml:128
+#: data/routes/Chats.qml:134
 #, kde-format
 msgid "No chats available."
 msgstr "xxNo chats available.xx"
@@ -206,39 +206,39 @@ msgstr "xxPhoto message.xx"
 msgid "Select a chat to start messaging"
 msgstr "xxSelect a chat to start messagingxx"
 
-#: data/routes/messages/View.qml:26
+#: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
 msgstr "xxUpload photoxx"
 
-#: data/routes/messages/View.qml:26
+#: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
 msgstr "xxUpload filexx"
 
-#: data/routes/messages/View.qml:147
+#: data/routes/messages/View.qml:151
 #, kde-format
 msgid "Upload photo"
 msgstr "xxUpload photoxx"
 
-#: data/routes/messages/View.qml:155
+#: data/routes/messages/View.qml:159
 #, kde-format
 msgid "Upload file"
 msgstr "xxUpload filexx"
 
-#: data/routes/messages/View.qml:169
+#: data/routes/messages/View.qml:174
 #, kde-format
 msgid "Write your message…"
 msgstr "xxWrite your message…xx"
 
-#: data/routes/messages/View.qml:169
+#: data/routes/messages/View.qml:174
 #, kde-format
 msgid "You cannot send messages."
 msgstr "xxYou cannot send messages.xx"
 
-#: data/routes/messages/View.qml:183
+#: data/routes/messages/View.qml:188
 #, kde-format
 msgid "Send message"
 msgstr "xxSend messagexx"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-13 00:18+0000\n"
+"POT-Creation-Date: 2021-05-14 00:18+0000\n"
 "PO-Revision-Date: 2021-05-07 10:54+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -145,7 +145,7 @@ msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Darrer missatge: %1"
 
-#: data/routes/Chats.qml:128
+#: data/routes/Chats.qml:134
 #, kde-format
 msgid "No chats available."
 msgstr "No hi ha cap xat disponible."
@@ -210,40 +210,40 @@ msgstr "Missatge de foto."
 msgid "Select a chat to start messaging"
 msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 
-#: data/routes/messages/View.qml:26
+#: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
 msgstr "Pujada de foto"
 
-#: data/routes/messages/View.qml:26
+#: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
 msgstr "Pujada de fitxer"
 
-#: data/routes/messages/View.qml:147
+#: data/routes/messages/View.qml:151
 #, kde-format
 msgid "Upload photo"
 msgstr "Pujada de foto"
 
-#: data/routes/messages/View.qml:155
+#: data/routes/messages/View.qml:159
 #, kde-format
 msgid "Upload file"
 msgstr "Pujada de fitxer"
 
-#: data/routes/messages/View.qml:169
+#: data/routes/messages/View.qml:174
 #, fuzzy, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Escriviu un missatge..."
 
-#: data/routes/messages/View.qml:169
+#: data/routes/messages/View.qml:174
 #, kde-format
 msgid "You cannot send messages."
 msgstr "No es poden enviar missatges."
 
-#: data/routes/messages/View.qml:183
+#: data/routes/messages/View.qml:188
 #, kde-format
 msgid "Send message"
 msgstr "Envia un missatge"
