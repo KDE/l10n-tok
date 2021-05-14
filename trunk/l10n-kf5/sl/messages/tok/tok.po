@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-14 00:18+0000\n"
-"PO-Revision-Date: 2021-05-11 09:39+0200\n"
+"PO-Revision-Date: 2021-05-14 08:39+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 && n"
+"%100<=4 ? 2 : 3);\n"
 "X-Generator: Poedit 2.4.3\n"
 
 #: data/components/PlaintextMessage.qml:22
@@ -115,7 +115,7 @@ msgstr "Nepodprto"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -233,10 +233,10 @@ msgid "Upload file"
 msgstr "Prenesi datoteko"
 
 #: data/routes/messages/View.qml:174
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
-msgstr "Napišite vaše sporočilo..."
+msgstr "Pišite vaše sporočilo…"
 
 #: data/routes/messages/View.qml:174
 #, kde-format
@@ -267,18 +267,18 @@ msgid "Reply"
 msgstr "Odgovor"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1…"
-msgstr "Odgovori na %1..."
+msgstr "Odgovori na %1…"
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
-msgstr "Nalaganje..."
+msgstr "Nalaganje…"
 
 #~ msgid "we know that this person is a human, but we don't know their name"
 #~ msgstr "vemo, da je ta oseba človek, a ne vemo njenega imena"
