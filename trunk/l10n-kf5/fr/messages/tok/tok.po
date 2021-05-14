@@ -1,0 +1,270 @@
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: tok\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-14 00:18+0000\n"
+"PO-Revision-Date: 2021-05-14 11:48+0200\n"
+"Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
+"Language-Team: French <kde-francophone@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 21.04.1\n"
+
+#: data/components/PlaintextMessage.qml:22
+#, kde-format
+msgid "GIF"
+msgstr "GIF"
+
+#: data/components/PlaintextMessage.qml:24
+#, kde-format
+msgid "Music"
+msgstr "Musique"
+
+#: data/components/PlaintextMessage.qml:26
+#, kde-format
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+#: data/components/PlaintextMessage.qml:28
+#, kde-format
+msgid "Photo"
+msgstr "Photo"
+
+#: data/components/PlaintextMessage.qml:30
+#, kde-format
+msgid "Expired Photo"
+msgstr "Photo expirée"
+
+#: data/components/PlaintextMessage.qml:32
+#, kde-format
+msgid "Sticker"
+msgstr "Vignette adhésive"
+
+#: data/components/PlaintextMessage.qml:34
+#, kde-format
+msgid "Video"
+msgstr "Vidéo"
+
+#: data/components/PlaintextMessage.qml:36
+#, kde-format
+msgid "Expired Video"
+msgstr "Vidéo expirée"
+
+#: data/components/PlaintextMessage.qml:38
+#, kde-format
+msgid "Video Note"
+msgstr "Note vidéo"
+
+#: data/components/PlaintextMessage.qml:40
+#, kde-format
+msgid "Voice Note"
+msgstr "Note vocale"
+
+#: data/components/PlaintextMessage.qml:42
+#, kde-format
+msgid "Location"
+msgstr "Emplacement"
+
+#: data/components/PlaintextMessage.qml:44
+#, kde-format
+msgid "Venue"
+msgstr "Endroit"
+
+#: data/components/PlaintextMessage.qml:46
+#, kde-format
+msgid "Contact"
+msgstr "Contact"
+
+#: data/components/PlaintextMessage.qml:48
+#, kde-format
+msgid "Dice"
+msgstr "Découper"
+
+#: data/components/PlaintextMessage.qml:50
+#, kde-format
+msgid "Game"
+msgstr "Jeu"
+
+#: data/components/PlaintextMessage.qml:52
+#, kde-format
+msgid "Poll"
+msgstr "Voter"
+
+#: data/components/PlaintextMessage.qml:54
+#, kde-format
+msgid "Invoice"
+msgstr "Décompte"
+
+#: data/components/PlaintextMessage.qml:81
+#, kde-format
+msgid "Unsupported"
+msgstr "Non pris en charge"
+
+#: data/main.qml:12 data/maui_main.qml:11
+#, kde-format
+msgctxt "window title"
+msgid "Tok"
+msgstr "Tok"
+
+#: data/routes/Chats.qml:25
+#, kde-format
+msgid "Search chats"
+msgstr "Rechercher des salons de discussions"
+
+#: data/routes/Chats.qml:71
+#, kde-format
+msgid "1 unread message."
+msgid_plural "%1 unread messages."
+msgstr[0] "Un message non lu."
+msgstr[1] "%1 messages non lus."
+
+#: data/routes/Chats.qml:74
+#, kde-format
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"the message contents"
+msgid "Latest message from %1: %2"
+msgstr "Tout dernier message de %1 : %2"
+
+#: data/routes/Chats.qml:76
+#, kde-format
+msgctxt "%1 is the message contents"
+msgid "Latest message: %1"
+msgstr "Tout dernier message :%1"
+
+#: data/routes/Chats.qml:134
+#, kde-format
+msgid "No chats available."
+msgstr "Aucun salon de discussion disponible."
+
+#: data/routes/entry/AuthenticationCode.qml:14
+#, kde-format
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr ""
+"Saisissez votre code d'authentification, reçu par un autre client Telegram."
+
+#: data/routes/entry/AuthenticationCode.qml:19
+#, kde-format
+msgid "Authentication code"
+msgstr "Code d'authentification"
+
+#: data/routes/entry/Password.qml:14
+#, kde-format
+msgid "Enter your password"
+msgstr "Saisissez votre mot de passe"
+
+#: data/routes/entry/PhoneNumber.qml:14
+#, kde-format
+msgid "Enter your phone number"
+msgstr "Saisissez votre numéro de téléphone"
+
+#: data/routes/entry/PhoneNumber.qml:19
+#, kde-format
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+#: data/routes/entry/Welcome.qml:13
+#, kde-format
+msgid "Welcome to Tok"
+msgstr "Bienvenue sur Tok"
+
+#: data/routes/entry/Welcome.qml:17
+#, kde-format
+msgid "Get Started"
+msgstr "Pour démarrer"
+
+#: data/routes/messages/components/MessageDelegate.qml:44
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr "Supprimer"
+
+#: data/routes/messages/components/MessageDelegate.qml:49
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Reply"
+msgstr "Répondre"
+
+#: data/routes/messages/components/PhotoMessage.qml:17
+#, kde-format
+msgid "Photo message."
+msgstr "Message avec photo."
+
+#: data/routes/messages/NoView.qml:18
+#, kde-format
+msgid "Select a chat to start messaging"
+msgstr "Sélectionnez un salon pour débuter l'échange de messages"
+
+#: data/routes/messages/View.qml:30
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload photo"
+msgstr "Envoyer une photo"
+
+#: data/routes/messages/View.qml:30
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload file"
+msgstr "Envoyer un fichier"
+
+#: data/routes/messages/View.qml:151
+#, kde-format
+msgid "Upload photo"
+msgstr "Envoyer une photo"
+
+#: data/routes/messages/View.qml:159
+#, kde-format
+msgid "Upload file"
+msgstr "Envoyer un fichier"
+
+#: data/routes/messages/View.qml:174
+#, kde-format
+msgid "Write your message…"
+msgstr "Écrire votre message..."
+
+#: data/routes/messages/View.qml:174
+#, kde-format
+msgid "You cannot send messages."
+msgstr "Vous ne pouvez envoyer des messages."
+
+#: data/routes/messages/View.qml:188
+#, kde-format
+msgid "Send message"
+msgstr "Envoyer un message"
+
+#: src/extractinator.cpp:13
+#, kde-format
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "Émetteur inconnu"
+
+#: src/extractinator.cpp:19
+#, kde-format
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "Non pris en charge"
+
+#: src/notificationmanager.cpp:37
+#, kde-format
+msgctxt "button action"
+msgid "Reply"
+msgstr "Répondre"
+
+#: src/notificationmanager.cpp:38
+#, kde-format
+msgctxt "placeholder text"
+msgid "Reply to %1…"
+msgstr "Répondre à %1..."
+
+#: src/userdata.cpp:44
+#, kde-format
+msgid "Loading…"
+msgstr "Chargement..."
