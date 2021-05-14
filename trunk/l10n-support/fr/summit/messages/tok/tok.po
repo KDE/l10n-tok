@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-13 10:10+0200\n"
-"PO-Revision-Date: 2021-05-08 10:34+0200\n"
+"PO-Revision-Date: 2021-05-14 11:48+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 21.04.0\n"
+"X-Generator: Lokalize 21.04.1\n"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:22
@@ -29,7 +29,9 @@ msgstr "Musique"
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
-msgctxt "Specifically a file; I use Attachment in English because it sounds better than File in this context."
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better"
+" than File in this context."
 msgid "Attachment"
 msgstr "Pièce jointe"
 
@@ -128,7 +130,7 @@ msgstr "Non pris en charge"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #. +> trunk5
 #: data/routes/Chats.qml:25
@@ -147,7 +149,9 @@ msgstr[1] "%1 messages non lus."
 #. +> trunk5
 #: data/routes/Chats.qml:74
 #, kde-format
-msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is"
+" the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
@@ -167,8 +171,10 @@ msgstr "Aucun salon de discussion disponible."
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
-msgid "Enter your authentication code that you received from another Telegram client"
-msgstr "Saisissez votre code d'authentification, reçu par un autre client Telegram."
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr ""
+"Saisissez votre code d'authentification, reçu par un autre client Telegram."
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:19
@@ -260,7 +266,7 @@ msgstr "Envoyer un fichier"
 
 #. +> trunk5
 #: data/routes/messages/View.qml:169
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Écrire votre message..."
@@ -300,7 +306,7 @@ msgstr "Répondre"
 
 #. +> trunk5
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
@@ -309,7 +315,7 @@ msgstr "Répondre à %1..."
 
 #. +> trunk5
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Chargement..."
