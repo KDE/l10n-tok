@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-13 10:10+0200\n"
+"POT-Creation-Date: 2021-05-14 11:01+0200\n"
 "PO-Revision-Date: 2021-05-14 11:48+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -29,9 +29,7 @@ msgstr "Musique"
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:26
 #, kde-format
-msgctxt ""
-"Specifically a file; I use Attachment in English because it sounds better"
-" than File in this context."
+msgctxt "Specifically a file; I use Attachment in English because it sounds better than File in this context."
 msgid "Attachment"
 msgstr "Pièce jointe"
 
@@ -149,9 +147,7 @@ msgstr[1] "%1 messages non lus."
 #. +> trunk5
 #: data/routes/Chats.qml:74
 #, kde-format
-msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2 is"
-" the message contents"
+msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
@@ -163,7 +159,7 @@ msgid "Latest message: %1"
 msgstr "Tout dernier message :%1"
 
 #. +> trunk5
-#: data/routes/Chats.qml:128
+#: data/routes/Chats.qml:134
 #, kde-format
 msgid "No chats available."
 msgstr "Aucun salon de discussion disponible."
@@ -171,10 +167,8 @@ msgstr "Aucun salon de discussion disponible."
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:14
 #, kde-format
-msgid ""
-"Enter your authentication code that you received from another Telegram client"
-msgstr ""
-"Saisissez votre code d'authentification, reçu par un autre client Telegram."
+msgid "Enter your authentication code that you received from another Telegram client"
+msgstr "Saisissez votre code d'authentification, reçu par un autre client Telegram."
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:19
@@ -239,46 +233,45 @@ msgid "Select a chat to start messaging"
 msgstr "Sélectionnez un salon pour débuter l'échange de messages"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:26
+#: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
 msgstr "Envoyer une photo"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:26
+#: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
 msgstr "Envoyer un fichier"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:147
+#: data/routes/messages/View.qml:151
 #, kde-format
 msgid "Upload photo"
 msgstr "Envoyer une photo"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:155
+#: data/routes/messages/View.qml:159
 #, kde-format
 msgid "Upload file"
 msgstr "Envoyer un fichier"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:169
+#: data/routes/messages/View.qml:174
 #, kde-format
-#| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Écrire votre message..."
 
 #. +> trunk5
-#: data/routes/messages/View.qml:169
+#: data/routes/messages/View.qml:174
 #, kde-format
 msgid "You cannot send messages."
 msgstr "Vous ne pouvez envoyer des messages."
 
 #. +> trunk5
-#: data/routes/messages/View.qml:183
+#: data/routes/messages/View.qml:188
 #, kde-format
 msgid "Send message"
 msgstr "Envoyer un message"
@@ -307,8 +300,6 @@ msgstr "Répondre"
 #. +> trunk5
 #: src/notificationmanager.cpp:38
 #, kde-format
-#| msgctxt "placeholder text"
-#| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1…"
 msgstr "Répondre à %1..."
@@ -316,7 +307,6 @@ msgstr "Répondre à %1..."
 #. +> trunk5
 #: src/userdata.cpp:44
 #, kde-format
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "Chargement..."
 
