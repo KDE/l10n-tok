@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-14 00:18+0000\n"
-"PO-Revision-Date: 2021-05-06 15:03-0300\n"
+"PO-Revision-Date: 2021-05-15 14:20-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -103,7 +103,7 @@ msgstr "Enquete"
 #: data/components/PlaintextMessage.qml:54
 #, kde-format
 msgid "Invoice"
-msgstr ""
+msgstr "Fatura"
 
 #: data/components/PlaintextMessage.qml:81
 #, kde-format
@@ -114,7 +114,7 @@ msgstr "Não suportado"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -199,7 +199,7 @@ msgstr "Responder"
 #: data/routes/messages/components/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
-msgstr ""
+msgstr "Mensagem de foto."
 
 #: data/routes/messages/NoView.qml:18
 #, kde-format
@@ -210,26 +210,26 @@ msgstr ""
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "Enviar foto"
 
 #: data/routes/messages/View.qml:30
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "Enviar arquivo"
 
 #: data/routes/messages/View.qml:151
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "Enviar foto"
 
 #: data/routes/messages/View.qml:159
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "Enviar arquivo"
 
 #: data/routes/messages/View.qml:174
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Escreva sua mensagem..."
@@ -263,7 +263,7 @@ msgid "Reply"
 msgstr "Responder"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
@@ -271,7 +271,7 @@ msgid "Reply to %1…"
 msgstr "Responder para %1..."
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Carregando..."
