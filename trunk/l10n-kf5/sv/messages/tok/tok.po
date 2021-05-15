@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-14 00:18+0000\n"
-"PO-Revision-Date: 2021-05-07 08:38+0200\n"
+"PO-Revision-Date: 2021-05-15 15:38+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -114,7 +114,7 @@ msgstr "Stöds ej"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -229,7 +229,7 @@ msgid "Upload file"
 msgstr "Ladda upp fil"
 
 #: data/routes/messages/View.qml:174
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Skriv in meddelande..."
@@ -263,7 +263,7 @@ msgid "Reply"
 msgstr "Svara"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
@@ -271,7 +271,7 @@ msgid "Reply to %1…"
 msgstr "Svara till %1..."
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Läser in..."
