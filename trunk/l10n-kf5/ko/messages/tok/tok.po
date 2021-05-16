@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-14 00:18+0000\n"
-"PO-Revision-Date: 2021-05-16 23:55+0200\n"
+"PO-Revision-Date: 2021-05-17 00:48+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -257,15 +257,15 @@ msgstr "지원하지 않음"
 #, kde-format
 msgctxt "button action"
 msgid "Reply"
-msgstr ""
+msgstr "답장"
 
 #: src/notificationmanager.cpp:38
 #, kde-format
 msgctxt "placeholder text"
 msgid "Reply to %1…"
-msgstr ""
+msgstr "%1에게 답장 쓰기..."
 
 #: src/userdata.cpp:44
 #, kde-format
 msgid "Loading…"
-msgstr ""
+msgstr "불러오는 중..."
