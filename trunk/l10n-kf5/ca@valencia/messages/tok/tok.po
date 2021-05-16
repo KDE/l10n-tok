@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-14 00:18+0000\n"
-"PO-Revision-Date: 2021-05-07 10:54+0100\n"
+"PO-Revision-Date: 2021-05-13 17:30+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -117,7 +117,7 @@ msgstr "No admés"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:25
 #, kde-format
@@ -233,10 +233,9 @@ msgid "Upload file"
 msgstr "Pujada de fitxer"
 
 #: data/routes/messages/View.qml:174
-#, fuzzy, kde-format
-#| msgid "Write your message..."
+#, kde-format
 msgid "Write your message…"
-msgstr "Escriviu un missatge..."
+msgstr "Escriviu un missatge…"
 
 #: data/routes/messages/View.qml:174
 #, kde-format
@@ -267,18 +266,15 @@ msgid "Reply"
 msgstr "Respon"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
-#| msgctxt "placeholder text"
-#| msgid "Reply to %1..."
+#, kde-format
 msgctxt "placeholder text"
 msgid "Reply to %1…"
 msgstr "Respon a %1..."
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
-#| msgid "Loading..."
+#, kde-format
 msgid "Loading…"
-msgstr "S'està carregant..."
+msgstr "S'està carregant…"
 
 #~ msgid "we know that this person is a human, but we don't know their name"
 #~ msgstr "Se sap que aquesta persona és un humà, però no se sap el seu nom"
