@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-21 00:16+0000\n"
-"PO-Revision-Date: 2021-05-13 05:44+0200\n"
+"PO-Revision-Date: 2021-05-21 05:18+0200\n"
 "Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -127,7 +127,7 @@ msgctxt ""
 "Checkable menu item to toggle between the default appearance and a more "
 "compact style"
 msgid "Compact mode"
-msgstr ""
+msgstr "Kompakter Modus"
 
 #: data/routes/Chats.qml:86
 #, kde-format
