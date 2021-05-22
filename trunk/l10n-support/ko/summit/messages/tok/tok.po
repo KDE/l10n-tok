@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-22 11:41+0200\n"
-"PO-Revision-Date: 2021-05-17 00:48+0200\n"
+"PO-Revision-Date: 2021-05-22 20:05+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -142,7 +142,7 @@ msgctxt ""
 "Checkable menu item to toggle between the default appearance and a more "
 "compact style"
 msgid "Compact mode"
-msgstr ""
+msgstr "축소 모드"
 
 #. +> trunk5
 #: data/routes/Chats.qml:40
