@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-21 00:16+0000\n"
+"POT-Creation-Date: 2021-05-22 00:16+0000\n"
 "PO-Revision-Date: 2021-05-14 11:48+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -113,12 +113,7 @@ msgctxt "window title"
 msgid "Tok"
 msgstr "Tok"
 
-#: data/routes/Chats.qml:25
-#, kde-format
-msgid "Search chats"
-msgstr "Rechercher des salons de discussions"
-
-#: data/routes/Chats.qml:35
+#: data/routes/Chats.qml:24
 #, kde-format
 msgctxt ""
 "Checkable menu item to toggle between the default appearance and a more "
@@ -126,14 +121,19 @@ msgctxt ""
 msgid "Compact mode"
 msgstr ""
 
-#: data/routes/Chats.qml:86
+#: data/routes/Chats.qml:40
+#, kde-format
+msgid "Search chats"
+msgstr "Rechercher des salons de discussions"
+
+#: data/routes/Chats.qml:104
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "Un message non lu."
 msgstr[1] "%1 messages non lus."
 
-#: data/routes/Chats.qml:89
+#: data/routes/Chats.qml:107
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -141,13 +141,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
-#: data/routes/Chats.qml:91
+#: data/routes/Chats.qml:109
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Tout dernier message :%1"
 
-#: data/routes/Chats.qml:149
+#: data/routes/Chats.qml:167
 #, kde-format
 msgid "No chats available."
 msgstr "Aucun salon de discussion disponible."
@@ -212,39 +212,39 @@ msgstr "Message avec photo."
 msgid "Select a chat to start messaging"
 msgstr "Sélectionnez un salon pour débuter l'échange de messages"
 
-#: data/routes/messages/View.qml:30
+#: data/routes/messages/View.qml:31
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
 msgstr "Envoyer une photo"
 
-#: data/routes/messages/View.qml:30
+#: data/routes/messages/View.qml:31
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
 msgstr "Envoyer un fichier"
 
-#: data/routes/messages/View.qml:151
+#: data/routes/messages/View.qml:152
 #, kde-format
 msgid "Upload photo"
 msgstr "Envoyer une photo"
 
-#: data/routes/messages/View.qml:159
+#: data/routes/messages/View.qml:160
 #, kde-format
 msgid "Upload file"
 msgstr "Envoyer un fichier"
 
-#: data/routes/messages/View.qml:174
+#: data/routes/messages/View.qml:175
 #, kde-format
 msgid "Write your message…"
 msgstr "Écrire votre message..."
 
-#: data/routes/messages/View.qml:174
+#: data/routes/messages/View.qml:175
 #, kde-format
 msgid "You cannot send messages."
 msgstr "Vous ne pouvez envoyer des messages."
 
-#: data/routes/messages/View.qml:188
+#: data/routes/messages/View.qml:189
 #, kde-format
 msgid "Send message"
 msgstr "Envoyer un message"
