@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-22 00:16+0000\n"
+"POT-Creation-Date: 2021-05-23 00:17+0000\n"
 "PO-Revision-Date: 2021-05-04 19:48+0200\n"
 "Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
 "Language-Team: Slovak <kde-sk@linux.sk>\n"
@@ -190,13 +190,13 @@ msgstr ""
 msgid "Get Started"
 msgstr ""
 
-#: data/routes/messages/components/MessageDelegate.qml:44
+#: data/routes/messages/components/MessageDelegate.qml:54
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "Vymazať"
 
-#: data/routes/messages/components/MessageDelegate.qml:49
+#: data/routes/messages/components/MessageDelegate.qml:59
 #, fuzzy, kde-format
 #| msgctxt "button action"
 #| msgid "Reply"

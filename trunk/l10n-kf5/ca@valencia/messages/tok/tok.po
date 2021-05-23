@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-22 00:16+0000\n"
+"POT-Creation-Date: 2021-05-23 00:17+0000\n"
 "PO-Revision-Date: 2021-05-13 17:30+0100\n"
 "Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -196,13 +196,13 @@ msgstr "Vos donem la benvinguda al Tok"
 msgid "Get Started"
 msgstr "Introducció"
 
-#: data/routes/messages/components/MessageDelegate.qml:44
+#: data/routes/messages/components/MessageDelegate.qml:54
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "Suprimeix"
 
-#: data/routes/messages/components/MessageDelegate.qml:49
+#: data/routes/messages/components/MessageDelegate.qml:59
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"

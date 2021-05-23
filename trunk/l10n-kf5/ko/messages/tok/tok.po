@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-22 00:16+0000\n"
+"POT-Creation-Date: 2021-05-23 00:17+0000\n"
 "PO-Revision-Date: 2021-05-22 20:05+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -190,13 +190,13 @@ msgstr "Tok에 오신 것을 환영합니다"
 msgid "Get Started"
 msgstr "시작하기"
 
-#: data/routes/messages/components/MessageDelegate.qml:44
+#: data/routes/messages/components/MessageDelegate.qml:54
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "삭제"
 
-#: data/routes/messages/components/MessageDelegate.qml:49
+#: data/routes/messages/components/MessageDelegate.qml:59
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
