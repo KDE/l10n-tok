@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-22 11:41+0200\n"
+"POT-Creation-Date: 2021-05-23 11:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -218,14 +218,14 @@ msgid "Get Started"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:44
+#: data/routes/messages/components/MessageDelegate.qml:54
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:49
+#: data/routes/messages/components/MessageDelegate.qml:59
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
