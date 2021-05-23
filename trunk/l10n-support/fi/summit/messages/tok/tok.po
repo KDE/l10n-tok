@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-14 11:01+0200\n"
+"POT-Creation-Date: 2021-05-23 11:23+0200\n"
 "PO-Revision-Date: 2021-05-06 17:09+0300\n"
 "Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
@@ -134,13 +134,20 @@ msgid "Tok"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/Chats.qml:25
+#: data/routes/Chats.qml:24
+#, kde-format
+msgctxt "Checkable menu item to toggle between the default appearance and a more compact style"
+msgid "Compact mode"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/Chats.qml:40
 #, kde-format
 msgid "Search chats"
 msgstr "Etsi keskusteluista"
 
 #. +> trunk5
-#: data/routes/Chats.qml:71
+#: data/routes/Chats.qml:104
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
@@ -148,21 +155,21 @@ msgstr[0] "Yksi viesti lukematta."
 msgstr[1] "%1 viestiä lukematta."
 
 #. +> trunk5
-#: data/routes/Chats.qml:74
+#: data/routes/Chats.qml:107
 #, kde-format
 msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Viimeisin viesti käyttäjältä %1: %2"
 
 #. +> trunk5
-#: data/routes/Chats.qml:76
+#: data/routes/Chats.qml:109
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Viimeisin viesti: %1"
 
 #. +> trunk5
-#: data/routes/Chats.qml:134
+#: data/routes/Chats.qml:167
 #, kde-format
 msgid "No chats available."
 msgstr "Ei keskusteluja saatavilla."
@@ -210,14 +217,14 @@ msgid "Get Started"
 msgstr "Aloita"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:44
+#: data/routes/messages/components/MessageDelegate.qml:54
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "Poista"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:49
+#: data/routes/messages/components/MessageDelegate.qml:59
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
@@ -225,6 +232,7 @@ msgstr "Vastaa"
 
 #. +> trunk5
 #: data/routes/messages/components/PhotoMessage.qml:17
+#: data/routes/messages/components/thin/PhotoMessage.qml:17
 #, kde-format
 msgid "Photo message."
 msgstr "Valokuvaviesti."
@@ -236,46 +244,46 @@ msgid "Select a chat to start messaging"
 msgstr "Aloita viestittely valitsemalla keskustelu"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:30
+#: data/routes/messages/View.qml:31
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/View.qml:30
+#: data/routes/messages/View.qml:31
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/View.qml:151
+#: data/routes/messages/View.qml:152
 #, kde-format
 msgid "Upload photo"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/View.qml:159
+#: data/routes/messages/View.qml:160
 #, kde-format
 msgid "Upload file"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/View.qml:174
+#: data/routes/messages/View.qml:175
 #, fuzzy, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Kirjoita viesti…"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:174
+#: data/routes/messages/View.qml:175
 #, kde-format
 msgid "You cannot send messages."
 msgstr "Viestejä ei voi lähettää."
 
 #. +> trunk5
-#: data/routes/messages/View.qml:188
+#: data/routes/messages/View.qml:189
 #, kde-format
 msgid "Send message"
 msgstr "Lähetä viesti"
