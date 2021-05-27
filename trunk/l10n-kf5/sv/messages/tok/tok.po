@@ -240,7 +240,7 @@ msgstr "Ladda upp fil"
 #: data/routes/messages/View.qml:175
 #, kde-format
 msgid "Write your message…"
-msgstr "Skriv in meddelande..."
+msgstr "Skriv in meddelande…"
 
 #: data/routes/messages/View.qml:175
 #, kde-format
@@ -274,12 +274,12 @@ msgstr "Svara"
 #, kde-format
 msgctxt "placeholder text"
 msgid "Reply to %1…"
-msgstr "Svara till %1..."
+msgstr "Svara till %1…"
 
 #: src/userdata.cpp:44
 #, kde-format
 msgid "Loading…"
-msgstr "Läser in..."
+msgstr "Läser in…"
 
 #~ msgid "we know that this person is a human, but we don't know their name"
 #~ msgstr "vi vet att personen är en människa, men vi vet inte namnet"
