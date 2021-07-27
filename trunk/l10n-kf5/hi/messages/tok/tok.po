@@ -1,0 +1,283 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the tok package.
+#
+# Raghavendra Kamath <raghu@raghukamath.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: tok\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-05-23 00:17+0000\n"
+"PO-Revision-Date: 2021-07-27 21:18+0530\n"
+"Last-Translator: Raghavendra Kamath <raghu@raghukamath.com>\n"
+"Language-Team: kde-hindi\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 21.04.3\n"
+
+#: data/components/PlaintextMessage.qml:22
+#, kde-format
+msgid "GIF"
+msgstr "GIF"
+
+#: data/components/PlaintextMessage.qml:24
+#, kde-format
+msgid "Music"
+msgstr "संगीत"
+
+#: data/components/PlaintextMessage.qml:26
+#, kde-format
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
+msgid "Attachment"
+msgstr "संलग्नक"
+
+#: data/components/PlaintextMessage.qml:28
+#, kde-format
+msgid "Photo"
+msgstr "फोटो"
+
+#: data/components/PlaintextMessage.qml:30
+#, kde-format
+msgid "Expired Photo"
+msgstr "गतावधिक फोटो"
+
+#: data/components/PlaintextMessage.qml:32
+#, kde-format
+msgid "Sticker"
+msgstr "स्टिकर"
+
+#: data/components/PlaintextMessage.qml:34
+#, kde-format
+msgid "Video"
+msgstr "वीडियो"
+
+#: data/components/PlaintextMessage.qml:36
+#, kde-format
+msgid "Expired Video"
+msgstr "गतावधिक वीडियो"
+
+#: data/components/PlaintextMessage.qml:38
+#, kde-format
+msgid "Video Note"
+msgstr "वीडियो नोट"
+
+#: data/components/PlaintextMessage.qml:40
+#, kde-format
+msgid "Voice Note"
+msgstr "आवाज़ नोट"
+
+#: data/components/PlaintextMessage.qml:42
+#, kde-format
+msgid "Location"
+msgstr "स्थान"
+
+#: data/components/PlaintextMessage.qml:44
+#, kde-format
+msgid "Venue"
+msgstr "स्थल"
+
+#: data/components/PlaintextMessage.qml:46
+#, kde-format
+msgid "Contact"
+msgstr "सम्पर्क"
+
+#: data/components/PlaintextMessage.qml:48
+#, kde-format
+msgid "Dice"
+msgstr "पाँसा"
+
+#: data/components/PlaintextMessage.qml:50
+#, kde-format
+msgid "Game"
+msgstr "खेल"
+
+#: data/components/PlaintextMessage.qml:52
+#, kde-format
+msgid "Poll"
+msgstr "मतदान"
+
+#: data/components/PlaintextMessage.qml:54
+#, kde-format
+msgid "Invoice"
+msgstr "इनवाइस"
+
+#: data/components/PlaintextMessage.qml:81
+#, kde-format
+msgid "Unsupported"
+msgstr "असमर्थित"
+
+#: data/main.qml:12 data/maui_main.qml:11
+#, kde-format
+msgctxt "window title"
+msgid "Tok"
+msgstr "टॉक"
+
+#: data/routes/Chats.qml:24
+#, kde-format
+msgctxt ""
+"Checkable menu item to toggle between the default appearance and a more "
+"compact style"
+msgid "Compact mode"
+msgstr "सघन मोड"
+
+#: data/routes/Chats.qml:40
+#, kde-format
+msgid "Search chats"
+msgstr "बातचीत खोजें"
+
+#: data/routes/Chats.qml:104
+#, kde-format
+msgid "1 unread message."
+msgid_plural "%1 unread messages."
+msgstr[0] "१ बिनपढ़ा संदेश ।"
+msgstr[1] "%1 बिनपढ़े संदेश ।"
+
+#: data/routes/Chats.qml:107
+#, kde-format
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"the message contents"
+msgid "Latest message from %1: %2"
+msgstr "%1 से नवीनतम संदेश : %2"
+
+#: data/routes/Chats.qml:109
+#, kde-format
+msgctxt "%1 is the message contents"
+msgid "Latest message: %1"
+msgstr "नवीनतम संदेश : %1"
+
+#: data/routes/Chats.qml:167
+#, kde-format
+msgid "No chats available."
+msgstr "कोई बातचीत उपलब्ध नहीं ।"
+
+#: data/routes/entry/AuthenticationCode.qml:14
+#, kde-format
+msgid ""
+"Enter your authentication code that you received from another Telegram client"
+msgstr ""
+"अपना प्रमाणीकरण कोड दर्ज करें जो आपको किसी अन्य टेलीग्राम क्लाइंट से प्राप्त"
+" हुआ है"
+
+#: data/routes/entry/AuthenticationCode.qml:19
+#, kde-format
+msgid "Authentication code"
+msgstr "प्रमाणीकरण कोड"
+
+#: data/routes/entry/Password.qml:14
+#, kde-format
+msgid "Enter your password"
+msgstr "अपना कूटशब्द प्रविष्ट करें"
+
+#: data/routes/entry/PhoneNumber.qml:14
+#, kde-format
+msgid "Enter your phone number"
+msgstr "अपना फोन क्रमांक प्रविष्ट करें"
+
+#: data/routes/entry/PhoneNumber.qml:19
+#, kde-format
+msgid "Phone number"
+msgstr "फोन क्रमांक"
+
+#: data/routes/entry/Welcome.qml:13
+#, kde-format
+msgid "Welcome to Tok"
+msgstr "टॉक में आपका स्वागत है"
+
+#: data/routes/entry/Welcome.qml:17
+#, kde-format
+msgid "Get Started"
+msgstr "शुरुआत करें"
+
+#: data/routes/messages/components/MessageDelegate.qml:54
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr "मिटाएँ"
+
+#: data/routes/messages/components/MessageDelegate.qml:59
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Reply"
+msgstr "जवाब दें"
+
+#: data/routes/messages/components/PhotoMessage.qml:17
+#: data/routes/messages/components/thin/PhotoMessage.qml:17
+#, kde-format
+msgid "Photo message."
+msgstr "फोटो संदेश"
+
+#: data/routes/messages/NoView.qml:18
+#, kde-format
+msgid "Select a chat to start messaging"
+msgstr "सन्देश भेजना शुरू करने के लिए बातचीत का चयन करें"
+
+#: data/routes/messages/View.qml:31
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload photo"
+msgstr "फोटो अपलोड करें"
+
+#: data/routes/messages/View.qml:31
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload file"
+msgstr "फ़ाइल अपलोड करें"
+
+#: data/routes/messages/View.qml:152
+#, kde-format
+msgid "Upload photo"
+msgstr "फोटो अपलोड करें"
+
+#: data/routes/messages/View.qml:160
+#, kde-format
+msgid "Upload file"
+msgstr "फ़ाइल अपलोड करें"
+
+#: data/routes/messages/View.qml:175
+#, kde-format
+msgid "Write your message…"
+msgstr "अपना सन्देश लिखें..."
+
+#: data/routes/messages/View.qml:175
+#, kde-format
+msgid "You cannot send messages."
+msgstr "आप संदेश नहीं भेज सकते ।"
+
+#: data/routes/messages/View.qml:189
+#, kde-format
+msgid "Send message"
+msgstr "संदेश भेजें"
+
+#: src/extractinator.cpp:13
+#, kde-format
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr "अज्ञात प्रेषक"
+
+#: src/extractinator.cpp:19
+#, kde-format
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr "असमर्थित"
+
+#: src/notificationmanager.cpp:37
+#, kde-format
+msgctxt "button action"
+msgid "Reply"
+msgstr "जवाब दें"
+
+#: src/notificationmanager.cpp:38
+#, kde-format
+msgctxt "placeholder text"
+msgid "Reply to %1…"
+msgstr "%1को जवाब दें..."
+
+#: src/userdata.cpp:44
+#, kde-format
+msgid "Loading…"
+msgstr "लोड किया जा रहा है…"
