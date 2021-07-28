@@ -159,9 +159,7 @@ msgstr "कोई बातचीत उपलब्ध नहीं ।"
 #, kde-format
 msgid ""
 "Enter your authentication code that you received from another Telegram client"
-msgstr ""
-"अपना प्रमाणीकरण कोड दर्ज करें जो आपको किसी अन्य टेलीग्राम क्लाइंट से प्राप्त"
-" हुआ है"
+msgstr "अपना प्रमाणीकरण कोड दर्ज करें जो आपको किसी अन्य टेलीग्राम क्लाइंट से प्राप्त हुआ है"
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
