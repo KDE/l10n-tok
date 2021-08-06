@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-23 00:17+0000\n"
-"PO-Revision-Date: 2021-05-02 15:50+0200\n"
+"PO-Revision-Date: 2021-08-06 14:46+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 21.04.0\n"
+"X-Generator: Lokalize 21.04.3\n"
 
 #: data/components/PlaintextMessage.qml:22
 #, kde-format
@@ -117,7 +117,7 @@ msgstr "Euskarririk gabea"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:24
 #, kde-format
@@ -125,7 +125,7 @@ msgctxt ""
 "Checkable menu item to toggle between the default appearance and a more "
 "compact style"
 msgid "Compact mode"
-msgstr ""
+msgstr "Modu trinkoa"
 
 #: data/routes/Chats.qml:40
 #, kde-format
@@ -202,7 +202,7 @@ msgid "Delete"
 msgstr "Ezabatu"
 
 #: data/routes/messages/components/MessageDelegate.qml:59
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply"
 msgctxt "popup menu for message"
 msgid "Reply"
@@ -223,26 +223,26 @@ msgstr "Hautatu berriketa bat mezuekin hasteko"
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload photo"
-msgstr ""
+msgstr "Zama-igo argazkia"
 
 #: data/routes/messages/View.qml:31
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload file"
-msgstr ""
+msgstr "Zama-igo fitxategia"
 
 #: data/routes/messages/View.qml:152
 #, kde-format
 msgid "Upload photo"
-msgstr ""
+msgstr "Argazkia zama-igotzea"
 
 #: data/routes/messages/View.qml:160
 #, kde-format
 msgid "Upload file"
-msgstr ""
+msgstr "Fitxategia zama-igotzea"
 
 #: data/routes/messages/View.qml:175
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Idatzi zure mezua..."
@@ -258,11 +258,11 @@ msgid "Send message"
 msgstr "Bidali mezua"
 
 #: src/extractinator.cpp:13
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Unknown Sender"
 msgctxt "we know that this person is a human, but we don't know their name"
 msgid "Unknown Sender"
-msgstr "Bidaltzaile ezezaguna"
+msgstr "Igorle ezezaguna"
 
 #: src/extractinator.cpp:19
 #, kde-format
@@ -271,22 +271,22 @@ msgid "Unsupported"
 msgstr "Ez da onartzen"
 
 #: src/notificationmanager.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Reply"
 msgctxt "button action"
 msgid "Reply"
 msgstr "Erantzun"
 
 #: src/notificationmanager.cpp:38
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "placeholder text"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1…"
-msgstr "Erantzun %1(e)ri..."
+msgstr "Erantzun %1(e)ri ..."
 
 #: src/userdata.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Zamatzen..."
