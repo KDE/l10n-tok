@@ -138,8 +138,6 @@ msgstr "Tok"
 #. +> trunk5
 #: data/routes/Chats.qml:24
 #, kde-format
-#| msgctxt "@title:group"
-#| msgid "Compact Mode"
 msgctxt ""
 "Checkable menu item to toggle between the default appearance and a more "
 "compact style"
