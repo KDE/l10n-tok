@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-17 10:12+0200\n"
-"PO-Revision-Date: 2021-05-26 14:16+0200\n"
+"PO-Revision-Date: 2021-08-17 16:14+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -15,12 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.04.1\n"
+"X-Generator: Lokalize 21.04.3\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create New"
 msgctxt "menu"
 msgid "Create New"
@@ -30,7 +30,7 @@ msgstr "Vytvořit nový"
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:39
 #: data/components/CreateNewMenuInWindow.qml:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Name"
 msgctxt "placeholder text"
 msgid "Name"
@@ -113,11 +113,11 @@ msgstr "Vytvořit novou skupinu"
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:133
 #: data/components/CreateNewMenuInWindow.qml:133
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Channel"
 msgctxt "menu"
 msgid "Channel…"
-msgstr "Kanál"
+msgstr "Kanál…"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:134
@@ -179,7 +179,7 @@ msgstr "Vybrat vše"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Format"
 msgctxt "text menu editing action"
 msgid "Format"
@@ -187,7 +187,7 @@ msgstr "Formát"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Bold"
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
@@ -195,7 +195,7 @@ msgstr "Tučné"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Italic"
 msgctxt "text editing menu action; applies format"
 msgid "Italic"
@@ -203,7 +203,7 @@ msgstr "Kurzíva"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Underline"
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
@@ -211,23 +211,23 @@ msgstr "Podtržené"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Strikethrough"
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr "Přeškrtnutí"
+msgstr "Přeškrtnuté"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Monospace"
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr "Strojopis"
+msgstr "Pevná šířka"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Normal"
 msgctxt "text editing menu action; applies format"
 msgid "Normal"
@@ -235,7 +235,7 @@ msgstr "Normální"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "window title"
 #| msgid "Tok"
 msgctxt "menu"
@@ -252,7 +252,7 @@ msgstr "Předvolby…"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:98
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enable Notifications"
 msgctxt "menu"
 msgid "Enable Notifications"
@@ -261,15 +261,15 @@ msgstr "Povolit upozornění"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:98
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Disable Notifications:"
 msgctxt "menu"
 msgid "Disable Notifications"
-msgstr "Zakázat upozorňování:"
+msgstr "Zakázat upozornění"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:26 data/components/GlobalMenuInWindow.qml:26
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Log Out"
 msgctxt "menu"
 msgid "Log Out"
@@ -278,7 +278,7 @@ msgstr "Odhlásit se"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
 #: data/Content.qml:102
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Quit"
 msgctxt "menu"
 msgid "Quit"
@@ -286,7 +286,7 @@ msgstr "Ukončit"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Chats"
 msgctxt "menu"
 msgid "Chats"
@@ -294,11 +294,11 @@ msgstr "Rozhovory"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Chat with %1"
 msgctxt "menu"
 msgid "Chat With…"
-msgstr "Rozhovor s %1"
+msgstr "Rozhovor s..."
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:92 data/components/GlobalMenuInWindow.qml:92
@@ -317,22 +317,22 @@ msgstr "Pohled"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@title:group"
 #| msgid "Compact Mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
-msgstr "Kompaktní režim"
+msgstr "Zakázat kompaktní režim"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@title:group"
 #| msgid "Compact Mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
-msgstr "Kompaktní režim"
+msgstr "Povolit kompaktní režim"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:104
@@ -385,17 +385,17 @@ msgstr "Otevřít rychlý přepínač"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Save Color Scheme"
 msgctxt ""
 "menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
-msgstr "Uložit barevné schéma"
+msgstr "Nastavit barevné schéma"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:142
 #: data/components/GlobalMenuInWindow.qml:142
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Format"
 msgctxt "menu"
 msgid "Format"
@@ -412,20 +412,20 @@ msgstr "Okno"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Hide Sidebar"
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr "Skrýt postranní lištu"
+msgstr "Skrýt postranní panel"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Show Sidebar"
 msgctxt "menu"
 msgid "Show Sidebar"
-msgstr "Zobrazit postranní lištu"
+msgstr "Zobrazit postranní panel"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:153
@@ -454,12 +454,12 @@ msgstr "Nápověda"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:162
 #: data/components/GlobalMenuInWindow.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "name of the IM service Telegram"
 #| msgid "Telegram (%1)"
 msgctxt "menu"
 msgid "Telegram FAQ"
-msgstr "Telegram (%1)"
+msgstr "Telegram FAQ"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:23
@@ -580,7 +580,7 @@ msgstr "Nepodporováno"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload"
 msgctxt "dialog title"
 msgid "Upload"
@@ -588,7 +588,7 @@ msgstr "Odeslat"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload"
 msgctxt "Dialog title"
 msgid "Upload"
@@ -597,7 +597,7 @@ msgstr "Odeslat"
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:50
 #: data/routes/settings/ProxySettings.qml:123
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Cancel"
 msgctxt "button"
 msgid "Cancel"
@@ -606,38 +606,38 @@ msgstr "Zrušit"
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:62
 #: data/components/upload/mobile/UploadDialog.qml:310
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send"
 msgctxt "button"
 msgid "Send"
-msgstr "Odeslat"
+msgstr "Poslat"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Compress Files"
 msgid "Compress image"
-msgstr "Komprimovat soubory"
+msgstr "Komprimovat obrázek"
 
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:79
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload"
 msgctxt "page title"
 msgid "Upload…"
-msgstr "Odeslat"
+msgstr "Odeslat…"
 
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:364
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photos"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
-msgstr "Fotografie"
+msgstr "Fotky"
 
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:369
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Videos"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
@@ -645,7 +645,7 @@ msgstr "Videa"
 
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
@@ -653,7 +653,7 @@ msgstr "Hudba"
 
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:379
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Files"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Files"
@@ -661,10 +661,10 @@ msgstr "Soubory"
 
 #. +> trunk5
 #: data/components/upload/RichTextArea.qml:32
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add caption"
 msgid "Add a caption…"
-msgstr "Přidat popisek"
+msgstr "Přidat popisek…"
 
 #. +> trunk5
 #: data/Content.qml:272
@@ -721,7 +721,7 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/Chats.qml:188
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create New..."
 msgctxt "button with menu"
 msgid "Create New..."
@@ -840,7 +840,7 @@ msgstr "Upravit zprávu"
 
 #. +> trunk5
 #: data/routes/messages/components/CompositionBar.qml:154
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "EditorPage|"
 #| msgid "Attach file"
 msgid "Attach file"
@@ -869,7 +869,7 @@ msgstr "Poslat správu"
 #, fuzzy, kde-format
 #| msgid "Group ID:"
 msgid "Group Info"
-msgstr "ID skupiny:"
+msgstr "ID skupiny"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:64
@@ -893,7 +893,7 @@ msgstr "Videa"
 
 #. +> trunk5
 #: data/routes/messages/components/MessageDelegate.qml:72
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Edit"
 msgctxt "popup menu for message"
 msgid "Edit"
@@ -916,7 +916,7 @@ msgstr "Smazat"
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:38
 #: data/routes/messages/components/thin/FileMessage.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open File"
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
@@ -927,7 +927,7 @@ msgstr "Otevřít soubor"
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:48
 #: data/routes/messages/components/thin/FileMessage.qml:37
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 / %2"
 msgctxt "file download progress"
 msgid "%1 / %2"
@@ -936,13 +936,13 @@ msgstr "%1 / %2"
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:54
 #: data/routes/messages/components/thin/FileMessage.qml:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Stop All Downloads"
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Stop Download"
-msgstr "Zastavit všechna stahování"
+msgstr "Zastavit stahování"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:146
@@ -955,7 +955,7 @@ msgstr "Odkazy ke stažení lze přetáhnout na cíl pro upuštění."
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:210
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Download"
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
@@ -1015,7 +1015,7 @@ msgstr "%1 s vámi zahájil DCC rozhovor"
 
 #. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Download"
 msgctxt "a button"
 msgid "Download"
@@ -1023,7 +1023,7 @@ msgstr "Stáhnout"
 
 #. +> trunk5
 #: data/routes/messages/components/WebPageBlock.qml:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Instant Preview"
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
@@ -1094,7 +1094,7 @@ msgstr "Při spuštění vždy minimalizovat do systémového panelu"
 
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:24
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Appearance"
 msgctxt "title"
 msgid "Appearance"
@@ -1151,7 +1151,7 @@ msgstr "Žádná proxy"
 #. +> trunk5
 #: data/routes/settings/mobile/NewProxy.qml:37
 #: data/routes/settings/ProxySettings.qml:127
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "SBI_NetworkIconDialog|"
 #| msgid "Add proxy"
 msgctxt "button"
@@ -1160,7 +1160,7 @@ msgstr "Přidat proxy"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:24
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Proxy Settings"
 msgctxt "title"
 msgid "Proxy Settings"
@@ -1215,15 +1215,15 @@ msgstr "Aktivovat %1"
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Proxy"
 msgid "%1 Proxy"
-msgstr "Proxy"
+msgstr "%1 Proxy"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Disable"
 msgctxt "button"
 msgid "Disable"
@@ -1232,7 +1232,7 @@ msgstr "Zakázat"
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enable"
 msgctxt "button"
 msgid "Enable"
@@ -1247,7 +1247,7 @@ msgstr "Žádná proxy"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:24
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Preferences"
 msgctxt "title"
 msgid "Preferences"
@@ -1275,7 +1275,7 @@ msgstr "Odhlásit se"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:55
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "General Configuration"
 msgctxt "form subheader"
 msgid "General Configuration"
@@ -1283,7 +1283,7 @@ msgstr "Obecná nastavení"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:61
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Server:"
 msgctxt "form label"
 msgid "Server:"
@@ -1291,7 +1291,7 @@ msgstr "Server:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Port:"
 msgctxt "form label"
 msgid "Port:"
@@ -1307,7 +1307,7 @@ msgstr "Aktivovat předchozí dělený pohled."
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:80
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Proxy Type:"
 msgctxt "form label"
 msgid "Proxy Type:"
@@ -1351,7 +1351,7 @@ msgstr "Přísně tajné"
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:103
 #: data/routes/settings/ProxyForm.qml:129
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Username:"
 msgctxt "form control label"
 msgid "Username:"
@@ -1360,7 +1360,7 @@ msgstr "Uživatelské jméno:"
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:109
 #: data/routes/settings/ProxyForm.qml:135
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Password:"
 msgctxt "form control label"
 msgid "Password:"
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "SBI_NetworkIconDialog|"
 #| msgid "Add proxy"
 msgctxt "adds a proxy"
@@ -1401,7 +1401,7 @@ msgstr "Přidat proxy"
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:92
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "SBI_NetworkIconDialog|"
 #| msgid "Add proxy"
 msgctxt "window title"
@@ -1410,7 +1410,7 @@ msgstr "Přidat proxy"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Preferences"
 msgctxt "window title"
 msgid "Preferences"
@@ -1462,10 +1462,10 @@ msgstr "Upravit nastavení zástupných klipů"
 
 #. +> trunk5
 #: src/chatlistmodel.cpp:22
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "All Characters"
 msgid "All Chats"
-msgstr "Všechny znaky"
+msgstr "Všechny rozhovory"
 
 #. +> trunk5
 #: src/chatsstore.cpp:195 src/chatsstore.cpp:198
@@ -1475,10 +1475,10 @@ msgstr "Skupina"
 
 #. +> trunk5
 #: src/chatsstore.cpp:196
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Private State"
 msgid "Private chat"
-msgstr "Soukromý stát"
+msgstr "Soukromý rozhovor"
 
 #. +> trunk5
 #: src/chatsstore.cpp:197
@@ -1596,15 +1596,15 @@ msgstr "Nepodporováno"
 
 #. +> trunk5
 #: src/extractinator.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid ": %1"
 msgctxt "notification body for receiving a gif with a caption"
 msgid "GIF: %1"
-msgstr ": %1"
+msgstr "GIF: %1"
 
 #. +> trunk5
 #: src/extractinator.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
@@ -1612,32 +1612,32 @@ msgstr "GIF"
 
 #. +> trunk5
 #: src/extractinator.cpp:51
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Make (%1): %2"
 msgctxt "notification body for receiving a music with a caption"
 msgid "Music (%1): %2"
-msgstr "Make (%1): %2"
+msgstr "Hudba (%1): %2"
 
 #. +> trunk5
 #: src/extractinator.cpp:53
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@item::inlistbox/plain"
 #| msgid "Modules (%1)"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
-msgstr "Moduly (%1)"
+msgstr "Hudba (%1)"
 
 #. +> trunk5
 #: src/extractinator.cpp:59
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File (%1)"
 msgctxt "notification body for receiving a file with a caption"
 msgid "File (%1): %2"
-msgstr "Soubor (%1)"
+msgstr "Soubor (%1): %2"
 
 #. +> trunk5
 #: src/extractinator.cpp:61
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "File (%1)"
 msgctxt "notification body for receiving file"
 msgid "File (%1)"
@@ -1645,15 +1645,15 @@ msgstr "Soubor (%1)"
 
 #. +> trunk5
 #: src/extractinator.cpp:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photos: %1"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
-msgstr "Fotografie: %1"
+msgstr "Fotka: %1"
 
 #. +> trunk5
 #: src/extractinator.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
@@ -1678,7 +1678,7 @@ msgstr "Posuvník %1"
 
 #. +> trunk5
 #: src/extractinator.cpp:81
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video: %1"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
@@ -1686,7 +1686,7 @@ msgstr "Video: %1"
 
 #. +> trunk5
 #: src/extractinator.cpp:83
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
@@ -1703,7 +1703,7 @@ msgstr "Čas vypršení"
 
 #. +> trunk5
 #: src/extractinator.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
@@ -1711,7 +1711,7 @@ msgstr "Video"
 
 #. +> trunk5
 #: src/extractinator.cpp:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
@@ -1719,7 +1719,7 @@ msgstr "Video"
 
 #. +> trunk5
 #: src/extractinator.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
@@ -1735,17 +1735,17 @@ msgstr "Místo konání:"
 
 #. +> trunk5
 #: src/extractinator.cpp:110
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Contact %1"
 msgctxt ""
 "notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
 msgid "Contact: %1 %2"
-msgstr "Kontakt %1"
+msgstr "Kontakt: %1 %2"
 
 #. +> trunk5
 #: src/extractinator.cpp:113
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1"
 msgctxt "notification body for receiving a dice"
 msgid "%1"
@@ -1753,11 +1753,11 @@ msgstr "%1"
 
 #. +> trunk5
 #: src/extractinator.cpp:116
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Name: %1"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
-msgstr "Název: %1"
+msgstr "Hra: %1"
 
 #. +> trunk5
 #: src/extractinator.cpp:119
@@ -1769,15 +1769,15 @@ msgstr " Sloupec: %1 "
 
 #. +> trunk5
 #: src/extractinator.cpp:122
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
-msgstr "Faktura"
+msgstr "Faktura: %1"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:20
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 and %2"
 msgctxt ""
 "A list of two items. The items can be used to format any sort of nouns, e.g. "
@@ -1787,16 +1787,16 @@ msgstr "%1 a %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:28
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 and %2"
 msgctxt ""
 "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
-msgstr "%1 a %2"
+msgstr "%1, a %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:31
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1, %2"
 msgctxt ""
 "The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
@@ -1805,7 +1805,7 @@ msgstr "%1, %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:34
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1, %2"
 msgctxt ""
 "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
