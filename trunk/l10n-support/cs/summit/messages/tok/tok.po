@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-17 10:12+0200\n"
-"PO-Revision-Date: 2021-08-17 16:14+0200\n"
+"PO-Revision-Date: 2021-08-18 11:09+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -57,58 +57,58 @@ msgstr "Vytvořit"
 #: data/components/CreateNewMenu.qml:90
 #: data/components/CreateNewMenuInWindow.qml:90
 #: data/components/GlobalMenu.qml:53 data/components/GlobalMenuInWindow.qml:53
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Select what to share with %1"
 msgctxt "title"
 msgid "Select someone to chat with"
-msgstr "Vyberte, co si přejete sdílet s %1"
+msgstr "Vyberte, s kým si přejete mluvit"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:121
 #: data/components/CreateNewMenuInWindow.qml:121
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "menu"
 #| msgid "Browse Chats…"
 msgctxt "menu"
 msgid "Secret Chat…"
-msgstr "Prohlížet rozhovory..."
+msgstr "Tajný rozhovor…"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:125
 #: data/components/CreateNewMenuInWindow.qml:125
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create New Group…"
 msgctxt "menu"
 msgid "Private Group…"
-msgstr "Vytvořit novou skupinu…"
+msgstr "Soukromá skupina…"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:126
 #: data/components/CreateNewMenuInWindow.qml:126
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create a new group"
 msgctxt "dialog title"
 msgid "Create a private group"
-msgstr "Vytvořit novou skupinu"
+msgstr "Vytvořit soukromou skupinu"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:129
 #: data/components/CreateNewMenuInWindow.qml:129
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "menu"
 #| msgid "New Group…"
 msgctxt "menu"
 msgid "Public Group…"
-msgstr "Nová skupina…"
+msgstr "Veřejná skupina…"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:130
 #: data/components/CreateNewMenuInWindow.qml:130
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create a new group"
 msgctxt "dialog title"
 msgid "Create a public group"
-msgstr "Vytvořit novou skupinu"
+msgstr "Vytvořit veřejnou skupinu"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:133
@@ -122,11 +122,11 @@ msgstr "Kanál…"
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:134
 #: data/components/CreateNewMenuInWindow.qml:134
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Create a New Channel"
 msgctxt "dialog title"
 msgid "Create a broadcast channel"
-msgstr "Vytvořit nový kanál"
+msgstr "Vytvořit vysílací kanál"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
@@ -337,40 +337,40 @@ msgstr "Povolit kompaktní režim"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Use master background"
 msgctxt "menu"
 msgid "Don't Use Image As Background"
-msgstr "Nastavit hlavní pozadí"
+msgstr "Nepoužívat obrázek jako pozadí"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Use master background"
 msgctxt "menu"
 msgid "Use Image As Background"
-msgstr "Nastavit hlavní pozadí"
+msgstr "Použít obrázek jako pozadí"
 
 # Přechod sklouznutí má posunovače, kde vlevo (žádný výběr) znamená průhlednost a vpravo (výběr 100 %) znamená neprůhlednost.
 # Opačně to nedává smysl.
 #. +> trunk5
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Use transparency"
 msgctxt "menu"
 msgid "Disable Transparency"
-msgstr "Použít průhlednost"
+msgstr "Vypnout průhlednost"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Enable transparency effects"
 msgctxt "menu"
 msgid "Enable Transparency"
-msgstr "Povolit efekty průhlednosti"
+msgstr "Zapnout průhlednost"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:112
@@ -674,31 +674,31 @@ msgstr "Chcete tuto zprávu odstranit?"
 
 #. +> trunk5
 #: data/Content.qml:279
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "This will delete all folder content"
 msgid "This will delete it just for you."
-msgstr "Tím se odstraní veškerý obsah složky"
+msgstr "Tímto se vymaže pouze pro vás."
 
 #. +> trunk5
 #: data/Content.qml:283
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "This will delete all folder content"
 msgid "This will delete it for everyone in this chat."
-msgstr "Tím se odstraní veškerý obsah složky"
+msgstr "Tímto se vymaže pro všechny v tomto rozhovoru."
 
 #. +> trunk5
 #: data/Content.qml:289
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Also delete future"
 msgid "Also delete for everyone"
-msgstr "Taktéž smazat budoucí"
+msgstr "Taktéž smazat pro všechny"
 
 #. +> trunk5
 #: data/Content.qml:289
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Also delete future"
 msgid "Also delete for %1"
-msgstr "Taktéž smazat budoucí"
+msgstr "Taktéž smazat pro %1"
 
 #. +> trunk5
 #: data/Content.qml:307
@@ -760,10 +760,10 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Verification"
 msgid "Phone verification"
-msgstr "Ověření"
+msgstr "Ověření telefonu"
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:35
@@ -814,11 +814,11 @@ msgstr "Telefonní číslo"
 
 #. +> trunk5
 #: data/routes/entry/PhoneNumber.qml:88 data/routes/entry/Welcome.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@action"
 #| msgid "Configure Page…"
 msgid "Configure Proxy…"
-msgstr "Nastavit stránku..."
+msgstr "Nastavit proxy..."
 
 #. +> trunk5
 #: data/routes/entry/Welcome.qml:17
@@ -866,10 +866,10 @@ msgstr "Poslat správu"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:64
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Group ID:"
 msgid "Group Info"
-msgstr "ID skupiny"
+msgstr "Informace o skupině"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:64
@@ -965,11 +965,11 @@ msgstr "Stáhnout"
 #. +> trunk5
 #: data/routes/messages/components/normal/GifMessage.qml:64
 #: data/routes/messages/components/thin/GifMessage.qml:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " message"
 #| msgid_plural " messages"
 msgid "GIF message."
-msgstr " zpráva"
+msgstr "Zpráva GIF."
 
 #. +> trunk5
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
@@ -984,34 +984,34 @@ msgstr ""
 #. +> trunk5
 #: data/routes/messages/components/normal/UserAddMessage.qml:22
 #: data/routes/messages/components/thin/UserAddMessage.qml:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "In the group:"
 msgid "%1 joined the group"
-msgstr "Ve skupině:"
+msgstr "%1 se přidal(a) ke skupině"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/VideoMessage.qml:146
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 will be downloaded"
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
-msgstr "%1 bude staženo"
+msgstr "%1 z %2 staženo"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/VoiceChatFinished.qml:18
 #: data/routes/messages/components/thin/VoiceChatFinished.qml:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 has joined the chat"
 msgid "%1 ended a voice chat"
-msgstr "%1 se připojil k rozhovoru"
+msgstr "%1 ukončil hlasový rozhovor"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/VoiceChatStarted.qml:18
 #: data/routes/messages/components/thin/VoiceChatStarted.qml:16
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 started a DCC chat with you"
 msgid "%1 started a voice chat"
-msgstr "%1 s vámi zahájil DCC rozhovor"
+msgstr "%1 zahájil hlasový rozhovor"
 
 #. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
@@ -1192,10 +1192,10 @@ msgstr "HTTP"
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:62
 #: data/routes/settings/ProxySettings.qml:41
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Proton"
 msgid "MTProto"
-msgstr "Proton"
+msgstr "MTProto"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:63
@@ -1240,10 +1240,10 @@ msgstr "Povolit"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:85
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No Proxy"
 msgid "New Proxy"
-msgstr "Žádná proxy"
+msgstr "Nová proxy"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:24
@@ -1315,12 +1315,12 @@ msgstr "Typ proxy:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:85
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Name(ntp-client.desktop)"
 #| msgid "NTP Configuration"
 msgctxt "form subheader"
 msgid "HTTP Configuration"
-msgstr "NTP"
+msgstr "Nastavení HTTP"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:86
@@ -1333,12 +1333,12 @@ msgstr "Nastavení Proxy"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Name(sshd.desktop)"
 #| msgid "SSHD Configuration"
 msgctxt "form subheader"
 msgid "SOCKS5 Configuration"
-msgstr "Konfigurovat SSHD"
+msgstr "Nastavení SOCKS5"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:97
@@ -1482,10 +1482,10 @@ msgstr "Soukromý rozhovor"
 
 #. +> trunk5
 #: src/chatsstore.cpp:197
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Set charset"
 msgid "Secret chat"
-msgstr "Nastavit znakovou sadu"
+msgstr "Tajný rozhovor"
 
 #. +> trunk5
 #: src/chatstore+actions.cpp:80
