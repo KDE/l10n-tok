@@ -135,8 +135,6 @@ msgstr "Plakken"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "Verwijderen"
@@ -191,8 +189,6 @@ msgstr "Normaal"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -257,10 +253,6 @@ msgstr "Beeld"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Compacte modus uitschakelen"
@@ -268,10 +260,6 @@ msgstr "Compacte modus uitschakelen"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Compacte modus inschakelen"
@@ -308,8 +296,7 @@ msgstr "Transparantie inschakelen"
 #: data/components/GlobalMenuInWindow.qml:112
 #, kde-format
 msgctxt ""
-"menu item that opens a UI element called the 'Quick Switcher', which"
-" offers "
+"menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
 msgstr "Snelle wisselaar openen"
@@ -478,15 +465,12 @@ msgstr "Niet-ondersteund"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
-#| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
 msgstr "Uploaden"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
 msgstr "Uploaden"
@@ -512,28 +496,24 @@ msgstr "Afbeelding comprimeren"
 
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
-#| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
 msgstr "Uploaden…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "Foto's"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "Video's"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "Muziek"
@@ -576,8 +556,6 @@ msgstr "Ook voor %1 verwijderen"
 
 #: data/Content.qml:307
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "Verwijderen"
 
@@ -608,8 +586,7 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:239
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2"
-" is "
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -657,8 +634,7 @@ msgstr "Wachtwoord"
 #: data/routes/entry/Password.qml:35
 #, kde-format
 msgid ""
-"You have enabled Two-Step Verification, so your account is protected with"
-" an "
+"You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
 "U hebt tweestapsverificatie ingeschakeld, uw account is dus beschermd met "
@@ -666,7 +642,6 @@ msgstr ""
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "Welkom"
 
@@ -692,16 +667,11 @@ msgstr "U kunt beginnen"
 
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "Bericht bewerken"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
 msgid "Attach file"
 msgstr "Bestand bijvoegen"
 
@@ -733,14 +703,12 @@ msgstr "Informatie"
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Foto's"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Video's"
 
@@ -791,8 +759,7 @@ msgstr "Downloaden stoppen"
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
-"You can drag and drop the icon on downloaded files into other"
-" applications."
+"You can drag and drop the icon on downloaded files into other applications."
 msgstr ""
 "U kunt het pictogram op gedownloade bestanden naar andere toepassingen "
 "slepen en loslaten."
@@ -807,7 +774,6 @@ msgstr "Downloaden"
 #: data/routes/messages/components/normal/GifMessage.qml:64
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
-#| msgid "Photo message."
 msgid "GIF message."
 msgstr "GIF-bericht."
 
@@ -853,10 +819,8 @@ msgstr "Downloaden"
 #: data/routes/messages/components/WebPageBlock.qml:67
 #, kde-format
 msgctxt ""
-"button that opens a preview of a web page. 'instant view' is sort of like"
-" a "
-"brand name, but also sort of not? i would recommend consulting"
-" translations."
+"button that opens a preview of a web page. 'instant view' is sort of like a "
+"brand name, but also sort of not? i would recommend consulting translations."
 "telegram.org to see how instant view was translated officially."
 msgid "Instant View"
 msgstr "Instant-weergave"
@@ -904,8 +868,7 @@ msgstr "Kleurenschema wijzigen"
 #: data/routes/settings/BehaviourSettings.qml:21
 #, kde-format
 msgctxt ""
-"Checkable control to toggle a system tray icon and not closing the app"
-" when "
+"Checkable control to toggle a system tray icon and not closing the app when "
 "X is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
 msgstr "Naar systeemvak minimaliseren wanneer ik de toepassing sluit"
@@ -929,10 +892,8 @@ msgstr "Uiterlijk compact maken voor berichten"
 #, kde-format
 msgctxt ""
 "Checkable control to toggle between a photo background for the chat and "
-"using a solid colour. Keep the text no longer than a few letters longer"
-" than "
-"the source string due to screen size constraints. Reword heavily if"
-" needed."
+"using a solid colour. Keep the text no longer than a few letters longer than "
+"the source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
 msgstr "Afbeelding achter chats tonen"
 
@@ -1129,8 +1090,7 @@ msgstr "Deze proxy ondersteunt alleen platte HTTP verzoeken"
 #, kde-format
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
-msgstr ""
-"Vraag het aan uw proxyleverancier als u onzeker bent over deze optie"
+msgstr "Vraag het aan uw proxyleverancier als u onzeker bent over deze optie"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1139,8 +1099,8 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
-"U hebt geen proxies toegevoegd. Gebruik de knop Proxy toevoegen onderaan "
-"het venster om er een toe te voegen."
+"U hebt geen proxies toegevoegd. Gebruik de knop Proxy toevoegen onderaan het "
+"venster om er een toe te voegen."
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
@@ -1211,7 +1171,6 @@ msgstr "Privé chat"
 
 #: src/chatsstore.cpp:197
 #, kde-format
-#| msgid "Search chats"
 msgid "Secret chat"
 msgstr "Geheime chat"
 
@@ -1224,7 +1183,6 @@ msgstr[1] "%1 zijn bezig met het typen"
 
 #: src/chatstore+actions.cpp:87
 #, kde-format
-#| msgid "Upload file"
 msgid "%1 is uploading a file"
 msgid_plural "%1 are uploading files"
 msgstr[0] "Door %1 wordt een bestand geüpload"
@@ -1232,7 +1190,6 @@ msgstr[1] "Door %1 worden bestanden geüpload"
 
 #: src/chatstore+actions.cpp:94
 #, kde-format
-#| msgid "Upload photo"
 msgid "%1 is uploading a photo"
 msgid_plural "%1 are uploading photos"
 msgstr[0] "Door %1 wordt een foto geüpload"
@@ -1300,7 +1257,6 @@ msgstr "GIF: %1"
 
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1313,7 +1269,6 @@ msgstr "Muziek (%1): %2"
 
 #: src/extractinator.cpp:53
 #, kde-format
-#| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
 msgstr "Muziek (%1)"
@@ -1332,91 +1287,76 @@ msgstr "Bestand (%1)"
 
 #: src/extractinator.cpp:66
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
 msgstr "Foto: %1"
 
 #: src/extractinator.cpp:68
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "Foto"
 
 #: src/extractinator.cpp:74
 #, kde-format
-#| msgid "Expired Photo"
 msgctxt ""
-"notification body for receiving an expired photo (one that"
-" self-destructed)"
+"notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
 msgstr "Verlopen foto"
 
 #: src/extractinator.cpp:77
 #, kde-format
-#| msgid "Sticker"
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
 msgstr "Sticker %1"
 
 #: src/extractinator.cpp:81
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
 msgstr "Video: %1"
 
 #: src/extractinator.cpp:83
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:89
 #, kde-format
-#| msgid "Expired Video"
 msgctxt ""
-"notification body for receiving an expired video (one that"
-" self-destructed)"
+"notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
 msgstr "Verlopen video"
 
 #: src/extractinator.cpp:94
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:99
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:104
 #, kde-format
-#| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "Locatie"
 
 #: src/extractinator.cpp:107
 #, kde-format
-#| msgid "Venue"
 msgctxt "notification body for receiving a venue"
 msgid "Venue: %1"
 msgstr "Plaats van evenement: %1"
 
 #: src/extractinator.cpp:110
 #, kde-format
-#| msgid "Contact"
 msgctxt ""
-"notification body for receiving a contact, %1 %2 are firstname lastname"
-" from "
+"notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
 msgid "Contact: %1 %2"
 msgstr "Contactpersoon: %1 %2"
@@ -1429,21 +1369,18 @@ msgstr "%1"
 
 #: src/extractinator.cpp:116
 #, kde-format
-#| msgid "Game"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
 msgstr "Spel: %1"
 
 #: src/extractinator.cpp:119
 #, kde-format
-#| msgid "Poll"
 msgctxt "notification body for receiving a poll"
 msgid "Poll: %1"
 msgstr "Afvragen: %1"
 
 #: src/extractinator.cpp:122
 #, kde-format
-#| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
 msgstr "Rekening: %1"
@@ -1451,8 +1388,7 @@ msgstr "Rekening: %1"
 #: src/internationalisedlist.cpp:20
 #, kde-format
 msgctxt ""
-"A list of two items. The items can be used to format any sort of nouns,"
-" e.g. "
+"A list of two items. The items can be used to format any sort of nouns, e.g. "
 "a list of people, places, things."
 msgid "%1 and %2"
 msgstr "%1 en %2"

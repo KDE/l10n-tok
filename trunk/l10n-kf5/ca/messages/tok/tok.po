@@ -138,8 +138,6 @@ msgstr "Enganxa"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "Suprimeix"
@@ -194,8 +192,6 @@ msgstr "Normal"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -260,10 +256,6 @@ msgstr "Vista"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Desactiva el mode compacte"
@@ -271,10 +263,6 @@ msgstr "Desactiva el mode compacte"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Activa el mode compacte"
@@ -480,15 +468,12 @@ msgstr "No admès"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
-#| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
 msgstr "Pujada"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
 msgstr "Pujada"
@@ -514,28 +499,24 @@ msgstr "Comprimeix la imatge"
 
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
-#| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
 msgstr "Pujada…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "Fotos"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "Vídeos"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "Música"
@@ -578,8 +559,6 @@ msgstr "Suprimeixo també per a %1"
 
 #: data/Content.qml:307
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "Suprimeix"
 
@@ -661,12 +640,11 @@ msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
-"Heu activat la verificació de dos passos, per tant, el vostre compte està"
-" protegit amb una contrasenya addicional."
+"Heu activat la verificació de dos passos, per tant, el vostre compte està "
+"protegit amb una contrasenya addicional."
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "Us donem la benvinguda"
 
@@ -692,16 +670,11 @@ msgstr "Introducció"
 
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "Edita un missatge"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
 msgid "Attach file"
 msgstr "Adjunta un fitxer"
 
@@ -733,14 +706,12 @@ msgstr "Informació"
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Fotos"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Vídeos"
 
@@ -793,8 +764,8 @@ msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
 msgstr ""
-"Podeu arrossegar i deixar anar la icona dels fitxers baixats en altres"
-" aplicacions."
+"Podeu arrossegar i deixar anar la icona dels fitxers baixats en altres "
+"aplicacions."
 
 #: data/routes/messages/components/normal/FileMessage.qml:210
 #, kde-format
@@ -806,7 +777,6 @@ msgstr "Baixa"
 #: data/routes/messages/components/normal/GifMessage.qml:64
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
-#| msgid "Photo message."
 msgid "GIF message."
 msgstr "Missatge de GIF."
 
@@ -1124,8 +1094,8 @@ msgstr "Aquest servidor intermediari només admet sol·licituds HTTP normals"
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
 msgstr ""
-"Pregunteu al vostre proveïdor de servidor intermediari si no esteu segur"
-" d'aquesta opció"
+"Pregunteu al vostre proveïdor de servidor intermediari si no esteu segur "
+"d'aquesta opció"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1134,8 +1104,8 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
-"No s'ha afegit cap servidor intermediari. Useu el botó Afegeix un servidor"
-" intermediari de la finestra per a afegir-ne un."
+"No s'ha afegit cap servidor intermediari. Useu el botó Afegeix un servidor "
+"intermediari de la finestra per a afegir-ne un."
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
@@ -1206,7 +1176,6 @@ msgstr "Xat privat"
 
 #: src/chatsstore.cpp:197
 #, kde-format
-#| msgid "Search chats"
 msgid "Secret chat"
 msgstr "Xat secret"
 
@@ -1219,7 +1188,6 @@ msgstr[1] "%1 estan escrivint"
 
 #: src/chatstore+actions.cpp:87
 #, kde-format
-#| msgid "Upload file"
 msgid "%1 is uploading a file"
 msgid_plural "%1 are uploading files"
 msgstr[0] "%1 està pujant un fitxer"
@@ -1227,7 +1195,6 @@ msgstr[1] "%1 estan pujant fitxers"
 
 #: src/chatstore+actions.cpp:94
 #, kde-format
-#| msgid "Upload photo"
 msgid "%1 is uploading a photo"
 msgid_plural "%1 are uploading photos"
 msgstr[0] "%1 està pujant una foto"
@@ -1295,7 +1262,6 @@ msgstr "GIF: %1"
 
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1308,7 +1274,6 @@ msgstr "Música (%1): %2"
 
 #: src/extractinator.cpp:53
 #, kde-format
-#| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
 msgstr "Música (%1)"
@@ -1327,21 +1292,18 @@ msgstr "Fitxer (%1)"
 
 #: src/extractinator.cpp:66
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
 msgstr "Foto: %1"
 
 #: src/extractinator.cpp:68
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "Foto"
 
 #: src/extractinator.cpp:74
 #, kde-format
-#| msgid "Expired Photo"
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
@@ -1349,28 +1311,24 @@ msgstr "Foto caducada"
 
 #: src/extractinator.cpp:77
 #, kde-format
-#| msgid "Sticker"
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
 msgstr "Adhesiu %1"
 
 #: src/extractinator.cpp:81
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
 msgstr "Vídeo: %1"
 
 #: src/extractinator.cpp:83
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "Vídeo"
 
 #: src/extractinator.cpp:89
 #, kde-format
-#| msgid "Expired Video"
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
@@ -1378,35 +1336,30 @@ msgstr "Vídeo caducat"
 
 #: src/extractinator.cpp:94
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Vídeo"
 
 #: src/extractinator.cpp:99
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Vídeo"
 
 #: src/extractinator.cpp:104
 #, kde-format
-#| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "Ubicació"
 
 #: src/extractinator.cpp:107
 #, kde-format
-#| msgid "Venue"
 msgctxt "notification body for receiving a venue"
 msgid "Venue: %1"
 msgstr "Lloc: %1"
 
 #: src/extractinator.cpp:110
 #, kde-format
-#| msgid "Contact"
 msgctxt ""
 "notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
@@ -1421,21 +1374,18 @@ msgstr "%1"
 
 #: src/extractinator.cpp:116
 #, kde-format
-#| msgid "Game"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
 msgstr "Joc: %1"
 
 #: src/extractinator.cpp:119
 #, kde-format
-#| msgid "Poll"
 msgctxt "notification body for receiving a poll"
 msgid "Poll: %1"
 msgstr "Enquesta: %1"
 
 #: src/extractinator.cpp:122
 #, kde-format
-#| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
 msgstr "Factura: %1"
