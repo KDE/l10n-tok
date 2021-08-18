@@ -7,30 +7,30 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-17 00:17+0000\n"
-"PO-Revision-Date: 2021-05-26 08:33+0200\n"
+"PO-Revision-Date: 2021-08-18 10:46+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
-"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 && n"
+"%100<=4 ? 2 : 3);\n"
+"X-Generator: Poedit 3.0\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
 #, kde-format
 msgctxt "menu"
 msgid "Create New"
-msgstr ""
+msgstr "Ustvari nov"
 
 #: data/components/CreateNewMenu.qml:39
 #: data/components/CreateNewMenuInWindow.qml:39
 #, kde-format
 msgctxt "placeholder text"
 msgid "Name"
-msgstr ""
+msgstr "Ime"
 
 #: data/components/CreateNewMenu.qml:62 data/components/CreateNewMenu.qml:113
 #: data/components/CreateNewMenuInWindow.qml:62
@@ -39,13 +39,13 @@ msgstr ""
 #: data/Content.qml:303
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "Prekliči"
 
 #: data/components/CreateNewMenu.qml:66
 #: data/components/CreateNewMenuInWindow.qml:66
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "Ustvari"
 
 #: data/components/CreateNewMenu.qml:90
 #: data/components/CreateNewMenuInWindow.qml:90
@@ -53,89 +53,89 @@ msgstr ""
 #, kde-format
 msgctxt "title"
 msgid "Select someone to chat with"
-msgstr ""
+msgstr "Izberi nekoga za pogovor"
 
 #: data/components/CreateNewMenu.qml:121
 #: data/components/CreateNewMenuInWindow.qml:121
 #, kde-format
 msgctxt "menu"
 msgid "Secret Chat…"
-msgstr ""
+msgstr "Skrivni pogovor…"
 
 #: data/components/CreateNewMenu.qml:125
 #: data/components/CreateNewMenuInWindow.qml:125
 #, kde-format
 msgctxt "menu"
 msgid "Private Group…"
-msgstr ""
+msgstr "Zasebna skupina…"
 
 #: data/components/CreateNewMenu.qml:126
 #: data/components/CreateNewMenuInWindow.qml:126
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a private group"
-msgstr ""
+msgstr "Ustvari zasebno skupino"
 
 #: data/components/CreateNewMenu.qml:129
 #: data/components/CreateNewMenuInWindow.qml:129
 #, kde-format
 msgctxt "menu"
 msgid "Public Group…"
-msgstr ""
+msgstr "Javna skupina…"
 
 #: data/components/CreateNewMenu.qml:130
 #: data/components/CreateNewMenuInWindow.qml:130
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a public group"
-msgstr ""
+msgstr "Ustvari javno skupino"
 
 #: data/components/CreateNewMenu.qml:133
 #: data/components/CreateNewMenuInWindow.qml:133
 #, kde-format
 msgctxt "menu"
 msgid "Channel…"
-msgstr ""
+msgstr "Kanal…"
 
 #: data/components/CreateNewMenu.qml:134
 #: data/components/CreateNewMenuInWindow.qml:134
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a broadcast channel"
-msgstr ""
+msgstr "Ustvari oddajni kanal"
 
 #: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Undo"
-msgstr ""
+msgstr "Razveljavi"
 
 #: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Redo"
-msgstr ""
+msgstr "Uveljavi"
 
 #: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "Izreži"
 
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "Kopiraj"
 
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "Prilepi"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "popup menu for message"
 #| msgid "Delete"
 msgctxt "text editing menu action"
@@ -146,52 +146,52 @@ msgstr "Zbriši"
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Select All"
-msgstr ""
+msgstr "Izberi vse"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
 msgctxt "text menu editing action"
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
-msgstr ""
+msgstr "Krepko"
 
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Italic"
-msgstr ""
+msgstr "Ležeče"
 
 #: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
-msgstr ""
+msgstr "Podčrtano"
 
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr ""
+msgstr "Prečrtano"
 
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr ""
+msgstr "Neproporcionalna pisava"
 
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Normal"
-msgstr ""
+msgstr "Običajno"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "window title"
 #| msgid "Tok"
 msgctxt "menu"
@@ -202,108 +202,108 @@ msgstr "Tok"
 #, kde-format
 msgctxt "menu"
 msgid "Preferences…"
-msgstr ""
+msgstr "Preference…"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:98
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
-msgstr ""
+msgstr "Omogoči opombe"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:98
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
-msgstr ""
+msgstr "Onemogoči opombe"
 
 #: data/components/GlobalMenu.qml:26 data/components/GlobalMenuInWindow.qml:26
 #, kde-format
 msgctxt "menu"
 msgid "Log Out"
-msgstr ""
+msgstr "Odjavi se"
 
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
 #: data/Content.qml:102
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
-msgstr ""
+msgstr "Zapusti"
 
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
 #, kde-format
 msgctxt "menu"
 msgid "Chats"
-msgstr ""
+msgstr "Pogovori"
 
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
 #, kde-format
 msgctxt "menu"
 msgid "Chat With…"
-msgstr ""
+msgstr "Pogovor z…"
 
 #: data/components/GlobalMenu.qml:92 data/components/GlobalMenuInWindow.qml:92
 #, kde-format
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
 #, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "Pogled"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "Checkable menu item to toggle between the default appearance and a more "
 #| "compact style"
 #| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
-msgstr "Kompaktni način"
+msgstr "Onemogoči kompaktni način"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "Checkable menu item to toggle between the default appearance and a more "
 #| "compact style"
 #| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
-msgstr "Kompaktni način"
+msgstr "Omogoči kompaktni način"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Don't Use Image As Background"
-msgstr ""
+msgstr "Ne uporabljaj slike za ozadje"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Use Image As Background"
-msgstr ""
+msgstr "Uporabi sliko za ozadje"
 
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Disable Transparency"
-msgstr ""
+msgstr "Onemogoči prosojnost"
 
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Enable Transparency"
-msgstr ""
+msgstr "Omogoči prosojnost"
 
 #: data/components/GlobalMenu.qml:112
 #: data/components/GlobalMenuInWindow.qml:112
@@ -312,7 +312,7 @@ msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
-msgstr ""
+msgstr "Odpri hitri preklopnik"
 
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
@@ -320,68 +320,68 @@ msgstr ""
 msgctxt ""
 "menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
-msgstr ""
+msgstr "Nastavi barvno shemo"
 
 #: data/components/GlobalMenu.qml:142
 #: data/components/GlobalMenuInWindow.qml:142
 #, kde-format
 msgctxt "menu"
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: data/components/GlobalMenu.qml:146
 #: data/components/GlobalMenuInWindow.qml:146
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "Okno"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "Skrij stransko vrstico"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Show Sidebar"
-msgstr ""
+msgstr "Prikaži stransko vrstico"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
-msgstr ""
+msgstr "Izhod iz celozaslonskega načina"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "Pojdi v celozaslonski način"
 
 #: data/components/GlobalMenu.qml:159
 #: data/components/GlobalMenuInWindow.qml:159
 #, kde-format
 msgctxt "menu"
 msgid "Help"
-msgstr ""
+msgstr "Pomoč"
 
 #: data/components/GlobalMenu.qml:162
 #: data/components/GlobalMenuInWindow.qml:162
 #, kde-format
 msgctxt "menu"
 msgid "Telegram FAQ"
-msgstr ""
+msgstr "PZV o Telegramu"
 
 #: data/components/PlaintextMessage.qml:23
 #, kde-format
 msgid "You"
-msgstr ""
+msgstr "Vi"
 
 #: data/components/PlaintextMessage.qml:30
 #, kde-format
@@ -477,62 +477,62 @@ msgid "Unsupported"
 msgstr "Nepodprto"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
-msgstr "Prenesi datoteko"
+msgstr "Prenesi"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Dialog title"
 #| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
-msgstr "Prenesi datoteko"
+msgstr "Prenesi"
 
 #: data/components/upload/desktop/UploadDialog.qml:50
 #: data/routes/settings/ProxySettings.qml:123
 #, kde-format
 msgctxt "button"
 msgid "Cancel"
-msgstr ""
+msgstr "Prekliči"
 
 #: data/components/upload/desktop/UploadDialog.qml:62
 #: data/components/upload/mobile/UploadDialog.qml:310
 #, kde-format
 msgctxt "button"
 msgid "Send"
-msgstr ""
+msgstr "Pošlji"
 
 #: data/components/upload/desktop/UploadDialog.qml:104
 #, kde-format
 msgid "Compress image"
-msgstr ""
+msgstr "Stisni sliko"
 
 #: data/components/upload/mobile/UploadDialog.qml:79
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
-msgstr "Prenesi datoteko"
+msgstr "Prenesi…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
-msgstr "Fotografija"
+msgstr "Fotografije"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
-msgstr "Video"
+msgstr "Video posnetki"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
@@ -542,40 +542,40 @@ msgstr "Glasba"
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Files"
-msgstr ""
+msgstr "Datoteke"
 
 #: data/components/upload/RichTextArea.qml:32
 #, kde-format
 msgid "Add a caption…"
-msgstr ""
+msgstr "Dodaj podnapis pod sliko…"
 
 #: data/Content.qml:272
 #, kde-format
 msgid "Do you want to delete this message?"
-msgstr ""
+msgstr "Ali želite zbrisati to sporočilo?"
 
 #: data/Content.qml:279
 #, kde-format
 msgid "This will delete it just for you."
-msgstr ""
+msgstr "To bo zbrisalo prav za vas."
 
 #: data/Content.qml:283
 #, kde-format
 msgid "This will delete it for everyone in this chat."
-msgstr ""
+msgstr "To bo zbrisalo za vsakega v tem pogovoru."
 
 #: data/Content.qml:289
 #, kde-format
 msgid "Also delete for everyone"
-msgstr ""
+msgstr "Zbriši tudi za vsakogar"
 
 #: data/Content.qml:289
 #, kde-format
 msgid "Also delete for %1"
-msgstr ""
+msgstr "Zbriši tudi za %1"
 
 #: data/Content.qml:307
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "popup menu for message"
 #| msgid "Delete"
 msgid "Delete"
@@ -596,7 +596,7 @@ msgstr "Išči pogovore"
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
-msgstr ""
+msgstr "Utrvari nov…"
 
 #: data/routes/Chats.qml:236
 #, kde-format
@@ -629,17 +629,17 @@ msgstr "Ni razpoložljivih pogovorov."
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
 msgid "Phone verification"
-msgstr ""
+msgstr "Verifikacija telefona"
 
 #: data/routes/entry/AuthenticationCode.qml:35
 #, kde-format
 msgid "We've sent a code to the Telegram app on your other device."
-msgstr ""
+msgstr "Poslali smo kodo aplikaciji Telegram na vaši drugi napravi."
 
 #: data/routes/entry/AuthenticationCode.qml:49
 #, kde-format
 msgid "Code"
-msgstr ""
+msgstr "Koda"
 
 #: data/routes/entry/AuthenticationCode.qml:59
 #: data/routes/entry/AuthenticationCode.qml:60
@@ -647,12 +647,12 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "Nadaljuj"
 
 #: data/routes/entry/Password.qml:19
 #, kde-format
 msgid "Password"
-msgstr ""
+msgstr "Geslo"
 
 #: data/routes/entry/Password.qml:35
 #, kde-format
@@ -660,12 +660,14 @@ msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
+"Omogočili ste dvostopenjsko preverjanje, tako da je vaš račun zavarovan z "
+"dodatnim geslom."
 
 #: data/routes/entry/PhoneNumber.qml:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Welcome to Tok"
 msgid "Welcome"
-msgstr "Dobrodošli v Tok"
+msgstr "Dobrodošli"
 
 #: data/routes/entry/PhoneNumber.qml:69
 #, kde-format
@@ -675,7 +677,7 @@ msgstr "Telefonska številka"
 #: data/routes/entry/PhoneNumber.qml:88 data/routes/entry/Welcome.qml:27
 #, kde-format
 msgid "Configure Proxy…"
-msgstr ""
+msgstr "Nastavite posrednika…"
 
 #: data/routes/entry/Welcome.qml:17
 #, kde-format
@@ -688,19 +690,19 @@ msgid "Get Started"
 msgstr "Začnimo"
 
 #: data/routes/messages/components/CompositionBar.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send message"
 msgid "Edit Message"
-msgstr "Pošlji sporočilo"
+msgstr "Uredi sporočilo"
 
 #: data/routes/messages/components/CompositionBar.qml:154
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "Specifically a file; I use Attachment in English because it sounds better "
 #| "than File in this context."
 #| msgid "Attachment"
 msgid "Attach file"
-msgstr "Priloga"
+msgstr "Priloži datoteko"
 
 #: data/routes/messages/components/CompositionBar.qml:248
 #, kde-format
@@ -720,32 +722,32 @@ msgstr "Pošlji sporočilo"
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Group Info"
-msgstr ""
+msgstr "Informacije o skupini"
 
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Info"
-msgstr ""
+msgstr "Informacije"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgid "Photos"
-msgstr "Fotografija"
+msgstr "Fotografije"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgid "Videos"
-msgstr "Video"
+msgstr "Videoposnetki"
 
 #: data/routes/messages/components/MessageDelegate.qml:72
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: data/routes/messages/components/MessageDelegate.qml:81
 #, kde-format
@@ -766,14 +768,14 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Open File"
-msgstr ""
+msgstr "Odpri datoteko"
 
 #: data/routes/messages/components/normal/FileMessage.qml:48
 #: data/routes/messages/components/thin/FileMessage.qml:37
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
-msgstr ""
+msgstr "%1 / %2"
 
 #: data/routes/messages/components/normal/FileMessage.qml:54
 #: data/routes/messages/components/thin/FileMessage.qml:43
@@ -782,28 +784,28 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Stop Download"
-msgstr ""
+msgstr "Ustavi prejemanje"
 
 #: data/routes/messages/components/normal/FileMessage.qml:146
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
-msgstr ""
+msgstr "Lahko vlečete in spuščate ikono prenesenih datotek v druge aplikacije."
 
 #: data/routes/messages/components/normal/FileMessage.qml:210
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
-msgstr ""
+msgstr "Prenesi"
 
 #: data/routes/messages/components/normal/GifMessage.qml:64
 #: data/routes/messages/components/thin/GifMessage.qml:43
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo message."
 msgid "GIF message."
-msgstr "Foto sporočilo."
+msgstr "GIF sporočilo."
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
 #: data/routes/messages/components/normal/Sticker.qml:19
@@ -818,31 +820,31 @@ msgstr "Foto sporočilo."
 #: data/routes/messages/components/thin/UserAddMessage.qml:19
 #, kde-format
 msgid "%1 joined the group"
-msgstr ""
+msgstr "%1 se je pridružil(a) skupini"
 
 #: data/routes/messages/components/normal/VideoMessage.qml:146
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
-msgstr ""
+msgstr "Preneseno %1 od %2"
 
 #: data/routes/messages/components/normal/VoiceChatFinished.qml:18
 #: data/routes/messages/components/thin/VoiceChatFinished.qml:16
 #, kde-format
 msgid "%1 ended a voice chat"
-msgstr ""
+msgstr "%1 je končal(a) zvočni pogovor"
 
 #: data/routes/messages/components/normal/VoiceChatStarted.qml:18
 #: data/routes/messages/components/thin/VoiceChatStarted.qml:16
 #, kde-format
 msgid "%1 started a voice chat"
-msgstr ""
+msgstr "%1 je začel(a) zvočni pogovor"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
 msgid "Download"
-msgstr ""
+msgstr "Prenos"
 
 #: data/routes/messages/components/WebPageBlock.qml:67
 #, kde-format
@@ -851,7 +853,7 @@ msgctxt ""
 "brand name, but also sort of not? i would recommend consulting translations."
 "telegram.org to see how instant view was translated officially."
 msgid "Instant View"
-msgstr ""
+msgstr "Takojšnji pogled"
 
 #: data/routes/messages/NoView.qml:26
 #, kde-format
@@ -861,7 +863,7 @@ msgstr "Izberite pogovor za začetek sporočanja"
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
 msgid "Log out"
-msgstr ""
+msgstr "Odjavi se"
 
 #: data/routes/settings/AppearanceSettings.qml:21
 #, kde-format
@@ -869,7 +871,7 @@ msgctxt ""
 "Checkable control to toggle between the default appearance and a more "
 "compact style"
 msgid "Use a compact appearance for messages"
-msgstr ""
+msgstr "Uporabi kompaktni videz za sporočila"
 
 #: data/routes/settings/AppearanceSettings.qml:26
 #, kde-format
@@ -877,7 +879,7 @@ msgctxt ""
 "Checkable control to toggle between a photo background for the chat and "
 "using a solid colour"
 msgid "Display an image in the background of chats"
-msgstr ""
+msgstr "Prikazuj sliko v ozadju pogovorov"
 
 #: data/routes/settings/AppearanceSettings.qml:33
 #, kde-format
@@ -885,13 +887,13 @@ msgctxt ""
 "Checkable control to toggle viewing content underneath the window "
 "(transparent window bg)"
 msgid "Make the window transparent"
-msgstr ""
+msgstr "Napravi okno prosojno"
 
 #: data/routes/settings/AppearanceSettings.qml:39
 #, kde-format
 msgctxt "Button that offers a menu to change the colour scheme"
 msgid "Change Color Scheme"
-msgstr ""
+msgstr "Spremeni barvno shemo"
 
 #: data/routes/settings/BehaviourSettings.qml:21
 #, kde-format
@@ -899,13 +901,13 @@ msgctxt ""
 "Checkable control to toggle a system tray icon and not closing the app when "
 "X is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
-msgstr ""
+msgstr "Strni na sistemski pladenj, ko zaprem aplikacijo"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Appearance"
-msgstr ""
+msgstr "Videz"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
@@ -914,7 +916,7 @@ msgctxt ""
 "compact style. Keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Compact appearance for messages"
-msgstr ""
+msgstr "Kompaktni videz za sporočila"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:53
 #, kde-format
@@ -923,202 +925,203 @@ msgctxt ""
 "using a solid colour. Keep the text no longer than a few letters longer than "
 "the source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
-msgstr ""
+msgstr "Prikazuj sliko za pogovori"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:62
 #, kde-format
 msgctxt "List item that opens a page to change the colour scheme"
 msgid "Change color scheme"
-msgstr ""
+msgstr "Spremeni barvno shemo"
 
 #: data/routes/settings/mobile/ColorSchemes.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Pick a color scheme…"
-msgstr ""
+msgstr "Izberi barvno shemo…"
 
 #: data/routes/settings/mobile/NewProxy.qml:26
 #, kde-format
 msgctxt "title"
 msgid "New Proxy"
-msgstr ""
+msgstr "Novi posrednik"
 
 #: data/routes/settings/mobile/NewProxy.qml:37
 #: data/routes/settings/ProxySettings.qml:127
 #, kde-format
 msgctxt "button"
 msgid "Add Proxy"
-msgstr ""
+msgstr "Dodaj posrednika"
 
 #: data/routes/settings/mobile/ProxySettings.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Proxy Settings"
-msgstr ""
+msgstr "Nastavitve posrednika"
 
 #: data/routes/settings/mobile/ProxySettings.qml:45
 #, kde-format
 msgctxt "header"
 msgid "Current Proxies"
-msgstr ""
+msgstr "Trenutni posredniki"
 
 #: data/routes/settings/mobile/ProxySettings.qml:52
 #, kde-format
 msgctxt "mobile message, keep it as thin as possible"
 msgid "You have no proxies added."
-msgstr ""
+msgstr "Niste dodali nobenega posrednika."
 
 #: data/routes/settings/mobile/ProxySettings.qml:61
 #: data/routes/settings/ProxySettings.qml:40
 #, kde-format
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 #: data/routes/settings/mobile/ProxySettings.qml:62
 #: data/routes/settings/ProxySettings.qml:41
 #, kde-format
 msgid "MTProto"
-msgstr ""
+msgstr "MTProto"
 
 #: data/routes/settings/mobile/ProxySettings.qml:63
 #: data/routes/settings/ProxySettings.qml:42
 #, kde-format
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
 #, kde-format
 msgid "Active %1 Proxy"
-msgstr ""
+msgstr "Aktivni %1 posrednik"
 
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
 #, kde-format
 msgid "%1 Proxy"
-msgstr ""
+msgstr "%1 posrednik"
 
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
 #, kde-format
 msgctxt "button"
 msgid "Disable"
-msgstr ""
+msgstr "Onemogoči"
 
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
 #, kde-format
 msgctxt "button"
 msgid "Enable"
-msgstr ""
+msgstr "Omogoči"
 
 #: data/routes/settings/mobile/ProxySettings.qml:85
 #, kde-format
 msgid "New Proxy"
-msgstr ""
+msgstr "Novi posrednik"
 
 #: data/routes/settings/mobile/Settings.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Preferences"
-msgstr ""
+msgstr "Preference"
 
 #: data/routes/settings/mobile/Settings.qml:44
 #: data/routes/settings/Settings.qml:52
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "Videz"
 
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:64
 #, kde-format
 msgid "Proxy"
-msgstr ""
+msgstr "Posrednik"
 
 #: data/routes/settings/mobile/Settings.qml:60
 #, kde-format
 msgid "Log Out"
-msgstr ""
+msgstr "Odjavi se"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
 msgctxt "form subheader"
 msgid "General Configuration"
-msgstr ""
+msgstr "Splošna nastavitev"
 
 #: data/routes/settings/ProxyForm.qml:61
 #, kde-format
 msgctxt "form label"
 msgid "Server:"
-msgstr ""
+msgstr "Strežnik:"
 
 #: data/routes/settings/ProxyForm.qml:66
 #, kde-format
 msgctxt "form label"
 msgid "Port:"
-msgstr ""
+msgstr "Vrata:"
 
 #: data/routes/settings/ProxyForm.qml:72
 #, kde-format
 msgctxt "checkbox label"
 msgid "Make this proxy the active one when added"
-msgstr ""
+msgstr "Postavi tega posrednika za aktivnega, ko je dodan"
 
 #: data/routes/settings/ProxyForm.qml:80
 #, kde-format
 msgctxt "form label"
 msgid "Proxy Type:"
-msgstr ""
+msgstr "Vrsta posrednika:"
 
 #: data/routes/settings/ProxyForm.qml:85
 #, kde-format
 msgctxt "form subheader"
 msgid "HTTP Configuration"
-msgstr ""
+msgstr "Nastavitev HTTP"
 
 #: data/routes/settings/ProxyForm.qml:86
 #, kde-format
 msgctxt "form subheader"
 msgid "MTProto Configuration"
-msgstr ""
+msgstr "Nastavitev MTProto"
 
 #: data/routes/settings/ProxyForm.qml:87
 #, kde-format
 msgctxt "form subheader"
 msgid "SOCKS5 Configuration"
-msgstr ""
+msgstr "Nastavitev SOCKS5"
 
 #: data/routes/settings/ProxyForm.qml:97
 #, kde-format
 msgctxt "form control label"
 msgid "MTProto Secret"
-msgstr ""
+msgstr "Skrivnost MTProto"
 
 #: data/routes/settings/ProxyForm.qml:103
 #: data/routes/settings/ProxyForm.qml:129
 #, kde-format
 msgctxt "form control label"
 msgid "Username:"
-msgstr ""
+msgstr "Uporabniško ime:"
 
 #: data/routes/settings/ProxyForm.qml:109
 #: data/routes/settings/ProxyForm.qml:135
 #, kde-format
 msgctxt "form control label"
 msgid "Password:"
-msgstr ""
+msgstr "Geslo:"
 
 #: data/routes/settings/ProxyForm.qml:114
 #, kde-format
 msgctxt "form control label"
 msgid "This proxy only supports plain HTTP requests"
-msgstr ""
+msgstr "Ta posrednik podpira samo enostavne zahtevke HTTP"
 
 #: data/routes/settings/ProxyForm.qml:118
 #, kde-format
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
 msgstr ""
+"Vprašajte vašega dobavitelja posrednika, če niste prepričani o tej zmožnosti"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1127,162 +1130,164 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
+"Nimate dodanih posrednikov. Uporabite gumb Dodaj posrednika na dnu okna, da "
+"dodate posrednika."
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
 msgctxt "adds a proxy"
 msgid "Add Proxy"
-msgstr ""
+msgstr "Dodaj posrednika"
 
 #: data/routes/settings/ProxySettings.qml:92
 #, kde-format
 msgctxt "window title"
 msgid "Add Proxy"
-msgstr ""
+msgstr "Dodaj posrednika"
 
 #: data/routes/settings/Settings.qml:16
 #, kde-format
 msgctxt "window title"
 msgid "Preferences"
-msgstr ""
+msgstr "Preference"
 
 #: data/routes/settings/Settings.qml:46
 #, kde-format
 msgid "Account"
-msgstr ""
+msgstr "Račun"
 
 #: data/routes/settings/Settings.qml:47
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open account settings"
-msgstr ""
+msgstr "Odpri nastavitve računa"
 
 #: data/routes/settings/Settings.qml:53
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open appearance settings"
-msgstr ""
+msgstr "Odpri nastavitve videza"
 
 #: data/routes/settings/Settings.qml:58
 #, kde-format
 msgid "Behaviour"
-msgstr ""
+msgstr "Obnašanje"
 
 #: data/routes/settings/Settings.qml:59
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open app behaviour settings"
-msgstr ""
+msgstr "Odpri nastavitve obnašanja aplikacije"
 
 #: data/routes/settings/Settings.qml:65
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open proxy settings"
-msgstr ""
+msgstr "Odpri nastavitve posrednika"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
 msgid "All Chats"
-msgstr ""
+msgstr "Vsi pogovori"
 
 #: src/chatsstore.cpp:195 src/chatsstore.cpp:198
 #, kde-format
 msgid "Group"
-msgstr ""
+msgstr "Skupina"
 
 #: src/chatsstore.cpp:196
 #, kde-format
 msgid "Private chat"
-msgstr ""
+msgstr "Zasebni pogovor"
 
 #: src/chatsstore.cpp:197
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search chats"
 msgid "Secret chat"
-msgstr "Išči pogovore"
+msgstr "Skrivni pogovor"
 
 #: src/chatstore+actions.cpp:80
 #, kde-format
 msgid "%1 is typing"
 msgid_plural "%1 are typing"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 tipka"
+msgstr[1] "%1 tipkata"
+msgstr[2] "%1 tipkajo"
+msgstr[3] "%1 tipka"
 
 #: src/chatstore+actions.cpp:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload file"
 msgid "%1 is uploading a file"
 msgid_plural "%1 are uploading files"
-msgstr[0] "Prenesi datoteko"
-msgstr[1] "Prenesi datoteko"
-msgstr[2] "Prenesi datoteko"
-msgstr[3] "Prenesi datoteko"
+msgstr[0] "%1 prenaša datoteko"
+msgstr[1] "%1 prenašata datoteke"
+msgstr[2] "%1 prenašajo datoteke"
+msgstr[3] "%1 prenašajo datoteke"
 
 #: src/chatstore+actions.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload photo"
 msgid "%1 is uploading a photo"
 msgid_plural "%1 are uploading photos"
-msgstr[0] "Prenesi fotografijo"
-msgstr[1] "Prenesi fotografijo"
-msgstr[2] "Prenesi fotografijo"
-msgstr[3] "Prenesi fotografijo"
+msgstr[0] "%1 prenaša fotografijo"
+msgstr[1] "%1 prenašata fotografije"
+msgstr[2] "%1 prenašajo fotografije"
+msgstr[3] "%1 prenašajo fotografije"
 
 #: src/chatstore+actions.cpp:101
 #, kde-format
 msgid "%1 is uploading a video"
 msgid_plural "%1 are uploading videos"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 prenaša video posnetek"
+msgstr[1] "%1 prenašata video posnetke"
+msgstr[2] "%1 prenašajo video posnetke"
+msgstr[3] "%1 prenašajo video posnetke"
 
 #: src/chatstore+actions.cpp:108
 #, kde-format
 msgid "%1 is uploading a video note"
 msgid_plural "%1 are uploading video notes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 prenaša video opombo"
+msgstr[1] "%1 prenašata video opombe"
+msgstr[2] "%1 prenašajo video opombe"
+msgstr[3] "%1 prenašajo video opombe"
 
 #: src/chatstore+actions.cpp:115
 #, kde-format
 msgid "%1 is uploading a voice note"
 msgid_plural "%1 are uploading voice notes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 prenaša zvočno opombo"
+msgstr[1] "%1 prenašata zvočno opombe"
+msgstr[2] "%1 prenašajo zvočno opombe"
+msgstr[3] "%1 prenašajo zvočno opombe"
 
 #: src/chatstore+actions.cpp:122
 #, kde-format
 msgid "%1 is recording a video"
 msgid_plural "%1 are recording videos"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 snema video"
+msgstr[1] "%1 snemata videe"
+msgstr[2] "%1 snemajo videe"
+msgstr[3] "%1 snemajo videe"
 
 #: src/chatstore+actions.cpp:129
 #, kde-format
 msgid "%1 is recording a video note"
 msgid_plural "%1 are recording video notes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 snema video opombo"
+msgstr[1] "%1 snemata video opombe"
+msgstr[2] "%1 snemajo video opombe"
+msgstr[3] "%1 snemajo video opombe"
 
 #: src/chatstore+actions.cpp:136
 #, kde-format
 msgid "%1 is recording a voice note"
 msgid_plural "%1 are recording voice notes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "%1 snema zvočno opombo"
+msgstr[1] "%1 snemata zvočne opombe"
+msgstr[2] "%1 snemajo zvočne opombe"
+msgstr[3] "%1 snemajo zvočne opombe"
 
 #: src/extractinator.cpp:17
 #, kde-format
@@ -1300,10 +1305,10 @@ msgstr "Nepodprto"
 #, kde-format
 msgctxt "notification body for receiving a gif with a caption"
 msgid "GIF: %1"
-msgstr ""
+msgstr "GIF: %1"
 
 #: src/extractinator.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
@@ -1313,43 +1318,43 @@ msgstr "GIF"
 #, kde-format
 msgctxt "notification body for receiving a music with a caption"
 msgid "Music (%1): %2"
-msgstr ""
+msgstr "Glasba (%1): %2"
 
 #: src/extractinator.cpp:53
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
-msgstr "Glasba"
+msgstr "Glasba (%1)"
 
 #: src/extractinator.cpp:59
 #, kde-format
 msgctxt "notification body for receiving a file with a caption"
 msgid "File (%1): %2"
-msgstr ""
+msgstr "Datoteka (%1): %2"
 
 #: src/extractinator.cpp:61
 #, kde-format
 msgctxt "notification body for receiving file"
 msgid "File (%1)"
-msgstr ""
+msgstr "Datoteka (%1)"
 
 #: src/extractinator.cpp:66
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
-msgstr "Fotografija"
+msgstr "Fotografija: %1"
 
 #: src/extractinator.cpp:68
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "Fotografija"
 
 #: src/extractinator.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Expired Photo"
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
@@ -1357,28 +1362,28 @@ msgid "Expired Photo"
 msgstr "Pretekla fotografija"
 
 #: src/extractinator.cpp:77
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Sticker"
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
-msgstr "Nalepka"
+msgstr "Nalepka %1"
 
 #: src/extractinator.cpp:81
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
-msgstr "Video"
+msgstr "Video: %1"
 
 #: src/extractinator.cpp:83
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:89
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Expired Video"
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
@@ -1386,68 +1391,68 @@ msgid "Expired Video"
 msgstr "Pretekel video"
 
 #: src/extractinator.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "Lokacija"
 
 #: src/extractinator.cpp:107
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Venue"
 msgctxt "notification body for receiving a venue"
 msgid "Venue: %1"
-msgstr "Prihod"
+msgstr "Prihod: %1"
 
 #: src/extractinator.cpp:110
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Contact"
 msgctxt ""
 "notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
 msgid "Contact: %1 %2"
-msgstr "Stik"
+msgstr "Stik: %1 %2"
 
 #: src/extractinator.cpp:113
 #, kde-format
 msgctxt "notification body for receiving a dice"
 msgid "%1"
-msgstr ""
+msgstr "%1"
 
 #: src/extractinator.cpp:116
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Game"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
-msgstr "Igra"
+msgstr "Igra: %1"
 
 #: src/extractinator.cpp:119
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Poll"
 msgctxt "notification body for receiving a poll"
 msgid "Poll: %1"
-msgstr "Volitve"
+msgstr "Volitve: %1"
 
 #: src/extractinator.cpp:122
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
-msgstr "Naročilnica"
+msgstr "Naročilnica: %1"
 
 #: src/internationalisedlist.cpp:20
 #, kde-format
@@ -1455,28 +1460,28 @@ msgctxt ""
 "A list of two items. The items can be used to format any sort of nouns, e.g. "
 "a list of people, places, things."
 msgid "%1 and %2"
-msgstr ""
+msgstr "%1 in %2"
 
 #: src/internationalisedlist.cpp:28
 #, kde-format
 msgctxt ""
 "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
-msgstr ""
+msgstr "%1, in %2"
 
 #: src/internationalisedlist.cpp:31
 #, kde-format
 msgctxt ""
 "The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
-msgstr ""
+msgstr "%1, %2"
 
 #: src/internationalisedlist.cpp:34
 #, kde-format
 msgctxt ""
 "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
-msgstr ""
+msgstr "%1, %2"
 
 #: src/notificationmanager.cpp:81
 #, kde-format
