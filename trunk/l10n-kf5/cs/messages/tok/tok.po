@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-17 00:17+0000\n"
-"PO-Revision-Date: 2021-08-17 16:14+0200\n"
+"PO-Revision-Date: 2021-08-18 11:09+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -53,42 +53,42 @@ msgstr "Vytvořit"
 #, kde-format
 msgctxt "title"
 msgid "Select someone to chat with"
-msgstr ""
+msgstr "Vyberte, s kým si přejete mluvit"
 
 #: data/components/CreateNewMenu.qml:121
 #: data/components/CreateNewMenuInWindow.qml:121
 #, kde-format
 msgctxt "menu"
 msgid "Secret Chat…"
-msgstr ""
+msgstr "Tajný rozhovor…"
 
 #: data/components/CreateNewMenu.qml:125
 #: data/components/CreateNewMenuInWindow.qml:125
 #, kde-format
 msgctxt "menu"
 msgid "Private Group…"
-msgstr ""
+msgstr "Soukromá skupina…"
 
 #: data/components/CreateNewMenu.qml:126
 #: data/components/CreateNewMenuInWindow.qml:126
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a private group"
-msgstr ""
+msgstr "Vytvořit soukromou skupinu"
 
 #: data/components/CreateNewMenu.qml:129
 #: data/components/CreateNewMenuInWindow.qml:129
 #, kde-format
 msgctxt "menu"
 msgid "Public Group…"
-msgstr ""
+msgstr "Veřejná skupina…"
 
 #: data/components/CreateNewMenu.qml:130
 #: data/components/CreateNewMenuInWindow.qml:130
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a public group"
-msgstr ""
+msgstr "Vytvořit veřejnou skupinu"
 
 #: data/components/CreateNewMenu.qml:133
 #: data/components/CreateNewMenuInWindow.qml:133
@@ -102,7 +102,7 @@ msgstr "Kanál…"
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a broadcast channel"
-msgstr ""
+msgstr "Vytvořit vysílací kanál"
 
 #: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
 #, kde-format
@@ -270,28 +270,30 @@ msgstr "Povolit kompaktní režim"
 #, kde-format
 msgctxt "menu"
 msgid "Don't Use Image As Background"
-msgstr ""
+msgstr "Nepoužívat obrázek jako pozadí"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Use Image As Background"
-msgstr ""
+msgstr "Použít obrázek jako pozadí"
 
+# Přechod sklouznutí má posunovače, kde vlevo (žádný výběr) znamená průhlednost a vpravo (výběr 100 %) znamená neprůhlednost.
+# Opačně to nedává smysl.
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Disable Transparency"
-msgstr ""
+msgstr "Vypnout průhlednost"
 
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Enable Transparency"
-msgstr ""
+msgstr "Zapnout průhlednost"
 
 #: data/components/GlobalMenu.qml:112
 #: data/components/GlobalMenuInWindow.qml:112
@@ -538,22 +540,22 @@ msgstr "Chcete tuto zprávu odstranit?"
 #: data/Content.qml:279
 #, kde-format
 msgid "This will delete it just for you."
-msgstr ""
+msgstr "Tímto se vymaže pouze pro vás."
 
 #: data/Content.qml:283
 #, kde-format
 msgid "This will delete it for everyone in this chat."
-msgstr ""
+msgstr "Tímto se vymaže pro všechny v tomto rozhovoru."
 
 #: data/Content.qml:289
 #, kde-format
 msgid "Also delete for everyone"
-msgstr ""
+msgstr "Taktéž smazat pro všechny"
 
 #: data/Content.qml:289
 #, kde-format
 msgid "Also delete for %1"
-msgstr ""
+msgstr "Taktéž smazat pro %1"
 
 #: data/Content.qml:307
 #, kde-format
@@ -607,7 +609,7 @@ msgstr ""
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
 msgid "Phone verification"
-msgstr ""
+msgstr "Ověření telefonu"
 
 #: data/routes/entry/AuthenticationCode.qml:35
 #, kde-format
@@ -652,7 +654,7 @@ msgstr "Telefonní číslo"
 #: data/routes/entry/PhoneNumber.qml:88 data/routes/entry/Welcome.qml:27
 #, kde-format
 msgid "Configure Proxy…"
-msgstr ""
+msgstr "Nastavit proxy..."
 
 #: data/routes/entry/Welcome.qml:17
 #, kde-format
@@ -692,7 +694,7 @@ msgstr "Poslat správu"
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Group Info"
-msgstr ""
+msgstr "Informace o skupině"
 
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
@@ -772,7 +774,7 @@ msgstr "Stáhnout"
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
 msgid "GIF message."
-msgstr ""
+msgstr "Zpráva GIF."
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
 #: data/routes/messages/components/normal/Sticker.qml:19
@@ -787,25 +789,25 @@ msgstr ""
 #: data/routes/messages/components/thin/UserAddMessage.qml:19
 #, kde-format
 msgid "%1 joined the group"
-msgstr ""
+msgstr "%1 se přidal(a) ke skupině"
 
 #: data/routes/messages/components/normal/VideoMessage.qml:146
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
-msgstr ""
+msgstr "%1 z %2 staženo"
 
 #: data/routes/messages/components/normal/VoiceChatFinished.qml:18
 #: data/routes/messages/components/thin/VoiceChatFinished.qml:16
 #, kde-format
 msgid "%1 ended a voice chat"
-msgstr ""
+msgstr "%1 ukončil hlasový rozhovor"
 
 #: data/routes/messages/components/normal/VoiceChatStarted.qml:18
 #: data/routes/messages/components/thin/VoiceChatStarted.qml:16
 #, kde-format
 msgid "%1 started a voice chat"
-msgstr ""
+msgstr "%1 zahájil hlasový rozhovor"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
@@ -947,7 +949,7 @@ msgstr "HTTP"
 #: data/routes/settings/ProxySettings.qml:41
 #, kde-format
 msgid "MTProto"
-msgstr ""
+msgstr "MTProto"
 
 #: data/routes/settings/mobile/ProxySettings.qml:63
 #: data/routes/settings/ProxySettings.qml:42
@@ -984,7 +986,7 @@ msgstr "Povolit"
 #: data/routes/settings/mobile/ProxySettings.qml:85
 #, kde-format
 msgid "New Proxy"
-msgstr ""
+msgstr "Nová proxy"
 
 #: data/routes/settings/mobile/Settings.qml:24
 #, kde-format
@@ -1043,7 +1045,7 @@ msgstr "Typ proxy:"
 #, kde-format
 msgctxt "form subheader"
 msgid "HTTP Configuration"
-msgstr ""
+msgstr "Nastavení HTTP"
 
 #: data/routes/settings/ProxyForm.qml:86
 #, kde-format
@@ -1055,7 +1057,7 @@ msgstr ""
 #, kde-format
 msgctxt "form subheader"
 msgid "SOCKS5 Configuration"
-msgstr ""
+msgstr "Nastavení SOCKS5"
 
 #: data/routes/settings/ProxyForm.qml:97
 #, kde-format
@@ -1167,7 +1169,7 @@ msgstr "Soukromý rozhovor"
 #: src/chatsstore.cpp:197
 #, kde-format
 msgid "Secret chat"
-msgstr ""
+msgstr "Tajný rozhovor"
 
 #: src/chatstore+actions.cpp:80
 #, kde-format
