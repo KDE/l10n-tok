@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-19 00:16+0000\n"
-"PO-Revision-Date: 2021-08-18 11:09+0200\n"
+"PO-Revision-Date: 2021-08-18 15:42+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -894,25 +894,25 @@ msgctxt ""
 "using a solid colour. Keep the text no longer than a few letters longer than "
 "the source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
-msgstr ""
+msgstr "Zobrazit obrázek na pozadí rozhovorů"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:62
 #, kde-format
 msgctxt "List item that opens a page to change the colour scheme"
 msgid "Change color scheme"
-msgstr ""
+msgstr "Změnit barevné schéma"
 
 #: data/routes/settings/mobile/ColorSchemes.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Pick a color scheme…"
-msgstr ""
+msgstr "Vyberte barevné schéma…"
 
 #: data/routes/settings/mobile/NewProxy.qml:26
 #, kde-format
 msgctxt "title"
 msgid "New Proxy"
-msgstr ""
+msgstr "Nová proxy"
 
 #: data/routes/settings/mobile/NewProxy.qml:37
 #: data/routes/settings/ProxySettings.qml:127
@@ -931,13 +931,13 @@ msgstr "Nastavení proxy"
 #, kde-format
 msgctxt "header"
 msgid "Current Proxies"
-msgstr ""
+msgstr "Současné proxy"
 
 #: data/routes/settings/mobile/ProxySettings.qml:52
 #, kde-format
 msgctxt "mobile message, keep it as thin as possible"
 msgid "You have no proxies added."
-msgstr ""
+msgstr "Nemáte přidány žádné proxy."
 
 #: data/routes/settings/mobile/ProxySettings.qml:61
 #: data/routes/settings/ProxySettings.qml:40
@@ -961,7 +961,7 @@ msgstr "SOCKS5"
 #: data/routes/settings/ProxySettings.qml:45
 #, kde-format
 msgid "Active %1 Proxy"
-msgstr ""
+msgstr "%1 proxy je aktivní"
 
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
@@ -1051,7 +1051,7 @@ msgstr "Nastavení HTTP"
 #, kde-format
 msgctxt "form subheader"
 msgid "MTProto Configuration"
-msgstr ""
+msgstr "Nastavení MTProto"
 
 #: data/routes/settings/ProxyForm.qml:87
 #, kde-format
@@ -1126,13 +1126,13 @@ msgstr "Účet"
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open account settings"
-msgstr ""
+msgstr "Otevřít nastavení účtu"
 
 #: data/routes/settings/Settings.qml:53
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open appearance settings"
-msgstr ""
+msgstr "Otevřít nastavení vzhledu"
 
 #: data/routes/settings/Settings.qml:58
 #, kde-format
@@ -1149,7 +1149,7 @@ msgstr ""
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open proxy settings"
-msgstr ""
+msgstr "Otevřít nastavení proxy"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
@@ -1223,9 +1223,9 @@ msgstr[2] ""
 #, kde-format
 msgid "%1 is recording a video"
 msgid_plural "%1 are recording videos"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%1 nahrává video"
+msgstr[1] "%1 nahrávají video"
+msgstr[2] "%1 nahrává video"
 
 #: src/chatstore+actions.cpp:129
 #, kde-format
@@ -1314,7 +1314,7 @@ msgstr ""
 #, kde-format
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
-msgstr ""
+msgstr "Nálepka %1"
 
 #: src/extractinator.cpp:81
 #, kde-format
