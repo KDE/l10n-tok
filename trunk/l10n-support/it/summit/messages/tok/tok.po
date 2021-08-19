@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-17 10:12+0200\n"
+"POT-Creation-Date: 2021-08-19 10:15+0200\n"
 "PO-Revision-Date: 2021-08-18 02:46+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -153,8 +153,6 @@ msgstr "Incolla"
 #. +> trunk5
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "Elimina"
@@ -218,8 +216,6 @@ msgstr "Normale"
 #. +> trunk5
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -294,10 +290,6 @@ msgstr "Visualizza"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Disabilita la modalità compatta"
@@ -306,10 +298,6 @@ msgstr "Disabilita la modalità compatta"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Abilita la modalità compatta"
@@ -549,7 +537,6 @@ msgstr "Non supportato"
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
-#| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
 msgstr "Carica"
@@ -557,8 +544,6 @@ msgstr "Carica"
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
 msgstr "Carica"
@@ -588,7 +573,6 @@ msgstr "Comprimi immagine"
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
-#| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
 msgstr "Carica…"
@@ -596,7 +580,6 @@ msgstr "Carica…"
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "Foto"
@@ -604,7 +587,6 @@ msgstr "Foto"
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "Video"
@@ -612,7 +594,6 @@ msgstr "Video"
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "Musica"
@@ -663,8 +644,6 @@ msgstr "Elimina anche per %1"
 #. +> trunk5
 #: data/Content.qml:307
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "Elimina"
 
@@ -682,14 +661,14 @@ msgid "Search chats"
 msgstr "Cerca chat"
 
 #. +> trunk5
-#: data/routes/Chats.qml:188
+#: data/routes/Chats.qml:191
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
 msgstr "Crea nuovo..."
 
 #. +> trunk5
-#: data/routes/Chats.qml:236
+#: data/routes/Chats.qml:239
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
@@ -697,7 +676,7 @@ msgstr[0] "1 messaggio non letto."
 msgstr[1] "%1 messaggi non letti."
 
 #. +> trunk5
-#: data/routes/Chats.qml:239
+#: data/routes/Chats.qml:242
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -706,14 +685,14 @@ msgid "Latest message from %1: %2"
 msgstr "Ultimo messaggio di %1: %2"
 
 #. +> trunk5
-#: data/routes/Chats.qml:241
+#: data/routes/Chats.qml:244
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Ultimo messaggio: %1"
 
 #. +> trunk5
-#: data/routes/Chats.qml:383
+#: data/routes/Chats.qml:386
 #, kde-format
 msgid "No chats available."
 msgstr "Nessuna chat disponibile."
@@ -729,8 +708,8 @@ msgstr "Verifica telefonica"
 #, kde-format
 msgid "We've sent a code to the Telegram app on your other device."
 msgstr ""
-"Abbiamo inviato un codice per l'applicazione Telegram sul tuo altro"
-" dispositivo."
+"Abbiamo inviato un codice per l'applicazione Telegram sul tuo altro "
+"dispositivo."
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:49
@@ -760,13 +739,12 @@ msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
-"Hai abilitato la verifica in due passaggi, quindi il tuo account è protetto"
-" con una password aggiuntiva."
+"Hai abilitato la verifica in due passaggi, quindi il tuo account è protetto "
+"con una password aggiuntiva."
 
 #. +> trunk5
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "Benvenuto"
 
@@ -797,17 +775,12 @@ msgstr "Iniziamo"
 #. +> trunk5
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "Modifica messaggio"
 
 #. +> trunk5
 #: data/routes/messages/components/CompositionBar.qml:154
 #, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
 msgid "Attach file"
 msgstr "Allega file"
 
@@ -845,7 +818,6 @@ msgstr "Informazioni"
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Foto"
 
@@ -853,7 +825,6 @@ msgstr "Foto"
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Video"
 
@@ -913,7 +884,8 @@ msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
 msgstr ""
-"Puoi trascinare e rilasciare l'icona sui file scaricati in altre applicazioni."
+"Puoi trascinare e rilasciare l'icona sui file scaricati in altre "
+"applicazioni."
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:210
@@ -927,7 +899,6 @@ msgstr "Scarica"
 #: data/routes/messages/components/normal/GifMessage.qml:64
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
-#| msgid "Photo message."
 msgid "GIF message."
 msgstr "Messaggio GIF."
 
@@ -1303,8 +1274,8 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
-"Non hai aggiunto proxy. Usa il pulsante Aggiungi proxy nella parte inferiore"
-" della finestra per aggiungerne uno."
+"Non hai aggiunto proxy. Usa il pulsante Aggiungi proxy nella parte inferiore "
+"della finestra per aggiungerne uno."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
@@ -1388,7 +1359,6 @@ msgstr "Chat privata"
 #. +> trunk5
 #: src/chatsstore.cpp:197
 #, kde-format
-#| msgid "Search chats"
 msgid "Secret chat"
 msgstr "Chat segreta"
 
@@ -1403,7 +1373,6 @@ msgstr[1] "%1 stanno scrivendo"
 #. +> trunk5
 #: src/chatstore+actions.cpp:87
 #, kde-format
-#| msgid "Upload file"
 msgid "%1 is uploading a file"
 msgid_plural "%1 are uploading files"
 msgstr[0] "%1 sta caricando un file"
@@ -1412,7 +1381,6 @@ msgstr[1] "%1 stanno caricando file"
 #. +> trunk5
 #: src/chatstore+actions.cpp:94
 #, kde-format
-#| msgid "Upload photo"
 msgid "%1 is uploading a photo"
 msgid_plural "%1 are uploading photos"
 msgstr[0] "%1 sta caricando una foto..."
@@ -1490,7 +1458,6 @@ msgstr "GIF: %1"
 #. +> trunk5
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1505,7 +1472,6 @@ msgstr "Musica (%1): %2"
 #. +> trunk5
 #: src/extractinator.cpp:53
 #, kde-format
-#| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
 msgstr "Musica (%1)"
@@ -1527,7 +1493,6 @@ msgstr "File (%1)"
 #. +> trunk5
 #: src/extractinator.cpp:66
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
 msgstr "Foto: %1"
@@ -1535,7 +1500,6 @@ msgstr "Foto: %1"
 #. +> trunk5
 #: src/extractinator.cpp:68
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "Foto"
@@ -1543,7 +1507,6 @@ msgstr "Foto"
 #. +> trunk5
 #: src/extractinator.cpp:74
 #, kde-format
-#| msgid "Expired Photo"
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
@@ -1552,7 +1515,6 @@ msgstr "Foto scaduta"
 #. +> trunk5
 #: src/extractinator.cpp:77
 #, kde-format
-#| msgid "Sticker"
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
 msgstr "Adesivo %1"
@@ -1560,7 +1522,6 @@ msgstr "Adesivo %1"
 #. +> trunk5
 #: src/extractinator.cpp:81
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
 msgstr "Video: %1"
@@ -1568,7 +1529,6 @@ msgstr "Video: %1"
 #. +> trunk5
 #: src/extractinator.cpp:83
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "Video"
@@ -1576,7 +1536,6 @@ msgstr "Video"
 #. +> trunk5
 #: src/extractinator.cpp:89
 #, kde-format
-#| msgid "Expired Video"
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
@@ -1585,7 +1544,6 @@ msgstr "Video scaduto"
 #. +> trunk5
 #: src/extractinator.cpp:94
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Video"
@@ -1593,7 +1551,6 @@ msgstr "Video"
 #. +> trunk5
 #: src/extractinator.cpp:99
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Video"
@@ -1601,7 +1558,6 @@ msgstr "Video"
 #. +> trunk5
 #: src/extractinator.cpp:104
 #, kde-format
-#| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "Posizione"
@@ -1609,7 +1565,6 @@ msgstr "Posizione"
 #. +> trunk5
 #: src/extractinator.cpp:107
 #, kde-format
-#| msgid "Venue"
 msgctxt "notification body for receiving a venue"
 msgid "Venue: %1"
 msgstr "Luogo: %1"
@@ -1617,7 +1572,6 @@ msgstr "Luogo: %1"
 #. +> trunk5
 #: src/extractinator.cpp:110
 #, kde-format
-#| msgid "Contact"
 msgctxt ""
 "notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
@@ -1634,7 +1588,6 @@ msgstr "%1"
 #. +> trunk5
 #: src/extractinator.cpp:116
 #, kde-format
-#| msgid "Game"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
 msgstr "Gioco: %1"
@@ -1642,7 +1595,6 @@ msgstr "Gioco: %1"
 #. +> trunk5
 #: src/extractinator.cpp:119
 #, kde-format
-#| msgid "Poll"
 msgctxt "notification body for receiving a poll"
 msgid "Poll: %1"
 msgstr "Sondaggio: %1"
@@ -1650,7 +1602,6 @@ msgstr "Sondaggio: %1"
 #. +> trunk5
 #: src/extractinator.cpp:122
 #, kde-format
-#| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
 msgstr "Fattura: %1"
