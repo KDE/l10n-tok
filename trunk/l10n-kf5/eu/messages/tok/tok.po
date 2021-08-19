@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-17 00:17+0000\n"
+"POT-Creation-Date: 2021-08-19 00:16+0000\n"
 "PO-Revision-Date: 2021-08-06 14:46+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -594,20 +594,20 @@ msgstr "Tok"
 msgid "Search chats"
 msgstr "Bilatu berriketak"
 
-#: data/routes/Chats.qml:188
+#: data/routes/Chats.qml:191
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
 msgstr ""
 
-#: data/routes/Chats.qml:236
+#: data/routes/Chats.qml:239
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "Irakurri gabeko mezua 1."
 msgstr[1] "Irakurri gabeko %1 mezu."
 
-#: data/routes/Chats.qml:239
+#: data/routes/Chats.qml:242
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -615,13 +615,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "%1(e)ren azken mezua: %2"
 
-#: data/routes/Chats.qml:241
+#: data/routes/Chats.qml:244
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Azken mezua: %1"
 
-#: data/routes/Chats.qml:383
+#: data/routes/Chats.qml:386
 #, kde-format
 msgid "No chats available."
 msgstr "Ez dago berriketa erabilgarririk."
