@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-20 09:26+0200\n"
-"PO-Revision-Date: 2021-08-18 02:46+0200\n"
+"PO-Revision-Date: 2021-08-20 14:07+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -907,7 +907,7 @@ msgstr "Messaggio GIF."
 #, kde-format
 msgctxt "small text displayed by timestamp when message has been edited"
 msgid "edited"
-msgstr ""
+msgstr "modificato"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
