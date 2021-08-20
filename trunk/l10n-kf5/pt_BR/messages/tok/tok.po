@@ -7,9 +7,9 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-20 00:20+0000\n"
-"PO-Revision-Date: 2021-06-02 10:05-0300\n"
+"PO-Revision-Date: 2021-08-20 12:02-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
-"Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"Language-Team: Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,14 +22,14 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Create New"
-msgstr ""
+msgstr "Criar Novo"
 
 #: data/components/CreateNewMenu.qml:39
 #: data/components/CreateNewMenuInWindow.qml:39
 #, kde-format
 msgctxt "placeholder text"
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: data/components/CreateNewMenu.qml:62 data/components/CreateNewMenu.qml:113
 #: data/components/CreateNewMenuInWindow.qml:62
@@ -38,13 +38,13 @@ msgstr ""
 #: data/Content.qml:303
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: data/components/CreateNewMenu.qml:66
 #: data/components/CreateNewMenuInWindow.qml:66
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 #: data/components/CreateNewMenu.qml:90
 #: data/components/CreateNewMenuInWindow.qml:90
@@ -94,7 +94,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Channel…"
-msgstr ""
+msgstr "Canal…"
 
 #: data/components/CreateNewMenu.qml:134
 #: data/components/CreateNewMenuInWindow.qml:134
@@ -107,34 +107,34 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Undo"
-msgstr ""
+msgstr "Desfazer"
 
 #: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Redo"
-msgstr ""
+msgstr "Refazer"
 
 #: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "Recortar"
 
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "Colar"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "popup menu for message"
 #| msgid "Delete"
 msgctxt "text editing menu action"
@@ -145,52 +145,52 @@ msgstr "Excluir"
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Select All"
-msgstr ""
+msgstr "Selecionar tudo"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
 msgctxt "text menu editing action"
 msgid "Format"
-msgstr ""
+msgstr "Formatar"
 
 #: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
-msgstr ""
+msgstr "Negrito"
 
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Italic"
-msgstr ""
+msgstr "Itálico"
 
 #: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
-msgstr ""
+msgstr "Sublinhado"
 
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr ""
+msgstr "Tachado"
 
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr ""
+msgstr "Monoespaçado"
 
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "window title"
 #| msgid "Tok"
 msgctxt "menu"
@@ -201,21 +201,21 @@ msgstr "Tok"
 #, kde-format
 msgctxt "menu"
 msgid "Preferences…"
-msgstr ""
+msgstr "Preferências…"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:98
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
-msgstr ""
+msgstr "Habilitar notificações"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:98
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
-msgstr ""
+msgstr "Desabilitar notificações"
 
 #: data/components/GlobalMenu.qml:26 data/components/GlobalMenuInWindow.qml:26
 #, kde-format
@@ -228,13 +228,13 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
-msgstr ""
+msgstr "Sair"
 
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
 #, kde-format
 msgctxt "menu"
 msgid "Chats"
-msgstr ""
+msgstr "Bate-papos"
 
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
 #, kde-format
@@ -246,35 +246,35 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
 #, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "Visualizar"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "Checkable menu item to toggle between the default appearance and a more "
 #| "compact style"
 #| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
-msgstr "Modo compacto"
+msgstr "Desabilitar modo compacto"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "Checkable menu item to toggle between the default appearance and a more "
 #| "compact style"
 #| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
-msgstr "Modo compacto"
+msgstr "Habilitar modo compacto:"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
@@ -326,21 +326,21 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Format"
-msgstr ""
+msgstr "Formatar"
 
 #: data/components/GlobalMenu.qml:146
 #: data/components/GlobalMenuInWindow.qml:146
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "Janela"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "Ocultar barra lateral"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
