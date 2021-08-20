@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-20 00:20+0000\n"
-"PO-Revision-Date: 2021-08-17 12:24+0200\n"
+"PO-Revision-Date: 2021-08-20 16:36+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.04.3\n"
+"X-Generator: Lokalize 21.08.0\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -296,7 +296,8 @@ msgstr "Transparantie inschakelen"
 #: data/components/GlobalMenuInWindow.qml:112
 #, kde-format
 msgctxt ""
-"menu item that opens a UI element called the 'Quick Switcher', which offers "
+"menu item that opens a UI element called the 'Quick Switcher', which"
+" offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
 msgstr "Snelle wisselaar openen"
@@ -586,7 +587,8 @@ msgstr[1] "%1 ongelezen berichten."
 #: data/routes/Chats.qml:248
 #, kde-format
 msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"%1 is the message author (probably, but not necessarily a human), and %2"
+" is "
 "the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Laatste bericht van %1: %2"
@@ -634,7 +636,8 @@ msgstr "Wachtwoord"
 #: data/routes/entry/Password.qml:35
 #, kde-format
 msgid ""
-"You have enabled Two-Step Verification, so your account is protected with an "
+"You have enabled Two-Step Verification, so your account is protected with"
+" an "
 "additional password."
 msgstr ""
 "U hebt tweestapsverificatie ingeschakeld, uw account is dus beschermd met "
@@ -759,7 +762,8 @@ msgstr "Downloaden stoppen"
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
-"You can drag and drop the icon on downloaded files into other applications."
+"You can drag and drop the icon on downloaded files into other"
+" applications."
 msgstr ""
 "U kunt het pictogram op gedownloade bestanden naar andere toepassingen "
 "slepen en loslaten."
@@ -781,7 +785,7 @@ msgstr "GIF-bericht."
 #, kde-format
 msgctxt "small text displayed by timestamp when message has been edited"
 msgid "edited"
-msgstr ""
+msgstr "bewerkt"
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
 #: data/routes/messages/components/normal/Sticker.qml:19
@@ -825,8 +829,10 @@ msgstr "Downloaden"
 #: data/routes/messages/components/WebPageBlock.qml:67
 #, kde-format
 msgctxt ""
-"button that opens a preview of a web page. 'instant view' is sort of like a "
-"brand name, but also sort of not? i would recommend consulting translations."
+"button that opens a preview of a web page. 'instant view' is sort of like"
+" a "
+"brand name, but also sort of not? i would recommend consulting"
+" translations."
 "telegram.org to see how instant view was translated officially."
 msgid "Instant View"
 msgstr "Instant-weergave"
@@ -874,7 +880,8 @@ msgstr "Kleurenschema wijzigen"
 #: data/routes/settings/BehaviourSettings.qml:21
 #, kde-format
 msgctxt ""
-"Checkable control to toggle a system tray icon and not closing the app when "
+"Checkable control to toggle a system tray icon and not closing the app"
+" when "
 "X is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
 msgstr "Naar systeemvak minimaliseren wanneer ik de toepassing sluit"
@@ -898,8 +905,10 @@ msgstr "Uiterlijk compact maken voor berichten"
 #, kde-format
 msgctxt ""
 "Checkable control to toggle between a photo background for the chat and "
-"using a solid colour. Keep the text no longer than a few letters longer than "
-"the source string due to screen size constraints. Reword heavily if needed."
+"using a solid colour. Keep the text no longer than a few letters longer"
+" than "
+"the source string due to screen size constraints. Reword heavily if"
+" needed."
 msgid "Show image behind chats"
 msgstr "Afbeelding achter chats tonen"
 
@@ -1096,7 +1105,8 @@ msgstr "Deze proxy ondersteunt alleen platte HTTP verzoeken"
 #, kde-format
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
-msgstr "Vraag het aan uw proxyleverancier als u onzeker bent over deze optie"
+msgstr ""
+"Vraag het aan uw proxyleverancier als u onzeker bent over deze optie"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1105,7 +1115,8 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
-"U hebt geen proxies toegevoegd. Gebruik de knop Proxy toevoegen onderaan het "
+"U hebt geen proxies toegevoegd. Gebruik de knop Proxy toevoegen onderaan"
+" het "
 "venster om er een toe te voegen."
 
 #: data/routes/settings/ProxySettings.qml:83
@@ -1306,7 +1317,8 @@ msgstr "Foto"
 #: src/extractinator.cpp:74
 #, kde-format
 msgctxt ""
-"notification body for receiving an expired photo (one that self-destructed)"
+"notification body for receiving an expired photo (one that"
+" self-destructed)"
 msgid "Expired Photo"
 msgstr "Verlopen foto"
 
@@ -1331,7 +1343,8 @@ msgstr "Video"
 #: src/extractinator.cpp:89
 #, kde-format
 msgctxt ""
-"notification body for receiving an expired video (one that self-destructed)"
+"notification body for receiving an expired video (one that"
+" self-destructed)"
 msgid "Expired Video"
 msgstr "Verlopen video"
 
@@ -1362,7 +1375,8 @@ msgstr "Plaats van evenement: %1"
 #: src/extractinator.cpp:110
 #, kde-format
 msgctxt ""
-"notification body for receiving a contact, %1 %2 are firstname lastname from "
+"notification body for receiving a contact, %1 %2 are firstname lastname"
+" from "
 "telegram's system"
 msgid "Contact: %1 %2"
 msgstr "Contactpersoon: %1 %2"
@@ -1394,7 +1408,8 @@ msgstr "Rekening: %1"
 #: src/internationalisedlist.cpp:20
 #, kde-format
 msgctxt ""
-"A list of two items. The items can be used to format any sort of nouns, e.g. "
+"A list of two items. The items can be used to format any sort of nouns,"
+" e.g. "
 "a list of people, places, things."
 msgid "%1 and %2"
 msgstr "%1 en %2"
