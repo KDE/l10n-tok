@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-19 00:16+0000\n"
+"POT-Creation-Date: 2021-08-20 00:20+0000\n"
 "PO-Revision-Date: 2021-08-18 10:46+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -571,13 +571,13 @@ msgstr "Tok"
 msgid "Search chats"
 msgstr "Išči pogovore"
 
-#: data/routes/Chats.qml:191
+#: data/routes/Chats.qml:197
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
 msgstr "Utrvari nov…"
 
-#: data/routes/Chats.qml:239
+#: data/routes/Chats.qml:245
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
@@ -586,7 +586,7 @@ msgstr[1] "%1 neprebrani sporočili."
 msgstr[2] "%1 neprebrana sporočila."
 msgstr[3] "%1 neprebranih sporočil."
 
-#: data/routes/Chats.qml:242
+#: data/routes/Chats.qml:248
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -594,13 +594,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "Zadnje sporočilo od %1: %2"
 
-#: data/routes/Chats.qml:244
+#: data/routes/Chats.qml:250
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Zadnje sporočilo: %1"
 
-#: data/routes/Chats.qml:386
+#: data/routes/Chats.qml:392
 #, kde-format
 msgid "No chats available."
 msgstr "Ni razpoložljivih pogovorov."
@@ -776,6 +776,12 @@ msgstr "Prenesi"
 #, kde-format
 msgid "GIF message."
 msgstr "GIF sporočilo."
+
+#: data/routes/messages/components/normal/MessageBackground.qml:128
+#, kde-format
+msgctxt "small text displayed by timestamp when message has been edited"
+msgid "edited"
+msgstr ""
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
 #: data/routes/messages/components/normal/Sticker.qml:19

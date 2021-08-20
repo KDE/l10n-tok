@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-19 00:16+0000\n"
+"POT-Creation-Date: 2021-08-20 00:20+0000\n"
 "PO-Revision-Date: 2021-08-17 05:05+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -572,20 +572,20 @@ msgstr "Tok"
 msgid "Search chats"
 msgstr "Buscar chats"
 
-#: data/routes/Chats.qml:191
+#: data/routes/Chats.qml:197
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
 msgstr "Crear nuevo..."
 
-#: data/routes/Chats.qml:239
+#: data/routes/Chats.qml:245
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "1 mensaje sin leer."
 msgstr[1] "%1 mensajes sin leer."
 
-#: data/routes/Chats.qml:242
+#: data/routes/Chats.qml:248
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -593,13 +593,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "Último mensaje de %1: %2"
 
-#: data/routes/Chats.qml:244
+#: data/routes/Chats.qml:250
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Último mensaje: %1"
 
-#: data/routes/Chats.qml:386
+#: data/routes/Chats.qml:392
 #, kde-format
 msgid "No chats available."
 msgstr "Ningún chat disponible."
@@ -778,6 +778,12 @@ msgstr "Descargar"
 #, kde-format
 msgid "GIF message."
 msgstr "Mensaje GIF."
+
+#: data/routes/messages/components/normal/MessageBackground.qml:128
+#, kde-format
+msgctxt "small text displayed by timestamp when message has been edited"
+msgid "edited"
+msgstr ""
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
 #: data/routes/messages/components/normal/Sticker.qml:19

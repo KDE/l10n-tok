@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-19 00:16+0000\n"
+"POT-Creation-Date: 2021-08-20 00:20+0000\n"
 "PO-Revision-Date: 2021-05-22 20:05+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -591,19 +591,19 @@ msgstr "Tok"
 msgid "Search chats"
 msgstr "대화 검색"
 
-#: data/routes/Chats.qml:191
+#: data/routes/Chats.qml:197
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
 msgstr ""
 
-#: data/routes/Chats.qml:239
+#: data/routes/Chats.qml:245
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "읽지 않은 메시지 %1개가 있습니다."
 
-#: data/routes/Chats.qml:242
+#: data/routes/Chats.qml:248
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -611,13 +611,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "%1의 마지막 메시지: %2"
 
-#: data/routes/Chats.qml:244
+#: data/routes/Chats.qml:250
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "마지막 메시지: %1"
 
-#: data/routes/Chats.qml:386
+#: data/routes/Chats.qml:392
 #, kde-format
 msgid "No chats available."
 msgstr "대화가 없습니다."
@@ -800,6 +800,12 @@ msgstr ""
 #| msgid "Photo message."
 msgid "GIF message."
 msgstr "사진 메시지입니다."
+
+#: data/routes/messages/components/normal/MessageBackground.qml:128
+#, kde-format
+msgctxt "small text displayed by timestamp when message has been edited"
+msgid "edited"
+msgstr ""
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:72
 #: data/routes/messages/components/normal/Sticker.qml:19
