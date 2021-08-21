@@ -135,8 +135,6 @@ msgstr "Colar"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "Excluir"
@@ -191,8 +189,6 @@ msgstr "Normal"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -257,10 +253,6 @@ msgstr "Visualizar"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Desabilitar modo compacto"
@@ -268,10 +260,6 @@ msgstr "Desabilitar modo compacto"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Habilitar modo compacto:"
