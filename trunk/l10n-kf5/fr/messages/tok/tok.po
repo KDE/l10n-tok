@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-20 00:20+0000\n"
+"POT-Creation-Date: 2021-08-22 00:17+0000\n"
 "PO-Revision-Date: 2021-08-19 10:43+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -32,7 +32,7 @@ msgstr "Nom"
 #: data/components/CreateNewMenuInWindow.qml:62
 #: data/components/CreateNewMenuInWindow.qml:113
 #: data/components/GlobalMenu.qml:79 data/components/GlobalMenuInWindow.qml:79
-#: data/Content.qml:303
+#: data/Content.qml:317
 #, kde-format
 msgid "Cancel"
 msgstr "Annuler"
@@ -197,14 +197,14 @@ msgid "Preferences…"
 msgstr "Préférences…"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:98
+#: data/Content.qml:112
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
 msgstr "Activer les notifications"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:98
+#: data/Content.qml:112
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
@@ -217,7 +217,7 @@ msgid "Log Out"
 msgstr "Se déconnecter"
 
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
-#: data/Content.qml:102
+#: data/Content.qml:116
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
@@ -526,32 +526,32 @@ msgstr "Fichiers"
 msgid "Add a caption…"
 msgstr "Ajouter une légende…"
 
-#: data/Content.qml:272
+#: data/Content.qml:286
 #, kde-format
 msgid "Do you want to delete this message?"
 msgstr "Voulez-vous vraiment supprimer ce message ?"
 
-#: data/Content.qml:279
+#: data/Content.qml:293
 #, kde-format
 msgid "This will delete it just for you."
 msgstr "Ceci le supprimera uniquement pour vous."
 
-#: data/Content.qml:283
+#: data/Content.qml:297
 #, kde-format
 msgid "This will delete it for everyone in this chat."
 msgstr "Ceci le supprimera pour tout le monde dans cette discussion."
 
-#: data/Content.qml:289
+#: data/Content.qml:303
 #, kde-format
 msgid "Also delete for everyone"
 msgstr "Suppression aussi pour tout le monde."
 
-#: data/Content.qml:289
+#: data/Content.qml:303
 #, kde-format
 msgid "Also delete for %1"
 msgstr "Suppression aussi pour %1"
 
-#: data/Content.qml:307
+#: data/Content.qml:321
 #, kde-format
 msgid "Delete"
 msgstr "Supprimer"
@@ -769,7 +769,7 @@ msgctxt ""
 msgid "Download"
 msgstr "Télécharger"
 
-#: data/routes/messages/components/normal/GifMessage.qml:64
+#: data/routes/messages/components/normal/GifMessage.qml:66
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
 msgid "GIF message."
@@ -781,9 +781,9 @@ msgctxt "small text displayed by timestamp when message has been edited"
 msgid "edited"
 msgstr ""
 
-#: data/routes/messages/components/normal/PhotoMessage.qml:72
+#: data/routes/messages/components/normal/PhotoMessage.qml:74
 #: data/routes/messages/components/normal/Sticker.qml:19
-#: data/routes/messages/components/normal/VideoMessage.qml:50
+#: data/routes/messages/components/normal/VideoMessage.qml:52
 #: data/routes/messages/components/thin/PhotoMessage.qml:45
 #: data/routes/messages/components/thin/VideoMessage.qml:24
 #, kde-format
@@ -796,7 +796,7 @@ msgstr "Message avec photo."
 msgid "%1 joined the group"
 msgstr "%1 a rejoint le salon."
 
-#: data/routes/messages/components/normal/VideoMessage.qml:146
+#: data/routes/messages/components/normal/VideoMessage.qml:148
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
