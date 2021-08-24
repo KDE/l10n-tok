@@ -465,15 +465,12 @@ msgstr "Não suportado"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
-#| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
 msgstr "Enviar"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
 msgstr "Enviar"
@@ -499,28 +496,24 @@ msgstr ""
 
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
-#| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
 msgstr "Enviar…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "Fotos"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "Vídeos"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "Músicas"
@@ -563,8 +556,6 @@ msgstr ""
 
 #: data/Content.qml:321
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "Excluir"
 
@@ -648,7 +639,6 @@ msgstr ""
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "Bem-vindo"
 
@@ -674,16 +664,11 @@ msgstr "Começando"
 
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "Editar mensagem"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
 msgid "Attach file"
 msgstr "Anexar arquivo"
 
@@ -715,14 +700,12 @@ msgstr ""
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Fotos"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Vídeos"
 
@@ -1277,7 +1260,6 @@ msgstr ""
 
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1290,7 +1272,6 @@ msgstr ""
 
 #: src/extractinator.cpp:53
 #, kde-format
-#| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
 msgstr "Música (%1)"
@@ -1316,7 +1297,6 @@ msgstr "Foto"
 
 #: src/extractinator.cpp:68
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "Foto"

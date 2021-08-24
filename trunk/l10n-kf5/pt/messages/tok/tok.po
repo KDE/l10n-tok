@@ -137,8 +137,6 @@ msgstr "Colar"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "Apagar"
@@ -577,8 +575,6 @@ msgstr ""
 
 #: data/Content.qml:321
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "Apagar"
 
@@ -662,7 +658,6 @@ msgstr ""
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "Bem-vindo"
 
@@ -688,7 +683,6 @@ msgstr "Iniciar"
 
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "Editar a Mensagem"
 
@@ -729,14 +723,12 @@ msgstr "Informação"
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Fotografias"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Vídeos"
 
