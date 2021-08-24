@@ -747,14 +747,14 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Open File"
-msgstr ""
+msgstr "Abrir o Ficheiro"
 
 #: data/routes/messages/components/normal/FileMessage.qml:48
 #: data/routes/messages/components/thin/FileMessage.qml:37
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
-msgstr ""
+msgstr "%1 / %2"
 
 #: data/routes/messages/components/normal/FileMessage.qml:54
 #: data/routes/messages/components/thin/FileMessage.qml:43
@@ -777,7 +777,7 @@ msgstr ""
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
-msgstr ""
+msgstr "Transferir"
 
 #: data/routes/messages/components/normal/GifMessage.qml:66
 #: data/routes/messages/components/thin/GifMessage.qml:43
