@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-22 00:17+0000\n"
-"PO-Revision-Date: 2021-05-24 02:33+0100\n"
+"PO-Revision-Date: 2021-08-24 01:45+0100\n"
 "Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
 "Language: pt\n"
@@ -190,9 +190,7 @@ msgid "Normal"
 msgstr ""
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
-#, fuzzy, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
+#, kde-format
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -256,25 +254,17 @@ msgstr "Ver"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
+#, kde-format
 msgctxt "menu"
 msgid "Disable Compact Mode"
-msgstr "Modo compacto"
+msgstr "Desactivar o Modo Compacto"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
-#, fuzzy, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
+#, kde-format
 msgctxt "menu"
 msgid "Enable Compact Mode"
-msgstr "Modo compacto"
+msgstr "Activar o Modo Compacto"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
@@ -1474,22 +1464,3 @@ msgstr "Responder a %1…"
 msgid "Loading…"
 msgstr "A carregar…"
 
-#~ msgid ""
-#~ "Enter your authentication code that you received from another Telegram "
-#~ "client"
-#~ msgstr ""
-#~ "Indique o seu código de autenticação que recebeu de outro cliente de "
-#~ "Telegram"
-
-#~ msgid "Authentication code"
-#~ msgstr "Código de autenticação"
-
-#~ msgid "Enter your password"
-#~ msgstr "Indique a sua senha"
-
-#~ msgid "Enter your phone number"
-#~ msgstr "Indique o seu número de telefone"
-
-#~ msgctxt "Dialog title"
-#~ msgid "Upload photo"
-#~ msgstr "Enviar uma fotografia"
