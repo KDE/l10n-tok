@@ -40,13 +40,13 @@ msgstr ""
 #: data/Content.qml:317
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: data/components/CreateNewMenu.qml:66
 #: data/components/CreateNewMenuInWindow.qml:66
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 #: data/components/CreateNewMenu.qml:90
 #: data/components/CreateNewMenuInWindow.qml:90
@@ -109,34 +109,34 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Undo"
-msgstr ""
+msgstr "Desfazer"
 
 #: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Redo"
-msgstr ""
+msgstr "Refazer"
 
 #: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "Cortar"
 
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "Colar"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "popup menu for message"
 #| msgid "Delete"
 msgctxt "text editing menu action"
@@ -147,7 +147,7 @@ msgstr "Apagar"
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Select All"
-msgstr ""
+msgstr "Seleccionar Tudo"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -203,7 +203,7 @@ msgstr "Tok"
 #, kde-format
 msgctxt "menu"
 msgid "Preferences…"
-msgstr ""
+msgstr "Preferências…"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:112
@@ -248,13 +248,13 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
 #, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "Ver"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
@@ -313,7 +313,7 @@ msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
-msgstr ""
+msgstr "Abrir o Selector Rápido"
 
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
@@ -335,7 +335,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "Janela"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
@@ -356,21 +356,21 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
-msgstr ""
+msgstr "Sair do Ecrã Completo"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "Entrar no Ecrã Completo"
 
 #: data/components/GlobalMenu.qml:159
 #: data/components/GlobalMenuInWindow.qml:159
 #, kde-format
 msgctxt "menu"
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: data/components/GlobalMenu.qml:162
 #: data/components/GlobalMenuInWindow.qml:162
@@ -382,7 +382,7 @@ msgstr ""
 #: data/components/PlaintextMessage.qml:23
 #, kde-format
 msgid "You"
-msgstr ""
+msgstr "Você"
 
 #: data/components/PlaintextMessage.qml:30
 #, kde-format
@@ -553,7 +553,7 @@ msgstr ""
 #: data/Content.qml:286
 #, kde-format
 msgid "Do you want to delete this message?"
-msgstr ""
+msgstr "Deseja apagar esta mensagem?"
 
 #: data/Content.qml:293
 #, kde-format
@@ -576,7 +576,7 @@ msgid "Also delete for %1"
 msgstr ""
 
 #: data/Content.qml:321
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "popup menu for message"
 #| msgid "Delete"
 msgid "Delete"
@@ -638,7 +638,7 @@ msgstr ""
 #: data/routes/entry/AuthenticationCode.qml:49
 #, kde-format
 msgid "Code"
-msgstr ""
+msgstr "Código"
 
 #: data/routes/entry/AuthenticationCode.qml:59
 #: data/routes/entry/AuthenticationCode.qml:60
@@ -646,12 +646,12 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 #: data/routes/entry/Password.qml:19
 #, kde-format
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 #: data/routes/entry/Password.qml:35
 #, kde-format
@@ -661,10 +661,10 @@ msgid ""
 msgstr ""
 
 #: data/routes/entry/PhoneNumber.qml:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Welcome to Tok"
 msgid "Welcome"
-msgstr "Bem-vindo ao Tok"
+msgstr "Bem-vindo"
 
 #: data/routes/entry/PhoneNumber.qml:69
 #, kde-format
@@ -687,10 +687,10 @@ msgid "Get Started"
 msgstr "Iniciar"
 
 #: data/routes/messages/components/CompositionBar.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send message"
 msgid "Edit Message"
-msgstr "Enviar uma mensagem"
+msgstr "Editar a Mensagem"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, fuzzy, kde-format
@@ -724,21 +724,21 @@ msgstr ""
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Info"
-msgstr ""
+msgstr "Informação"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgid "Photos"
-msgstr "Fotografia"
+msgstr "Fotografias"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/VideosView.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgid "Videos"
-msgstr "Vídeo"
+msgstr "Vídeos"
 
 #: data/routes/messages/components/MessageDelegate.qml:72
 #, kde-format
@@ -977,7 +977,7 @@ msgstr ""
 #: data/routes/settings/ProxySettings.qml:40
 #, kde-format
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 #: data/routes/settings/mobile/ProxySettings.qml:62
 #: data/routes/settings/ProxySettings.qml:41
@@ -1032,18 +1032,18 @@ msgstr ""
 #: data/routes/settings/Settings.qml:52
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "Aparência"
 
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:64
 #, kde-format
 msgid "Proxy"
-msgstr ""
+msgstr "'Proxy'"
 
 #: data/routes/settings/mobile/Settings.qml:60
 #, kde-format
 msgid "Log Out"
-msgstr ""
+msgstr "Sair"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1154,7 +1154,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:46
 #, kde-format
 msgid "Account"
-msgstr ""
+msgstr "Conta"
 
 #: data/routes/settings/Settings.qml:47
 #, kde-format
@@ -1171,7 +1171,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:58
 #, kde-format
 msgid "Behaviour"
-msgstr ""
+msgstr "Comportamento"
 
 #: data/routes/settings/Settings.qml:59
 #, kde-format
