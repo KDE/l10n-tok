@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-22 00:17+0000\n"
+"POT-Creation-Date: 2021-08-25 00:18+0000\n"
 "PO-Revision-Date: 2021-08-20 11:28+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -731,7 +731,7 @@ msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "Smazat"
 
-#: data/routes/messages/components/normal/FileMessage.qml:38
+#: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
 msgctxt ""
@@ -740,14 +740,14 @@ msgctxt ""
 msgid "Open File"
 msgstr "Otevřít soubor"
 
-#: data/routes/messages/components/normal/FileMessage.qml:48
+#: data/routes/messages/components/normal/FileMessage.qml:49
 #: data/routes/messages/components/thin/FileMessage.qml:37
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
 msgstr "%1 / %2"
 
-#: data/routes/messages/components/normal/FileMessage.qml:54
+#: data/routes/messages/components/normal/FileMessage.qml:55
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
 msgctxt ""
@@ -756,14 +756,14 @@ msgctxt ""
 msgid "Stop Download"
 msgstr "Zastavit stahování"
 
-#: data/routes/messages/components/normal/FileMessage.qml:146
+#: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
 msgstr ""
 
-#: data/routes/messages/components/normal/FileMessage.qml:210
+#: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"

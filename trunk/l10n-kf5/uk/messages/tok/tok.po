@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-22 00:17+0000\n"
+"POT-Creation-Date: 2021-08-25 00:18+0000\n"
 "PO-Revision-Date: 2021-08-20 07:22+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -732,7 +732,7 @@ msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "Вилучити"
 
-#: data/routes/messages/components/normal/FileMessage.qml:38
+#: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
 msgctxt ""
@@ -741,14 +741,14 @@ msgctxt ""
 msgid "Open File"
 msgstr "Відкрити файл"
 
-#: data/routes/messages/components/normal/FileMessage.qml:48
+#: data/routes/messages/components/normal/FileMessage.qml:49
 #: data/routes/messages/components/thin/FileMessage.qml:37
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
 msgstr "%1 з %2"
 
-#: data/routes/messages/components/normal/FileMessage.qml:54
+#: data/routes/messages/components/normal/FileMessage.qml:55
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
 msgctxt ""
@@ -757,7 +757,7 @@ msgctxt ""
 msgid "Stop Download"
 msgstr "Припинити отримання даних"
 
-#: data/routes/messages/components/normal/FileMessage.qml:146
+#: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
@@ -766,7 +766,7 @@ msgstr ""
 "Ви можете перетягнути піктограми отриманих файлів і скинути їх до вікон "
 "інших програм."
 
-#: data/routes/messages/components/normal/FileMessage.qml:210
+#: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
