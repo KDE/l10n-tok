@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-22 10:47+0200\n"
+"POT-Creation-Date: 2021-08-25 09:51+0200\n"
 "PO-Revision-Date: 2021-08-21 20:37+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -834,7 +834,7 @@ msgid "Delete"
 msgstr "Supprimer"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:38
+#: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
 msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
@@ -842,7 +842,7 @@ msgid "Open File"
 msgstr "Ouvrir un fichier"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:48
+#: data/routes/messages/components/normal/FileMessage.qml:49
 #: data/routes/messages/components/thin/FileMessage.qml:37
 #, kde-format
 msgctxt "file download progress"
@@ -850,7 +850,7 @@ msgid "%1 / %2"
 msgstr "%1 / %2"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:54
+#: data/routes/messages/components/normal/FileMessage.qml:55
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
 msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
@@ -858,14 +858,14 @@ msgid "Stop Download"
 msgstr "Arrêter un téléchargement"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:146
+#: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid "You can drag and drop the icon on downloaded files into other applications."
 msgstr "Vous pouvez faire un glisser /déposer de l'icône des fichiers téléchargés vers d'autres applications."
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:210
+#: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
 msgctxt "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
