@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-22 10:47+0200\n"
+"POT-Creation-Date: 2021-08-26 10:57+0200\n"
 "PO-Revision-Date: 2021-08-20 14:07+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -431,6 +431,8 @@ msgstr "GIF"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:32
+#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/MusicView.qml:14
 #, kde-format
 msgid "Music"
 msgstr "Musica"
@@ -850,7 +852,7 @@ msgid "Delete"
 msgstr "Elimina"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:38
+#: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
 msgctxt ""
@@ -860,7 +862,7 @@ msgid "Open File"
 msgstr "Apri file"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:48
+#: data/routes/messages/components/normal/FileMessage.qml:49
 #: data/routes/messages/components/thin/FileMessage.qml:37
 #, kde-format
 msgctxt "file download progress"
@@ -868,7 +870,7 @@ msgid "%1 / %2"
 msgstr "%1 / %2"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:54
+#: data/routes/messages/components/normal/FileMessage.qml:55
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
 msgctxt ""
@@ -878,7 +880,7 @@ msgid "Stop Download"
 msgstr "Ferma lo scaricamento"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:146
+#: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
@@ -888,7 +890,7 @@ msgstr ""
 "applicazioni."
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:210
+#: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
