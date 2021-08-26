@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-25 00:18+0000\n"
+"POT-Creation-Date: 2021-08-26 00:17+0000\n"
 "PO-Revision-Date: 2021-08-22 15:30\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
@@ -376,6 +376,8 @@ msgid "GIF"
 msgstr ""
 
 #: data/components/PlaintextMessage.qml:32
+#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/MusicView.qml:14
 #, kde-format
 msgid "Music"
 msgstr ""
