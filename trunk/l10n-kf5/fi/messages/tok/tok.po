@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-26 00:17+0000\n"
-"PO-Revision-Date: 2021-05-06 17:09+0300\n"
+"PO-Revision-Date: 2021-08-23 11:50+0300\n"
 "Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
 "Language: fi\n"
@@ -455,7 +455,7 @@ msgstr "Peli"
 #: data/components/PlaintextMessage.qml:60
 #, kde-format
 msgid "Poll"
-msgstr ""
+msgstr "Kysely"
 
 #: data/components/PlaintextMessage.qml:62
 #, kde-format
@@ -572,7 +572,7 @@ msgstr "Poista"
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:44
 #, kde-format
@@ -688,8 +688,7 @@ msgid "Attach file"
 msgstr "Liite"
 
 #: data/routes/messages/components/CompositionBar.qml:248
-#, fuzzy, kde-format
-#| msgid "Write your message..."
+#, kde-format
 msgid "Write your message…"
 msgstr "Kirjoita viesti…"
 
@@ -1456,16 +1455,13 @@ msgid "Reply"
 msgstr "Vastaa"
 
 #: src/notificationmanager.cpp:82
-#, fuzzy, kde-format
-#| msgctxt "placeholder text"
-#| msgid "Reply to %1..."
+#, kde-format
 msgctxt "placeholder text"
 msgid "Reply to %1…"
-msgstr "Vastaa: %1…"
+msgstr "Vastaa käyttäjälle %1…"
 
 #: src/userdata.cpp:50
-#, fuzzy, kde-format
-#| msgid "Loading..."
+#, kde-format
 msgid "Loading…"
 msgstr "Ladataan…"
 
