@@ -639,7 +639,9 @@ msgstr "Senha"
 msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
-msgstr "Activou a Verificação em Dois Passos, pelo que a sua conta está protegida com uma senha adicional."
+msgstr ""
+"Activou a Verificação em Dois Passos, pelo que a sua conta está protegida "
+"com uma senha adicional."
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
@@ -761,7 +763,9 @@ msgstr "Parar a Transferência"
 msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
-msgstr "Poderá arrastar e largar o ícone dos ficheiros transferidos noutras aplicações."
+msgstr ""
+"Poderá arrastar e largar o ícone dos ficheiros transferidos noutras "
+"aplicações."
 
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
@@ -1095,7 +1099,8 @@ msgstr "Este 'proxy' só suporta pedidos de HTTP normal"
 #, kde-format
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
-msgstr "Pergunte ao fornecedor do seu 'proxy' se não tiver a certeza sobre esta opção"
+msgstr ""
+"Pergunte ao fornecedor do seu 'proxy' se não tiver a certeza sobre esta opção"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1103,7 +1108,9 @@ msgctxt "placeholder message"
 msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
-msgstr "Não tem 'proxies' adicionados. Use o botão 'Adicionar um Proxy' no fundo da janela para adicionar um."
+msgstr ""
+"Não tem 'proxies' adicionados. Use o botão 'Adicionar um Proxy' no fundo da "
+"janela para adicionar um."
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
