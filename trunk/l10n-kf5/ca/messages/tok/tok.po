@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-26 00:17+0000\n"
-"PO-Revision-Date: 2021-08-20 13:34+0200\n"
-"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"PO-Revision-Date: 2021-08-30 22:00+0100\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Lokalize 20.12.0\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -1113,7 +1113,7 @@ msgid ""
 "window to add one."
 msgstr ""
 "No s'ha afegit cap servidor intermediari. Useu el botó Afegeix un servidor "
-"intermediari de la finestra per a afegir-ne un."
+"intermediari a la part inferior de la finestra per a afegir-ne un."
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
