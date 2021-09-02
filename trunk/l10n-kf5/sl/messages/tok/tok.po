@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-26 00:17+0000\n"
+"POT-Creation-Date: 2021-09-02 00:18+0000\n"
 "PO-Revision-Date: 2021-08-24 08:25+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -379,6 +379,7 @@ msgstr "GIF"
 #: data/components/PlaintextMessage.qml:32
 #: data/routes/messages/components/GroupInformation.qml:130
 #: data/routes/messages/components/MusicView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Music"
 msgstr "Glasba"
@@ -706,29 +707,31 @@ msgstr "Informacije"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:96
 #, kde-format
 msgid "Photos"
 msgstr "Fotografije"
 
 #: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
 msgid "Videos"
 msgstr "Videoposnetki"
 
-#: data/routes/messages/components/MessageDelegate.qml:72
+#: data/routes/messages/components/MessageDelegate.qml:76
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
 msgstr "Uredi"
 
-#: data/routes/messages/components/MessageDelegate.qml:81
+#: data/routes/messages/components/MessageDelegate.qml:85
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Odgovor"
 
-#: data/routes/messages/components/MessageDelegate.qml:89
+#: data/routes/messages/components/MessageDelegate.qml:93
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
@@ -818,6 +821,23 @@ msgstr "%1 je končal(a) zvočni pogovor"
 msgid "%1 started a voice chat"
 msgstr "%1 je začel(a) zvočni pogovor"
 
+#: data/routes/messages/components/SearchMessages.qml:18
+#, kde-format
+msgctxt "dialog title"
+msgid "Search Messages in %1"
+msgstr ""
+
+#: data/routes/messages/components/SearchMessages.qml:95
+#, fuzzy, kde-format
+#| msgid "Edit Message"
+msgid "All Messages"
+msgstr "Uredi sporočilo"
+
+#: data/routes/messages/components/SearchMessages.qml:132
+#, kde-format
+msgid "View In Chat"
+msgstr ""
+
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
@@ -837,6 +857,12 @@ msgstr "Takojšnji pogled"
 #, kde-format
 msgid "Select a chat to start messaging"
 msgstr "Izberite pogovor za začetek sporočanja"
+
+#: data/routes/messages/View.qml:162
+#, fuzzy, kde-format
+#| msgid "Search chats"
+msgid "Search"
+msgstr "Išči pogovore"
 
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
