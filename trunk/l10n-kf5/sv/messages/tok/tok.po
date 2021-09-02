@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-02 00:18+0000\n"
-"PO-Revision-Date: 2021-08-20 17:24+0200\n"
+"PO-Revision-Date: 2021-09-02 19:44+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -822,18 +822,18 @@ msgstr "%1 startade en röstchatt"
 #, kde-format
 msgctxt "dialog title"
 msgid "Search Messages in %1"
-msgstr ""
+msgstr "Sök meddelanden i %1"
 
 #: data/routes/messages/components/SearchMessages.qml:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Edit Message"
 msgid "All Messages"
-msgstr "Redigera meddelande"
+msgstr "Alla meddelanden"
 
 #: data/routes/messages/components/SearchMessages.qml:132
 #, kde-format
 msgid "View In Chat"
-msgstr ""
+msgstr "Visa i chatt"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
@@ -856,10 +856,10 @@ msgid "Select a chat to start messaging"
 msgstr "Välj en chatt för att börja skicka meddelanden"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search chats"
 msgid "Search"
-msgstr "Sök chattar"
+msgstr "Sök"
 
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
