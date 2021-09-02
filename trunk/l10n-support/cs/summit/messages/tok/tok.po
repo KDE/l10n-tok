@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-26 10:57+0200\n"
+"POT-Creation-Date: 2021-09-02 09:29+0200\n"
 "PO-Revision-Date: 2021-08-20 11:28+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -436,6 +436,7 @@ msgstr "GIF"
 #: data/components/PlaintextMessage.qml:32
 #: data/routes/messages/components/GroupInformation.qml:130
 #: data/routes/messages/components/MusicView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Music"
 msgstr "Hudba"
@@ -819,33 +820,35 @@ msgstr "Informace"
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:96
 #, kde-format
 msgid "Photos"
 msgstr "Fotografie"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
 msgid "Videos"
 msgstr "Videa"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:72
+#: data/routes/messages/components/MessageDelegate.qml:76
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
 msgstr "Upravit"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:81
+#: data/routes/messages/components/MessageDelegate.qml:85
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Odpovědět"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:89
+#: data/routes/messages/components/MessageDelegate.qml:93
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
@@ -948,6 +951,28 @@ msgid "%1 started a voice chat"
 msgstr "%1 zahájil hlasový rozhovor"
 
 #. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:18
+#, fuzzy, kde-format
+#| msgid "Search Messages"
+msgctxt "dialog title"
+msgid "Search Messages in %1"
+msgstr "Hledat zprávy"
+
+#. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:95
+#, kde-format
+msgid "All Messages"
+msgstr "Všechny zprávy"
+
+#. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:132
+#, fuzzy, kde-format
+#| msgctxt "PageBio|"
+#| msgid "View Chart"
+msgid "View In Chat"
+msgstr "Zobrazit graf"
+
+#. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
@@ -969,6 +994,12 @@ msgstr "Okamžitý náhled"
 #, kde-format
 msgid "Select a chat to start messaging"
 msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/View.qml:162
+#, kde-format
+msgid "Search"
+msgstr "Hledat"
 
 #. +> trunk5
 #: data/routes/settings/AccountSettings.qml:21
