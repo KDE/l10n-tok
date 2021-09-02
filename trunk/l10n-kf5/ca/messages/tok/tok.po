@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-02 00:18+0000\n"
-"PO-Revision-Date: 2021-08-30 22:00+0100\n"
+"PO-Revision-Date: 2021-09-02 13:50+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 20.12.0\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -828,18 +828,18 @@ msgstr "%1 ha iniciat un xat de veu"
 #, kde-format
 msgctxt "dialog title"
 msgid "Search Messages in %1"
-msgstr ""
+msgstr "Cerca missatges a %1"
 
 #: data/routes/messages/components/SearchMessages.qml:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Edit Message"
 msgid "All Messages"
-msgstr "Edita un missatge"
+msgstr "Tots els missatges"
 
 #: data/routes/messages/components/SearchMessages.qml:132
 #, kde-format
 msgid "View In Chat"
-msgstr ""
+msgstr "Visualitza en el xat"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
@@ -862,10 +862,10 @@ msgid "Select a chat to start messaging"
 msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search chats"
 msgid "Search"
-msgstr "Cerca xats"
+msgstr "Cerca"
 
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
