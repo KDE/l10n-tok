@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-26 10:57+0200\n"
+"POT-Creation-Date: 2021-09-02 09:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -431,6 +431,7 @@ msgstr ""
 #: data/components/PlaintextMessage.qml:32
 #: data/routes/messages/components/GroupInformation.qml:130
 #: data/routes/messages/components/MusicView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Music"
 msgstr ""
@@ -807,33 +808,35 @@ msgstr ""
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:96
 #, kde-format
 msgid "Photos"
 msgstr ""
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
 msgid "Videos"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:72
+#: data/routes/messages/components/MessageDelegate.qml:76
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:81
+#: data/routes/messages/components/MessageDelegate.qml:85
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:89
+#: data/routes/messages/components/MessageDelegate.qml:93
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
@@ -930,6 +933,25 @@ msgid "%1 started a voice chat"
 msgstr ""
 
 #. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:18
+#, kde-format
+msgctxt "dialog title"
+msgid "Search Messages in %1"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:95
+#, kde-format
+msgid "All Messages"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:132
+#, kde-format
+msgid "View In Chat"
+msgstr ""
+
+#. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
@@ -947,6 +969,12 @@ msgstr ""
 #: data/routes/messages/NoView.qml:26
 #, kde-format
 msgid "Select a chat to start messaging"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/View.qml:162
+#, kde-format
+msgid "Search"
 msgstr ""
 
 #. +> trunk5
