@@ -826,7 +826,6 @@ msgstr "Sök meddelanden i %1"
 
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Edit Message"
 msgid "All Messages"
 msgstr "Alla meddelanden"
 
@@ -857,7 +856,6 @@ msgstr "Välj en chatt för att börja skicka meddelanden"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "Search chats"
 msgid "Search"
 msgstr "Sök"
 

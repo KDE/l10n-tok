@@ -832,7 +832,6 @@ msgstr "Cerca missatges a %1"
 
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Edit Message"
 msgid "All Messages"
 msgstr "Tots els missatges"
 
@@ -863,7 +862,6 @@ msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "Search chats"
 msgid "Search"
 msgstr "Cerca"
 
