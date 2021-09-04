@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-02 09:29+0200\n"
-"PO-Revision-Date: 2021-08-20 14:07+0200\n"
+"PO-Revision-Date: 2021-09-04 09:37+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 21.08.0\n"
+"X-Generator: Lokalize 21.08.1\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -957,20 +957,20 @@ msgstr "%1 ha iniziato una chat vocale"
 #, kde-format
 msgctxt "dialog title"
 msgid "Search Messages in %1"
-msgstr ""
+msgstr "Cerca messaggi in %1"
 
 #. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Edit Message"
 msgid "All Messages"
-msgstr "Modifica messaggio"
+msgstr "Tutti i messaggi"
 
 #. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:132
 #, kde-format
 msgid "View In Chat"
-msgstr ""
+msgstr "Visualizza in chat"
 
 #. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
@@ -997,10 +997,10 @@ msgstr "Selezionare una chat per iniziare a inviare messaggi"
 
 #. +> trunk5
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search chats"
 msgid "Search"
-msgstr "Cerca chat"
+msgstr "Cerca"
 
 #. +> trunk5
 #: data/routes/settings/AccountSettings.qml:21
