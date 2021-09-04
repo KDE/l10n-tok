@@ -831,7 +831,6 @@ msgstr "Buscar mensajes en %1"
 
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Edit Message"
 msgid "All Messages"
 msgstr "Todos los mensajes"
 
@@ -862,7 +861,6 @@ msgstr "Seleccione un chat para empezar a enviar mensajes"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "Search chats"
 msgid "Search"
 msgstr "Buscar"
 
