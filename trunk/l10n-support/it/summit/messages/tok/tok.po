@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-02 09:29+0200\n"
+"POT-Creation-Date: 2021-09-08 09:29+0200\n"
 "PO-Revision-Date: 2021-09-04 09:37+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -962,12 +962,19 @@ msgstr "Cerca messaggi in %1"
 #. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Edit Message"
 msgid "All Messages"
 msgstr "Tutti i messaggi"
 
 #. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:132
+#: data/routes/messages/components/SearchMessages.qml:99
+#, fuzzy, kde-format
+#| msgctxt "page title in switcher; keep small as possible"
+#| msgid "Files"
+msgid "Files"
+msgstr "File"
+
+#. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:133
 #, kde-format
 msgid "View In Chat"
 msgstr "Visualizza in chat"
@@ -998,7 +1005,6 @@ msgstr "Selezionare una chat per iniziare a inviare messaggi"
 #. +> trunk5
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "Search chats"
 msgid "Search"
 msgstr "Cerca"
 
