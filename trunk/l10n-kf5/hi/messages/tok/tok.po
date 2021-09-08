@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-02 00:18+0000\n"
+"POT-Creation-Date: 2021-09-08 00:20+0000\n"
 "PO-Revision-Date: 2021-07-27 21:18+0530\n"
 "Last-Translator: Raghavendra Kamath <raghu@raghukamath.com>\n"
 "Language-Team: kde-hindi\n"
@@ -858,7 +858,12 @@ msgstr ""
 msgid "All Messages"
 msgstr "संदेश भेजें"
 
-#: data/routes/messages/components/SearchMessages.qml:132
+#: data/routes/messages/components/SearchMessages.qml:99
+#, kde-format
+msgid "Files"
+msgstr ""
+
+#: data/routes/messages/components/SearchMessages.qml:133
 #, kde-format
 msgid "View In Chat"
 msgstr ""

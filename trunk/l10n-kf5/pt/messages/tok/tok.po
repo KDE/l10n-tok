@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-02 00:18+0000\n"
+"POT-Creation-Date: 2021-09-08 00:20+0000\n"
 "PO-Revision-Date: 2021-09-04 18:52+0100\n"
 "Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
@@ -833,7 +833,14 @@ msgstr "Procurar por Mensagens em %1"
 msgid "All Messages"
 msgstr "Todas as Mensagens"
 
-#: data/routes/messages/components/SearchMessages.qml:132
+#: data/routes/messages/components/SearchMessages.qml:99
+#, fuzzy, kde-format
+#| msgctxt "page title in switcher; keep small as possible"
+#| msgid "Files"
+msgid "Files"
+msgstr "Ficheiros"
+
+#: data/routes/messages/components/SearchMessages.qml:133
 #, kde-format
 msgid "View In Chat"
 msgstr "Ver na Conversa"
