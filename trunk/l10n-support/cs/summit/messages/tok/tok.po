@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-02 09:29+0200\n"
+"POT-Creation-Date: 2021-09-08 09:29+0200\n"
 "PO-Revision-Date: 2021-09-02 12:31+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -953,7 +953,6 @@ msgstr "%1 zahájil hlasový rozhovor"
 #. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
-#| msgid "Search Messages"
 msgctxt "dialog title"
 msgid "Search Messages in %1"
 msgstr "Hledat zprávy v %1"
@@ -965,10 +964,14 @@ msgid "All Messages"
 msgstr "Všechny zprávy"
 
 #. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:132
+#: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
-#| msgctxt "PageBio|"
-#| msgid "View Chart"
+msgid "Files"
+msgstr "Soubory"
+
+#. +> trunk5
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
 msgid "View In Chat"
 msgstr "Zobrazit v rozhovoru"
 
