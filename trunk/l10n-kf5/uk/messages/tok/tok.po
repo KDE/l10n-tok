@@ -14,7 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Lokalize 20.12.0\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -304,7 +305,8 @@ msgstr "Відкрити «Швидкий перемикач»"
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
 #, kde-format
-msgctxt "menu item offering access to more menu items to pick the colour scheme"
+msgctxt ""
+"menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
 msgstr "Встановити схему кольорів"
 
@@ -771,7 +773,8 @@ msgstr ""
 
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
-msgctxt "tooltip for a button on a message; offers ability to download its file"
+msgctxt ""
+"tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "Отримати"
 
@@ -833,8 +836,6 @@ msgstr "Усі повідомлення"
 
 #: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
-#| msgctxt "page title in switcher; keep small as possible"
-#| msgid "Files"
 msgid "Files"
 msgstr "Файли"
 
@@ -1358,7 +1359,8 @@ msgstr "Фото"
 
 #: src/extractinator.cpp:74
 #, kde-format
-msgctxt "notification body for receiving an expired photo (one that self-destructed)"
+msgctxt ""
+"notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
 msgstr "Застаріле фото"
 
@@ -1382,7 +1384,8 @@ msgstr "Відео"
 
 #: src/extractinator.cpp:89
 #, kde-format
-msgctxt "notification body for receiving an expired video (one that self-destructed)"
+msgctxt ""
+"notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
 msgstr "Застаріле відео"
 
@@ -1452,19 +1455,22 @@ msgstr "%1 і %2"
 
 #: src/internationalisedlist.cpp:28
 #, kde-format
-msgctxt "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
+msgctxt ""
+"The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
 msgstr "%1 і %2"
 
 #: src/internationalisedlist.cpp:31
 #, kde-format
-msgctxt "The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
+msgctxt ""
+"The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
 #: src/internationalisedlist.cpp:34
 #, kde-format
-msgctxt "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
+msgctxt ""
+"The start of a list of 3 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 

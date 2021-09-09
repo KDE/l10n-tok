@@ -831,8 +831,6 @@ msgstr "Alla meddelanden"
 
 #: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
-#| msgctxt "page title in switcher; keep small as possible"
-#| msgid "Files"
 msgid "Files"
 msgstr "Filer"
 
