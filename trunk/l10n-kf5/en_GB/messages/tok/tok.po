@@ -135,8 +135,6 @@ msgstr "Paste"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "Delete"
@@ -191,8 +189,6 @@ msgstr "Normal"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -257,10 +253,6 @@ msgstr "View"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Disable Compact Mode"
@@ -268,10 +260,6 @@ msgstr "Disable Compact Mode"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Enable Compact Mode"
@@ -480,15 +468,12 @@ msgstr "Unsupported"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
-#| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
 msgstr "Upload"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
 msgstr "Upload"
@@ -514,28 +499,24 @@ msgstr "Compress image"
 
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
-#| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
 msgstr "Upload…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "Photos"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "Videos"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "Music"
@@ -578,8 +559,6 @@ msgstr "Also delete for %1"
 
 #: data/Content.qml:321
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "Delete"
 
@@ -665,7 +644,6 @@ msgstr ""
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "Welcome"
 
@@ -691,16 +669,11 @@ msgstr "Get Started"
 
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "Edit Message"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
 msgid "Attach file"
 msgstr "Attach file"
 
@@ -733,7 +706,6 @@ msgstr "Info"
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:96
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Photos"
 
@@ -741,7 +713,6 @@ msgstr "Photos"
 #: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Videos"
 
@@ -806,7 +777,6 @@ msgstr "Download"
 #: data/routes/messages/components/normal/GifMessage.qml:66
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
-#| msgid "Photo message."
 msgid "GIF message."
 msgstr "GIF message."
 
@@ -857,7 +827,6 @@ msgstr "Search Messages in %1"
 
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Send message"
 msgid "All Messages"
 msgstr "All Messages"
 
@@ -893,7 +862,6 @@ msgstr "Select a chat to start messaging"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "Search chats"
 msgid "Search"
 msgstr "Search"
 
@@ -1238,7 +1206,6 @@ msgstr "Private chat"
 
 #: src/chatsstore.cpp:197
 #, kde-format
-#| msgid "Search chats"
 msgid "Secret chat"
 msgstr "Secret chat"
 
@@ -1251,7 +1218,6 @@ msgstr[1] "%1 are typing"
 
 #: src/chatstore+actions.cpp:87
 #, kde-format
-#| msgid "Upload file"
 msgid "%1 is uploading a file"
 msgid_plural "%1 are uploading files"
 msgstr[0] "%1 is uploading a file"
@@ -1259,7 +1225,6 @@ msgstr[1] "%1 are uploading files"
 
 #: src/chatstore+actions.cpp:94
 #, kde-format
-#| msgid "Upload photo"
 msgid "%1 is uploading a photo"
 msgid_plural "%1 are uploading photos"
 msgstr[0] "%1 is uploading a photo"
@@ -1327,7 +1292,6 @@ msgstr "GIF: %1"
 
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1340,7 +1304,6 @@ msgstr "Music (%1): %2"
 
 #: src/extractinator.cpp:53
 #, kde-format
-#| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
 msgstr "Music (%1)"
@@ -1359,21 +1322,18 @@ msgstr "File (%1)"
 
 #: src/extractinator.cpp:66
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
 msgstr "Photo: %1"
 
 #: src/extractinator.cpp:68
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "Photo"
 
 #: src/extractinator.cpp:74
 #, kde-format
-#| msgid "Expired Photo"
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
@@ -1381,28 +1341,24 @@ msgstr "Expired Photo"
 
 #: src/extractinator.cpp:77
 #, kde-format
-#| msgid "Sticker"
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
 msgstr "Sticker %1"
 
 #: src/extractinator.cpp:81
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
 msgstr "Video: %1"
 
 #: src/extractinator.cpp:83
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:89
 #, kde-format
-#| msgid "Expired Video"
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
@@ -1410,35 +1366,30 @@ msgstr "Expired Video"
 
 #: src/extractinator.cpp:94
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:99
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:104
 #, kde-format
-#| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "Location"
 
 #: src/extractinator.cpp:107
 #, kde-format
-#| msgid "Venue"
 msgctxt "notification body for receiving a venue"
 msgid "Venue: %1"
 msgstr "Venue: %1"
 
 #: src/extractinator.cpp:110
 #, kde-format
-#| msgid "Contact"
 msgctxt ""
 "notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
@@ -1453,21 +1404,18 @@ msgstr "%1"
 
 #: src/extractinator.cpp:116
 #, kde-format
-#| msgid "Game"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
 msgstr "Game: %1"
 
 #: src/extractinator.cpp:119
 #, kde-format
-#| msgid "Poll"
 msgctxt "notification body for receiving a poll"
 msgid "Poll: %1"
 msgstr "Poll: %1"
 
 #: src/extractinator.cpp:122
 #, kde-format
-#| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
 msgstr "Invoice: %1"
