@@ -135,8 +135,6 @@ msgstr "चिपकाएँ"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgctxt "text editing menu action"
 msgid "Delete"
 msgstr "मिटाएँ"
@@ -191,8 +189,6 @@ msgstr "सामान्य"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
 msgctxt "menu"
 msgid "Tok"
 msgstr "टॉक"
@@ -257,10 +253,6 @@ msgstr "दृश्य"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "सघन मोड अक्षम करें"
@@ -268,10 +260,6 @@ msgstr "सघन मोड अक्षम करें"
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
-#| msgctxt ""
-#| "Checkable menu item to toggle between the default appearance and a more "
-#| "compact style"
-#| msgid "Compact mode"
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "सघन मोड सक्षम करें"
@@ -480,15 +468,12 @@ msgstr "असमर्थित"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
-#| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
 msgstr "अपलोड"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
 msgstr "अपलोड"
@@ -514,28 +499,24 @@ msgstr "छवि संपीड़ित करें"
 
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
-#| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
 msgstr "अपलोड…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "फोटो"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "वीडियो"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "संगीत"
@@ -578,8 +559,6 @@ msgstr "%1 के लिए भी मिटाएँ"
 
 #: data/Content.qml:321
 #, kde-format
-#| msgctxt "popup menu for message"
-#| msgid "Delete"
 msgid "Delete"
 msgstr "मिटाएँ"
 
@@ -660,12 +639,10 @@ msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
-"आपने दो-चरणीय सत्यापन सक्षम किया है, इसलिए आपका खाता एक अतिरिक्त कूटशब्द से"
-" सुरक्षित है।"
+"आपने दो-चरणीय सत्यापन सक्षम किया है, इसलिए आपका खाता एक अतिरिक्त कूटशब्द से सुरक्षित है।"
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
-#| msgid "Welcome to Tok"
 msgid "Welcome"
 msgstr "सुस्वागतम"
 
@@ -691,16 +668,11 @@ msgstr "शुरुआत करें"
 
 #: data/routes/messages/components/CompositionBar.qml:87
 #, kde-format
-#| msgid "Send message"
 msgid "Edit Message"
 msgstr "संदेश संपादित करें"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
 msgid "Attach file"
 msgstr "फ़ाइल संलग्न करें"
 
@@ -733,7 +705,6 @@ msgstr "जानकारी "
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:96
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "फोटो"
 
@@ -741,7 +712,6 @@ msgstr "फोटो"
 #: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "वीडियो"
 
@@ -793,9 +763,7 @@ msgstr "डाउनलोड बंद करें"
 msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
-msgstr ""
-"आप डाउनलोड की गई फ़ाइलों के प्रतीक को अन्य अनुप्रयोग में खींच और छोड़ सकते"
-" हैं।"
+msgstr "आप डाउनलोड की गई फ़ाइलों के प्रतीक को अन्य अनुप्रयोग में खींच और छोड़ सकते हैं।"
 
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
@@ -807,7 +775,6 @@ msgstr "डाउनलोड"
 #: data/routes/messages/components/normal/GifMessage.qml:66
 #: data/routes/messages/components/thin/GifMessage.qml:43
 #, kde-format
-#| msgid "Photo message."
 msgid "GIF message."
 msgstr "जिफ संदेश"
 
@@ -858,7 +825,6 @@ msgstr "%1 में संदेशों को खोजें"
 
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Send message"
 msgid "All Messages"
 msgstr "सभी संदेश"
 
@@ -894,7 +860,6 @@ msgstr "सन्देश भेजना शुरू करने के ल�
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "Search chats"
 msgid "Search"
 msgstr "खोजें"
 
@@ -1158,8 +1123,7 @@ msgstr "यह प्रॉक्सी केवल सादे एचटी�
 #, kde-format
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
-msgstr ""
-"यदि आप इस विकल्प के बारे में अनिश्चित हैं तो अपने प्रॉक्सी प्रदाता से पूछें"
+msgstr "यदि आप इस विकल्प के बारे में अनिश्चित हैं तो अपने प्रॉक्सी प्रदाता से पूछें"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1168,8 +1132,8 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
-"आपने कोई प्रॉक्सी नहीं जोड़ी है। एक जोड़ने के लिए विंडो के निचले भाग में"
-" प्रॉक्सी जोड़ें बटन का उपयोग करें।"
+"आपने कोई प्रॉक्सी नहीं जोड़ी है। एक जोड़ने के लिए विंडो के निचले भाग में प्रॉक्सी जोड़ें बटन का "
+"उपयोग करें।"
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
@@ -1240,7 +1204,6 @@ msgstr "निजी बातचीत"
 
 #: src/chatsstore.cpp:197
 #, kde-format
-#| msgid "Search chats"
 msgid "Secret chat"
 msgstr "गुप्त बातचीत..."
 
@@ -1253,7 +1216,6 @@ msgstr[1] "%1 लिख रहें हैं"
 
 #: src/chatstore+actions.cpp:87
 #, kde-format
-#| msgid "Upload file"
 msgid "%1 is uploading a file"
 msgid_plural "%1 are uploading files"
 msgstr[0] "%1 एक फाइल अपलोड कर रहें हैं"
@@ -1261,7 +1223,6 @@ msgstr[1] "%1 एक फाइलें अपलोड कर रहें ह�
 
 #: src/chatstore+actions.cpp:94
 #, kde-format
-#| msgid "Upload photo"
 msgid "%1 is uploading a photo"
 msgid_plural "%1 are uploading photos"
 msgstr[0] "%1 फोटो अपलोड कर रहे हैं"
@@ -1329,7 +1290,6 @@ msgstr "GIF: %1"
 
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1342,7 +1302,6 @@ msgstr "संगीत (%1): %2"
 
 #: src/extractinator.cpp:53
 #, kde-format
-#| msgid "Music"
 msgctxt "notification body for receiving music"
 msgid "Music (%1)"
 msgstr "संगीत (%1)"
@@ -1361,21 +1320,18 @@ msgstr "फ़ाइल (%1)"
 
 #: src/extractinator.cpp:66
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo with a caption"
 msgid "Photo: %1"
 msgstr "फोटो: %1"
 
 #: src/extractinator.cpp:68
 #, kde-format
-#| msgid "Photo"
 msgctxt "notification body for receiving a photo"
 msgid "Photo"
 msgstr "फोटो"
 
 #: src/extractinator.cpp:74
 #, kde-format
-#| msgid "Expired Photo"
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
@@ -1383,28 +1339,24 @@ msgstr "गतावधिक फोटो"
 
 #: src/extractinator.cpp:77
 #, kde-format
-#| msgid "Sticker"
 msgctxt "notification body for receiving a sticker"
 msgid "Sticker %1"
 msgstr "स्टिकर %1"
 
 #: src/extractinator.cpp:81
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video with a caption"
 msgid "Video: %1"
 msgstr "वीडियो: %1"
 
 #: src/extractinator.cpp:83
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "वीडियो"
 
 #: src/extractinator.cpp:89
 #, kde-format
-#| msgid "Expired Video"
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
@@ -1412,35 +1364,30 @@ msgstr "गतावधिक वीडियो"
 
 #: src/extractinator.cpp:94
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "वीडियो"
 
 #: src/extractinator.cpp:99
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "वीडियो"
 
 #: src/extractinator.cpp:104
 #, kde-format
-#| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "स्थान"
 
 #: src/extractinator.cpp:107
 #, kde-format
-#| msgid "Venue"
 msgctxt "notification body for receiving a venue"
 msgid "Venue: %1"
 msgstr "स्थल: %1"
 
 #: src/extractinator.cpp:110
 #, kde-format
-#| msgid "Contact"
 msgctxt ""
 "notification body for receiving a contact, %1 %2 are firstname lastname from "
 "telegram's system"
@@ -1455,21 +1402,18 @@ msgstr "%1"
 
 #: src/extractinator.cpp:116
 #, kde-format
-#| msgid "Game"
 msgctxt "notification body for receiving a game"
 msgid "Game: %1"
 msgstr "खेल: %1"
 
 #: src/extractinator.cpp:119
 #, kde-format
-#| msgid "Poll"
 msgctxt "notification body for receiving a poll"
 msgid "Poll: %1"
 msgstr "मतदान: %1"
 
 #: src/extractinator.cpp:122
 #, kde-format
-#| msgid "Invoice"
 msgctxt "notification body for receiving an invoice"
 msgid "Invoice: %1"
 msgstr "इनवाइस: %1"
