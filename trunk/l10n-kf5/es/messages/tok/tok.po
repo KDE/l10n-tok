@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-26 00:17+0000\n"
-"PO-Revision-Date: 2021-09-08 12:30+0200\n"
+"PO-Revision-Date: 2021-09-26 11:54+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -1471,29 +1471,29 @@ msgid "Loading…"
 msgstr "Cargando..."
 
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "text editing menu action; applies format"
 #| msgid "Underline"
 msgid "Online"
-msgstr "Subrayado"
+msgstr "En línea"
 
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "Recientemente en línea"
 
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "Última vez en línea %1"
 
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "we know that this person is a human, but we don't know their name"
 #| msgid "Unknown Sender"
 msgid "Unknown Status"
-msgstr "Remitente desconocido"
+msgstr "Estado desconocido"
 
 #~ msgid ""
 #~ "Enter your authentication code that you received from another Telegram "
