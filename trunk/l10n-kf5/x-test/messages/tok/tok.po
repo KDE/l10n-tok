@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-26 00:17+0000\n"
-"PO-Revision-Date: 2021-09-08 01:32+0000\n"
+"PO-Revision-Date: 2021-09-26 01:17+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
 "Language: x-test\n"
@@ -1458,26 +1458,22 @@ msgid "Loading…"
 msgstr "xxLoading…xx"
 
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
-#| msgctxt "text editing menu action; applies format"
-#| msgid "Underline"
+#, kde-format
 msgid "Online"
-msgstr "xxUnderlinexx"
+msgstr "xxOnlinexx"
 
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "xxOnline recentlyxx"
 
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "xxLast online %1xx"
 
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
-#| msgctxt "we know that this person is a human, but we don't know their name"
-#| msgid "Unknown Sender"
+#, kde-format
 msgid "Unknown Status"
-msgstr "xxUnknown Senderxx"
+msgstr "xxUnknown Statusxx"
