@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-08 00:20+0000\n"
+"POT-Creation-Date: 2021-09-26 00:17+0000\n"
 "PO-Revision-Date: 2021-09-08 12:01+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -1468,10 +1468,35 @@ msgctxt "placeholder text"
 msgid "Reply to %1…"
 msgstr "Respon a %1…"
 
-#: src/userdata.cpp:50
+#: src/userdata.cpp:53
 #, kde-format
 msgid "Loading…"
 msgstr "S'està carregant…"
+
+#: src/userdata.cpp:69
+#, fuzzy, kde-format
+#| msgctxt "text editing menu action; applies format"
+#| msgid "Underline"
+msgid "Online"
+msgstr "Subratllat"
+
+#: src/userdata.cpp:73
+#, kde-format
+msgid "Online recently"
+msgstr ""
+
+#: src/userdata.cpp:98
+#, kde-format
+msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
+msgid "Last online %1"
+msgstr ""
+
+#: src/userdata.cpp:101
+#, fuzzy, kde-format
+#| msgctxt "we know that this person is a human, but we don't know their name"
+#| msgid "Unknown Sender"
+msgid "Unknown Status"
+msgstr "Remitent desconegut"
 
 #~ msgid ""
 #~ "Enter your authentication code that you received from another Telegram "

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-08 00:20+0000\n"
+"POT-Creation-Date: 2021-09-26 00:17+0000\n"
 "PO-Revision-Date: 2021-05-04 19:48+0200\n"
 "Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
 "Language-Team: Slovak <kde-sk@linux.sk>\n"
@@ -1498,11 +1498,32 @@ msgctxt "placeholder text"
 msgid "Reply to %1…"
 msgstr "Odpovedať %1..."
 
-#: src/userdata.cpp:50
+#: src/userdata.cpp:53
 #, fuzzy, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
 msgstr "Načítava sa..."
+
+#: src/userdata.cpp:69
+#, kde-format
+msgid "Online"
+msgstr ""
+
+#: src/userdata.cpp:73
+#, kde-format
+msgid "Online recently"
+msgstr ""
+
+#: src/userdata.cpp:98
+#, kde-format
+msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
+msgid "Last online %1"
+msgstr ""
+
+#: src/userdata.cpp:101
+#, kde-format
+msgid "Unknown Status"
+msgstr ""
 
 #~ msgid "Enter your password"
 #~ msgstr "Zadajte svoje heslo"
