@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-26 14:44+0200\n"
-"PO-Revision-Date: 2021-09-09 13:41+0200\n"
+"PO-Revision-Date: 2021-09-27 08:40+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -1704,32 +1704,32 @@ msgstr "Caricamento…"
 
 #. +> trunk5
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "text editing menu action; applies format"
 #| msgid "Underline"
 msgid "Online"
-msgstr "Sottolineato"
+msgstr "In linea"
 
 #. +> trunk5
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "In linea di recente"
 
 #. +> trunk5
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "Ultima volta in linea %1"
 
 #. +> trunk5
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "we know that this person is a human, but we don't know their name"
 #| msgid "Unknown Sender"
 msgid "Unknown Status"
-msgstr "Mittente sconosciuto"
+msgstr "Stato sconosciuto"
 
 #, kde-format
 #~ msgid ""
