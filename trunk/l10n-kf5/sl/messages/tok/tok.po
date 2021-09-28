@@ -1489,8 +1489,6 @@ msgstr "Nalaganje…"
 
 #: src/userdata.cpp:69
 #, kde-format
-#| msgctxt "text editing menu action; applies format"
-#| msgid "Underline"
 msgid "Online"
 msgstr ""
 
@@ -1507,8 +1505,6 @@ msgstr ""
 
 #: src/userdata.cpp:101
 #, kde-format
-#| msgctxt "we know that this person is a human, but we don't know their name"
-#| msgid "Unknown Sender"
 msgid "Unknown Status"
 msgstr "Neznano stanje"
 
