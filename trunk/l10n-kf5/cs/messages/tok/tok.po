@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-26 00:17+0000\n"
-"PO-Revision-Date: 2021-09-02 12:31+0200\n"
+"PO-Revision-Date: 2021-09-27 20:08+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.08.0\n"
+"X-Generator: Lokalize 21.08.1\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -1475,24 +1475,22 @@ msgid "Loading…"
 msgstr "Probíhá načítání..."
 
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
-#| msgctxt "text editing menu action; applies format"
-#| msgid "Underline"
+#, kde-format
 msgid "Online"
-msgstr "Podtržené"
+msgstr "Připojen"
 
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "Naposled online"
 
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "Naposled online %1"
 
 #: src/userdata.cpp:101
 #, kde-format
 msgid "Unknown Status"
-msgstr ""
+msgstr "Neznámý stav"
