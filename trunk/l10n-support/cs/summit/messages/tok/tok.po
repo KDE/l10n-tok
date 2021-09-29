@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-26 14:44+0200\n"
-"PO-Revision-Date: 2021-09-02 12:31+0200\n"
+"PO-Revision-Date: 2021-09-27 20:08+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.08.0\n"
+"X-Generator: Lokalize 21.08.1\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -1715,19 +1715,19 @@ msgstr "Připojen"
 
 #. +> trunk5
 #: src/userdata.cpp:73
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Online Source"
 msgid "Online recently"
-msgstr "Zdroj online cen"
+msgstr "Naposled online"
 
 #. +> trunk5
 #: src/userdata.cpp:98
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "(qtundo-format)"
 #| msgid "Baseline %1"
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr "Základní řada %1"
+msgstr "Naposled online %1"
 
 #. +> trunk5
 #: src/userdata.cpp:101
