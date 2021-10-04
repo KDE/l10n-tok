@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 14:44+0200\n"
+"POT-Creation-Date: 2021-10-04 14:49+0200\n"
 "PO-Revision-Date: 2021-09-27 08:40+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -953,6 +953,23 @@ msgid "%1 started a voice chat"
 msgstr "%1 ha iniziato una chat vocale"
 
 #. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, fuzzy, kde-format
+#| msgctxt "dialog title"
+#| msgid "Search Messages in %1"
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr "Cerca messaggi in %1"
+
+#. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr "Visualizza in chat"
+
+#. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -970,12 +987,6 @@ msgstr "Tutti i messaggi"
 #, kde-format
 msgid "Files"
 msgstr "File"
-
-#. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
-msgstr "Visualizza in chat"
 
 #. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
@@ -1002,6 +1013,13 @@ msgstr "Selezionare una chat per iniziare a inviare messaggi"
 
 #. +> trunk5
 #: data/routes/messages/View.qml:162
+#, fuzzy, kde-format
+#| msgid "All Messages"
+msgid "Pinned Messages"
+msgstr "Tutti i messaggi"
+
+#. +> trunk5
+#: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
 msgstr "Cerca"
@@ -1705,8 +1723,6 @@ msgstr "Caricamento…"
 #. +> trunk5
 #: src/userdata.cpp:69
 #, kde-format
-#| msgctxt "text editing menu action; applies format"
-#| msgid "Underline"
 msgid "Online"
 msgstr "In linea"
 
@@ -1726,8 +1742,6 @@ msgstr "Ultima volta in linea %1"
 #. +> trunk5
 #: src/userdata.cpp:101
 #, kde-format
-#| msgctxt "we know that this person is a human, but we don't know their name"
-#| msgid "Unknown Sender"
 msgid "Unknown Status"
 msgstr "Stato sconosciuto"
 
