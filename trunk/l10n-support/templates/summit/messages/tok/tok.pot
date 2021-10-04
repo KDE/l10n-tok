@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 14:44+0200\n"
+"POT-Creation-Date: 2021-10-04 14:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -933,6 +933,21 @@ msgid "%1 started a voice chat"
 msgstr ""
 
 #. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, kde-format
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr ""
+
+#. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -949,12 +964,6 @@ msgstr ""
 #: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
 msgid "Files"
-msgstr ""
-
-#. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
 msgstr ""
 
 #. +> trunk5
@@ -979,6 +988,12 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/messages/View.qml:162
+#, kde-format
+msgid "Pinned Messages"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
 msgstr ""
