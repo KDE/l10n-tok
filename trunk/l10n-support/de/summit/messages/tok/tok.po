@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-08 09:29+0200\n"
+"POT-Creation-Date: 2021-09-26 14:44+0200\n"
 "PO-Revision-Date: 2021-09-01 23:05+0200\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -1649,10 +1649,39 @@ msgid "Reply to %1…"
 msgstr "Antworten auf %1 ..."
 
 #. +> trunk5
-#: src/userdata.cpp:50
+#: src/userdata.cpp:53
 #, kde-format
 msgid "Loading…"
 msgstr "Wird geladen ..."
+
+#. +> trunk5
+#: src/userdata.cpp:69
+#, fuzzy, kde-format
+#| msgctxt "text editing menu action; applies format"
+#| msgid "Underline"
+msgid "Online"
+msgstr "Unterstrichen"
+
+#. +> trunk5
+#: src/userdata.cpp:73
+#, kde-format
+msgid "Online recently"
+msgstr ""
+
+#. +> trunk5
+#: src/userdata.cpp:98
+#, kde-format
+msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
+msgid "Last online %1"
+msgstr ""
+
+#. +> trunk5
+#: src/userdata.cpp:101
+#, fuzzy, kde-format
+#| msgctxt "we know that this person is a human, but we don't know their name"
+#| msgid "Unknown Sender"
+msgid "Unknown Status"
+msgstr "Unbekannter Absender"
 
 #~ msgid "Enter your authentication code that you received from another Telegram client"
 #~ msgstr "Geben Sie Ihren Authentifizierungs-Code ein, den Sie von einem anderen Telegram-Programm erhalten haben"
