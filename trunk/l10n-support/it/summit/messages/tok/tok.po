@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-04 14:49+0200\n"
-"PO-Revision-Date: 2021-09-27 08:40+0200\n"
+"PO-Revision-Date: 2021-10-05 01:08+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -955,12 +955,12 @@ msgstr "%1 ha iniziato una chat vocale"
 #. +> trunk5
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "dialog title"
 #| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "Cerca messaggi in %1"
+msgstr "Messaggi appuntati in %1"
 
 #. +> trunk5
 #: data/routes/messages/components/PinnedMessages.qml:102
@@ -1013,10 +1013,10 @@ msgstr "Selezionare una chat per iniziare a inviare messaggi"
 
 #. +> trunk5
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "All Messages"
 msgid "Pinned Messages"
-msgstr "Tutti i messaggi"
+msgstr "Messaggi appuntati"
 
 #. +> trunk5
 #: data/routes/messages/View.qml:177
