@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-04 00:17+0000\n"
-"PO-Revision-Date: 2021-09-26 01:17+0000\n"
+"PO-Revision-Date: 2021-10-04 01:16+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
 "Language: x-test\n"
@@ -821,12 +821,10 @@ msgstr "xx%1 started a voice chatxx"
 
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
+#, kde-format
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "xxSearch Messages in %1xx"
+msgstr "xxPinned Messages in %1xx"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
 #: data/routes/messages/components/SearchMessages.qml:133
@@ -871,10 +869,9 @@ msgid "Select a chat to start messaging"
 msgstr "xxSelect a chat to start messagingxx"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
-#| msgid "All Messages"
+#, kde-format
 msgid "Pinned Messages"
-msgstr "xxAll Messagesxx"
+msgstr "xxPinned Messagesxx"
 
 #: data/routes/messages/View.qml:177
 #, kde-format
