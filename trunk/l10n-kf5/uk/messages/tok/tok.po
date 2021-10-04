@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 00:17+0000\n"
+"POT-Creation-Date: 2021-10-04 00:17+0000\n"
 "PO-Revision-Date: 2021-09-26 08:30+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -823,6 +823,21 @@ msgstr "%1 завершено голосове спілкування"
 msgid "%1 started a voice chat"
 msgstr "%1 розпочато голосове спілкування"
 
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, fuzzy, kde-format
+#| msgctxt "dialog title"
+#| msgid "Search Messages in %1"
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr "Шукати повідомлення у %1"
+
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr "Переглянути у спілкуванні"
+
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -838,11 +853,6 @@ msgstr "Усі повідомлення"
 #, kde-format
 msgid "Files"
 msgstr "Файли"
-
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
-msgstr "Переглянути у спілкуванні"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
@@ -865,6 +875,12 @@ msgid "Select a chat to start messaging"
 msgstr "Виберіть спілкування, щоб розпочати обмін повідомленнями"
 
 #: data/routes/messages/View.qml:162
+#, fuzzy, kde-format
+#| msgid "All Messages"
+msgid "Pinned Messages"
+msgstr "Усі повідомлення"
+
+#: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
 msgstr "Пошук"

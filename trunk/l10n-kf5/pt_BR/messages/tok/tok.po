@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 00:17+0000\n"
+"POT-Creation-Date: 2021-10-04 00:17+0000\n"
 "PO-Revision-Date: 2021-08-23 14:08-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Portuguese <kde-i18n-pt_BR@kde.org>\n"
@@ -817,6 +817,19 @@ msgstr ""
 msgid "%1 started a voice chat"
 msgstr ""
 
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, kde-format
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr ""
+
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr ""
+
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -835,11 +848,6 @@ msgstr "Editar mensagem"
 #| msgid "Files"
 msgid "Files"
 msgstr "Arquivos"
-
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
-msgstr ""
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
@@ -862,6 +870,12 @@ msgid "Select a chat to start messaging"
 msgstr "Selecione um bate-papo para começar a enviar mensagens"
 
 #: data/routes/messages/View.qml:162
+#, fuzzy, kde-format
+#| msgid "Edit Message"
+msgid "Pinned Messages"
+msgstr "Editar mensagem"
+
+#: data/routes/messages/View.qml:177
 #, fuzzy, kde-format
 #| msgid "Search chats"
 msgid "Search"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 00:17+0000\n"
+"POT-Creation-Date: 2021-10-04 00:17+0000\n"
 "PO-Revision-Date: 2021-09-10 14:29+0100\n"
 "Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
 "Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
@@ -819,6 +819,21 @@ msgstr "%1 ended a voice chat"
 msgid "%1 started a voice chat"
 msgstr "%1 started a voice chat"
 
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, fuzzy, kde-format
+#| msgctxt "dialog title"
+#| msgid "Search Messages in %1"
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr "Search Messages in %1"
+
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr "View In Chat"
+
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -834,11 +849,6 @@ msgstr "All Messages"
 #, kde-format
 msgid "Files"
 msgstr "Files"
-
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
-msgstr "View In Chat"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
@@ -861,6 +871,12 @@ msgid "Select a chat to start messaging"
 msgstr "Select a chat to start messaging"
 
 #: data/routes/messages/View.qml:162
+#, fuzzy, kde-format
+#| msgid "All Messages"
+msgid "Pinned Messages"
+msgstr "All Messages"
+
+#: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
 msgstr "Search"
