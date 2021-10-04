@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-04 00:17+0000\n"
-"PO-Revision-Date: 2021-09-26 10:43+0200\n"
+"PO-Revision-Date: 2021-10-04 18:14+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -820,12 +820,12 @@ msgstr "%1 startade en röstchatt"
 
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "dialog title"
 #| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "Sök meddelanden i %1"
+msgstr "Uppsatta meddelanden i %1"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
 #: data/routes/messages/components/SearchMessages.qml:133
@@ -870,10 +870,10 @@ msgid "Select a chat to start messaging"
 msgstr "Välj en chatt för att börja skicka meddelanden"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "All Messages"
 msgid "Pinned Messages"
-msgstr "Alla meddelanden"
+msgstr "Uppsatta meddelanden"
 
 #: data/routes/messages/View.qml:177
 #, kde-format
