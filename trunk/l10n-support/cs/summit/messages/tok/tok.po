@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 14:44+0200\n"
+"POT-Creation-Date: 2021-10-04 14:49+0200\n"
 "PO-Revision-Date: 2021-09-27 20:08+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -951,6 +951,22 @@ msgid "%1 started a voice chat"
 msgstr "%1 zahájil hlasový rozhovor"
 
 #. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, fuzzy, kde-format
+#| msgid "Pinned Messages"
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr "Připnuté zprávy"
+
+#. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr "Zobrazit v rozhovoru"
+
+#. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -968,12 +984,6 @@ msgstr "Všechny zprávy"
 #, kde-format
 msgid "Files"
 msgstr "Soubory"
-
-#. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
-msgstr "Zobrazit v rozhovoru"
 
 #. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
@@ -1000,6 +1010,12 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/messages/View.qml:162
+#, kde-format
+msgid "Pinned Messages"
+msgstr "Připnuté zprávy"
+
+#. +> trunk5
+#: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
 msgstr "Hledat"
@@ -1716,15 +1732,12 @@ msgstr "Připojen"
 #. +> trunk5
 #: src/userdata.cpp:73
 #, kde-format
-#| msgid "Online Source"
 msgid "Online recently"
 msgstr "Naposled online"
 
 #. +> trunk5
 #: src/userdata.cpp:98
 #, kde-format
-#| msgctxt "(qtundo-format)"
-#| msgid "Baseline %1"
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
 msgstr "Naposled online %1"
