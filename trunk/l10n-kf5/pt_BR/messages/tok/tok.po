@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-04 00:17+0000\n"
-"PO-Revision-Date: 2021-08-23 14:08-0300\n"
+"PO-Revision-Date: 2021-10-05 17:39-0300\n"
 "Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
 "Language-Team: Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -22,7 +22,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Create New"
-msgstr "Criar Novo"
+msgstr "Criar novo"
 
 #: data/components/CreateNewMenu.qml:39
 #: data/components/CreateNewMenuInWindow.qml:39
