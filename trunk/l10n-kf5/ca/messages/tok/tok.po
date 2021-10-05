@@ -827,8 +827,6 @@ msgstr "%1 ha iniciat un xat de veu"
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
 #, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
 msgstr "Missatges fixats a %1"
@@ -877,7 +875,6 @@ msgstr "Seleccioneu un xat per a iniciar la missatgeria"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "All Messages"
 msgid "Pinned Messages"
 msgstr "Missatges fixats"
 
