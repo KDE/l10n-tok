@@ -824,8 +824,6 @@ msgstr "%1 je začel(a) zvočni pogovor"
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
 #, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
 msgstr "Pripeta sporočila v %1"
@@ -874,7 +872,6 @@ msgstr "Izberite pogovor za začetek sporočanja"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "All Messages"
 msgid "Pinned Messages"
 msgstr "Pripeta sporočila"
 
