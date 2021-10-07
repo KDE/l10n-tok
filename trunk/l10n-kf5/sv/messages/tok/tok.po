@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-07 00:17+0000\n"
-"PO-Revision-Date: 2021-10-04 18:14+0200\n"
+"PO-Revision-Date: 2021-10-07 17:59+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -563,35 +563,35 @@ msgid "Delete"
 msgstr "Ta bort"
 
 #: data/Content.qml:372
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Läser in…"
+msgstr "Ansluter…"
 
 #: data/Content.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Proxy…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Anpassa proxy…"
+msgstr "Ansluter till proxy... "
 
 #: data/Content.qml:376
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "Väntar på nätverket…"
 
 #: data/Content.qml:378
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Läser in…"
+msgstr "Uppdaterar..."
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
