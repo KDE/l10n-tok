@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 14:49+0200\n"
+"POT-Creation-Date: 2021-10-07 15:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -644,6 +644,34 @@ msgstr ""
 #: data/Content.qml:321
 #, kde-format
 msgid "Delete"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:372
+#, kde-format
+msgctxt "small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:374
+#, kde-format
+msgctxt "small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:376
+#, kde-format
+msgctxt "small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:378
+#, kde-format
+msgctxt "small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
 msgstr ""
 
 #. +> trunk5
