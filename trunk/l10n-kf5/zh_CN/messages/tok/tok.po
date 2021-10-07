@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 00:17+0000\n"
+"POT-Creation-Date: 2021-10-07 00:17+0000\n"
 "PO-Revision-Date: 2021-09-27 13:09\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
@@ -560,6 +560,34 @@ msgstr ""
 #: data/Content.qml:321
 #, kde-format
 msgid "Delete"
+msgstr ""
+
+#: data/Content.qml:372
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr ""
+
+#: data/Content.qml:374
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr ""
+
+#: data/Content.qml:376
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#: data/Content.qml:378
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
 msgstr ""
 
 #: data/main.qml:23 data/maui_main.qml:18

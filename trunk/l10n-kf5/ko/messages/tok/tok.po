@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 00:17+0000\n"
+"POT-Creation-Date: 2021-10-07 00:17+0000\n"
 "PO-Revision-Date: 2021-05-22 20:05+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -582,6 +582,36 @@ msgstr ""
 #| msgid "Delete"
 msgid "Delete"
 msgstr "삭제"
+
+#: data/Content.qml:372
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr "불러오는 중..."
+
+#: data/Content.qml:374
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr ""
+
+#: data/Content.qml:376
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#: data/Content.qml:378
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr "불러오는 중..."
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format

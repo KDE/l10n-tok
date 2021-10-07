@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 00:17+0000\n"
+"POT-Creation-Date: 2021-10-07 00:17+0000\n"
 "PO-Revision-Date: 2021-10-04 18:24+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
@@ -561,6 +561,37 @@ msgstr "Ook voor %1 verwijderen"
 #, kde-format
 msgid "Delete"
 msgstr "Verwijderen"
+
+#: data/Content.qml:372
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr "Bezig met laden..."
+
+#: data/Content.qml:374
+#, fuzzy, kde-format
+#| msgid "Configure Proxy…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr "Proxy configureren…"
+
+#: data/Content.qml:376
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#: data/Content.qml:378
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr "Bezig met laden..."
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format

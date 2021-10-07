@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 00:17+0000\n"
+"POT-Creation-Date: 2021-10-07 00:17+0000\n"
 "PO-Revision-Date: 2021-09-18 14:02+0530\n"
 "Last-Translator: Raghavendra Kamath <raghu@raghukamath.com>\n"
 "Language-Team: kde-hindi\n"
@@ -561,6 +561,37 @@ msgstr "%1 के लिए भी मिटाएँ"
 #, kde-format
 msgid "Delete"
 msgstr "मिटाएँ"
+
+#: data/Content.qml:372
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr "लोड किया जा रहा है…"
+
+#: data/Content.qml:374
+#, fuzzy, kde-format
+#| msgid "Configure Proxy…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr "प्रॉक्सी विन्यस्त करें…"
+
+#: data/Content.qml:376
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#: data/Content.qml:378
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr "लोड किया जा रहा है…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
