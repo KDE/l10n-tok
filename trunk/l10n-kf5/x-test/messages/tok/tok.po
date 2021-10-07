@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-07 00:17+0000\n"
-"PO-Revision-Date: 2021-10-04 01:16+0000\n"
+"PO-Revision-Date: 2021-10-07 01:24+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
 "Language: x-test\n"
@@ -563,35 +563,32 @@ msgid "Delete"
 msgstr "xxDeletexx"
 
 #: data/Content.qml:372
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "xxLoading…xx"
+msgstr "xxConnecting…xx"
 
 #: data/Content.qml:374
-#, fuzzy, kde-format
-#| msgid "Configure Proxy…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "xxConfigure Proxy…xx"
+msgstr "xxConnecting to proxy…xx"
 
 #: data/Content.qml:376
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "xxWaiting on network…xx"
 
 #: data/Content.qml:378
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "xxLoading…xx"
+msgstr "xxUpdating…xx"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
