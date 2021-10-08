@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-07 15:32+0200\n"
-"PO-Revision-Date: 2021-09-27 20:08+0200\n"
+"POT-Creation-Date: 2021-10-08 15:24+0200\n"
+"PO-Revision-Date: 2021-10-08 14:35+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -655,35 +655,31 @@ msgstr "Smazat"
 
 #. +> trunk5
 #: data/Content.qml:372
-#, fuzzy, kde-format
-#| msgid "Connecting"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Navazuji spojení"
+msgstr "Navazuji spojení…"
 
 #. +> trunk5
 #: data/Content.qml:374
-#, fuzzy, kde-format
-#| msgid "Connecting to %1…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Připojuji se k %1..."
+msgstr "Připojuji se k proxy..."
 
 #. +> trunk5
 #: data/Content.qml:376
-#, fuzzy, kde-format
-#| msgid "started listening on the network"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr "zahájen poslech na síti"
+msgstr "Čekám na síť..."
 
 #. +> trunk5
 #: data/Content.qml:378
-#, fuzzy, kde-format
-#| msgid "Updating…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
@@ -989,11 +985,10 @@ msgstr "%1 zahájil hlasový rozhovor"
 #. +> trunk5
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
-#| msgid "Pinned Messages"
+#, kde-format
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "Připnuté zprávy"
+msgstr "Připnuté zprávy v %1"
 
 #. +> trunk5
 #: data/routes/messages/components/PinnedMessages.qml:102
@@ -1029,7 +1024,7 @@ msgid "Download"
 msgstr "Stáhnout"
 
 #. +> trunk5
-#: data/routes/messages/components/WebPageBlock.qml:67
+#: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
