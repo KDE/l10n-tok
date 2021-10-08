@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-07 00:17+0000\n"
+"POT-Creation-Date: 2021-10-08 00:17+0000\n"
 "PO-Revision-Date: 2021-09-27 13:09\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
@@ -878,7 +878,7 @@ msgctxt "a button"
 msgid "Download"
 msgstr ""
 
-#: data/routes/messages/components/WebPageBlock.qml:67
+#: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "

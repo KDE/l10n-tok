@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-07 00:17+0000\n"
+"POT-Creation-Date: 2021-10-08 00:17+0000\n"
 "PO-Revision-Date: 2021-10-07 10:32+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -14,7 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Lokalize 20.12.0\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -304,7 +305,8 @@ msgstr "Відкрити «Швидкий перемикач»"
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
 #, kde-format
-msgctxt "menu item offering access to more menu items to pick the colour scheme"
+msgctxt ""
+"menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
 msgstr "Встановити схему кольорів"
 
@@ -563,29 +565,29 @@ msgstr "Вилучити"
 
 #: data/Content.qml:372
 #, kde-format
-#| msgid "Loading…"
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
 msgstr "З'єднання…"
 
 #: data/Content.qml:374
 #, kde-format
-#| msgid "Configure Proxy…"
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
 msgstr "Встановлення з'єднання із проксі…"
 
 #: data/Content.qml:376
 #, kde-format
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
-"Очікування на мережу…"
+msgstr "Очікування на мережу…"
 
 #: data/Content.qml:378
 #, kde-format
-#| msgid "Loading…"
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
 msgstr "Оновлення…"
 
@@ -799,7 +801,8 @@ msgstr ""
 
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
-msgctxt "tooltip for a button on a message; offers ability to download its file"
+msgctxt ""
+"tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "Отримати"
 
@@ -883,7 +886,7 @@ msgctxt "a button"
 msgid "Download"
 msgstr "Отримати"
 
-#: data/routes/messages/components/WebPageBlock.qml:67
+#: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
@@ -1397,7 +1400,8 @@ msgstr "Фото"
 
 #: src/extractinator.cpp:74
 #, kde-format
-msgctxt "notification body for receiving an expired photo (one that self-destructed)"
+msgctxt ""
+"notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
 msgstr "Застаріле фото"
 
@@ -1421,7 +1425,8 @@ msgstr "Відео"
 
 #: src/extractinator.cpp:89
 #, kde-format
-msgctxt "notification body for receiving an expired video (one that self-destructed)"
+msgctxt ""
+"notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
 msgstr "Застаріле відео"
 
@@ -1491,19 +1496,22 @@ msgstr "%1 і %2"
 
 #: src/internationalisedlist.cpp:28
 #, kde-format
-msgctxt "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
+msgctxt ""
+"The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
 msgstr "%1 і %2"
 
 #: src/internationalisedlist.cpp:31
 #, kde-format
-msgctxt "The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
+msgctxt ""
+"The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
 #: src/internationalisedlist.cpp:34
 #, kde-format
-msgctxt "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
+msgctxt ""
+"The start of a list of 3 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
