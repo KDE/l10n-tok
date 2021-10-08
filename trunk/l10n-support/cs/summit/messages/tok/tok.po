@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 14:49+0200\n"
+"POT-Creation-Date: 2021-10-07 15:32+0200\n"
 "PO-Revision-Date: 2021-09-27 20:08+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -652,6 +652,42 @@ msgstr "Taktéž smazat pro %1"
 #, kde-format
 msgid "Delete"
 msgstr "Smazat"
+
+#. +> trunk5
+#: data/Content.qml:372
+#, fuzzy, kde-format
+#| msgid "Connecting"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr "Navazuji spojení"
+
+#. +> trunk5
+#: data/Content.qml:374
+#, fuzzy, kde-format
+#| msgid "Connecting to %1…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr "Připojuji se k %1..."
+
+#. +> trunk5
+#: data/Content.qml:376
+#, fuzzy, kde-format
+#| msgid "started listening on the network"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr "zahájen poslech na síti"
+
+#. +> trunk5
+#: data/Content.qml:378
+#, fuzzy, kde-format
+#| msgid "Updating…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr "Aktualizuji…"
 
 #. +> trunk5
 #: data/main.qml:23 data/maui_main.qml:18
