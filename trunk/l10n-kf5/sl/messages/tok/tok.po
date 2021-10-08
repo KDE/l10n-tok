@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-08 00:17+0000\n"
-"PO-Revision-Date: 2021-10-05 10:03+0200\n"
+"PO-Revision-Date: 2021-10-08 08:13+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 && n"
+"%100<=4 ? 2 : 3);\n"
 "X-Generator: Poedit 3.0\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -564,35 +564,35 @@ msgid "Delete"
 msgstr "Zbriši"
 
 #: data/Content.qml:372
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Nalaganje…"
+msgstr "Povezovanje…"
 
 #: data/Content.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Proxy…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Nastavite posrednika…"
+msgstr "Povezovanje na posrednika…"
 
 #: data/Content.qml:376
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "Čakanje na omrežje…"
 
 #: data/Content.qml:378
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Nalaganje…"
+msgstr "Osveževanje…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
