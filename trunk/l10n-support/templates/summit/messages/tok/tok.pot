@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-07 15:32+0200\n"
+"POT-Creation-Date: 2021-10-08 15:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1002,7 +1002,7 @@ msgid "Download"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/WebPageBlock.qml:67
+#: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
 msgctxt "button that opens a preview of a web page. 'instant view' is sort of like a brand name, but also sort of not? i would recommend consulting translations.telegram.org to see how instant view was translated officially."
 msgid "Instant View"
