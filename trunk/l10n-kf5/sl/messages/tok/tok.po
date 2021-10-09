@@ -565,7 +565,6 @@ msgstr "Zbriši"
 
 #: data/Content.qml:372
 #, kde-format
-#| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
@@ -573,7 +572,6 @@ msgstr "Povezovanje…"
 
 #: data/Content.qml:374
 #, kde-format
-#| msgid "Configure Proxy…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
@@ -588,7 +586,6 @@ msgstr "Čakanje na omrežje…"
 
 #: data/Content.qml:378
 #, kde-format
-#| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
