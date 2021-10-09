@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-26 14:44+0200\n"
+"POT-Creation-Date: 2021-10-08 15:24+0200\n"
 "PO-Revision-Date: 2021-05-02 18:05-0700\n"
 "Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
 "Language-Team: Japanese <kde-jp@kde.org>\n"
@@ -648,6 +648,38 @@ msgid "Delete"
 msgstr ""
 
 #. +> trunk5
+#: data/Content.qml:372
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:374
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:376
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:378
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr ""
+
+#. +> trunk5
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
 msgctxt "window title"
@@ -944,6 +976,21 @@ msgid "%1 started a voice chat"
 msgstr ""
 
 #. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, kde-format
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:133
+#, kde-format
+msgid "View In Chat"
+msgstr ""
+
+#. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
@@ -963,12 +1010,6 @@ msgid "Files"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:133
-#, kde-format
-msgid "View In Chat"
-msgstr ""
-
-#. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
@@ -976,7 +1017,7 @@ msgid "Download"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/WebPageBlock.qml:67
+#: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
@@ -993,6 +1034,12 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/messages/View.qml:162
+#, kde-format
+msgid "Pinned Messages"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
 msgstr ""
