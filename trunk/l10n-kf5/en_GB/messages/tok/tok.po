@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-08 00:17+0000\n"
-"PO-Revision-Date: 2021-09-10 14:29+0100\n"
+"PO-Revision-Date: 2021-10-10 11:20+0100\n"
 "Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
 "Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
 "Language: en_GB\n"
@@ -563,35 +563,35 @@ msgid "Delete"
 msgstr "Delete"
 
 #: data/Content.qml:372
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Loading…"
+msgstr "Connecting…"
 
 #: data/Content.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Proxy…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Configure Proxy…"
+msgstr "Connecting to proxy…"
 
 #: data/Content.qml:376
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "Waiting on network…"
 
 #: data/Content.qml:378
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Loading…"
+msgstr "Updating…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
@@ -852,12 +852,12 @@ msgstr "%1 started a voice chat"
 
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "dialog title"
 #| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "Search Messages in %1"
+msgstr "Pinned Messages in %1"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
 #: data/routes/messages/components/SearchMessages.qml:133
@@ -902,10 +902,10 @@ msgid "Select a chat to start messaging"
 msgstr "Select a chat to start messaging"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "All Messages"
 msgid "Pinned Messages"
-msgstr "All Messages"
+msgstr "Pinned Messages"
 
 #: data/routes/messages/View.qml:177
 #, kde-format
@@ -1514,29 +1514,29 @@ msgid "Loading…"
 msgstr "Loading…"
 
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "text editing menu action; applies format"
 #| msgid "Underline"
 msgid "Online"
-msgstr "Underline"
+msgstr "Online"
 
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "Online recently"
 
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "Last online %1"
 
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "we know that this person is a human, but we don't know their name"
 #| msgid "Unknown Sender"
 msgid "Unknown Status"
-msgstr "Unknown Sender"
+msgstr "Unknown Status"
 
 #~ msgid ""
 #~ "Enter your authentication code that you received from another Telegram "
