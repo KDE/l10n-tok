@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-04 14:49+0200\n"
+"POT-Creation-Date: 2021-10-08 15:24+0200\n"
 "PO-Revision-Date: 2021-10-05 01:08+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -651,6 +651,41 @@ msgid "Delete"
 msgstr "Elimina"
 
 #. +> trunk5
+#: data/Content.qml:372
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr "Caricamento…"
+
+#. +> trunk5
+#: data/Content.qml:374
+#, fuzzy, kde-format
+#| msgid "Configure Proxy…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr "Configura proxy..."
+
+#. +> trunk5
+#: data/Content.qml:376
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#. +> trunk5
+#: data/Content.qml:378
+#, fuzzy, kde-format
+#| msgid "Loading…"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr "Caricamento…"
+
+#. +> trunk5
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
 msgctxt "window title"
@@ -956,8 +991,6 @@ msgstr "%1 ha iniziato una chat vocale"
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
 #, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
 msgstr "Messaggi appuntati in %1"
@@ -996,7 +1029,7 @@ msgid "Download"
 msgstr "Scarica"
 
 #. +> trunk5
-#: data/routes/messages/components/WebPageBlock.qml:67
+#: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
@@ -1014,7 +1047,6 @@ msgstr "Selezionare una chat per iniziare a inviare messaggi"
 #. +> trunk5
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "All Messages"
 msgid "Pinned Messages"
 msgstr "Messaggi appuntati"
 
