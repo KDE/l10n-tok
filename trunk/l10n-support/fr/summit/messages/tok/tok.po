@@ -335,9 +335,7 @@ msgstr "Activer la transparence"
 #: data/components/GlobalMenu.qml:112
 #: data/components/GlobalMenuInWindow.qml:112
 #, kde-format
-msgctxt ""
-"menu item that opens a UI element called the 'Quick Switcher', which offers a"
-" fast keyboard-based interface for switching in between chats."
+msgctxt "menu item that opens a UI element called the 'Quick Switcher', which offers a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
 msgstr "Ouvrir le sélecteur rapide"
 
@@ -345,8 +343,7 @@ msgstr "Ouvrir le sélecteur rapide"
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
 #, kde-format
-msgctxt ""
-"menu item offering access to more menu items to pick the colour scheme"
+msgctxt "menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
 msgstr "Définir le thème de couleurs"
 
@@ -438,9 +435,7 @@ msgstr "Musique"
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:34
 #, kde-format
-msgctxt ""
-"Specifically a file; I use Attachment in English because it sounds better"
-" than File in this context."
+msgctxt "Specifically a file; I use Attachment in English because it sounds better than File in this context."
 msgid "Attachment"
 msgstr "Pièce jointe"
 
@@ -651,8 +646,7 @@ msgstr "Supprimer"
 #: data/Content.qml:372
 #, kde-format
 #| msgid "Loading…"
-msgctxt ""
-"small bubble in bottom left of window indicating current connection status"
+msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
 msgstr "Connexion en cours…"
 
@@ -660,16 +654,14 @@ msgstr "Connexion en cours…"
 #: data/Content.qml:374
 #, kde-format
 #| msgid "Configure Proxy…"
-msgctxt ""
-"small bubble in bottom left of window indicating current connection status"
+msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
 msgstr "Connexion en cours vers le serveur mandataire…"
 
 #. +> trunk5
 #: data/Content.qml:376
 #, kde-format
-msgctxt ""
-"small bubble in bottom left of window indicating current connection status"
+msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
 msgstr "En attente du réseau..."
 
@@ -677,8 +669,7 @@ msgstr "En attente du réseau..."
 #: data/Content.qml:378
 #, kde-format
 #| msgid "Loading…"
-msgctxt ""
-"small bubble in bottom left of window indicating current connection status"
+msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
 msgstr "Mise à jour en cours…"
 
@@ -713,9 +704,7 @@ msgstr[1] "%1 messages non lus."
 #. +> trunk5
 #: data/routes/Chats.qml:248
 #, kde-format
-msgctxt ""
-"%1 is the message author (probably, but not necessarily a human), and %2 is"
-" the message contents"
+msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
@@ -742,9 +731,7 @@ msgstr "Vérification par téléphone"
 #: data/routes/entry/AuthenticationCode.qml:35
 #, kde-format
 msgid "We've sent a code to the Telegram app on your other device."
-msgstr ""
-"Un code vous a été envoyé vers l'application Telegram sur votre autre"
-" périphérique."
+msgstr "Un code vous a été envoyé vers l'application Telegram sur votre autre périphérique."
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:49
@@ -770,12 +757,8 @@ msgstr "Mot de passe"
 #. +> trunk5
 #: data/routes/entry/Password.qml:35
 #, kde-format
-msgid ""
-"You have enabled Two-Step Verification, so your account is protected with an"
-" additional password."
-msgstr ""
-"Vous avez activé la vérification à deux facteurs. Ainsi, votre compte est"
-" protégé avec un mot de passe supplémentaire."
+msgid "You have enabled Two-Step Verification, so your account is protected with an additional password."
+msgstr "Vous avez activé la vérification à deux facteurs. Ainsi, votre compte est protégé avec un mot de passe supplémentaire."
 
 #. +> trunk5
 #: data/routes/entry/PhoneNumber.qml:19
@@ -890,9 +873,7 @@ msgstr "Supprimer"
 #: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
-msgctxt ""
-"tooltip for a button on a message; offers ability to open its downloaded file"
-" with an appropriate application"
+msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
 msgid "Open File"
 msgstr "Ouvrir un fichier"
 
@@ -908,9 +889,7 @@ msgstr "%1 / %2"
 #: data/routes/messages/components/normal/FileMessage.qml:55
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
-msgctxt ""
-"tooltip for a button on a message; offers ability to open its downloaded file"
-" with an appropriate application"
+msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
 msgid "Stop Download"
 msgstr "Arrêter un téléchargement"
 
@@ -918,17 +897,13 @@ msgstr "Arrêter un téléchargement"
 #: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
 msgctxt "explanatory popup notification"
-msgid ""
-"You can drag and drop the icon on downloaded files into other applications."
-msgstr ""
-"Vous pouvez faire un glisser /déposer de l'icône des fichiers téléchargés"
-" vers d'autres applications."
+msgid "You can drag and drop the icon on downloaded files into other applications."
+msgstr "Vous pouvez faire un glisser /déposer de l'icône des fichiers téléchargés vers d'autres applications."
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
-msgctxt ""
-"tooltip for a button on a message; offers ability to download its file"
+msgctxt "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "Télécharger"
 
@@ -1028,10 +1003,7 @@ msgstr "Télécharger"
 #. +> trunk5
 #: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
-msgctxt ""
-"button that opens a preview of a web page. 'instant view' is sort of like a"
-" brand name, but also sort of not? i would recommend consulting"
-" translations.telegram.org to see how instant view was translated officially."
+msgctxt "button that opens a preview of a web page. 'instant view' is sort of like a brand name, but also sort of not? i would recommend consulting translations.telegram.org to see how instant view was translated officially."
 msgid "Instant View"
 msgstr "Affichage instantané"
 
@@ -1062,27 +1034,21 @@ msgstr "Se déconnecter"
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:21
 #, kde-format
-msgctxt ""
-"Checkable control to toggle between the default appearance and a more compact"
-" style"
+msgctxt "Checkable control to toggle between the default appearance and a more compact style"
 msgid "Use a compact appearance for messages"
 msgstr "Utiliser un affichage synthétique pour les messages."
 
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:26
 #, kde-format
-msgctxt ""
-"Checkable control to toggle between a photo background for the chat and using"
-" a solid colour"
+msgctxt "Checkable control to toggle between a photo background for the chat and using a solid colour"
 msgid "Display an image in the background of chats"
 msgstr "Afficher une image dans l'arrière-plan des discussions."
 
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:33
 #, kde-format
-msgctxt ""
-"Checkable control to toggle viewing content underneath the window"
-" (transparent window bg)"
+msgctxt "Checkable control to toggle viewing content underneath the window (transparent window bg)"
 msgid "Make the window transparent"
 msgstr "Rendre la fenêtre transparente"
 
@@ -1096,12 +1062,9 @@ msgstr "Modifier le thème de couleurs"
 #. +> trunk5
 #: data/routes/settings/BehaviourSettings.qml:21
 #, kde-format
-msgctxt ""
-"Checkable control to toggle a system tray icon and not closing the app when X"
-" is pressed, instead using the tray icon"
+msgctxt "Checkable control to toggle a system tray icon and not closing the app when X is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
-msgstr ""
-"Réduire dans la boîte à miniatures lors de la fermeture de l'application."
+msgstr "Réduire dans la boîte à miniatures lors de la fermeture de l'application."
 
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:24
@@ -1113,20 +1076,14 @@ msgstr "Apparence"
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
-msgctxt ""
-"Checkable control to toggle between the default appearance and a more compact"
-" style. Keep the text no longer than a few letters longer than the source"
-" string due to screen size constraints. Reword heavily if needed."
+msgctxt "Checkable control to toggle between the default appearance and a more compact style. Keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
 msgid "Compact appearance for messages"
 msgstr "Affichage synthétique pour les messages"
 
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:53
 #, kde-format
-msgctxt ""
-"Checkable control to toggle between a photo background for the chat and using"
-" a solid colour. Keep the text no longer than a few letters longer than the"
-" source string due to screen size constraints. Reword heavily if needed."
+msgctxt "Checkable control to toggle between a photo background for the chat and using a solid colour. Keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
 msgstr "Afficher une image derrière les discussions."
 
@@ -1348,30 +1305,21 @@ msgstr "Mot de passe :"
 #, kde-format
 msgctxt "form control label"
 msgid "This proxy only supports plain HTTP requests"
-msgstr ""
-"Ce serveur mandataire ne prend en charge que les requêtes en format « HTTP »"
-" complet."
+msgstr "Ce serveur mandataire ne prend en charge que les requêtes en format « HTTP » complet."
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:118
 #, kde-format
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
-msgstr ""
-"Demandez à votre fournisseur de serveur mandataire, si vous n'êtes pas sûr"
-" concernant cette option."
+msgstr "Demandez à votre fournisseur de serveur mandataire, si vous n'êtes pas sûr concernant cette option."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
 msgctxt "placeholder message"
-msgid ""
-"You have no proxies added. Use the Add Proxy button at the bottom of the"
-" window to add one."
-msgstr ""
-"Vous n'avez ajouté aucun serveur mandataire. Veuillez utiliser le bouton"
-" « Ajouter un serveur mandataire » présent en bas de la fenêtre pour en"
-" ajouter un."
+msgid "You have no proxies added. Use the Add Proxy button at the bottom of the window to add one."
+msgstr "Vous n'avez ajouté aucun serveur mandataire. Veuillez utiliser le bouton « Ajouter un serveur mandataire » présent en bas de la fenêtre pour en ajouter un."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
@@ -1603,8 +1551,7 @@ msgstr "Photo"
 #. +> trunk5
 #: src/extractinator.cpp:74
 #, kde-format
-msgctxt ""
-"notification body for receiving an expired photo (one that self-destructed)"
+msgctxt "notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
 msgstr "Photo expirée"
 
@@ -1632,8 +1579,7 @@ msgstr "Vidéo"
 #. +> trunk5
 #: src/extractinator.cpp:89
 #, kde-format
-msgctxt ""
-"notification body for receiving an expired video (one that self-destructed)"
+msgctxt "notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
 msgstr "Vidéo expirée"
 
@@ -1668,9 +1614,7 @@ msgstr "Endroit : %1"
 #. +> trunk5
 #: src/extractinator.cpp:110
 #, kde-format
-msgctxt ""
-"notification body for receiving a contact, %1 %2 are firstname lastname from"
-" telegram's system"
+msgctxt "notification body for receiving a contact, %1 %2 are firstname lastname from telegram's system"
 msgid "Contact: %1 %2"
 msgstr "Contact : %1 %2"
 
@@ -1705,33 +1649,28 @@ msgstr "Facture : %1"
 #. +> trunk5
 #: src/internationalisedlist.cpp:20
 #, kde-format
-msgctxt ""
-"A list of two items. The items can be used to format any sort of nouns, e.g."
-" a list of people, places, things."
+msgctxt "A list of two items. The items can be used to format any sort of nouns, e.g. a list of people, places, things."
 msgid "%1 and %2"
 msgstr "%1 et %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:28
 #, kde-format
-msgctxt ""
-"The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
+msgctxt "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
 msgstr "%1 et %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:31
 #, kde-format
-msgctxt ""
-"The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
+msgctxt "The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:34
 #, kde-format
-msgctxt ""
-"The start of a list of 3 or more items. In English, this is '{0}, {1}'"
+msgctxt "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
