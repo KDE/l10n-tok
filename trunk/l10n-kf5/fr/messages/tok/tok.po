@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-08 00:17+0000\n"
-"PO-Revision-Date: 2021-10-05 09:29+0200\n"
+"PO-Revision-Date: 2021-10-08 23:43+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
 "Language: fr\n"
@@ -560,35 +560,32 @@ msgid "Delete"
 msgstr "Supprimer"
 
 #: data/Content.qml:372
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Chargement..."
+msgstr "Connexion en cours…"
 
 #: data/Content.qml:374
-#, fuzzy, kde-format
-#| msgid "Configure Proxy…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Configurer le serveur mandataire…"
+msgstr "Connexion en cours vers le serveur mandataire…"
 
 #: data/Content.qml:376
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "En attente du réseau..."
 
 #: data/Content.qml:378
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Chargement..."
+msgstr "Mise à jour en cours…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
