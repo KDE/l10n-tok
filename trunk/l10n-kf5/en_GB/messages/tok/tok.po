@@ -564,7 +564,6 @@ msgstr "Delete"
 
 #: data/Content.qml:372
 #, kde-format
-#| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
@@ -572,7 +571,6 @@ msgstr "Connecting…"
 
 #: data/Content.qml:374
 #, kde-format
-#| msgid "Configure Proxy…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
@@ -587,7 +585,6 @@ msgstr "Waiting on network…"
 
 #: data/Content.qml:378
 #, kde-format
-#| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
@@ -853,8 +850,6 @@ msgstr "%1 started a voice chat"
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
 #, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
 msgstr "Pinned Messages in %1"
@@ -903,7 +898,6 @@ msgstr "Select a chat to start messaging"
 
 #: data/routes/messages/View.qml:162
 #, kde-format
-#| msgid "All Messages"
 msgid "Pinned Messages"
 msgstr "Pinned Messages"
 
@@ -1515,8 +1509,6 @@ msgstr "Loading…"
 
 #: src/userdata.cpp:69
 #, kde-format
-#| msgctxt "text editing menu action; applies format"
-#| msgid "Underline"
 msgid "Online"
 msgstr "Online"
 
@@ -1533,8 +1525,6 @@ msgstr "Last online %1"
 
 #: src/userdata.cpp:101
 #, kde-format
-#| msgctxt "we know that this person is a human, but we don't know their name"
-#| msgid "Unknown Sender"
 msgid "Unknown Status"
 msgstr "Unknown Status"
 
