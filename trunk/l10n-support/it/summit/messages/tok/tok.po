@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-08 15:24+0200\n"
-"PO-Revision-Date: 2021-10-05 01:08+0200\n"
+"PO-Revision-Date: 2021-10-11 11:16+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 21.08.1\n"
+"X-Generator: Lokalize 21.08.2\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -652,21 +652,21 @@ msgstr "Elimina"
 
 #. +> trunk5
 #: data/Content.qml:372
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Caricamento…"
+msgstr "Connessione…"
 
 #. +> trunk5
 #: data/Content.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Proxy…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Configura proxy..."
+msgstr "Connessione al proxy..."
 
 #. +> trunk5
 #: data/Content.qml:376
@@ -674,16 +674,16 @@ msgstr "Configura proxy..."
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "In attesa della rete…"
 
 #. +> trunk5
 #: data/Content.qml:378
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Caricamento…"
+msgstr "Aggiornamento…"
 
 #. +> trunk5
 #: data/main.qml:23 data/maui_main.qml:18
