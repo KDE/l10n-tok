@@ -880,7 +880,7 @@ msgid "All Messages"
 msgstr "Todas as Mensagens"
 
 #: data/routes/messages/components/SearchMessages.qml:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "page title in switcher; keep small as possible"
 #| msgid "Files"
 msgid "Files"
@@ -907,10 +907,10 @@ msgid "Select a chat to start messaging"
 msgstr "Seleccione uma conversa para começar a enviar mensagens"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "All Messages"
 msgid "Pinned Messages"
-msgstr "Todas as Mensagens"
+msgstr "Mensagens Fixas"
 
 #: data/routes/messages/View.qml:177
 #, kde-format
@@ -1520,11 +1520,11 @@ msgid "Loading…"
 msgstr "A carregar…"
 
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "text editing menu action; applies format"
 #| msgid "Underline"
 msgid "Online"
-msgstr "Sublinhado"
+msgstr "Ligado"
 
 #: src/userdata.cpp:73
 #, kde-format
@@ -1538,8 +1538,8 @@ msgid "Last online %1"
 msgstr ""
 
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "we know that this person is a human, but we don't know their name"
 #| msgid "Unknown Sender"
 msgid "Unknown Status"
-msgstr "Remetente Desconhecido"
+msgstr "Estado Desconhecido"
