@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-08 00:17+0000\n"
+"POT-Creation-Date: 2021-10-13 00:17+0000\n"
 "PO-Revision-Date: 2021-10-07 13:03+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -38,7 +38,7 @@ msgstr "Nom"
 #: data/components/CreateNewMenuInWindow.qml:62
 #: data/components/CreateNewMenuInWindow.qml:113
 #: data/components/GlobalMenu.qml:79 data/components/GlobalMenuInWindow.qml:79
-#: data/Content.qml:317
+#: data/Content.qml:321
 #, kde-format
 msgid "Cancel"
 msgstr "Cancel·la"
@@ -535,58 +535,68 @@ msgstr "Fitxers"
 msgid "Add a caption…"
 msgstr "Afegeix una llegenda…"
 
-#: data/Content.qml:286
+#: data/components/UserDataSheet.qml:88
+#, kde-format
+msgid "Ban from \"%1\""
+msgstr ""
+
+#: data/components/UserDataSheet.qml:101
+#, kde-format
+msgid "Kick from \"%1\""
+msgstr ""
+
+#: data/Content.qml:290
 #, kde-format
 msgid "Do you want to delete this message?"
 msgstr "Voleu suprimir aquest missatge?"
 
-#: data/Content.qml:293
+#: data/Content.qml:297
 #, kde-format
 msgid "This will delete it just for you."
 msgstr "Això ho suprimirà només per a vós."
 
-#: data/Content.qml:297
+#: data/Content.qml:301
 #, kde-format
 msgid "This will delete it for everyone in this chat."
 msgstr "Això ho suprimirà per a tothom en aquest xat."
 
-#: data/Content.qml:303
+#: data/Content.qml:307
 #, kde-format
 msgid "Also delete for everyone"
 msgstr "Suprimeixo també per a tothom"
 
-#: data/Content.qml:303
+#: data/Content.qml:307
 #, kde-format
 msgid "Also delete for %1"
 msgstr "Suprimeixo també per a %1"
 
-#: data/Content.qml:321
+#: data/Content.qml:325
 #, kde-format
 msgid "Delete"
 msgstr "Suprimeix"
 
-#: data/Content.qml:372
+#: data/Content.qml:376
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
 msgstr "S'està connectant…"
 
-#: data/Content.qml:374
+#: data/Content.qml:378
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
 msgstr "S'està connectant al servidor intermediari…"
 
-#: data/Content.qml:376
+#: data/Content.qml:380
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
 msgstr "S'està esperant la xarxa…"
 
-#: data/Content.qml:378
+#: data/Content.qml:382
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
@@ -1242,17 +1252,17 @@ msgstr "Obre la configuració del servidor intermediari"
 msgid "All Chats"
 msgstr "Tots els xats"
 
-#: src/chatsstore.cpp:195 src/chatsstore.cpp:198
+#: src/chatsstore.cpp:197 src/chatsstore.cpp:200
 #, kde-format
 msgid "Group"
 msgstr "Grup"
 
-#: src/chatsstore.cpp:196
+#: src/chatsstore.cpp:198
 #, kde-format
 msgid "Private chat"
 msgstr "Xat privat"
 
-#: src/chatsstore.cpp:197
+#: src/chatsstore.cpp:199
 #, kde-format
 msgid "Secret chat"
 msgstr "Xat secret"
