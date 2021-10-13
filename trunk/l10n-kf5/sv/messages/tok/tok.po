@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-13 00:17+0000\n"
-"PO-Revision-Date: 2021-10-07 17:59+0200\n"
+"PO-Revision-Date: 2021-10-13 17:44+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -535,12 +535,12 @@ msgstr "Lägg till en rubrik…"
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Bannlys från \"%1\""
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Sparka ut från \"%1\""
 
 #: data/Content.qml:290
 #, kde-format
