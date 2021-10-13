@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-13 00:17+0000\n"
-"PO-Revision-Date: 2021-10-07 13:03+0200\n"
+"PO-Revision-Date: 2021-10-13 09:08+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -538,12 +538,12 @@ msgstr "Afegeix una llegenda…"
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Veta de «%1»"
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Expulsa de «%1»"
 
 #: data/Content.qml:290
 #, kde-format
