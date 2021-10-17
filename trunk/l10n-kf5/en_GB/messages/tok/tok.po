@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-13 00:17+0000\n"
-"PO-Revision-Date: 2021-10-10 11:20+0100\n"
+"PO-Revision-Date: 2021-10-17 11:14+0100\n"
 "Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
 "Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
 "Language: en_GB\n"
@@ -535,12 +535,12 @@ msgstr "Add a caption…"
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Ban from \"%1\""
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Kick from \"%1\""
 
 #: data/Content.qml:290
 #, kde-format
