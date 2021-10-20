@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-13 10:22+0200\n"
-"PO-Revision-Date: 2021-10-13 15:48+0200\n"
+"PO-Revision-Date: 2021-10-20 11:10+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -618,13 +618,13 @@ msgstr "Aggiungi una didascalia…"
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Metti al bando da «%1»"
 
 #. +> trunk5
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Caccia da «%1»"
 
 #. +> trunk5
 #: data/Content.qml:290
