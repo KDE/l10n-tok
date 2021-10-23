@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-13 00:17+0000\n"
-"PO-Revision-Date: 2021-09-09 13:41+0200\n"
+"PO-Revision-Date: 2021-10-20 11:10+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 21.08.1\n"
+"X-Generator: Lokalize 21.08.2\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -299,7 +299,7 @@ msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
-msgstr "Apri scambiatore rapido"
+msgstr "Apri il selettore rapido"
 
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
@@ -535,12 +535,12 @@ msgstr "Aggiungi una didascalia…"
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Metti al bando da «%1»"
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Caccia da «%1»"
 
 #: data/Content.qml:290
 #, kde-format
@@ -573,35 +573,32 @@ msgid "Delete"
 msgstr "Elimina"
 
 #: data/Content.qml:376
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Caricamento…"
+msgstr "Connessione…"
 
 #: data/Content.qml:378
-#, fuzzy, kde-format
-#| msgid "Configure Proxy…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Configura proxy..."
+msgstr "Connessione al proxy..."
 
 #: data/Content.qml:380
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "In attesa della rete…"
 
 #: data/Content.qml:382
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Caricamento…"
+msgstr "Aggiornamento…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
@@ -865,12 +862,10 @@ msgstr "%1 ha iniziato una chat vocale"
 
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
+#, kde-format
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "Cerca messaggi in %1"
+msgstr "Messaggi appuntati in %1"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
 #: data/routes/messages/components/SearchMessages.qml:133
@@ -915,10 +910,9 @@ msgid "Select a chat to start messaging"
 msgstr "Selezionare una chat per iniziare a inviare messaggi"
 
 #: data/routes/messages/View.qml:162
-#, fuzzy, kde-format
-#| msgid "All Messages"
+#, kde-format
 msgid "Pinned Messages"
-msgstr "Tutti i messaggi"
+msgstr "Messaggi appuntati"
 
 #: data/routes/messages/View.qml:177
 #, kde-format
@@ -1527,29 +1521,25 @@ msgid "Loading…"
 msgstr "Caricamento…"
 
 #: src/userdata.cpp:69
-#, fuzzy, kde-format
-#| msgctxt "text editing menu action; applies format"
-#| msgid "Underline"
+#, kde-format
 msgid "Online"
-msgstr "Sottolineato"
+msgstr "In linea"
 
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "In linea di recente"
 
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "Ultima volta in linea %1"
 
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
-#| msgctxt "we know that this person is a human, but we don't know their name"
-#| msgid "Unknown Sender"
+#, kde-format
 msgid "Unknown Status"
-msgstr "Mittente sconosciuto"
+msgstr "Stato sconosciuto"
 
 #~ msgid ""
 #~ "Enter your authentication code that you received from another Telegram "
