@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-27 00:20+0000\n"
-"PO-Revision-Date: 2021-10-27 09:06+0300\n"
+"PO-Revision-Date: 2021-10-27 17:10+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "Language: uk\n"
@@ -165,10 +165,10 @@ msgstr ""
 "Додати «%1» до словника"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
-#, fuzzy, kde-format
+#, kde-format
 msgid "Ignore \"%1\""
 msgstr ""
-"Ігнорувати"
+"Ігнорувати «%1»"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -1139,12 +1139,14 @@ msgstr ""
 msgctxt "title"
 msgid "Spellchecking Dictionary"
 msgstr ""
+"Словник перевірки правопису"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
 msgstr ""
+"Мови перевірки правопису"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:111
@@ -1154,12 +1156,12 @@ msgstr ""
 "Типова мова"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Відкрити параметри облікового запису"
+msgstr "Параметри перевірки правопису"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1168,6 +1170,7 @@ msgctxt ""
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
 msgstr ""
+"Перевірку увімкнено"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
@@ -1176,6 +1179,7 @@ msgctxt ""
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
 msgstr ""
+"Ігнорувати з великими"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
@@ -1184,25 +1188,29 @@ msgctxt ""
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
 msgstr ""
+"Ігнорувати з дефісами"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
 msgstr ""
+"Встановити типову мову для правопису"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
 msgstr ""
+"Зараз %1"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
 msgstr ""
+"Виявляти мову зі списку автоматично"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
-#, fuzzy, kde-format
+#, kde-format
 msgid "Language list"
 msgstr ""
 "Список мов"
@@ -1211,16 +1219,19 @@ msgstr ""
 #, kde-format
 msgid "Select languages for automatic detection"
 msgstr ""
+"Виберіть мови для автоматичного виявлення"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
 msgstr ""
+"Словник перевірки"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
 msgstr ""
+"Додати слова до вашого словника або вилучити їх з нього"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1368,58 +1379,67 @@ msgid "Open proxy settings"
 msgstr "Відкрити параметри проксі"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Відкрити параметри облікового запису"
+msgstr "Відкрити параметри перевірки правопису"
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
 msgstr ""
+"Словник перевірки правопису"
 
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
 msgstr ""
+"Відкрити словник перевірки правопису"
 
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
 msgstr ""
+"Словник для перевірки правопису"
 
 #: data/routes/settings/SpellcheckSettings.qml:32
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr ""
+"Увімкнути автоматичну перевірку правопису"
 
 #: data/routes/settings/SpellcheckSettings.qml:37
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr ""
+"Ігнорувати слова з великих літер"
 
 #: data/routes/settings/SpellcheckSettings.qml:42
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr ""
+"Ігнорувати слова з дефісами"
 
 #: data/routes/settings/SpellcheckSettings.qml:48
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr ""
+"Типова мова для перевірки правопису:"
 
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr ""
+"Мови для перевірки правопису"
 
 #: data/routes/settings/SpellcheckSettings.qml:66
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
+"Виявляти мову для перевірки з наведеного нижче списку автоматично"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
