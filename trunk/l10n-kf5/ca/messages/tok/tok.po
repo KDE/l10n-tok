@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-27 00:20+0000\n"
-"PO-Revision-Date: 2021-10-24 18:52+0200\n"
+"PO-Revision-Date: 2021-10-27 08:51+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -152,22 +152,22 @@ msgstr "Selecciona-ho tot"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "Verificació d'ortografia"
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Sense suggeriments per a «%1»"
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Afegeix «%1» al diccionari"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Ignora «%1»"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -1117,7 +1117,7 @@ msgstr "Aparença"
 #: data/routes/settings/Settings.qml:70
 #, kde-format
 msgid "Spellchecking"
-msgstr ""
+msgstr "Verificació d'ortografia"
 
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
@@ -1134,33 +1134,33 @@ msgstr "Sortida"
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
-msgstr ""
+msgstr "Tria un idioma predeterminat de verificació d'ortografia…"
 
 #: data/routes/settings/mobile/SpellcheckDictionary.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Diccionari de verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
-msgstr ""
+msgstr "Idiomes de verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:111
 #, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Idioma predeterminat"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Obre la configuració del compte"
+msgstr "Configuració de la verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1168,7 +1168,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
-msgstr ""
+msgstr "Verificació d'ortografia activada"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
@@ -1176,7 +1176,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Ignora les paraules amb majúscula inicial"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
@@ -1184,43 +1184,43 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Ignora les paraules amb guió"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
-msgstr ""
+msgstr "Defineix un idioma predeterminat per a la verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "Actualment %1"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
-msgstr ""
+msgstr "Detecta automàticament l'idioma a partir de la llista"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "Llista d'idiomes"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
 msgid "Select languages for automatic detection"
-msgstr ""
+msgstr "Selecció d'idiomes per a la detecció automàtica"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
-msgstr ""
+msgstr "Diccionari de verificació ortogràfica"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
-msgstr ""
+msgstr "Afegeix i elimina paraules del vostre diccionari"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1367,58 +1367,60 @@ msgid "Open proxy settings"
 msgstr "Obre la configuració del servidor intermediari"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Obre la configuració del compte"
+msgstr "Obre la configuració de la verificació d'ortografia"
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Diccionari de verificació d'ortografia"
 
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
-msgstr ""
+msgstr "Obre el diccionari de la verificació d'ortografia"
 
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
-msgstr ""
+msgstr "Diccionari per a la verificació d'ortografia"
 
 #: data/routes/settings/SpellcheckSettings.qml:32
 #, kde-format
 msgid "Enable automatic spellchecking"
-msgstr ""
+msgstr "Activa la verificació automàtica de l'ortogràfica"
 
 #: data/routes/settings/SpellcheckSettings.qml:37
 #, kde-format
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Ignora les paraules amb majúscula inicial"
 
 #: data/routes/settings/SpellcheckSettings.qml:42
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Ignora les paraules amb guió"
 
 #: data/routes/settings/SpellcheckSettings.qml:48
 #, kde-format
 msgid "Default language for spellchecking:"
-msgstr ""
+msgstr "Idioma predeterminat per a la verificació d'ortografia:"
 
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Languages for spellchecking"
-msgstr ""
+msgstr "Idiomes per a la verificació d'ortografia"
 
 #: data/routes/settings/SpellcheckSettings.qml:66
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
+"Detecta automàticament l'idioma per a la verificació d'ortografia a partir de"
+" la llista de sota"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
