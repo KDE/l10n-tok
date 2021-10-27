@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-13 10:22+0200\n"
+"POT-Creation-Date: 2021-10-27 11:01+0200\n"
 "PO-Revision-Date: 2021-10-08 14:35+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -39,7 +39,7 @@ msgstr "Název"
 #: data/components/CreateNewMenuInWindow.qml:62
 #: data/components/CreateNewMenuInWindow.qml:113
 #: data/components/GlobalMenu.qml:79 data/components/GlobalMenuInWindow.qml:79
-#: data/Content.qml:321
+#: data/Content.qml:348
 #, kde-format
 msgid "Cancel"
 msgstr "Zrušit"
@@ -166,6 +166,36 @@ msgid "Select All"
 msgstr "Vybrat vše"
 
 #. +> trunk5
+#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
+#, fuzzy, kde-format
+#| msgid "Spell checking"
+msgctxt "text editing submenu"
+msgid "Spellchecking"
+msgstr "Kontrola pravopisu"
+
+#. +> trunk5
+#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
+#, fuzzy, kde-format
+#| msgid "No suggestions for %1"
+msgid "No suggestions for \"%1\""
+msgstr "Žádné návrhy pro %1"
+
+#. +> trunk5
+#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
+#, fuzzy, kde-format
+#| msgid "Add to dictionary"
+msgid "Add \"%1\" to dictionary"
+msgstr "Přidat do slovníku"
+
+#. +> trunk5
+#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Ignored: %1"
+msgid "Ignore \"%1\""
+msgstr "Ignorováno: %1"
+
+#. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
 msgctxt "text menu editing action"
@@ -230,7 +260,7 @@ msgstr "Předvolby…"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:112
+#: data/Content.qml:139
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
@@ -238,7 +268,7 @@ msgstr "Povolit upozornění"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:112
+#: data/Content.qml:139
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
@@ -253,7 +283,7 @@ msgstr "Odhlásit se"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
-#: data/Content.qml:116
+#: data/Content.qml:143
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
@@ -632,43 +662,43 @@ msgid "Kick from \"%1\""
 msgstr " od %1"
 
 #. +> trunk5
-#: data/Content.qml:290
+#: data/Content.qml:317
 #, kde-format
 msgid "Do you want to delete this message?"
 msgstr "Chcete tuto zprávu odstranit?"
 
 #. +> trunk5
-#: data/Content.qml:297
+#: data/Content.qml:324
 #, kde-format
 msgid "This will delete it just for you."
 msgstr "Tímto se vymaže pouze pro vás."
 
 #. +> trunk5
-#: data/Content.qml:301
+#: data/Content.qml:328
 #, kde-format
 msgid "This will delete it for everyone in this chat."
 msgstr "Tímto se vymaže pro všechny v tomto rozhovoru."
 
 #. +> trunk5
-#: data/Content.qml:307
+#: data/Content.qml:334
 #, kde-format
 msgid "Also delete for everyone"
 msgstr "Taktéž smazat pro všechny"
 
 #. +> trunk5
-#: data/Content.qml:307
+#: data/Content.qml:334
 #, kde-format
 msgid "Also delete for %1"
 msgstr "Taktéž smazat pro %1"
 
 #. +> trunk5
-#: data/Content.qml:325
+#: data/Content.qml:352
 #, kde-format
 msgid "Delete"
 msgstr "Smazat"
 
 #. +> trunk5
-#: data/Content.qml:376
+#: data/Content.qml:403
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
@@ -676,7 +706,7 @@ msgid "Connecting…"
 msgstr "Navazuji spojení…"
 
 #. +> trunk5
-#: data/Content.qml:378
+#: data/Content.qml:405
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
@@ -684,7 +714,7 @@ msgid "Connecting to proxy…"
 msgstr "Připojuji se k proxy..."
 
 #. +> trunk5
-#: data/Content.qml:380
+#: data/Content.qml:407
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
@@ -692,7 +722,7 @@ msgid "Waiting on network…"
 msgstr "Čekám na síť..."
 
 #. +> trunk5
-#: data/Content.qml:382
+#: data/Content.qml:409
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
@@ -1264,16 +1294,146 @@ msgstr "Vzhled"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:51
+#: data/routes/settings/Settings.qml:70
+#, fuzzy, kde-format
+#| msgid "Spell checking"
+msgid "Spellchecking"
+msgstr "Kontrola pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
 #, kde-format
 msgid "Proxy"
 msgstr "Proxy"
 
 #. +> trunk5
-#: data/routes/settings/mobile/Settings.qml:60
+#: data/routes/settings/mobile/Settings.qml:67
 #, kde-format
 msgid "Log Out"
 msgstr "Odhlásit se"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckDefault.qml:27
+#, fuzzy, kde-format
+#| msgid "Set spell check language"
+msgctxt "title"
+msgid "Pick a default spellchecking language…"
+msgstr "Nastavit jazyk pro kontrolu pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckDictionary.qml:27
+#, fuzzy, kde-format
+#| msgid "Spell checking Options"
+msgctxt "title"
+msgid "Spellchecking Dictionary"
+msgstr "Možnosti kontroly pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
+#, fuzzy, kde-format
+#| msgid "Spell Checking Language"
+msgctxt "title"
+msgid "Spellchecking Languages"
+msgstr "Jazyk kontroly pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
+#: data/routes/settings/SpellcheckSettings.qml:111
+#, fuzzy, kde-format
+#| msgid "Default language:"
+msgid "Default language"
+msgstr "Výchozí jazyk:"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:27
+#, fuzzy, kde-format
+#| msgid "Spelling Settings"
+msgctxt "title"
+msgid "Spellchecking Settings"
+msgstr "Nastavení pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:52
+#, fuzzy, kde-format
+#| msgid "Spell checking"
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Spellchecking enabled"
+msgstr "Kontrola pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:61
+#, fuzzy, kde-format
+#| msgid "Ignore capitalization mistakes"
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Ignore capitalised words"
+msgstr "Nevšímat si chyb v psaní velkých písmen"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:70
+#, fuzzy, kde-format
+#| msgid "Ignore keywords"
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Ignore hyphenated words"
+msgstr "Ignorovat klíčová slova"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:79
+#, fuzzy, kde-format
+#| msgctxt "short translation please"
+#| msgid "Set the default dictionary used for spell checking."
+msgid "Set default language for spellchecking"
+msgstr "Nastavit výchozí slovník použitý ke kontrole pravopisu."
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:80
+#, fuzzy, kde-format
+#| msgctxt "%1 is a text explaining the current activity"
+#| msgid "Currently busy: %1"
+msgctxt "currently <which language is default>"
+msgid "Currently %1"
+msgstr "Nyní zaneprázdněno: %1"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:97
+#, fuzzy, kde-format
+#| msgid "Determine number of rows automatically:"
+msgid "Detect language from list automatically"
+msgstr "Vybrat počet řádků automaticky:"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:106
+#, fuzzy, kde-format
+#| msgid "Languages"
+msgid "Language list"
+msgstr "Jazyky"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:107
+#, fuzzy, kde-format
+#| msgid "Select language profile"
+msgid "Select languages for automatic detection"
+msgstr "Vybrat jazykový profil"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:124
+#, fuzzy, kde-format
+#| msgid "Spellcheck: on"
+msgid "Spellcheck dictionary"
+msgstr "Kontrola pravopisu: zap"
+
+#. +> trunk5
+#: data/routes/settings/mobile/SpellcheckSettings.qml:125
+#, fuzzy, kde-format
+#| msgid "Add and remove software"
+msgid "Add and remove words from your dictionary"
+msgstr "Přidat a odebrat software"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:55
@@ -1437,6 +1597,79 @@ msgstr ""
 msgctxt "sidebar item accessible text"
 msgid "Open proxy settings"
 msgstr "Otevřít nastavení proxy"
+
+#. +> trunk5
+#: data/routes/settings/Settings.qml:71
+#, fuzzy, kde-format
+#| msgctxt "sidebar item accessible text"
+#| msgid "Open account settings"
+msgctxt "sidebar item accessible text"
+msgid "Open spellchecking settings"
+msgstr "Otevřít nastavení účtu"
+
+#. +> trunk5
+#: data/routes/settings/Settings.qml:76
+#, fuzzy, kde-format
+#| msgid "Spell checking Options"
+msgid "Spellchecking Dictionary"
+msgstr "Možnosti kontroly pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/Settings.qml:77
+#, fuzzy, kde-format
+#| msgid "Spell checking Options"
+msgctxt "sidebar item accessible text"
+msgid "Open spellchecking dictionary"
+msgstr "Možnosti kontroly pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckDictionary.qml:31
+#, fuzzy, kde-format
+#| msgctxt "short translation please"
+#| msgid "Set the default dictionary used for spell checking."
+msgid "Dictionary for spellchecking"
+msgstr "Nastavit výchozí slovník použitý ke kontrole pravopisu."
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckSettings.qml:32
+#, fuzzy, kde-format
+#| msgid "Enable automatic spell checking"
+msgid "Enable automatic spellchecking"
+msgstr "Povolit automatickou kontrolu pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckSettings.qml:37
+#, fuzzy, kde-format
+#| msgid "Ignore capitalization mistakes"
+msgid "Ignore capitalised words"
+msgstr "Nevšímat si chyb v psaní velkých písmen"
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckSettings.qml:42
+#, fuzzy, kde-format
+#| msgid "Ignore keywords"
+msgid "Ignore hyphenated words"
+msgstr "Ignorovat klíčová slova"
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckSettings.qml:48
+#, fuzzy, kde-format
+#| msgid "Default language code for new projects"
+msgid "Default language for spellchecking:"
+msgstr "Kód výchozího jazyka pro nové projekty"
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckSettings.qml:62
+#, fuzzy, kde-format
+#| msgid "Enable spell checking"
+msgid "Languages for spellchecking"
+msgstr "Povolit kontrolu pravopisu"
+
+#. +> trunk5
+#: data/routes/settings/SpellcheckSettings.qml:66
+#, kde-format
+msgid "Detect language to spellcheck automatically from below list"
+msgstr ""
 
 #. +> trunk5
 #: src/chatlistmodel.cpp:22
