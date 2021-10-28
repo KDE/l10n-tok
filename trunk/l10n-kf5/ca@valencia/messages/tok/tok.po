@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-27 00:20+0000\n"
-"PO-Revision-Date: 2021-10-13 09:08+0200\n"
+"PO-Revision-Date: 2021-10-27 08:51+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -152,22 +152,22 @@ msgstr "Selecciona-ho tot"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "Verificació d'ortografia"
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Sense suggeriments per a «%1»"
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Afig «%1» al diccionari"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Ignora «%1»"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -274,116 +274,99 @@ msgctxt "menu"
 msgid "View"
 msgstr "Vista"
 
-#: data/components/GlobalMenu.qml:100
-#: data/components/GlobalMenuInWindow.qml:100
+#: data/components/GlobalMenu.qml:100 data/components/GlobalMenuInWindow.qml:100
 #, kde-format
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Desactiva el mode compacte"
 
-#: data/components/GlobalMenu.qml:100
-#: data/components/GlobalMenuInWindow.qml:100
+#: data/components/GlobalMenu.qml:100 data/components/GlobalMenuInWindow.qml:100
 #, kde-format
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Activa el mode compacte"
 
-#: data/components/GlobalMenu.qml:104
-#: data/components/GlobalMenuInWindow.qml:104
+#: data/components/GlobalMenu.qml:104 data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Don't Use Image As Background"
 msgstr "No usis una imatge com a fons"
 
-#: data/components/GlobalMenu.qml:104
-#: data/components/GlobalMenuInWindow.qml:104
+#: data/components/GlobalMenu.qml:104 data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Use Image As Background"
 msgstr "Usa una imatge com a fons"
 
-#: data/components/GlobalMenu.qml:108
-#: data/components/GlobalMenuInWindow.qml:108
+#: data/components/GlobalMenu.qml:108 data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Disable Transparency"
 msgstr "Desactiva la transparència"
 
-#: data/components/GlobalMenu.qml:108
-#: data/components/GlobalMenuInWindow.qml:108
+#: data/components/GlobalMenu.qml:108 data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Enable Transparency"
 msgstr "Activa la transparència"
 
-#: data/components/GlobalMenu.qml:112
-#: data/components/GlobalMenuInWindow.qml:112
+#: data/components/GlobalMenu.qml:112 data/components/GlobalMenuInWindow.qml:112
 #, kde-format
 msgctxt ""
-"menu item that opens a UI element called the 'Quick Switcher', which offers "
-"a fast keyboard-based interface for switching in between chats."
+"menu item that opens a UI element called the 'Quick Switcher', which offers a "
+"fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
 msgstr "Obri el commutador ràpid"
 
-#: data/components/GlobalMenu.qml:118
-#: data/components/GlobalMenuInWindow.qml:118
+#: data/components/GlobalMenu.qml:118 data/components/GlobalMenuInWindow.qml:118
 #, kde-format
-msgctxt ""
-"menu item offering access to more menu items to pick the colour scheme"
+msgctxt "menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
 msgstr "Defineix l'esquema de color"
 
-#: data/components/GlobalMenu.qml:142
-#: data/components/GlobalMenuInWindow.qml:142
+#: data/components/GlobalMenu.qml:142 data/components/GlobalMenuInWindow.qml:142
 #, kde-format
 msgctxt "menu"
 msgid "Format"
 msgstr "Format"
 
-#: data/components/GlobalMenu.qml:146
-#: data/components/GlobalMenuInWindow.qml:146
+#: data/components/GlobalMenu.qml:146 data/components/GlobalMenuInWindow.qml:146
 #, kde-format
 msgctxt "menu"
 msgid "Window"
 msgstr "Finestra"
 
-#: data/components/GlobalMenu.qml:149
-#: data/components/GlobalMenuInWindow.qml:149
+#: data/components/GlobalMenu.qml:149 data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
 msgstr "Oculta la barra lateral"
 
-#: data/components/GlobalMenu.qml:149
-#: data/components/GlobalMenuInWindow.qml:149
+#: data/components/GlobalMenu.qml:149 data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Show Sidebar"
 msgstr "Mostra la barra lateral"
 
-#: data/components/GlobalMenu.qml:153
-#: data/components/GlobalMenuInWindow.qml:153
+#: data/components/GlobalMenu.qml:153 data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
 msgstr "Ix de pantalla completa"
 
-#: data/components/GlobalMenu.qml:153
-#: data/components/GlobalMenuInWindow.qml:153
+#: data/components/GlobalMenu.qml:153 data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
 msgstr "Entra a pantalla completa"
 
-#: data/components/GlobalMenu.qml:159
-#: data/components/GlobalMenuInWindow.qml:159
+#: data/components/GlobalMenu.qml:159 data/components/GlobalMenuInWindow.qml:159
 #, kde-format
 msgctxt "menu"
 msgid "Help"
 msgstr "Ajuda"
 
-#: data/components/GlobalMenu.qml:162
-#: data/components/GlobalMenuInWindow.qml:162
+#: data/components/GlobalMenu.qml:162 data/components/GlobalMenuInWindow.qml:162
 #, kde-format
 msgctxt "menu"
 msgid "Telegram FAQ"
@@ -684,9 +667,9 @@ msgid "Code"
 msgstr "Codi"
 
 #: data/routes/entry/AuthenticationCode.qml:59
-#: data/routes/entry/AuthenticationCode.qml:60
-#: data/routes/entry/Password.qml:58 data/routes/entry/Password.qml:59
-#: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
+#: data/routes/entry/AuthenticationCode.qml:60 data/routes/entry/Password.qml:58
+#: data/routes/entry/Password.qml:59 data/routes/entry/PhoneNumber.qml:78
+#: data/routes/entry/PhoneNumber.qml:79
 #, kde-format
 msgid "Continue"
 msgstr "Continua"
@@ -801,8 +784,8 @@ msgstr "Suprimeix"
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
 msgctxt ""
-"tooltip for a button on a message; offers ability to open its downloaded "
-"file with an appropriate application"
+"tooltip for a button on a message; offers ability to open its downloaded file "
+"with an appropriate application"
 msgid "Open File"
 msgstr "Obri un fitxer"
 
@@ -817,8 +800,8 @@ msgstr "%1 / %2"
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
 msgctxt ""
-"tooltip for a button on a message; offers ability to open its downloaded "
-"file with an appropriate application"
+"tooltip for a button on a message; offers ability to open its downloaded file "
+"with an appropriate application"
 msgid "Stop Download"
 msgstr "Atura la baixada"
 
@@ -833,8 +816,7 @@ msgstr ""
 
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
-msgctxt ""
-"tooltip for a button on a message; offers ability to download its file"
+msgctxt "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "Baixa"
 
@@ -950,16 +932,16 @@ msgstr "Eixida"
 #: data/routes/settings/AppearanceSettings.qml:21
 #, kde-format
 msgctxt ""
-"Checkable control to toggle between the default appearance and a more "
-"compact style"
+"Checkable control to toggle between the default appearance and a more compact "
+"style"
 msgid "Use a compact appearance for messages"
 msgstr "Usa una aparença compacta per als missatges"
 
 #: data/routes/settings/AppearanceSettings.qml:26
 #, kde-format
 msgctxt ""
-"Checkable control to toggle between a photo background for the chat and "
-"using a solid colour"
+"Checkable control to toggle between a photo background for the chat and using "
+"a solid colour"
 msgid "Display an image in the background of chats"
 msgstr "Mostra una imatge en el fons dels xats"
 
@@ -980,8 +962,8 @@ msgstr "Canvia l'esquema de color"
 #: data/routes/settings/BehaviourSettings.qml:21
 #, kde-format
 msgctxt ""
-"Checkable control to toggle a system tray icon and not closing the app when "
-"X is pressed, instead using the tray icon"
+"Checkable control to toggle a system tray icon and not closing the app when X "
+"is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
 msgstr "Minimitza a la safata del sistema en tancar l'aplicació"
 
@@ -994,18 +976,18 @@ msgstr "Aparença"
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
 msgctxt ""
-"Checkable control to toggle between the default appearance and a more "
-"compact style. Keep the text no longer than a few letters longer than the "
-"source string due to screen size constraints. Reword heavily if needed."
+"Checkable control to toggle between the default appearance and a more compact "
+"style. Keep the text no longer than a few letters longer than the source "
+"string due to screen size constraints. Reword heavily if needed."
 msgid "Compact appearance for messages"
 msgstr "Aparença compacta per als missatges"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:53
 #, kde-format
 msgctxt ""
-"Checkable control to toggle between a photo background for the chat and "
-"using a solid colour. Keep the text no longer than a few letters longer than "
-"the source string due to screen size constraints. Reword heavily if needed."
+"Checkable control to toggle between a photo background for the chat and using "
+"a solid colour. Keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
 msgstr "Mostra una imatge darrere els xats"
 
@@ -1117,7 +1099,7 @@ msgstr "Aparença"
 #: data/routes/settings/Settings.qml:70
 #, kde-format
 msgid "Spellchecking"
-msgstr ""
+msgstr "Verificació d'ortografia"
 
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
@@ -1134,33 +1116,31 @@ msgstr "Eixida"
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
-msgstr ""
+msgstr "Tria un idioma predeterminat de verificació d'ortografia…"
 
 #: data/routes/settings/mobile/SpellcheckDictionary.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Diccionari de verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
-msgstr ""
+msgstr "Idiomes de verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:111
 #, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Idioma predeterminat"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
+#, kde-format
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Obri la configuració del compte"
+msgstr "Configuració de la verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1168,7 +1148,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
-msgstr ""
+msgstr "Verificació d'ortografia activada"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
@@ -1176,7 +1156,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Ignora les paraules amb majúscula inicial"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
@@ -1184,43 +1164,43 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Ignora les paraules amb guió"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
-msgstr ""
+msgstr "Defineix un idioma predeterminat per a la verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "Actualment %1"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
-msgstr ""
+msgstr "Detecta automàticament l'idioma a partir de la llista"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "Llista d'idiomes"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
 msgid "Select languages for automatic detection"
-msgstr ""
+msgstr "Selecció d'idiomes per a la detecció automàtica"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
-msgstr ""
+msgstr "Diccionari de verificació ortogràfica"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
-msgstr ""
+msgstr "Afig i elimina paraules del vostre diccionari"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1274,17 +1254,15 @@ msgstr "Configuració SOCKS5"
 #, kde-format
 msgctxt "form control label"
 msgid "MTProto Secret"
-msgstr "Secrete del MTProto"
+msgstr "Secret del MTProto"
 
-#: data/routes/settings/ProxyForm.qml:103
-#: data/routes/settings/ProxyForm.qml:129
+#: data/routes/settings/ProxyForm.qml:103 data/routes/settings/ProxyForm.qml:129
 #, kde-format
 msgctxt "form control label"
 msgid "Username:"
 msgstr "Nom d'usuari:"
 
-#: data/routes/settings/ProxyForm.qml:109
-#: data/routes/settings/ProxyForm.qml:135
+#: data/routes/settings/ProxyForm.qml:109 data/routes/settings/ProxyForm.qml:135
 #, kde-format
 msgctxt "form control label"
 msgid "Password:"
@@ -1367,58 +1345,58 @@ msgid "Open proxy settings"
 msgstr "Obri la configuració del servidor intermediari"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
+#, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Obri la configuració del compte"
+msgstr "Obri la configuració de la verificació d'ortografia"
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Diccionari de verificació d'ortografia"
 
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
-msgstr ""
+msgstr "Obri el diccionari de la verificació d'ortografia"
 
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
-msgstr ""
+msgstr "Diccionari per a la verificació d'ortografia"
 
 #: data/routes/settings/SpellcheckSettings.qml:32
 #, kde-format
 msgid "Enable automatic spellchecking"
-msgstr ""
+msgstr "Activa la verificació automàtica de l'ortogràfica"
 
 #: data/routes/settings/SpellcheckSettings.qml:37
 #, kde-format
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Ignora les paraules amb majúscula inicial"
 
 #: data/routes/settings/SpellcheckSettings.qml:42
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Ignora les paraules amb guió"
 
 #: data/routes/settings/SpellcheckSettings.qml:48
 #, kde-format
 msgid "Default language for spellchecking:"
-msgstr ""
+msgstr "Idioma predeterminat per a la verificació d'ortografia:"
 
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Languages for spellchecking"
-msgstr ""
+msgstr "Idiomes per a la verificació d'ortografia"
 
 #: data/routes/settings/SpellcheckSettings.qml:66
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
+"Detecta automàticament l'idioma per a la verificació d'ortografia a partir de "
+"la llista de sota"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
@@ -1675,8 +1653,7 @@ msgstr "%1, %2"
 
 #: src/internationalisedlist.cpp:34
 #, kde-format
-msgctxt ""
-"The start of a list of 3 or more items. In English, this is '{0}, {1}'"
+msgctxt "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
