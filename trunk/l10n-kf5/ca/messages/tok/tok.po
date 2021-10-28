@@ -1156,8 +1156,6 @@ msgstr "Idioma predeterminat"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
 msgstr "Configuració de la verificació d'ortografia"
@@ -1368,8 +1366,6 @@ msgstr "Obre la configuració del servidor intermediari"
 
 #: data/routes/settings/Settings.qml:71
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
 msgstr "Obre la configuració de la verificació d'ortografia"
@@ -1419,8 +1415,8 @@ msgstr "Idiomes per a la verificació d'ortografia"
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
-"Detecta automàticament l'idioma per a la verificació d'ortografia a partir de"
-" la llista de sota"
+"Detecta automàticament l'idioma per a la verificació d'ortografia a partir "
+"de la llista de sota"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format

@@ -1150,8 +1150,6 @@ msgstr "Standardspråk"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
 msgstr "Stavningskontrollinställningar"
@@ -1360,8 +1358,6 @@ msgstr "Visa proxy-inställningar"
 
 #: data/routes/settings/Settings.qml:71
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
 msgstr "Visa stavningskontrollinställningar"
@@ -1411,7 +1407,8 @@ msgstr "Språk för stavningskontroll"
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
-"Identifiera automatiskt språk att stavningskontrollera från nedanstående lista"
+"Identifiera automatiskt språk att stavningskontrollera från nedanstående "
+"lista"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format

@@ -1155,8 +1155,6 @@ msgstr "Idioma predeterminado"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
 msgstr "Preferencias de la corrección ortográfica"
@@ -1365,8 +1363,6 @@ msgstr "Abrir las preferencias del proxy"
 
 #: data/routes/settings/Settings.qml:71
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
 msgstr "Abrir las preferencias de la corrección ortográfica"
@@ -1416,8 +1412,8 @@ msgstr "Idiomas para corrección ortográfica"
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
-"Detectar automáticamente el idioma para corrección "
-"ortográfica de la siguiente lista"
+"Detectar automáticamente el idioma para corrección ortográfica de la "
+"siguiente lista"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
