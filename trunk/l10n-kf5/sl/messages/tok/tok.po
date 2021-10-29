@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-27 00:20+0000\n"
-"PO-Revision-Date: 2021-10-15 08:52+0200\n"
+"PO-Revision-Date: 2021-10-29 07:46+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 && n"
+"%100<=4 ? 2 : 3);\n"
 "X-Generator: Poedit 3.0\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -150,22 +150,22 @@ msgstr "Izberi vse"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "Črkovanje"
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Ni predlogov za \"%1\""
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Dodaj \"%1\" v slovar"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Prezri \"%1\""
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -1114,7 +1114,7 @@ msgstr "Videz"
 #: data/routes/settings/Settings.qml:70
 #, kde-format
 msgid "Spellchecking"
-msgstr ""
+msgstr "Črkovanje"
 
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
@@ -1131,33 +1131,33 @@ msgstr "Odjavi se"
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
-msgstr ""
+msgstr "Poberi privzeti jezik črkovanja…"
 
 #: data/routes/settings/mobile/SpellcheckDictionary.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Slovar črkovanja"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
-msgstr ""
+msgstr "Jeziki črkovanja"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:111
 #, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Privzeti jezik"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Odpri nastavitve računa"
+msgstr "Nastavitve črkovanja"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1165,7 +1165,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
-msgstr ""
+msgstr "Črkovanje omogočeno"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
@@ -1173,7 +1173,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Prezri besede z velikimi črkami"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
@@ -1181,43 +1181,43 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Prezri besede z vezaji"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
-msgstr ""
+msgstr "Nastavi privzeti jezik črkovanja"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "Trenutno %1"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
-msgstr ""
+msgstr "Samodejno detektiraj jezik iz seznama"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "Seznam jezikov"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
 msgid "Select languages for automatic detection"
-msgstr ""
+msgstr "Izberi jezike za samodejno detekcijo"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
-msgstr ""
+msgstr "Slovar črkovanja"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
-msgstr ""
+msgstr "Dodaj in odstrani besede iz slovarja"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1363,58 +1363,58 @@ msgid "Open proxy settings"
 msgstr "Odpri nastavitve posrednika"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Odpri nastavitve računa"
+msgstr "Odpri nastavitve črkovanja"
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Slovar črkovanja"
 
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
-msgstr ""
+msgstr "Odpri slovar črkovanja"
 
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
-msgstr ""
+msgstr "Slovar črkovanja"
 
 #: data/routes/settings/SpellcheckSettings.qml:32
 #, kde-format
 msgid "Enable automatic spellchecking"
-msgstr ""
+msgstr "Omogoči samodejno črkovanje"
 
 #: data/routes/settings/SpellcheckSettings.qml:37
 #, kde-format
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Prezri besede z velikimi črkami"
 
 #: data/routes/settings/SpellcheckSettings.qml:42
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Prezri besede z vezaji"
 
 #: data/routes/settings/SpellcheckSettings.qml:48
 #, kde-format
 msgid "Default language for spellchecking:"
-msgstr ""
+msgstr "Privzeti jezik črkovanja:"
 
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Languages for spellchecking"
-msgstr ""
+msgstr "Jeziki črkovanja"
 
 #: data/routes/settings/SpellcheckSettings.qml:66
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
-msgstr ""
+msgstr "Samodejno detektiraj jezik črkovanja in seznama spodaj"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
