@@ -1153,8 +1153,6 @@ msgstr "Privzeti jezik"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
 msgstr "Nastavitve črkovanja"
@@ -1364,8 +1362,6 @@ msgstr "Odpri nastavitve posrednika"
 
 #: data/routes/settings/Settings.qml:71
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
 msgstr "Odpri nastavitve črkovanja"
