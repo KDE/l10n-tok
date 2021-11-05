@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-27 11:01+0200\n"
+"POT-Creation-Date: 2021-11-05 09:35+0100\n"
 "PO-Revision-Date: 2021-10-08 14:35+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -1339,7 +1339,7 @@ msgstr "Jazyk kontroly pravopisu"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:109
 #, fuzzy, kde-format
 #| msgid "Default language:"
 msgid "Default language"
@@ -1631,42 +1631,42 @@ msgid "Dictionary for spellchecking"
 msgstr "Nastavit výchozí slovník použitý ke kontrole pravopisu."
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:32
+#: data/routes/settings/SpellcheckSettings.qml:29
 #, fuzzy, kde-format
 #| msgid "Enable automatic spell checking"
 msgid "Enable automatic spellchecking"
 msgstr "Povolit automatickou kontrolu pravopisu"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:37
+#: data/routes/settings/SpellcheckSettings.qml:34
 #, fuzzy, kde-format
 #| msgid "Ignore capitalization mistakes"
 msgid "Ignore capitalised words"
 msgstr "Nevšímat si chyb v psaní velkých písmen"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:42
+#: data/routes/settings/SpellcheckSettings.qml:39
 #, fuzzy, kde-format
 #| msgid "Ignore keywords"
 msgid "Ignore hyphenated words"
 msgstr "Ignorovat klíčová slova"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:48
+#: data/routes/settings/SpellcheckSettings.qml:45
 #, fuzzy, kde-format
 #| msgid "Default language code for new projects"
 msgid "Default language for spellchecking:"
 msgstr "Kód výchozího jazyka pro nové projekty"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:59
 #, fuzzy, kde-format
 #| msgid "Enable spell checking"
 msgid "Languages for spellchecking"
 msgstr "Povolit kontrolu pravopisu"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:66
+#: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
