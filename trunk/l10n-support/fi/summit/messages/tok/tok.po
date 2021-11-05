@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This file is copyright:
 # This file is distributed under the same license as the tok package.
-# Tommi Nieminen <translator@legisign.org>, 2021.
 #
+# Tommi Nieminen <translator@legisign.org>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-10-27 11:01+0200\n"
-"PO-Revision-Date: 2021-10-11 23:50+0300\n"
+"PO-Revision-Date: 2021-11-05 20:29+0200\n"
 "Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
 "Language: fi\n"
@@ -169,25 +169,25 @@ msgstr "Valitse kaikki"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistus"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Ei ehdotuksia: ”%1”"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Lisää ”%1” sanastoon"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Sivuuta ”%1”"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
@@ -363,7 +363,9 @@ msgstr "Käytä läpikuultavuutta"
 #: data/components/GlobalMenu.qml:112
 #: data/components/GlobalMenuInWindow.qml:112
 #, kde-format
-msgctxt "menu item that opens a UI element called the 'Quick Switcher', which offers a fast keyboard-based interface for switching in between chats."
+msgctxt ""
+"menu item that opens a UI element called the 'Quick Switcher', which offers a"
+" fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
 msgstr "Avaa pikavaihto"
 
@@ -371,7 +373,8 @@ msgstr "Avaa pikavaihto"
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
 #, kde-format
-msgctxt "menu item offering access to more menu items to pick the colour scheme"
+msgctxt ""
+"menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
 msgstr "Valitse väriteema"
 
@@ -463,7 +466,9 @@ msgstr "Musiikki"
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:34
 #, kde-format
-msgctxt "Specifically a file; I use Attachment in English because it sounds better than File in this context."
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better"
+" than File in this context."
 msgid "Attachment"
 msgstr "Liite"
 
@@ -685,28 +690,32 @@ msgstr "Poista"
 #. +> trunk5
 #: data/Content.qml:403
 #, kde-format
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
 msgstr "Yhdistetään…"
 
 #. +> trunk5
 #: data/Content.qml:405
 #, kde-format
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
 msgstr "Yhdistetään välityspalvelimeen…"
 
 #. +> trunk5
 #: data/Content.qml:407
 #, kde-format
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
 msgstr "Odotetaan verkkoa…"
 
 #. +> trunk5
 #: data/Content.qml:409
 #, kde-format
-msgctxt "small bubble in bottom left of window indicating current connection status"
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
 msgstr "Päivitetään…"
 
@@ -741,7 +750,9 @@ msgstr[1] "%1 viestiä lukematta."
 #. +> trunk5
 #: data/routes/Chats.qml:248
 #, kde-format
-msgctxt "%1 is the message author (probably, but not necessarily a human), and %2 is the message contents"
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is"
+" the message contents"
 msgid "Latest message from %1: %2"
 msgstr "Viimeisin viesti käyttäjältä %1: %2"
 
@@ -794,8 +805,12 @@ msgstr "Salasana"
 #. +> trunk5
 #: data/routes/entry/Password.qml:35
 #, kde-format
-msgid "You have enabled Two-Step Verification, so your account is protected with an additional password."
-msgstr "Olet ottanut kaksivaiheisen varmennuksen käyttöön, joten tilisi suojataan lisäsalasanalla."
+msgid ""
+"You have enabled Two-Step Verification, so your account is protected with an"
+" additional password."
+msgstr ""
+"Olet ottanut kaksivaiheisen varmennuksen käyttöön, joten tilisi suojataan"
+" lisäsalasanalla."
 
 #. +> trunk5
 #: data/routes/entry/PhoneNumber.qml:19
@@ -910,7 +925,9 @@ msgstr "Poista"
 #: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
 #, kde-format
-msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
+msgctxt ""
+"tooltip for a button on a message; offers ability to open its downloaded file"
+" with an appropriate application"
 msgid "Open File"
 msgstr "Avaa tiedosto"
 
@@ -926,7 +943,9 @@ msgstr "%1 / %2"
 #: data/routes/messages/components/normal/FileMessage.qml:55
 #: data/routes/messages/components/thin/FileMessage.qml:43
 #, kde-format
-msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
+msgctxt ""
+"tooltip for a button on a message; offers ability to open its downloaded file"
+" with an appropriate application"
 msgid "Stop Download"
 msgstr "Keskeytä lataus"
 
@@ -934,13 +953,15 @@ msgstr "Keskeytä lataus"
 #: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
 msgctxt "explanatory popup notification"
-msgid "You can drag and drop the icon on downloaded files into other applications."
+msgid ""
+"You can drag and drop the icon on downloaded files into other applications."
 msgstr "Ladatuista tiedostoista kuvakkeen voi vetää muihin sovelluksiin."
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:243
 #, kde-format
-msgctxt "tooltip for a button on a message; offers ability to download its file"
+msgctxt ""
+"tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "Lataa"
 
@@ -1040,7 +1061,10 @@ msgstr "Lataa"
 #. +> trunk5
 #: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
-msgctxt "button that opens a preview of a web page. 'instant view' is sort of like a brand name, but also sort of not? i would recommend consulting translations.telegram.org to see how instant view was translated officially."
+msgctxt ""
+"button that opens a preview of a web page. 'instant view' is sort of like a"
+" brand name, but also sort of not? i would recommend consulting"
+" translations.telegram.org to see how instant view was translated officially."
 msgid "Instant View"
 msgstr "Pikakatsele"
 
@@ -1071,21 +1095,27 @@ msgstr "Kirjaudu ulos"
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:21
 #, kde-format
-msgctxt "Checkable control to toggle between the default appearance and a more compact style"
+msgctxt ""
+"Checkable control to toggle between the default appearance and a more compact"
+" style"
 msgid "Use a compact appearance for messages"
 msgstr "Käytä tiivistä viestiasettelua"
 
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:26
 #, kde-format
-msgctxt "Checkable control to toggle between a photo background for the chat and using a solid colour"
+msgctxt ""
+"Checkable control to toggle between a photo background for the chat and using"
+" a solid colour"
 msgid "Display an image in the background of chats"
 msgstr "Näytä keskusteluille taustakuva"
 
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:33
 #, kde-format
-msgctxt "Checkable control to toggle viewing content underneath the window (transparent window bg)"
+msgctxt ""
+"Checkable control to toggle viewing content underneath the window"
+" (transparent window bg)"
 msgid "Make the window transparent"
 msgstr "Tee ikkunasta läpikuultava"
 
@@ -1099,7 +1129,9 @@ msgstr "Vaihda väriteemaa"
 #. +> trunk5
 #: data/routes/settings/BehaviourSettings.qml:21
 #, kde-format
-msgctxt "Checkable control to toggle a system tray icon and not closing the app when X is pressed, instead using the tray icon"
+msgctxt ""
+"Checkable control to toggle a system tray icon and not closing the app when X"
+" is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
 msgstr "Pienennä suljettaessa ilmoitusalueelle"
 
@@ -1113,14 +1145,20 @@ msgstr "Ulkoasu"
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
-msgctxt "Checkable control to toggle between the default appearance and a more compact style. Keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
+msgctxt ""
+"Checkable control to toggle between the default appearance and a more compact"
+" style. Keep the text no longer than a few letters longer than the source"
+" string due to screen size constraints. Reword heavily if needed."
 msgid "Compact appearance for messages"
 msgstr "Tiivis viestiasettelu"
 
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:53
 #, kde-format
-msgctxt "Checkable control to toggle between a photo background for the chat and using a solid colour. Keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
+msgctxt ""
+"Checkable control to toggle between a photo background for the chat and using"
+" a solid colour. Keep the text no longer than a few letters longer than the"
+" source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
 msgstr "Näytä keskusteluille taustakuva"
 
@@ -1250,7 +1288,7 @@ msgstr "Ulkoasu"
 #: data/routes/settings/Settings.qml:70
 #, kde-format
 msgid "Spellchecking"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistus"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:58
@@ -1270,101 +1308,107 @@ msgstr "Kirjaudu ulos"
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
-msgstr ""
+msgstr "Valitse oikeinkirjoituksen tarkistuksen oletuskieli…"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckDictionary.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistuksen sanasto"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistuksen kielet"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:111
 #, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Oletuskieli"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Avaa tiliasetukset"
+msgstr "Oikeinkirjoituksen tarkistuksen asetukset"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
-msgctxt "Mobile label; keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the"
+" source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistus käytössä"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
-msgctxt "Mobile label; keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the"
+" source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Sivuuta suuraakkosin kirjoitetut sanat"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
-msgctxt "Mobile label; keep the text no longer than a few letters longer than the source string due to screen size constraints. Reword heavily if needed."
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the"
+" source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Sivuuta yhdysmerkin sisältävät sanat"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
-msgstr ""
+msgstr "Aseta oikeinkirjoituksen tarkistuksen oletuskieli"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "Tällä hetkellä %1"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
-msgstr ""
+msgstr "Tunnista kieli luettelosta automaattisesti"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "Kieliluettelo"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
 msgid "Select languages for automatic detection"
-msgstr ""
+msgstr "Valitse automaattisesti tunnistettavat kielet"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistuksen sanasto"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
-msgstr ""
+msgstr "Lisää tai poista sanoja"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:55
@@ -1463,8 +1507,12 @@ msgstr "Kysy välityspalvelintarjoajaltasi, jos olet valinnasta epävarma"
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
 msgctxt "placeholder message"
-msgid "You have no proxies added. Use the Add Proxy button at the bottom of the window to add one."
-msgstr "Välityspalvelimia ei ole lisätty. Lisätäksesi niitä käytä ikkunan alaosan Lisää välityspalvelin -painiketta."
+msgid ""
+"You have no proxies added. Use the Add Proxy button at the bottom of the"
+" window to add one."
+msgstr ""
+"Välityspalvelimia ei ole lisätty. Lisätäksesi niitä käytä ikkunan alaosan"
+" Lisää välityspalvelin -painiketta."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
@@ -1529,67 +1577,69 @@ msgstr "Avaa välityspalvelinasetukset"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Avaa tiliasetukset"
+msgstr "Avaa oikeinkirjoituksen tarkistuksen asetukset"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistuksen sanasto"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
-msgstr ""
+msgstr "Avaa oikeinkirjoituksen tarkistuksen sanasto"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistuksen sanasto"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:32
 #, kde-format
 msgid "Enable automatic spellchecking"
-msgstr ""
+msgstr "Käytä automaattista oikeinkirjoituksen tarkistusta"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:37
 #, kde-format
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Sivuuta suuraakkosin kirjoitetut sanat"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:42
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Sivuuta yhdysmerkin sisältävät sanat"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:48
 #, kde-format
 msgid "Default language for spellchecking:"
-msgstr ""
+msgstr "Aseta oikeinkirjoituksen tarkistuksen oletuskieli:"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Languages for spellchecking"
-msgstr ""
+msgstr "Oikeinkirjoituksen tarkistuksen kielet"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:66
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
+"Tunnista oikeinkirjoituksen tarkistuksen kieli alla olevasta luettelosta"
+" automaattisesti"
 
 #. +> trunk5
 #: src/chatlistmodel.cpp:22
@@ -1760,7 +1810,8 @@ msgstr "Valokuva"
 #. +> trunk5
 #: src/extractinator.cpp:74
 #, kde-format
-msgctxt "notification body for receiving an expired photo (one that self-destructed)"
+msgctxt ""
+"notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
 msgstr "Vanhentunut valokuva"
 
@@ -1788,7 +1839,8 @@ msgstr "Video"
 #. +> trunk5
 #: src/extractinator.cpp:89
 #, kde-format
-msgctxt "notification body for receiving an expired video (one that self-destructed)"
+msgctxt ""
+"notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
 msgstr "Vanhentunut video"
 
@@ -1823,7 +1875,9 @@ msgstr "Tapahtumapaikka: %1"
 #. +> trunk5
 #: src/extractinator.cpp:110
 #, kde-format
-msgctxt "notification body for receiving a contact, %1 %2 are firstname lastname from telegram's system"
+msgctxt ""
+"notification body for receiving a contact, %1 %2 are firstname lastname from"
+" telegram's system"
 msgid "Contact: %1 %2"
 msgstr "Yhteystieto: %1 %2"
 
@@ -1858,28 +1912,33 @@ msgstr "Lasku: %1"
 #. +> trunk5
 #: src/internationalisedlist.cpp:20
 #, kde-format
-msgctxt "A list of two items. The items can be used to format any sort of nouns, e.g. a list of people, places, things."
+msgctxt ""
+"A list of two items. The items can be used to format any sort of nouns, e.g."
+" a list of people, places, things."
 msgid "%1 and %2"
 msgstr "%1 ja %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:28
 #, kde-format
-msgctxt "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
+msgctxt ""
+"The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
 msgstr "%1 ja %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:31
 #, kde-format
-msgctxt "The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
+msgctxt ""
+"The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:34
 #, kde-format
-msgctxt "The start of a list of 3 or more items. In English, this is '{0}, {1}'"
+msgctxt ""
+"The start of a list of 3 or more items. In English, this is '{0}, {1}'"
 msgid "%1, %2"
 msgstr "%1, %2"
 
