@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-27 00:20+0000\n"
+"POT-Creation-Date: 2021-11-05 00:17+0000\n"
 "PO-Revision-Date: 2021-10-27 17:10+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -1148,7 +1148,7 @@ msgid "Spellchecking Languages"
 msgstr "Мови перевірки правопису"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:109
 #, kde-format
 msgid "Default language"
 msgstr "Типова мова"
@@ -1386,32 +1386,32 @@ msgstr "Відкрити словник перевірки правопису"
 msgid "Dictionary for spellchecking"
 msgstr "Словник для перевірки правопису"
 
-#: data/routes/settings/SpellcheckSettings.qml:32
+#: data/routes/settings/SpellcheckSettings.qml:29
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr "Увімкнути автоматичну перевірку правопису"
 
-#: data/routes/settings/SpellcheckSettings.qml:37
+#: data/routes/settings/SpellcheckSettings.qml:34
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr "Ігнорувати слова з великих літер"
 
-#: data/routes/settings/SpellcheckSettings.qml:42
+#: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr "Ігнорувати слова з дефісами"
 
-#: data/routes/settings/SpellcheckSettings.qml:48
+#: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr "Типова мова для перевірки правопису:"
 
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:59
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr "Мови для перевірки правопису"
 
-#: data/routes/settings/SpellcheckSettings.qml:66
+#: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr "Виявляти мову для перевірки з наведеного нижче списку автоматично"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-27 00:20+0000\n"
+"POT-Creation-Date: 2021-11-05 00:17+0000\n"
 "PO-Revision-Date: 2021-10-27 10:56+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
@@ -1146,7 +1146,7 @@ msgid "Spellchecking Languages"
 msgstr "Talen met spellingcontrole"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:109
 #, kde-format
 msgid "Default language"
 msgstr "Standaard taal"
@@ -1381,32 +1381,32 @@ msgstr "Woordenboek voor spellingcontrole openen"
 msgid "Dictionary for spellchecking"
 msgstr "Woordenboek voor spellingcontrole"
 
-#: data/routes/settings/SpellcheckSettings.qml:32
+#: data/routes/settings/SpellcheckSettings.qml:29
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr "Automatische spellingcontrole inschakelen"
 
-#: data/routes/settings/SpellcheckSettings.qml:37
+#: data/routes/settings/SpellcheckSettings.qml:34
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr "Woorden met hoofdletters negeren"
 
-#: data/routes/settings/SpellcheckSettings.qml:42
+#: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr "Woorden met koppeltekens negeren"
 
-#: data/routes/settings/SpellcheckSettings.qml:48
+#: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr "Standaard taal voor spellingcontrole:"
 
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:59
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr "Talen voor spellingcontrole"
 
-#: data/routes/settings/SpellcheckSettings.qml:66
+#: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""

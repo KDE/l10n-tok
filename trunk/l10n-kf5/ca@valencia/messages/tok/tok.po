@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-27 00:20+0000\n"
+"POT-Creation-Date: 2021-11-05 00:17+0000\n"
 "PO-Revision-Date: 2021-10-27 08:51+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -1149,7 +1149,7 @@ msgid "Spellchecking Languages"
 msgstr "Idiomes de verificació d'ortografia"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:109
 #, kde-format
 msgid "Default language"
 msgstr "Idioma predeterminat"
@@ -1386,32 +1386,32 @@ msgstr "Obri el diccionari de la verificació d'ortografia"
 msgid "Dictionary for spellchecking"
 msgstr "Diccionari per a la verificació d'ortografia"
 
-#: data/routes/settings/SpellcheckSettings.qml:32
+#: data/routes/settings/SpellcheckSettings.qml:29
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr "Activa la verificació automàtica de l'ortogràfica"
 
-#: data/routes/settings/SpellcheckSettings.qml:37
+#: data/routes/settings/SpellcheckSettings.qml:34
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr "Ignora les paraules amb majúscula inicial"
 
-#: data/routes/settings/SpellcheckSettings.qml:42
+#: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr "Ignora les paraules amb guió"
 
-#: data/routes/settings/SpellcheckSettings.qml:48
+#: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr "Idioma predeterminat per a la verificació d'ortografia:"
 
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:59
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr "Idiomes per a la verificació d'ortografia"
 
-#: data/routes/settings/SpellcheckSettings.qml:66
+#: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
