@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-11-05 00:17+0000\n"
-"PO-Revision-Date: 2021-09-04 18:52+0100\n"
+"PO-Revision-Date: 2021-11-08 18:49+0000\n"
 "Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
 "Language: pt\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-POFile-SpellExtra: Telegram Tok Proxies proxies MTProto SOCKS\n"
+"X-POFile-SpellExtra: Telegram Tok Proxies proxies MTProto SOCKS hífens\n"
 "X-POFile-IgnoreConsistency: Venue\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -151,22 +151,22 @@ msgstr "Seleccionar Tudo"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "Verificação Ortográfica"
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Sem sugestões para \"%1\""
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Adicionar a \"%1\" ao dicionário"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Ignorar a \"%1\""
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -558,12 +558,12 @@ msgstr "Adicionar uma legenda…"
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Banir de \"%1\""
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Expulsar de \"%1\""
 
 #: data/Content.qml:317
 #, kde-format
@@ -596,35 +596,32 @@ msgid "Delete"
 msgstr "Apagar"
 
 #: data/Content.qml:403
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "A carregar…"
+msgstr "A ligar…"
 
 #: data/Content.qml:405
-#, fuzzy, kde-format
-#| msgid "Configure Proxy…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Configurar o 'Proxy'…"
+msgstr "A ligar-se ao 'proxy'…"
 
 #: data/Content.qml:407
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "À espera da rede…"
 
 #: data/Content.qml:409
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "A carregar…"
+msgstr "A actualizar…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
@@ -886,12 +883,10 @@ msgstr "%1 iniciou uma conversa de voz"
 
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
-#, fuzzy, kde-format
-#| msgctxt "dialog title"
-#| msgid "Search Messages in %1"
+#, kde-format
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr "Procurar por Mensagens em %1"
+msgstr "Mensagens Fixas em %1"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
 #: data/routes/messages/components/SearchMessages.qml:133
@@ -1120,7 +1115,7 @@ msgstr "Aparência"
 #: data/routes/settings/Settings.qml:70
 #, kde-format
 msgid "Spellchecking"
-msgstr ""
+msgstr "Verificação Ortográfica"
 
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
@@ -1137,33 +1132,31 @@ msgstr "Sair"
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
-msgstr ""
+msgstr "Escolher uma língua predefinida para a ortografia…"
 
 #: data/routes/settings/mobile/SpellcheckDictionary.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Dicionário de Ortografia"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
-msgstr ""
+msgstr "Línguas de Verificação Ortográfica"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:109
 #, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Língua predefinida"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
+#, kde-format
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Abrir a configuração da conta"
+msgstr "Configuração da Verificação Ortográfica"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1171,7 +1164,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
-msgstr ""
+msgstr "Verificação ortográfica activa"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
@@ -1179,7 +1172,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Ignorar as palavras capitalizadas"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
@@ -1187,43 +1180,43 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Ignorar as palavras com hífens"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
-msgstr ""
+msgstr "Definir a língua predefinida para a verificação ortográfica"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "%1 de momento"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
-msgstr ""
+msgstr "Detectar automaticamente a língua na lista"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "Lista de línguas"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
 msgid "Select languages for automatic detection"
-msgstr ""
+msgstr "Seleccionar as línguas para a detecção automática"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
-msgstr ""
+msgstr "Dicionário de ortografia"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
-msgstr ""
+msgstr "Adicionar e remover palavras do seu dicionário"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1369,58 +1362,56 @@ msgid "Open proxy settings"
 msgstr "Abrir a configuração do 'proxy'"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
+#, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Abrir a configuração da conta"
+msgstr "Abrir a configuração da ortografia"
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Dicionário de Verificação Ortográfica"
 
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
-msgstr ""
+msgstr "Abrir o dicionário de verificação ortográfica"
 
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
-msgstr ""
+msgstr "Dicionário de verificação ortográfica"
 
 #: data/routes/settings/SpellcheckSettings.qml:29
 #, kde-format
 msgid "Enable automatic spellchecking"
-msgstr ""
+msgstr "Activar a verificação ortográfica automática"
 
 #: data/routes/settings/SpellcheckSettings.qml:34
 #, kde-format
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Ignorar as palavras capitalizadas"
 
 #: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Ignorar as palavras com hífen"
 
 #: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
 msgid "Default language for spellchecking:"
-msgstr ""
+msgstr "Língua predefinida da verificação ortográfica:"
 
 #: data/routes/settings/SpellcheckSettings.qml:59
 #, kde-format
 msgid "Languages for spellchecking"
-msgstr ""
+msgstr "Línguas da verificação ortográfica"
 
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
-msgstr ""
+msgstr "Detectar a língua da verificação ortográfica automática na lista abaixo"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
@@ -1707,13 +1698,13 @@ msgstr "Ligado"
 #: src/userdata.cpp:73
 #, kde-format
 msgid "Online recently"
-msgstr ""
+msgstr "Ligado recentemente"
 
 #: src/userdata.cpp:98
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
-msgstr ""
+msgstr "Última ligação há %1"
 
 #: src/userdata.cpp:101
 #, kde-format
