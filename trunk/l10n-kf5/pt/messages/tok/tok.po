@@ -1411,7 +1411,8 @@ msgstr "Línguas da verificação ortográfica"
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
-msgstr "Detectar a língua da verificação ortográfica automática na lista abaixo"
+msgstr ""
+"Detectar a língua da verificação ortográfica automática na lista abaixo"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
