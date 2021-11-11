@@ -1151,12 +1151,10 @@ msgid "Default language"
 msgstr ""
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
+#, kde-format
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Otevřít nastavení účtu"
+msgstr ""
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1359,12 +1357,10 @@ msgid "Open proxy settings"
 msgstr "Otevřít nastavení proxy"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
+#, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Otevřít nastavení účtu"
+msgstr ""
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
