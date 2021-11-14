@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-11-05 09:35+0100\n"
-"PO-Revision-Date: 2021-05-22 20:05+0200\n"
+"PO-Revision-Date: 2021-11-14 19:41+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 20.12.3\n"
+"X-Generator: Lokalize 21.08.1\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -23,7 +23,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Create New"
-msgstr ""
+msgstr "새로 만들기"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:39
@@ -31,7 +31,7 @@ msgstr ""
 #, kde-format
 msgctxt "placeholder text"
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:62 data/components/CreateNewMenu.qml:113
@@ -41,14 +41,14 @@ msgstr ""
 #: data/Content.qml:348
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:66
 #: data/components/CreateNewMenuInWindow.qml:66
-#, kde-format
+#, fuzzy, kde-format
 msgid "Create"
-msgstr ""
+msgstr "만들기"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:90
@@ -102,10 +102,10 @@ msgstr ""
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:133
 #: data/components/CreateNewMenuInWindow.qml:133
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Channel…"
-msgstr ""
+msgstr "채널:"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:134
@@ -117,38 +117,38 @@ msgstr ""
 
 #. +> trunk5
 #: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Undo"
-msgstr ""
+msgstr "실행 취소"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Redo"
-msgstr ""
+msgstr "다시 실행"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "잘라내기"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "붙여넣기"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
@@ -161,10 +161,10 @@ msgstr "삭제"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:94 data/components/EditMenuInWindow.qml:88
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Select All"
-msgstr ""
+msgstr "모두 선택"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
@@ -175,74 +175,74 @@ msgstr ""
 
 #. +> trunk5
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
-#, kde-format
+#, fuzzy, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "%1의 추천 목록 없음"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
-#, kde-format
+#, fuzzy, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "사전에 추가하기"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
-#, kde-format
+#, fuzzy, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "무시"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text menu editing action"
 msgid "Format"
-msgstr ""
+msgstr "형식"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
-msgstr ""
+msgstr "굵게"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Italic"
-msgstr ""
+msgstr "이탤릭"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
-msgstr ""
+msgstr "밑줄"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr ""
+msgstr "취소선"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr ""
+msgstr "고정폭 글꼴"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Normal"
-msgstr ""
+msgstr "일반"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "window title"
 #| msgid "Tok"
 msgctxt "menu"
@@ -254,7 +254,7 @@ msgstr "Tok"
 #, kde-format
 msgctxt "menu"
 msgid "Preferences…"
-msgstr ""
+msgstr "설정…"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
@@ -262,7 +262,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
-msgstr ""
+msgstr "알림 사용"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
@@ -277,7 +277,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Log Out"
-msgstr ""
+msgstr "로그아웃"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
@@ -285,35 +285,35 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
-msgstr ""
+msgstr "끝내기"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
 #, kde-format
 msgctxt "menu"
 msgid "Chats"
-msgstr ""
+msgstr "대화"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Chat With…"
-msgstr ""
+msgstr "%1 님과 채팅"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:92 data/components/GlobalMenuInWindow.qml:92
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
 #, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "보기"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:100
@@ -379,7 +379,7 @@ msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
-msgstr ""
+msgstr "빠른 전환기 열기"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:118
@@ -393,10 +393,10 @@ msgstr ""
 #. +> trunk5
 #: data/components/GlobalMenu.qml:142
 #: data/components/GlobalMenuInWindow.qml:142
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Format"
-msgstr ""
+msgstr "형식"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:146
@@ -404,7 +404,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "창"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:149
@@ -412,15 +412,15 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "사이드바 숨기기"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Show Sidebar"
-msgstr ""
+msgstr "사이드바 표시"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:153
@@ -428,7 +428,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
-msgstr ""
+msgstr "전체 화면 나가기"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:153
@@ -436,7 +436,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "전체 화면으로 전환"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:159
@@ -444,7 +444,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:162
@@ -458,7 +458,7 @@ msgstr ""
 #: data/components/PlaintextMessage.qml:23
 #, kde-format
 msgid "You"
-msgstr ""
+msgstr "나"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:30
@@ -576,20 +576,20 @@ msgstr "지원하지 않음"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:17
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Upload file"
 msgctxt "dialog title"
 msgid "Upload"
-msgstr "파일 업로드"
+msgstr "업로드"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:35
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "Dialog title"
 #| msgid "Upload file"
 msgctxt "Dialog title"
 msgid "Upload"
-msgstr "파일 업로드"
+msgstr "업로드"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:50
@@ -597,15 +597,15 @@ msgstr "파일 업로드"
 #, kde-format
 msgctxt "button"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:62
 #: data/components/upload/mobile/UploadDialog.qml:310
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button"
 msgid "Send"
-msgstr ""
+msgstr "보내기"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:104
@@ -619,11 +619,11 @@ msgstr ""
 #| msgid "Upload file"
 msgctxt "page title"
 msgid "Upload…"
-msgstr "파일 업로드"
+msgstr "업로드"
 
 #. +> trunk5
 #: data/components/upload/mobile/UploadDialog.qml:364
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
@@ -650,7 +650,7 @@ msgstr "음악"
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Files"
-msgstr ""
+msgstr "파일"
 
 #. +> trunk5
 #: data/components/upload/RichTextArea.qml:32
@@ -715,7 +715,7 @@ msgstr "삭제"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "불러오는 중..."
+msgstr "연결 중"
 
 #. +> trunk5
 #: data/Content.qml:405
@@ -735,12 +735,12 @@ msgstr ""
 
 #. +> trunk5
 #: data/Content.qml:409
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "불러오는 중..."
+msgstr "업데이트 중…"
 
 #. +> trunk5
 #: data/main.qml:23 data/maui_main.qml:18
@@ -760,7 +760,7 @@ msgstr "대화 검색"
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
-msgstr ""
+msgstr "새로 만들기..."
 
 #. +> trunk5
 #: data/routes/Chats.qml:245
@@ -807,7 +807,7 @@ msgstr ""
 #: data/routes/entry/AuthenticationCode.qml:49
 #, kde-format
 msgid "Code"
-msgstr ""
+msgstr "코드"
 
 #. +> trunk5
 #: data/routes/entry/AuthenticationCode.qml:59
@@ -816,13 +816,13 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #. +> trunk5
 #: data/routes/entry/Password.qml:19
 #, kde-format
 msgid "Password"
-msgstr ""
+msgstr "암호"
 
 #. +> trunk5
 #: data/routes/entry/Password.qml:35
@@ -834,10 +834,10 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/entry/PhoneNumber.qml:19
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Welcome to Tok"
 msgid "Welcome"
-msgstr "Tok에 오신 것을 환영합니다"
+msgstr "환영합니다"
 
 #. +> trunk5
 #: data/routes/entry/PhoneNumber.qml:69
@@ -865,20 +865,20 @@ msgstr "시작하기"
 
 #. +> trunk5
 #: data/routes/messages/components/CompositionBar.qml:87
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send message"
 msgid "Edit Message"
-msgstr "메시지 보내기"
+msgstr "메시지 편집"
 
 #. +> trunk5
 #: data/routes/messages/components/CompositionBar.qml:154
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "Specifically a file; I use Attachment in English because it sounds better "
 #| "than File in this context."
 #| msgid "Attachment"
 msgid "Attach file"
-msgstr "첨부"
+msgstr "파일 첨부"
 
 #. +> trunk5
 #: data/routes/messages/components/CompositionBar.qml:248
@@ -908,13 +908,13 @@ msgstr ""
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Info"
-msgstr ""
+msgstr "정보"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:96
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgid "Photos"
 msgstr "사진"
@@ -930,10 +930,10 @@ msgstr "비디오"
 
 #. +> trunk5
 #: data/routes/messages/components/MessageDelegate.qml:76
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 #. +> trunk5
 #: data/routes/messages/components/MessageDelegate.qml:85
@@ -957,7 +957,7 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Open File"
-msgstr ""
+msgstr "파일 열기"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:49
@@ -975,7 +975,7 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Stop Download"
-msgstr ""
+msgstr "다운로드 정지"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/FileMessage.qml:149
@@ -991,7 +991,7 @@ msgstr ""
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/GifMessage.qml:66
@@ -1003,10 +1003,10 @@ msgstr "사진 메시지입니다."
 
 #. +> trunk5
 #: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "small text displayed by timestamp when message has been edited"
 msgid "edited"
-msgstr ""
+msgstr "(편집됨)"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/PhotoMessage.qml:74
@@ -1072,20 +1072,20 @@ msgstr ""
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
 msgid "All Messages"
-msgstr ""
+msgstr "모든 메시지"
 
 #. +> trunk5
 #: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
 msgid "Files"
-msgstr ""
+msgstr "파일"
 
 #. +> trunk5
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 #. +> trunk5
 #: data/routes/messages/components/WebPageBlock.qml:92
@@ -1115,13 +1115,13 @@ msgstr "메시지 보내기"
 #, fuzzy, kde-format
 #| msgid "Search chats"
 msgid "Search"
-msgstr "대화 검색"
+msgstr "찾기"
 
 #. +> trunk5
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
 msgid "Log out"
-msgstr ""
+msgstr "로그아웃"
 
 #. +> trunk5
 #: data/routes/settings/AppearanceSettings.qml:21
@@ -1171,7 +1171,7 @@ msgstr ""
 #, kde-format
 msgctxt "title"
 msgid "Appearance"
-msgstr ""
+msgstr "모양"
 
 #. +> trunk5
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
@@ -1217,17 +1217,17 @@ msgstr ""
 #. +> trunk5
 #: data/routes/settings/mobile/NewProxy.qml:37
 #: data/routes/settings/ProxySettings.qml:127
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button"
 msgid "Add Proxy"
-msgstr ""
+msgstr "프록시 추가"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Proxy Settings"
-msgstr ""
+msgstr "프록시 설정"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:45
@@ -1246,9 +1246,9 @@ msgstr ""
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:61
 #: data/routes/settings/ProxySettings.qml:40
-#, kde-format
+#, fuzzy, kde-format
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:62
@@ -1262,7 +1262,7 @@ msgstr ""
 #: data/routes/settings/ProxySettings.qml:42
 #, kde-format
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:66
@@ -1274,25 +1274,25 @@ msgstr ""
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
-#, kde-format
+#, fuzzy, kde-format
 msgid "%1 Proxy"
-msgstr ""
+msgstr "프록시"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button"
 msgid "Disable"
-msgstr ""
+msgstr "비활성화"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button"
 msgid "Enable"
-msgstr ""
+msgstr "활성화"
 
 #. +> trunk5
 #: data/routes/settings/mobile/ProxySettings.qml:85
@@ -1302,17 +1302,17 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:24
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "title"
 msgid "Preferences"
-msgstr ""
+msgstr "설정"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:44
 #: data/routes/settings/Settings.qml:52
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "모양"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:51
@@ -1324,15 +1324,15 @@ msgstr ""
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
-#, kde-format
+#, fuzzy, kde-format
 msgid "Proxy"
-msgstr ""
+msgstr "프록시"
 
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:67
 #, kde-format
 msgid "Log Out"
-msgstr ""
+msgstr "로그아웃"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckDefault.qml:27
@@ -1358,9 +1358,9 @@ msgstr ""
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:109
-#, kde-format
+#, fuzzy, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "기본 언어:"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
@@ -1394,7 +1394,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "하이픈으로 연결된 단어 무시"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
@@ -1444,21 +1444,21 @@ msgstr ""
 #, kde-format
 msgctxt "form subheader"
 msgid "General Configuration"
-msgstr ""
+msgstr "일반 설정"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:61
 #, kde-format
 msgctxt "form label"
 msgid "Server:"
-msgstr ""
+msgstr "서버:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:66
 #, kde-format
 msgctxt "form label"
 msgid "Port:"
-msgstr ""
+msgstr "포트:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:72
@@ -1472,7 +1472,7 @@ msgstr ""
 #, kde-format
 msgctxt "form label"
 msgid "Proxy Type:"
-msgstr ""
+msgstr "프록시 종류:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:85
@@ -1508,7 +1508,7 @@ msgstr ""
 #, kde-format
 msgctxt "form control label"
 msgid "Username:"
-msgstr ""
+msgstr "사용자 이름:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:109
@@ -1516,7 +1516,7 @@ msgstr ""
 #, kde-format
 msgctxt "form control label"
 msgid "Password:"
-msgstr ""
+msgstr "암호:"
 
 #. +> trunk5
 #: data/routes/settings/ProxyForm.qml:114
@@ -1543,30 +1543,30 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "adds a proxy"
 msgid "Add Proxy"
-msgstr ""
+msgstr "프록시 추가"
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:92
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "window title"
 msgid "Add Proxy"
-msgstr ""
+msgstr "프록시 추가"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:16
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "window title"
 msgid "Preferences"
-msgstr ""
+msgstr "설정"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:46
-#, kde-format
+#, fuzzy, kde-format
 msgid "Account"
-msgstr ""
+msgstr "계정"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:47
@@ -1586,7 +1586,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:58
 #, kde-format
 msgid "Behaviour"
-msgstr ""
+msgstr "행동"
 
 #. +> trunk5
 #: data/routes/settings/Settings.qml:59
@@ -1644,7 +1644,7 @@ msgstr ""
 #: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "하이픈으로 연결된 단어 무시"
 
 #. +> trunk5
 #: data/routes/settings/SpellcheckSettings.qml:45
@@ -1674,7 +1674,7 @@ msgstr ""
 #: src/chatsstore.cpp:197 src/chatsstore.cpp:200
 #, kde-format
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 #. +> trunk5
 #: src/chatsstore.cpp:198
@@ -1691,10 +1691,10 @@ msgstr "대화 검색"
 
 #. +> trunk5
 #: src/chatstore+actions.cpp:80
-#, kde-format
+#, fuzzy, kde-format
 msgid "%1 is typing"
 msgid_plural "%1 are typing"
-msgstr[0] ""
+msgstr[0] "%2 님이 메시지를 입력하는 중"
 
 #. +> trunk5
 #: src/chatstore+actions.cpp:87
@@ -1770,14 +1770,14 @@ msgstr "지원하지 않음"
 
 #. +> trunk5
 #: src/extractinator.cpp:43
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving a gif with a caption"
 msgid "GIF: %1"
-msgstr ""
+msgstr "GIF"
 
 #. +> trunk5
 #: src/extractinator.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
@@ -1785,10 +1785,10 @@ msgstr "GIF"
 
 #. +> trunk5
 #: src/extractinator.cpp:51
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving a music with a caption"
 msgid "Music (%1): %2"
-msgstr ""
+msgstr "음악"
 
 #. +> trunk5
 #: src/extractinator.cpp:53
@@ -1800,17 +1800,17 @@ msgstr "음악"
 
 #. +> trunk5
 #: src/extractinator.cpp:59
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving a file with a caption"
 msgid "File (%1): %2"
-msgstr ""
+msgstr "파일(&F)"
 
 #. +> trunk5
 #: src/extractinator.cpp:61
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving file"
 msgid "File (%1)"
-msgstr ""
+msgstr "파일(&F)"
 
 #. +> trunk5
 #: src/extractinator.cpp:66
@@ -1830,7 +1830,7 @@ msgstr "사진"
 
 #. +> trunk5
 #: src/extractinator.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Expired Photo"
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
@@ -1863,7 +1863,7 @@ msgstr "비디오"
 
 #. +> trunk5
 #: src/extractinator.cpp:89
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Expired Video"
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
@@ -1945,20 +1945,20 @@ msgstr "인보이스"
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:20
-#, kde-format
+#, fuzzy, kde-format
 msgctxt ""
 "A list of two items. The items can be used to format any sort of nouns, e.g. "
 "a list of people, places, things."
 msgid "%1 and %2"
-msgstr ""
+msgstr " 및 "
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:28
-#, kde-format
+#, fuzzy, kde-format
 msgctxt ""
 "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
-msgstr ""
+msgstr " 및 "
 
 #. +> trunk5
 #: src/internationalisedlist.cpp:31
@@ -2000,7 +2000,7 @@ msgstr "불러오는 중..."
 #: src/userdata.cpp:69
 #, kde-format
 msgid "Online"
-msgstr ""
+msgstr "온라인"
 
 #. +> trunk5
 #: src/userdata.cpp:73
@@ -2017,11 +2017,11 @@ msgstr ""
 
 #. +> trunk5
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "we know that this person is a human, but we don't know their name"
 #| msgid "Unknown Sender"
 msgid "Unknown Status"
-msgstr "알 수 없는 발신자"
+msgstr "알 수 없는 상태"
 
 #, kde-format
 #~ msgid ""

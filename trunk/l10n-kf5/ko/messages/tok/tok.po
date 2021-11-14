@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-11-14 00:28+0000\n"
-"PO-Revision-Date: 2021-05-22 20:05+0200\n"
+"PO-Revision-Date: 2021-11-14 19:41+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -15,21 +15,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 20.12.3\n"
+"X-Generator: Lokalize 21.08.1\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
 #, kde-format
 msgctxt "menu"
 msgid "Create New"
-msgstr ""
+msgstr "새로 만들기"
 
 #: data/components/CreateNewMenu.qml:39
 #: data/components/CreateNewMenuInWindow.qml:39
 #, kde-format
 msgctxt "placeholder text"
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 #: data/components/CreateNewMenu.qml:62 data/components/CreateNewMenu.qml:113
 #: data/components/CreateNewMenuInWindow.qml:62
@@ -38,7 +38,7 @@ msgstr ""
 #: data/Content.qml:343
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: data/components/CreateNewMenu.qml:66
 #: data/components/CreateNewMenuInWindow.qml:66
@@ -119,19 +119,19 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "잘라내기"
 
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "붙여넣기"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, fuzzy, kde-format
@@ -178,7 +178,7 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
-msgstr ""
+msgstr "굵게"
 
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
 #, kde-format
@@ -190,19 +190,19 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
-msgstr ""
+msgstr "밑줄"
 
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr ""
+msgstr "취소선"
 
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr ""
+msgstr "고정폭 글꼴"
 
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
 #, kde-format
@@ -211,9 +211,7 @@ msgid "Normal"
 msgstr ""
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
-#, fuzzy, kde-format
-#| msgctxt "window title"
-#| msgid "Tok"
+#, kde-format
 msgctxt "menu"
 msgid "Tok"
 msgstr "Tok"
@@ -222,14 +220,14 @@ msgstr "Tok"
 #, kde-format
 msgctxt "menu"
 msgid "Preferences…"
-msgstr ""
+msgstr "설정…"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
-msgstr ""
+msgstr "알림 사용"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:134
@@ -242,20 +240,20 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Log Out"
-msgstr ""
+msgstr "로그아웃"
 
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
 #: data/Content.qml:138
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
-msgstr ""
+msgstr "끝내기"
 
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
 #, kde-format
 msgctxt "menu"
 msgid "Chats"
-msgstr ""
+msgstr "대화"
 
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
 #, kde-format
@@ -273,7 +271,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "보기"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
@@ -332,7 +330,7 @@ msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
-msgstr ""
+msgstr "빠른 전환기 열기"
 
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
@@ -354,14 +352,14 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "창"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "사이드바 숨기기"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
@@ -375,21 +373,21 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
-msgstr ""
+msgstr "전체 화면 나가기"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "전체 화면으로 전환"
 
 #: data/components/GlobalMenu.qml:159
 #: data/components/GlobalMenuInWindow.qml:159
 #, kde-format
 msgctxt "menu"
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 #: data/components/GlobalMenu.qml:162
 #: data/components/GlobalMenuInWindow.qml:162
@@ -401,7 +399,7 @@ msgstr ""
 #: data/components/PlaintextMessage.qml:23
 #, kde-format
 msgid "You"
-msgstr ""
+msgstr "나"
 
 #: data/components/PlaintextMessage.qml:30
 #, kde-format
@@ -500,26 +498,23 @@ msgid "Unsupported"
 msgstr "지원하지 않음"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
-#, fuzzy, kde-format
-#| msgid "Upload file"
+#, kde-format
 msgctxt "dialog title"
 msgid "Upload"
-msgstr "파일 업로드"
+msgstr "업로드"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
-#, fuzzy, kde-format
-#| msgctxt "Dialog title"
-#| msgid "Upload file"
+#, kde-format
 msgctxt "Dialog title"
 msgid "Upload"
-msgstr "파일 업로드"
+msgstr "업로드"
 
 #: data/components/upload/desktop/UploadDialog.qml:50
 #: data/routes/settings/ProxySettings.qml:123
 #, kde-format
 msgctxt "button"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: data/components/upload/desktop/UploadDialog.qml:62
 #: data/components/upload/mobile/UploadDialog.qml:310
@@ -541,8 +536,7 @@ msgid "Upload…"
 msgstr "파일 업로드"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
-#, fuzzy, kde-format
-#| msgid "Photo"
+#, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "사진"
@@ -565,7 +559,7 @@ msgstr "음악"
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Files"
-msgstr ""
+msgstr "파일"
 
 #: data/components/upload/RichTextArea.qml:32
 #, kde-format
@@ -637,12 +631,11 @@ msgid "Waiting on network…"
 msgstr ""
 
 #: data/Content.qml:404
-#, fuzzy, kde-format
-#| msgid "Loading…"
+#, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "불러오는 중..."
+msgstr "업데이트 중…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
@@ -659,7 +652,7 @@ msgstr "대화 검색"
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
-msgstr ""
+msgstr "새로 만들기..."
 
 #: data/routes/Chats.qml:245
 #, kde-format
@@ -699,7 +692,7 @@ msgstr ""
 #: data/routes/entry/AuthenticationCode.qml:49
 #, kde-format
 msgid "Code"
-msgstr ""
+msgstr "코드"
 
 #: data/routes/entry/AuthenticationCode.qml:59
 #: data/routes/entry/AuthenticationCode.qml:60
@@ -707,12 +700,12 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #: data/routes/entry/Password.qml:19
 #, kde-format
 msgid "Password"
-msgstr ""
+msgstr "암호"
 
 #: data/routes/entry/Password.qml:35
 #, kde-format
@@ -722,10 +715,9 @@ msgid ""
 msgstr ""
 
 #: data/routes/entry/PhoneNumber.qml:19
-#, fuzzy, kde-format
-#| msgid "Welcome to Tok"
+#, kde-format
 msgid "Welcome"
-msgstr "Tok에 오신 것을 환영합니다"
+msgstr "환영합니다"
 
 #: data/routes/entry/PhoneNumber.qml:69
 #, kde-format
@@ -748,19 +740,14 @@ msgid "Get Started"
 msgstr "시작하기"
 
 #: data/routes/messages/components/CompositionBar.qml:87
-#, fuzzy, kde-format
-#| msgid "Send message"
+#, kde-format
 msgid "Edit Message"
-msgstr "메시지 보내기"
+msgstr "메시지 편집"
 
 #: data/routes/messages/components/CompositionBar.qml:154
-#, fuzzy, kde-format
-#| msgctxt ""
-#| "Specifically a file; I use Attachment in English because it sounds better "
-#| "than File in this context."
-#| msgid "Attachment"
+#, kde-format
 msgid "Attach file"
-msgstr "첨부"
+msgstr "파일 첨부"
 
 #: data/routes/messages/components/CompositionBar.qml:248
 #, kde-format
@@ -785,13 +772,12 @@ msgstr ""
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Info"
-msgstr ""
+msgstr "정보"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:96
-#, fuzzy, kde-format
-#| msgid "Photo"
+#, kde-format
 msgid "Photos"
 msgstr "사진"
 
@@ -828,7 +814,7 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Open File"
-msgstr ""
+msgstr "파일 열기"
 
 #: data/routes/messages/components/normal/FileMessage.qml:49
 #: data/routes/messages/components/thin/FileMessage.qml:37
@@ -844,7 +830,7 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Stop Download"
-msgstr ""
+msgstr "다운로드 정지"
 
 #: data/routes/messages/components/normal/FileMessage.qml:149
 #, kde-format
@@ -858,7 +844,7 @@ msgstr ""
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 #: data/routes/messages/components/normal/GifMessage.qml:66
 #: data/routes/messages/components/thin/GifMessage.qml:43
@@ -926,21 +912,20 @@ msgid "Search Messages in %1"
 msgstr ""
 
 #: data/routes/messages/components/SearchMessages.qml:95
-#, fuzzy, kde-format
-#| msgid "Send message"
+#, kde-format
 msgid "All Messages"
-msgstr "메시지 보내기"
+msgstr "모든 메시지"
 
 #: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
 msgid "Files"
-msgstr ""
+msgstr "파일"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
 #, kde-format
 msgctxt "a button"
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 #: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
@@ -971,7 +956,7 @@ msgstr "대화 검색"
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
 msgid "Log out"
-msgstr ""
+msgstr "로그아웃"
 
 #: data/routes/settings/AppearanceSettings.qml:21
 #, kde-format
@@ -1015,7 +1000,7 @@ msgstr ""
 #, kde-format
 msgctxt "title"
 msgid "Appearance"
-msgstr ""
+msgstr "모양"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
@@ -1064,7 +1049,7 @@ msgstr ""
 #, kde-format
 msgctxt "title"
 msgid "Proxy Settings"
-msgstr ""
+msgstr "프록시 설정"
 
 #: data/routes/settings/mobile/ProxySettings.qml:45
 #, kde-format
@@ -1094,7 +1079,7 @@ msgstr ""
 #: data/routes/settings/ProxySettings.qml:42
 #, kde-format
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
@@ -1137,7 +1122,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:52
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "모양"
 
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:70
@@ -1154,7 +1139,7 @@ msgstr ""
 #: data/routes/settings/mobile/Settings.qml:67
 #, kde-format
 msgid "Log Out"
-msgstr ""
+msgstr "로그아웃"
 
 #: data/routes/settings/mobile/SpellcheckDefault.qml:27
 #, kde-format
@@ -1208,7 +1193,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "하이픈으로 연결된 단어 무시"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
@@ -1250,19 +1235,19 @@ msgstr ""
 #, kde-format
 msgctxt "form subheader"
 msgid "General Configuration"
-msgstr ""
+msgstr "일반 설정"
 
 #: data/routes/settings/ProxyForm.qml:61
 #, kde-format
 msgctxt "form label"
 msgid "Server:"
-msgstr ""
+msgstr "서버:"
 
 #: data/routes/settings/ProxyForm.qml:66
 #, kde-format
 msgctxt "form label"
 msgid "Port:"
-msgstr ""
+msgstr "포트:"
 
 #: data/routes/settings/ProxyForm.qml:72
 #, kde-format
@@ -1274,7 +1259,7 @@ msgstr ""
 #, kde-format
 msgctxt "form label"
 msgid "Proxy Type:"
-msgstr ""
+msgstr "프록시 종류:"
 
 #: data/routes/settings/ProxyForm.qml:85
 #, kde-format
@@ -1305,14 +1290,14 @@ msgstr ""
 #, kde-format
 msgctxt "form control label"
 msgid "Username:"
-msgstr ""
+msgstr "사용자 이름:"
 
 #: data/routes/settings/ProxyForm.qml:109
 #: data/routes/settings/ProxyForm.qml:135
 #, kde-format
 msgctxt "form control label"
 msgid "Password:"
-msgstr ""
+msgstr "암호:"
 
 #: data/routes/settings/ProxyForm.qml:114
 #, kde-format
@@ -1372,7 +1357,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:58
 #, kde-format
 msgid "Behaviour"
-msgstr ""
+msgstr "행동"
 
 #: data/routes/settings/Settings.qml:59
 #, kde-format
@@ -1421,7 +1406,7 @@ msgstr ""
 #: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "하이픈으로 연결된 단어 무시"
 
 #: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
@@ -1446,7 +1431,7 @@ msgstr ""
 #: src/chatsstore.cpp:197 src/chatsstore.cpp:200
 #, kde-format
 msgid "Group"
-msgstr ""
+msgstr "그룹"
 
 #: src/chatsstore.cpp:198
 #, kde-format
@@ -1534,8 +1519,7 @@ msgid "GIF: %1"
 msgstr ""
 
 #: src/extractinator.cpp:45
-#, fuzzy, kde-format
-#| msgid "GIF"
+#, kde-format
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1580,8 +1564,7 @@ msgid "Photo"
 msgstr "사진"
 
 #: src/extractinator.cpp:74
-#, fuzzy, kde-format
-#| msgid "Expired Photo"
+#, kde-format
 msgctxt ""
 "notification body for receiving an expired photo (one that self-destructed)"
 msgid "Expired Photo"
@@ -1609,8 +1592,7 @@ msgid "Video"
 msgstr "비디오"
 
 #: src/extractinator.cpp:89
-#, fuzzy, kde-format
-#| msgid "Expired Video"
+#, kde-format
 msgctxt ""
 "notification body for receiving an expired video (one that self-destructed)"
 msgid "Expired Video"
@@ -1729,7 +1711,7 @@ msgstr "불러오는 중..."
 #: src/userdata.cpp:69
 #, kde-format
 msgid "Online"
-msgstr ""
+msgstr "온라인"
 
 #: src/userdata.cpp:73
 #, kde-format
@@ -1743,11 +1725,9 @@ msgid "Last online %1"
 msgstr ""
 
 #: src/userdata.cpp:101
-#, fuzzy, kde-format
-#| msgctxt "we know that this person is a human, but we don't know their name"
-#| msgid "Unknown Sender"
+#, kde-format
 msgid "Unknown Status"
-msgstr "알 수 없는 발신자"
+msgstr "알 수 없는 상태"
 
 #~ msgid ""
 #~ "Enter your authentication code that you received from another Telegram "
