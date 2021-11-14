@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-05 00:17+0000\n"
+"POT-Creation-Date: 2021-11-14 00:28+0000\n"
 "PO-Revision-Date: 2021-10-27 16:53+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -35,7 +35,7 @@ msgstr "Namn"
 #: data/components/CreateNewMenuInWindow.qml:62
 #: data/components/CreateNewMenuInWindow.qml:113
 #: data/components/GlobalMenu.qml:79 data/components/GlobalMenuInWindow.qml:79
-#: data/Content.qml:348
+#: data/Content.qml:343
 #, kde-format
 msgid "Cancel"
 msgstr "Avbryt"
@@ -221,14 +221,14 @@ msgid "Preferences…"
 msgstr "Inställningar…"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:139
+#: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
 msgstr "Aktivera underrättelser"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:139
+#: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
@@ -241,7 +241,7 @@ msgid "Log Out"
 msgstr "Logga ut"
 
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
-#: data/Content.qml:143
+#: data/Content.qml:138
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
@@ -563,58 +563,58 @@ msgstr "Bannlys från \"%1\""
 msgid "Kick from \"%1\""
 msgstr "Sparka ut från \"%1\""
 
-#: data/Content.qml:317
+#: data/Content.qml:312
 #, kde-format
 msgid "Do you want to delete this message?"
 msgstr "Vill du ta bort meddelandet?"
 
-#: data/Content.qml:324
+#: data/Content.qml:319
 #, kde-format
 msgid "This will delete it just for you."
 msgstr "Det tar bara bort det för dig."
 
-#: data/Content.qml:328
+#: data/Content.qml:323
 #, kde-format
 msgid "This will delete it for everyone in this chat."
 msgstr "Det tar bara bort det för alla i chatten."
 
-#: data/Content.qml:334
+#: data/Content.qml:329
 #, kde-format
 msgid "Also delete for everyone"
 msgstr "Ta också bort för alla"
 
-#: data/Content.qml:334
+#: data/Content.qml:329
 #, kde-format
 msgid "Also delete for %1"
 msgstr "Ta också bort för %1"
 
-#: data/Content.qml:352
+#: data/Content.qml:347
 #, kde-format
 msgid "Delete"
 msgstr "Ta bort"
 
-#: data/Content.qml:403
+#: data/Content.qml:398
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
 msgstr "Ansluter…"
 
-#: data/Content.qml:405
+#: data/Content.qml:400
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
 msgstr "Ansluter till proxy... "
 
-#: data/Content.qml:407
+#: data/Content.qml:402
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
 msgstr "Väntar på nätverket…"
 
-#: data/Content.qml:409
+#: data/Content.qml:404
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
