@@ -5,29 +5,29 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-11-14 00:28+0000\n"
-"PO-Revision-Date: 2021-05-04 19:48+0200\n"
+"PO-Revision-Date: 2021-11-15 18:38+0100\n"
 "Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
 "Language-Team: Slovak <kde-sk@linux.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 20.12.3\n"
+"X-Generator: Lokalize 21.08.3\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Create New"
-msgstr ""
+msgstr "Vytvoriť nový"
 
 #: data/components/CreateNewMenu.qml:39
 #: data/components/CreateNewMenuInWindow.qml:39
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "placeholder text"
 msgid "Name"
-msgstr ""
+msgstr "Názov"
 
 #: data/components/CreateNewMenu.qml:62 data/components/CreateNewMenu.qml:113
 #: data/components/CreateNewMenuInWindow.qml:62
@@ -36,13 +36,13 @@ msgstr ""
 #: data/Content.qml:343
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #: data/components/CreateNewMenu.qml:66
 #: data/components/CreateNewMenuInWindow.qml:66
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "Vytvoriť"
 
 #: data/components/CreateNewMenu.qml:90
 #: data/components/CreateNewMenuInWindow.qml:90
@@ -89,10 +89,10 @@ msgstr ""
 
 #: data/components/CreateNewMenu.qml:133
 #: data/components/CreateNewMenuInWindow.qml:133
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Channel…"
-msgstr ""
+msgstr "Kanál"
 
 #: data/components/CreateNewMenu.qml:134
 #: data/components/CreateNewMenuInWindow.qml:134
@@ -102,34 +102,34 @@ msgid "Create a broadcast channel"
 msgstr ""
 
 #: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Undo"
-msgstr ""
+msgstr "Späť"
 
 #: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Redo"
-msgstr ""
+msgstr "Znovu"
 
 #: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "Vystrihnúť"
 
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovať"
 
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "Vložiť"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, fuzzy, kde-format
@@ -140,10 +140,10 @@ msgid "Delete"
 msgstr "Vymazať"
 
 #: data/components/EditMenu.qml:94 data/components/EditMenuInWindow.qml:88
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action"
 msgid "Select All"
-msgstr ""
+msgstr "Vybrať všetko"
 
 #: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
 #, kde-format
@@ -152,80 +152,80 @@ msgid "Spellchecking"
 msgstr ""
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
-#, kde-format
+#, fuzzy, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Žiadne návrhy pre %1"
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
-#, kde-format
+#, fuzzy, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Pridať do slovníka"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
-#, kde-format
+#, fuzzy, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Ignorovať"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text menu editing action"
 msgid "Format"
-msgstr ""
+msgstr "Formát"
 
 #: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
-msgstr ""
+msgstr "Tučné"
 
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Italic"
-msgstr ""
+msgstr "Kurzíva"
 
 #: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
-msgstr ""
+msgstr "Podčiarknuté"
 
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr ""
+msgstr "Prečiarknuté"
 
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr ""
+msgstr "Monospace"
 
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Normal"
-msgstr ""
+msgstr "Normálne"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
 msgctxt "menu"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/components/GlobalMenu.qml:17 data/components/GlobalMenuInWindow.qml:17
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Preferences…"
-msgstr ""
+msgstr "Nastavenia"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
-msgstr ""
+msgstr "Povoliť oznámenia"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:134
@@ -235,41 +235,41 @@ msgid "Disable Notifications"
 msgstr ""
 
 #: data/components/GlobalMenu.qml:26 data/components/GlobalMenuInWindow.qml:26
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Log Out"
-msgstr ""
+msgstr "Odhlásiť sa"
 
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
 #: data/Content.qml:138
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Quit"
-msgstr ""
+msgstr "Ukončiť"
 
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
 #, kde-format
 msgctxt "menu"
 msgid "Chats"
-msgstr ""
+msgstr "Rozhovory"
 
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Chat With…"
-msgstr ""
+msgstr "Rozhovor s %1"
 
 #: data/components/GlobalMenu.qml:92 data/components/GlobalMenuInWindow.qml:92
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
 #: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "Zobraziť"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
@@ -332,38 +332,38 @@ msgstr ""
 
 #: data/components/GlobalMenu.qml:142
 #: data/components/GlobalMenuInWindow.qml:142
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Format"
-msgstr ""
+msgstr "Formát"
 
 #: data/components/GlobalMenu.qml:146
 #: data/components/GlobalMenuInWindow.qml:146
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "Okno"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "Skryť bočný panel"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Show Sidebar"
-msgstr ""
+msgstr "Zobraziť bočný panel"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
-msgstr ""
+msgstr "Ukončiť režim celej obrazovky"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
@@ -374,10 +374,10 @@ msgstr ""
 
 #: data/components/GlobalMenu.qml:159
 #: data/components/GlobalMenuInWindow.qml:159
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "menu"
 msgid "Help"
-msgstr ""
+msgstr "Pomocník"
 
 #: data/components/GlobalMenu.qml:162
 #: data/components/GlobalMenuInWindow.qml:162
@@ -389,7 +389,7 @@ msgstr ""
 #: data/components/PlaintextMessage.qml:23
 #, kde-format
 msgid "You"
-msgstr ""
+msgstr "Vy"
 
 #: data/components/PlaintextMessage.qml:30
 #, kde-format
@@ -485,33 +485,33 @@ msgstr "Faktúra"
 #: data/components/PlaintextMessage.qml:89
 #, kde-format
 msgid "Unsupported"
-msgstr ""
+msgstr "Nepodporované"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "dialog title"
 msgid "Upload"
-msgstr ""
+msgstr "Odoslať"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "Dialog title"
 msgid "Upload"
-msgstr ""
+msgstr "Odoslať"
 
 #: data/components/upload/desktop/UploadDialog.qml:50
 #: data/routes/settings/ProxySettings.qml:123
 #, kde-format
 msgctxt "button"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #: data/components/upload/desktop/UploadDialog.qml:62
 #: data/components/upload/mobile/UploadDialog.qml:310
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button"
 msgid "Send"
-msgstr ""
+msgstr "Poslať"
 
 #: data/components/upload/desktop/UploadDialog.qml:104
 #, kde-format
@@ -519,27 +519,27 @@ msgid "Compress image"
 msgstr ""
 
 #: data/components/upload/mobile/UploadDialog.qml:79
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "page title"
 msgid "Upload…"
-msgstr ""
+msgstr "Odoslať"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
-msgstr "Fotka"
+msgstr "Fotografie"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
-msgstr "Video"
+msgstr "Videá"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
@@ -549,7 +549,7 @@ msgstr "Hudba"
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Files"
-msgstr ""
+msgstr "Súbory"
 
 #: data/components/upload/RichTextArea.qml:32
 #, kde-format
@@ -604,7 +604,7 @@ msgstr "Vymazať"
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Načítava sa..."
+msgstr "Pripájam"
 
 #: data/Content.qml:400
 #, kde-format
@@ -621,18 +621,18 @@ msgid "Waiting on network…"
 msgstr ""
 
 #: data/Content.qml:404
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr "Načítava sa..."
+msgstr "Aktualizuje sa..."
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "Tok"
 
 #: data/routes/Chats.qml:44
 #, kde-format
@@ -640,10 +640,10 @@ msgid "Search chats"
 msgstr ""
 
 #: data/routes/Chats.qml:197
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
-msgstr ""
+msgstr "Vytvoriť novú..."
 
 #: data/routes/Chats.qml:245
 #, kde-format
@@ -685,7 +685,7 @@ msgstr ""
 #: data/routes/entry/AuthenticationCode.qml:49
 #, kde-format
 msgid "Code"
-msgstr ""
+msgstr "Kód"
 
 #: data/routes/entry/AuthenticationCode.qml:59
 #: data/routes/entry/AuthenticationCode.qml:60
@@ -693,12 +693,12 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovať"
 
 #: data/routes/entry/Password.qml:19
 #, kde-format
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: data/routes/entry/Password.qml:35
 #, kde-format
@@ -710,7 +710,7 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
 msgid "Welcome"
-msgstr ""
+msgstr "Vitajte"
 
 #: data/routes/entry/PhoneNumber.qml:69
 #, kde-format
@@ -736,7 +736,7 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Send message"
 msgid "Edit Message"
-msgstr "Poslať správu"
+msgstr "&Upraviť správu"
 
 #: data/routes/messages/components/CompositionBar.qml:154
 #, fuzzy, kde-format
@@ -745,7 +745,7 @@ msgstr "Poslať správu"
 #| "than File in this context."
 #| msgid "Attachment"
 msgid "Attach file"
-msgstr "Príloha"
+msgstr "Pripojiť &súbor..."
 
 #: data/routes/messages/components/CompositionBar.qml:248
 #, fuzzy, kde-format
@@ -769,31 +769,31 @@ msgid "Group Info"
 msgstr ""
 
 #: data/routes/messages/components/GroupInformation.qml:64
-#, kde-format
+#, fuzzy, kde-format
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:96
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Photo"
 msgid "Photos"
-msgstr "Fotka"
+msgstr "Fotografie"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgid "Videos"
-msgstr "Video"
+msgstr "Videá"
 
 #: data/routes/messages/components/MessageDelegate.qml:76
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
 #: data/routes/messages/components/MessageDelegate.qml:85
 #, fuzzy, kde-format
@@ -811,12 +811,12 @@ msgstr "Vymazať"
 
 #: data/routes/messages/components/normal/FileMessage.qml:39
 #: data/routes/messages/components/thin/FileMessage.qml:27
-#, kde-format
+#, fuzzy, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Open File"
-msgstr ""
+msgstr "Otvoriť súbor"
 
 #: data/routes/messages/components/normal/FileMessage.qml:49
 #: data/routes/messages/components/thin/FileMessage.qml:37
@@ -842,11 +842,11 @@ msgid ""
 msgstr ""
 
 #: data/routes/messages/components/normal/FileMessage.qml:243
-#, kde-format
+#, fuzzy, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
-msgstr ""
+msgstr "Stiahnuť"
 
 #: data/routes/messages/components/normal/GifMessage.qml:66
 #: data/routes/messages/components/thin/GifMessage.qml:43
@@ -856,10 +856,10 @@ msgid "GIF message."
 msgstr "Poslať správu"
 
 #: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "small text displayed by timestamp when message has been edited"
 msgid "edited"
-msgstr ""
+msgstr "(upravené)"
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:74
 #: data/routes/messages/components/normal/Sticker.qml:19
@@ -914,21 +914,21 @@ msgid "Search Messages in %1"
 msgstr ""
 
 #: data/routes/messages/components/SearchMessages.qml:95
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send message"
 msgid "All Messages"
-msgstr "Poslať správu"
+msgstr "Všetky správy"
 
 #: data/routes/messages/components/SearchMessages.qml:99
 #, kde-format
 msgid "Files"
-msgstr ""
+msgstr "Súbory"
 
 #: data/routes/messages/components/thin/FileMessage.qml:124
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "a button"
 msgid "Download"
-msgstr ""
+msgstr "Stiahnuť"
 
 #: data/routes/messages/components/WebPageBlock.qml:92
 #, kde-format
@@ -951,14 +951,14 @@ msgid "Pinned Messages"
 msgstr "Poslať správu"
 
 #: data/routes/messages/View.qml:177
-#, kde-format
+#, fuzzy, kde-format
 msgid "Search"
-msgstr ""
+msgstr "Hľadať"
 
 #: data/routes/settings/AccountSettings.qml:21
 #, kde-format
 msgid "Log out"
-msgstr ""
+msgstr "Odhlásiť sa"
 
 #: data/routes/settings/AppearanceSettings.qml:21
 #, kde-format
@@ -1002,7 +1002,7 @@ msgstr ""
 #, kde-format
 msgctxt "title"
 msgid "Appearance"
-msgstr ""
+msgstr "Vzhľad"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
@@ -1042,16 +1042,16 @@ msgstr ""
 
 #: data/routes/settings/mobile/NewProxy.qml:37
 #: data/routes/settings/ProxySettings.qml:127
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "button"
 msgid "Add Proxy"
-msgstr ""
+msgstr "Pridať proxy"
 
 #: data/routes/settings/mobile/ProxySettings.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Proxy Settings"
-msgstr ""
+msgstr "Nastavenie proxy"
 
 #: data/routes/settings/mobile/ProxySettings.qml:45
 #, kde-format
@@ -1069,7 +1069,7 @@ msgstr ""
 #: data/routes/settings/ProxySettings.qml:40
 #, kde-format
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 #: data/routes/settings/mobile/ProxySettings.qml:62
 #: data/routes/settings/ProxySettings.qml:41
@@ -1081,7 +1081,7 @@ msgstr ""
 #: data/routes/settings/ProxySettings.qml:42
 #, kde-format
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
@@ -1091,23 +1091,23 @@ msgstr ""
 
 #: data/routes/settings/mobile/ProxySettings.qml:66
 #: data/routes/settings/ProxySettings.qml:45
-#, kde-format
+#, fuzzy, kde-format
 msgid "%1 Proxy"
-msgstr ""
+msgstr "Proxy"
 
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
 #, kde-format
 msgctxt "button"
 msgid "Disable"
-msgstr ""
+msgstr "Zakázať"
 
 #: data/routes/settings/mobile/ProxySettings.qml:71
 #: data/routes/settings/ProxySettings.qml:50
 #, kde-format
 msgctxt "button"
 msgid "Enable"
-msgstr ""
+msgstr "Povoliť"
 
 #: data/routes/settings/mobile/ProxySettings.qml:85
 #, kde-format
@@ -1115,16 +1115,16 @@ msgid "New Proxy"
 msgstr ""
 
 #: data/routes/settings/mobile/Settings.qml:24
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "title"
 msgid "Preferences"
-msgstr ""
+msgstr "Nastavenia"
 
 #: data/routes/settings/mobile/Settings.qml:44
 #: data/routes/settings/Settings.qml:52
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "Vzhľad"
 
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:70
@@ -1134,14 +1134,14 @@ msgstr ""
 
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
-#, kde-format
+#, fuzzy, kde-format
 msgid "Proxy"
-msgstr ""
+msgstr "Proxy"
 
 #: data/routes/settings/mobile/Settings.qml:67
-#, kde-format
+#, fuzzy, kde-format
 msgid "Log Out"
-msgstr ""
+msgstr "Odhlásiť sa"
 
 #: data/routes/settings/mobile/SpellcheckDefault.qml:27
 #, kde-format
@@ -1163,9 +1163,9 @@ msgstr ""
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:109
-#, kde-format
+#, fuzzy, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Predvolený jazyk:"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
 #, kde-format
@@ -1234,22 +1234,22 @@ msgid "Add and remove words from your dictionary"
 msgstr ""
 
 #: data/routes/settings/ProxyForm.qml:55
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "form subheader"
 msgid "General Configuration"
-msgstr ""
+msgstr "Všeobecné nastavenie"
 
 #: data/routes/settings/ProxyForm.qml:61
 #, kde-format
 msgctxt "form label"
 msgid "Server:"
-msgstr ""
+msgstr "Server:"
 
 #: data/routes/settings/ProxyForm.qml:66
 #, kde-format
 msgctxt "form label"
 msgid "Port:"
-msgstr ""
+msgstr "Port:"
 
 #: data/routes/settings/ProxyForm.qml:72
 #, kde-format
@@ -1261,7 +1261,7 @@ msgstr ""
 #, kde-format
 msgctxt "form label"
 msgid "Proxy Type:"
-msgstr ""
+msgstr "Typ proxy:"
 
 #: data/routes/settings/ProxyForm.qml:85
 #, kde-format
@@ -1289,17 +1289,17 @@ msgstr ""
 
 #: data/routes/settings/ProxyForm.qml:103
 #: data/routes/settings/ProxyForm.qml:129
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "form control label"
 msgid "Username:"
-msgstr ""
+msgstr "Užívateľské meno:"
 
 #: data/routes/settings/ProxyForm.qml:109
 #: data/routes/settings/ProxyForm.qml:135
 #, kde-format
 msgctxt "form control label"
 msgid "Password:"
-msgstr ""
+msgstr "Heslo:"
 
 #: data/routes/settings/ProxyForm.qml:114
 #, kde-format
@@ -1322,27 +1322,27 @@ msgid ""
 msgstr ""
 
 #: data/routes/settings/ProxySettings.qml:83
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "adds a proxy"
 msgid "Add Proxy"
-msgstr ""
+msgstr "Pridať proxy"
 
 #: data/routes/settings/ProxySettings.qml:92
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "window title"
 msgid "Add Proxy"
-msgstr ""
+msgstr "Pridať proxy"
 
 #: data/routes/settings/Settings.qml:16
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "window title"
 msgid "Preferences"
-msgstr ""
+msgstr "Nastavenia"
 
 #: data/routes/settings/Settings.qml:46
 #, kde-format
 msgid "Account"
-msgstr ""
+msgstr "Účet"
 
 #: data/routes/settings/Settings.qml:47
 #, kde-format
@@ -1359,7 +1359,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:58
 #, kde-format
 msgid "Behaviour"
-msgstr ""
+msgstr "Správanie"
 
 #: data/routes/settings/Settings.qml:59
 #, kde-format
@@ -1431,9 +1431,9 @@ msgid "All Chats"
 msgstr ""
 
 #: src/chatsstore.cpp:197 src/chatsstore.cpp:200
-#, kde-format
+#, fuzzy, kde-format
 msgid "Group"
-msgstr ""
+msgstr "Skupina"
 
 #: src/chatsstore.cpp:198
 #, kde-format
@@ -1446,12 +1446,12 @@ msgid "Secret chat"
 msgstr ""
 
 #: src/chatstore+actions.cpp:80
-#, kde-format
+#, fuzzy, kde-format
 msgid "%1 is typing"
 msgid_plural "%1 are typing"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%2 píše"
+msgstr[1] "%2 píšu"
+msgstr[2] "%2 píšu"
 
 #: src/chatstore+actions.cpp:87
 #, kde-format
@@ -1530,23 +1530,23 @@ msgid "Unsupported"
 msgstr "Nepodporované"
 
 #: src/extractinator.cpp:43
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving a gif with a caption"
 msgid "GIF: %1"
-msgstr ""
+msgstr "GIF"
 
 #: src/extractinator.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
 
 #: src/extractinator.cpp:51
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving a music with a caption"
 msgid "Music (%1): %2"
-msgstr ""
+msgstr "Hudba"
 
 #: src/extractinator.cpp:53
 #, fuzzy, kde-format
@@ -1556,16 +1556,16 @@ msgid "Music (%1)"
 msgstr "Hudba"
 
 #: src/extractinator.cpp:59
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "notification body for receiving a file with a caption"
 msgid "File (%1): %2"
-msgstr ""
+msgstr "&Súbor"
 
 #: src/extractinator.cpp:61
 #, kde-format
 msgctxt "notification body for receiving file"
 msgid "File (%1)"
-msgstr ""
+msgstr "Súbor (%1)"
 
 #: src/extractinator.cpp:66
 #, fuzzy, kde-format
@@ -1602,7 +1602,7 @@ msgid "Video: %1"
 msgstr "Video"
 
 #: src/extractinator.cpp:83
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
@@ -1616,21 +1616,21 @@ msgid "Expired Video"
 msgstr ""
 
 #: src/extractinator.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:99
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
@@ -1684,14 +1684,14 @@ msgctxt ""
 "A list of two items. The items can be used to format any sort of nouns, e.g. "
 "a list of people, places, things."
 msgid "%1 and %2"
-msgstr ""
+msgstr "%1 a %2"
 
 #: src/internationalisedlist.cpp:28
-#, kde-format
+#, fuzzy, kde-format
 msgctxt ""
 "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
-msgstr ""
+msgstr "a"
 
 #: src/internationalisedlist.cpp:31
 #, kde-format
@@ -1719,18 +1719,18 @@ msgstr "Odpovedať"
 #| msgid "Reply to %1..."
 msgctxt "placeholder text"
 msgid "Reply to %1…"
-msgstr "Odpovedať %1..."
+msgstr "Odpovedať na adresu:"
 
 #: src/userdata.cpp:53
 #, fuzzy, kde-format
 #| msgid "Loading..."
 msgid "Loading…"
-msgstr "Načítava sa..."
+msgstr "Načítava sa…"
 
 #: src/userdata.cpp:69
-#, kde-format
+#, fuzzy, kde-format
 msgid "Online"
-msgstr ""
+msgstr "Pripojený"
 
 #: src/userdata.cpp:73
 #, kde-format
@@ -1746,7 +1746,7 @@ msgstr ""
 #: src/userdata.cpp:101
 #, kde-format
 msgid "Unknown Status"
-msgstr ""
+msgstr "Neznámy stav"
 
 #~ msgid "Enter your password"
 #~ msgstr "Zadajte svoje heslo"
