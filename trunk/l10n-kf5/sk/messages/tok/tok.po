@@ -526,21 +526,18 @@ msgstr "Odoslať"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
-#| msgid "Photo"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
 msgstr "Fotografie"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
-#| msgid "Video"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
 msgstr "Videá"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
-#| msgid "Music"
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
 msgstr "Hudba"
@@ -622,7 +619,6 @@ msgstr ""
 
 #: data/Content.qml:404
 #, kde-format
-#| msgid "Loading..."
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
@@ -777,7 +773,6 @@ msgstr "Info"
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:96
 #, kde-format
-#| msgid "Photo"
 msgid "Photos"
 msgstr "Fotografie"
 
@@ -785,7 +780,6 @@ msgstr "Fotografie"
 #: data/routes/messages/components/SearchMessages.qml:97
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
-#| msgid "Video"
 msgid "Videos"
 msgstr "Videá"
 
@@ -915,7 +909,6 @@ msgstr ""
 
 #: data/routes/messages/components/SearchMessages.qml:95
 #, kde-format
-#| msgid "Send message"
 msgid "All Messages"
 msgstr "Všetky správy"
 
@@ -1537,7 +1530,6 @@ msgstr "GIF"
 
 #: src/extractinator.cpp:45
 #, kde-format
-#| msgid "GIF"
 msgctxt "notification body for receiving a gif"
 msgid "GIF"
 msgstr "GIF"
@@ -1603,7 +1595,6 @@ msgstr "Video"
 
 #: src/extractinator.cpp:83
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video"
 msgid "Video"
 msgstr "Video"
@@ -1617,21 +1608,18 @@ msgstr ""
 
 #: src/extractinator.cpp:94
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a video note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:99
 #, kde-format
-#| msgid "Video"
 msgctxt "notification body for receiving a voice note"
 msgid "Video"
 msgstr "Video"
 
 #: src/extractinator.cpp:104
 #, kde-format
-#| msgid "Location"
 msgctxt "notification body for receiving a location"
 msgid "Location"
 msgstr "Umiestnenie"
