@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-14 00:28+0000\n"
+"POT-Creation-Date: 2021-11-23 00:28+0000\n"
 "PO-Revision-Date: 2021-11-14 20:07+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -790,8 +790,8 @@ msgctxt "popup menu for message"
 msgid "Delete"
 msgstr "삭제"
 
-#: data/routes/messages/components/normal/FileMessage.qml:39
-#: data/routes/messages/components/thin/FileMessage.qml:27
+#: data/routes/messages/components/normal/FileMessage.qml:41
+#: data/routes/messages/components/thin/FileMessage.qml:29
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
@@ -799,15 +799,15 @@ msgctxt ""
 msgid "Open File"
 msgstr "파일 열기"
 
-#: data/routes/messages/components/normal/FileMessage.qml:49
-#: data/routes/messages/components/thin/FileMessage.qml:37
+#: data/routes/messages/components/normal/FileMessage.qml:51
+#: data/routes/messages/components/thin/FileMessage.qml:39
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
 msgstr "%1 / %2"
 
-#: data/routes/messages/components/normal/FileMessage.qml:55
-#: data/routes/messages/components/thin/FileMessage.qml:43
+#: data/routes/messages/components/normal/FileMessage.qml:57
+#: data/routes/messages/components/thin/FileMessage.qml:45
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
@@ -815,22 +815,22 @@ msgctxt ""
 msgid "Stop Download"
 msgstr "다운로드 정지"
 
-#: data/routes/messages/components/normal/FileMessage.qml:149
+#: data/routes/messages/components/normal/FileMessage.qml:151
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
 msgstr "다운로드한 파일 아이콘을 다른 프로그램에 끌어다 놓을 수 있습니다."
 
-#: data/routes/messages/components/normal/FileMessage.qml:243
+#: data/routes/messages/components/normal/FileMessage.qml:245
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "다운로드"
 
-#: data/routes/messages/components/normal/GifMessage.qml:66
-#: data/routes/messages/components/thin/GifMessage.qml:43
+#: data/routes/messages/components/normal/GifMessage.qml:68
+#: data/routes/messages/components/thin/GifMessage.qml:44
 #, kde-format
 msgid "GIF message."
 msgstr "GIF 메시지입니다."
@@ -841,11 +841,11 @@ msgctxt "small text displayed by timestamp when message has been edited"
 msgid "edited"
 msgstr "편집됨"
 
-#: data/routes/messages/components/normal/PhotoMessage.qml:74
-#: data/routes/messages/components/normal/Sticker.qml:19
-#: data/routes/messages/components/normal/VideoMessage.qml:52
+#: data/routes/messages/components/normal/PhotoMessage.qml:76
+#: data/routes/messages/components/normal/VideoMessage.qml:54
+#: data/routes/messages/components/shared/Sticker.qml:19
 #: data/routes/messages/components/thin/PhotoMessage.qml:45
-#: data/routes/messages/components/thin/VideoMessage.qml:24
+#: data/routes/messages/components/thin/VideoMessage.qml:26
 #, kde-format
 msgid "Photo message."
 msgstr "사진 메시지입니다."
@@ -856,7 +856,7 @@ msgstr "사진 메시지입니다."
 msgid "%1 joined the group"
 msgstr "%1 님이 그룹에 참가함"
 
-#: data/routes/messages/components/normal/VideoMessage.qml:148
+#: data/routes/messages/components/normal/VideoMessage.qml:150
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
@@ -903,13 +903,7 @@ msgstr "모든 메시지"
 msgid "Files"
 msgstr "파일"
 
-#: data/routes/messages/components/thin/FileMessage.qml:124
-#, kde-format
-msgctxt "a button"
-msgid "Download"
-msgstr "다운로드"
-
-#: data/routes/messages/components/WebPageBlock.qml:92
+#: data/routes/messages/components/shared/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
@@ -917,6 +911,12 @@ msgctxt ""
 "telegram.org to see how instant view was translated officially."
 msgid "Instant View"
 msgstr "즉시 보기"
+
+#: data/routes/messages/components/thin/FileMessage.qml:126
+#, kde-format
+msgctxt "a button"
+msgid "Download"
+msgstr "다운로드"
 
 #: data/routes/messages/NoView.qml:26
 #, kde-format
