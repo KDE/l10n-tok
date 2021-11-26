@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-14 11:07+0100\n"
+"POT-Creation-Date: 2021-11-23 09:25+0100\n"
 "PO-Revision-Date: 2021-05-02 18:05-0700\n"
 "Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
 "Language-Team: Japanese <kde-jp@kde.org>\n"
@@ -917,8 +917,8 @@ msgid "Delete"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:39
-#: data/routes/messages/components/thin/FileMessage.qml:27
+#: data/routes/messages/components/normal/FileMessage.qml:41
+#: data/routes/messages/components/thin/FileMessage.qml:29
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
@@ -927,16 +927,16 @@ msgid "Open File"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:49
-#: data/routes/messages/components/thin/FileMessage.qml:37
+#: data/routes/messages/components/normal/FileMessage.qml:51
+#: data/routes/messages/components/thin/FileMessage.qml:39
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:55
-#: data/routes/messages/components/thin/FileMessage.qml:43
+#: data/routes/messages/components/normal/FileMessage.qml:57
+#: data/routes/messages/components/thin/FileMessage.qml:45
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
@@ -945,7 +945,7 @@ msgid "Stop Download"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:149
+#: data/routes/messages/components/normal/FileMessage.qml:151
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
@@ -953,7 +953,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:243
+#: data/routes/messages/components/normal/FileMessage.qml:245
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
@@ -961,8 +961,8 @@ msgid "Download"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/GifMessage.qml:66
-#: data/routes/messages/components/thin/GifMessage.qml:43
+#: data/routes/messages/components/normal/GifMessage.qml:68
+#: data/routes/messages/components/thin/GifMessage.qml:44
 #, kde-format
 msgid "GIF message."
 msgstr ""
@@ -975,11 +975,11 @@ msgid "edited"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/PhotoMessage.qml:74
-#: data/routes/messages/components/normal/Sticker.qml:19
-#: data/routes/messages/components/normal/VideoMessage.qml:52
+#: data/routes/messages/components/normal/PhotoMessage.qml:76
+#: data/routes/messages/components/normal/VideoMessage.qml:54
+#: data/routes/messages/components/shared/Sticker.qml:19
 #: data/routes/messages/components/thin/PhotoMessage.qml:45
-#: data/routes/messages/components/thin/VideoMessage.qml:24
+#: data/routes/messages/components/thin/VideoMessage.qml:26
 #, kde-format
 msgid "Photo message."
 msgstr ""
@@ -992,7 +992,7 @@ msgid "%1 joined the group"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/normal/VideoMessage.qml:148
+#: data/routes/messages/components/normal/VideoMessage.qml:150
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
@@ -1047,20 +1047,20 @@ msgid "Files"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/thin/FileMessage.qml:124
-#, kde-format
-msgctxt "a button"
-msgid "Download"
-msgstr ""
-
-#. +> trunk5
-#: data/routes/messages/components/WebPageBlock.qml:92
+#: data/routes/messages/components/shared/WebPageBlock.qml:92
 #, kde-format
 msgctxt ""
 "button that opens a preview of a web page. 'instant view' is sort of like a "
 "brand name, but also sort of not? i would recommend consulting translations."
 "telegram.org to see how instant view was translated officially."
 msgid "Instant View"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/thin/FileMessage.qml:126
+#, kde-format
+msgctxt "a button"
+msgid "Download"
 msgstr ""
 
 #. +> trunk5
