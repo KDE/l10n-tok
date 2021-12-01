@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-23 00:28+0000\n"
+"POT-Creation-Date: 2021-12-01 00:46+0000\n"
 "PO-Revision-Date: 2021-10-08 14:35+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -402,7 +402,7 @@ msgstr "GIF"
 #: data/components/PlaintextMessage.qml:32
 #: data/routes/messages/components/GroupInformation.qml:130
 #: data/routes/messages/components/MusicView.qml:14
-#: data/routes/messages/components/SearchMessages.qml:98
+#: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
 msgid "Music"
 msgstr "Hudba"
@@ -678,15 +678,15 @@ msgstr "Ověření telefonu"
 msgid "We've sent a code to the Telegram app on your other device."
 msgstr ""
 
-#: data/routes/entry/AuthenticationCode.qml:49
+#: data/routes/entry/AuthenticationCode.qml:47
 #, kde-format
 msgid "Code"
 msgstr "Kód"
 
-#: data/routes/entry/AuthenticationCode.qml:59
-#: data/routes/entry/AuthenticationCode.qml:60
-#: data/routes/entry/Password.qml:58 data/routes/entry/Password.qml:59
-#: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
+#: data/routes/entry/AuthenticationCode.qml:57
+#: data/routes/entry/AuthenticationCode.qml:58
+#: data/routes/entry/Password.qml:56 data/routes/entry/Password.qml:57
+#: data/routes/entry/PhoneNumber.qml:76 data/routes/entry/PhoneNumber.qml:77
 #, kde-format
 msgid "Continue"
 msgstr "Pokračovat"
@@ -708,12 +708,12 @@ msgstr ""
 msgid "Welcome"
 msgstr "Vítejte"
 
-#: data/routes/entry/PhoneNumber.qml:69
+#: data/routes/entry/PhoneNumber.qml:67
 #, kde-format
 msgid "Phone number"
 msgstr "Telefonní číslo"
 
-#: data/routes/entry/PhoneNumber.qml:88 data/routes/entry/Welcome.qml:27
+#: data/routes/entry/PhoneNumber.qml:86 data/routes/entry/Welcome.qml:27
 #, kde-format
 msgid "Configure Proxy…"
 msgstr "Nastavit proxy..."
@@ -765,13 +765,13 @@ msgstr "Informace"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
-#: data/routes/messages/components/SearchMessages.qml:96
+#: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Photos"
 msgstr "Fotografie"
 
 #: data/routes/messages/components/GroupInformation.qml:119
-#: data/routes/messages/components/SearchMessages.qml:97
+#: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
 msgid "Videos"
@@ -887,7 +887,7 @@ msgid "Pinned Messages in %1"
 msgstr "Připnuté zprávy v %1"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
-#: data/routes/messages/components/SearchMessages.qml:133
+#: data/routes/messages/components/SearchMessages.qml:135
 #, kde-format
 msgid "View In Chat"
 msgstr "Zobrazit v rozhovoru"
@@ -898,12 +898,12 @@ msgctxt "dialog title"
 msgid "Search Messages in %1"
 msgstr "Hledat zprávy v %1"
 
-#: data/routes/messages/components/SearchMessages.qml:95
+#: data/routes/messages/components/SearchMessages.qml:97
 #, kde-format
 msgid "All Messages"
 msgstr "Všechny zprávy"
 
-#: data/routes/messages/components/SearchMessages.qml:99
+#: data/routes/messages/components/SearchMessages.qml:101
 #, kde-format
 msgid "Files"
 msgstr "Soubory"
@@ -938,12 +938,12 @@ msgstr "Připnuté zprávy"
 msgid "Search"
 msgstr "Hledat"
 
-#: data/routes/settings/AccountSettings.qml:21
+#: data/routes/settings/AccountSettings.qml:22
 #, kde-format
 msgid "Log out"
 msgstr "Odhlásit se"
 
-#: data/routes/settings/AppearanceSettings.qml:21
+#: data/routes/settings/AppearanceSettings.qml:22
 #, kde-format
 msgctxt ""
 "Checkable control to toggle between the default appearance and a more "
@@ -951,7 +951,7 @@ msgctxt ""
 msgid "Use a compact appearance for messages"
 msgstr ""
 
-#: data/routes/settings/AppearanceSettings.qml:26
+#: data/routes/settings/AppearanceSettings.qml:27
 #, kde-format
 msgctxt ""
 "Checkable control to toggle between a photo background for the chat and "
@@ -959,7 +959,7 @@ msgctxt ""
 msgid "Display an image in the background of chats"
 msgstr ""
 
-#: data/routes/settings/AppearanceSettings.qml:33
+#: data/routes/settings/AppearanceSettings.qml:34
 #, kde-format
 msgctxt ""
 "Checkable control to toggle viewing content underneath the window "
@@ -967,13 +967,13 @@ msgctxt ""
 msgid "Make the window transparent"
 msgstr ""
 
-#: data/routes/settings/AppearanceSettings.qml:39
+#: data/routes/settings/AppearanceSettings.qml:40
 #, kde-format
 msgctxt "Button that offers a menu to change the colour scheme"
 msgid "Change Color Scheme"
 msgstr ""
 
-#: data/routes/settings/BehaviourSettings.qml:21
+#: data/routes/settings/BehaviourSettings.qml:22
 #, kde-format
 msgctxt ""
 "Checkable control to toggle a system tray icon and not closing the app when "
