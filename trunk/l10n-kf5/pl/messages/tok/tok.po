@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-12-01 00:46+0000\n"
-"PO-Revision-Date: 2021-10-10 11:49+0200\n"
+"PO-Revision-Date: 2021-12-04 11:24+0100\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 20.12.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10"
+" || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.03.70\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -150,22 +150,22 @@ msgstr "Zaznacz wszystko"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "Sprawdzanie pisowni"
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "Brak podpowiedzi dla \"%1\""
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "Dodaj \"%1\" do słownika"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "Pomiń \"%1\""
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
@@ -557,12 +557,12 @@ msgstr "Dodaj podpis..."
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "Ban z \"%1\""
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "Wykop z \"%1\""
 
 #: data/Content.qml:312
 #, kde-format
@@ -1113,7 +1113,7 @@ msgstr "Wygląd"
 #: data/routes/settings/Settings.qml:70
 #, kde-format
 msgid "Spellchecking"
-msgstr ""
+msgstr "Sprawdzanie pisowni"
 
 #: data/routes/settings/mobile/Settings.qml:58
 #: data/routes/settings/Settings.qml:64
@@ -1130,33 +1130,33 @@ msgstr "Wyloguj"
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
-msgstr ""
+msgstr "Wybierz domyślny język sprawdzania pisowni..."
 
 #: data/routes/settings/mobile/SpellcheckDictionary.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Słownik sprawdzania pisowni"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
-msgstr ""
+msgstr "Języki sprawdzania pisowni"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
 #: data/routes/settings/SpellcheckSettings.qml:109
 #, kde-format
 msgid "Default language"
-msgstr ""
+msgstr "Domyślny język"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
-msgstr "Otwórz ustawienia konta"
+msgstr "Ustawienia sprawdzania pisowni"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:52
 #, kde-format
@@ -1164,7 +1164,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Spellchecking enabled"
-msgstr ""
+msgstr "Sprawdzanie pisowni włączone"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:61
 #, kde-format
@@ -1172,7 +1172,7 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Pomiń słowa pisane wielkimi literami"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:70
 #, kde-format
@@ -1180,43 +1180,43 @@ msgctxt ""
 "Mobile label; keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Pomiń zlepki słów"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:79
 #, kde-format
 msgid "Set default language for spellchecking"
-msgstr ""
+msgstr "Ustaw domyślny język sprawdzania pisowni"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:80
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "Obecnie %1"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
 msgid "Detect language from list automatically"
-msgstr ""
+msgstr "Sam wykryj język z listy"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "Lista języków"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
 msgid "Select languages for automatic detection"
-msgstr ""
+msgstr "Wybierz języki do samoczynnego wykrywania"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:124
 #, kde-format
 msgid "Spellcheck dictionary"
-msgstr ""
+msgstr "Słownik sprawdzania pisowni"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:125
 #, kde-format
 msgid "Add and remove words from your dictionary"
-msgstr ""
+msgstr "Dodaj lub usuń słowo z twojego słownika"
 
 #: data/routes/settings/ProxyForm.qml:55
 #, kde-format
@@ -1363,58 +1363,58 @@ msgid "Open proxy settings"
 msgstr "Otwórz ustawienia pośrednika"
 
 #: data/routes/settings/Settings.qml:71
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "sidebar item accessible text"
 #| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
-msgstr "Otwórz ustawienia konta"
+msgstr "Otwórz ustawienia sprawdzania pisowni"
 
 #: data/routes/settings/Settings.qml:76
 #, kde-format
 msgid "Spellchecking Dictionary"
-msgstr ""
+msgstr "Słownik sprawdzania pisowni"
 
 #: data/routes/settings/Settings.qml:77
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
-msgstr ""
+msgstr "Otwórz słownik sprawdzania pisowni"
 
 #: data/routes/settings/SpellcheckDictionary.qml:31
 #, kde-format
 msgid "Dictionary for spellchecking"
-msgstr ""
+msgstr "Słownik sprawdzania pisowni"
 
 #: data/routes/settings/SpellcheckSettings.qml:29
 #, kde-format
 msgid "Enable automatic spellchecking"
-msgstr ""
+msgstr "Sam sprawdzaj pisownię"
 
 #: data/routes/settings/SpellcheckSettings.qml:34
 #, kde-format
 msgid "Ignore capitalised words"
-msgstr ""
+msgstr "Pomiń słowa pisane wielkimi literami"
 
 #: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
-msgstr ""
+msgstr "Pomiń zlepki słów"
 
 #: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
 msgid "Default language for spellchecking:"
-msgstr ""
+msgstr "Domyślny język sprawdzania pisowni:"
 
 #: data/routes/settings/SpellcheckSettings.qml:59
 #, kde-format
 msgid "Languages for spellchecking"
-msgstr ""
+msgstr "Języki sprawdzania pisowni"
 
 #: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
-msgstr ""
+msgstr "Sam wykryj język sprawdzania pisowni z języków poniżej"
 
 #: src/chatlistmodel.cpp:22
 #, kde-format
