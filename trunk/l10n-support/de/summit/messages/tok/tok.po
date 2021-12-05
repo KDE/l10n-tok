@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-27 11:01+0200\n"
+"POT-Creation-Date: 2021-12-01 10:16+0100\n"
 "PO-Revision-Date: 2021-09-01 23:05+0200\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -37,7 +37,7 @@ msgstr "Name"
 #: data/components/CreateNewMenuInWindow.qml:62
 #: data/components/CreateNewMenuInWindow.qml:113
 #: data/components/GlobalMenu.qml:79 data/components/GlobalMenuInWindow.qml:79
-#: data/Content.qml:348
+#: data/Content.qml:343
 #, kde-format
 msgid "Cancel"
 msgstr "Abbrechen"
@@ -253,7 +253,7 @@ msgstr "Einstellungen ..."
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:139
+#: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
@@ -261,7 +261,7 @@ msgstr "Benachrichtigungen aktivieren"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
-#: data/Content.qml:139
+#: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
@@ -276,7 +276,7 @@ msgstr "Abmelden"
 
 #. +> trunk5
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
-#: data/Content.qml:143
+#: data/Content.qml:138
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
@@ -454,7 +454,7 @@ msgstr "GIF"
 #: data/components/PlaintextMessage.qml:32
 #: data/routes/messages/components/GroupInformation.qml:130
 #: data/routes/messages/components/MusicView.qml:14
-#: data/routes/messages/components/SearchMessages.qml:98
+#: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
 msgid "Music"
 msgstr "Musik"
@@ -646,43 +646,43 @@ msgid "Kick from \"%1\""
 msgstr ""
 
 #. +> trunk5
-#: data/Content.qml:317
+#: data/Content.qml:312
 #, kde-format
 msgid "Do you want to delete this message?"
 msgstr "Möchten Sie diese Nachricht löschen?"
 
 #. +> trunk5
-#: data/Content.qml:324
+#: data/Content.qml:319
 #, kde-format
 msgid "This will delete it just for you."
 msgstr "Sie wird nur bei Ihnen gelöscht."
 
 #. +> trunk5
-#: data/Content.qml:328
+#: data/Content.qml:323
 #, kde-format
 msgid "This will delete it for everyone in this chat."
 msgstr "Sie wird bei allen im Chat gelöscht."
 
 #. +> trunk5
-#: data/Content.qml:334
+#: data/Content.qml:329
 #, kde-format
 msgid "Also delete for everyone"
 msgstr "Bei allen löschen"
 
 #. +> trunk5
-#: data/Content.qml:334
+#: data/Content.qml:329
 #, kde-format
 msgid "Also delete for %1"
 msgstr "Auch bei %1 löschen"
 
 #. +> trunk5
-#: data/Content.qml:352
+#: data/Content.qml:347
 #, kde-format
 msgid "Delete"
 msgstr "Löschen"
 
 #. +> trunk5
-#: data/Content.qml:403
+#: data/Content.qml:398
 #, fuzzy, kde-format
 #| msgid "Loading…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
@@ -690,7 +690,7 @@ msgid "Connecting…"
 msgstr "Wird geladen ..."
 
 #. +> trunk5
-#: data/Content.qml:405
+#: data/Content.qml:400
 #, fuzzy, kde-format
 #| msgid "Configure Proxy…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
@@ -698,14 +698,14 @@ msgid "Connecting to proxy…"
 msgstr "Proxy einrichten ..."
 
 #. +> trunk5
-#: data/Content.qml:407
+#: data/Content.qml:402
 #, kde-format
 msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
 msgstr ""
 
 #. +> trunk5
-#: data/Content.qml:409
+#: data/Content.qml:404
 #, fuzzy, kde-format
 #| msgid "Loading…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
@@ -773,16 +773,16 @@ msgid "We've sent a code to the Telegram app on your other device."
 msgstr "Wir haben Ihnen einen Code per Telegram an Ihre aktive App geschickt."
 
 #. +> trunk5
-#: data/routes/entry/AuthenticationCode.qml:49
+#: data/routes/entry/AuthenticationCode.qml:47
 #, kde-format
 msgid "Code"
 msgstr "Code"
 
 #. +> trunk5
-#: data/routes/entry/AuthenticationCode.qml:59
-#: data/routes/entry/AuthenticationCode.qml:60
-#: data/routes/entry/Password.qml:58 data/routes/entry/Password.qml:59
-#: data/routes/entry/PhoneNumber.qml:78 data/routes/entry/PhoneNumber.qml:79
+#: data/routes/entry/AuthenticationCode.qml:57
+#: data/routes/entry/AuthenticationCode.qml:58
+#: data/routes/entry/Password.qml:56 data/routes/entry/Password.qml:57
+#: data/routes/entry/PhoneNumber.qml:76 data/routes/entry/PhoneNumber.qml:77
 #, kde-format
 msgid "Continue"
 msgstr "Weiter"
@@ -806,13 +806,13 @@ msgid "Welcome"
 msgstr "Willkommen"
 
 #. +> trunk5
-#: data/routes/entry/PhoneNumber.qml:69
+#: data/routes/entry/PhoneNumber.qml:67
 #, kde-format
 msgid "Phone number"
 msgstr "Telefonnummer"
 
 #. +> trunk5
-#: data/routes/entry/PhoneNumber.qml:88 data/routes/entry/Welcome.qml:27
+#: data/routes/entry/PhoneNumber.qml:86 data/routes/entry/Welcome.qml:27
 #, kde-format
 msgid "Configure Proxy…"
 msgstr "Proxy einrichten ..."
@@ -874,14 +874,14 @@ msgstr "Info"
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
-#: data/routes/messages/components/SearchMessages.qml:96
+#: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Photos"
 msgstr "Fotos"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:119
-#: data/routes/messages/components/SearchMessages.qml:97
+#: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
 msgid "Videos"
@@ -909,46 +909,46 @@ msgid "Delete"
 msgstr "Löschen"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:39
-#: data/routes/messages/components/thin/FileMessage.qml:27
+#: data/routes/messages/components/normal/FileMessage.qml:41
+#: data/routes/messages/components/thin/FileMessage.qml:29
 #, kde-format
 msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
 msgid "Open File"
 msgstr "Datei öffnen"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:49
-#: data/routes/messages/components/thin/FileMessage.qml:37
+#: data/routes/messages/components/normal/FileMessage.qml:51
+#: data/routes/messages/components/thin/FileMessage.qml:39
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
 msgstr "%1 / %2"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:55
-#: data/routes/messages/components/thin/FileMessage.qml:43
+#: data/routes/messages/components/normal/FileMessage.qml:57
+#: data/routes/messages/components/thin/FileMessage.qml:45
 #, kde-format
 msgctxt "tooltip for a button on a message; offers ability to open its downloaded file with an appropriate application"
 msgid "Stop Download"
 msgstr "Herunterladen abbrechen"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:149
+#: data/routes/messages/components/normal/FileMessage.qml:151
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid "You can drag and drop the icon on downloaded files into other applications."
 msgstr "Sie können das Symbol für heruntergeladene Dateien per Drag & Drop in andere Anwendungen ziehen."
 
 #. +> trunk5
-#: data/routes/messages/components/normal/FileMessage.qml:243
+#: data/routes/messages/components/normal/FileMessage.qml:245
 #, kde-format
 msgctxt "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
 msgstr "Herunterladen"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/GifMessage.qml:66
-#: data/routes/messages/components/thin/GifMessage.qml:43
+#: data/routes/messages/components/normal/GifMessage.qml:68
+#: data/routes/messages/components/thin/GifMessage.qml:44
 #, kde-format
 msgid "GIF message."
 msgstr "GIF-Nachricht."
@@ -961,11 +961,11 @@ msgid "edited"
 msgstr "bearbeitet"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/PhotoMessage.qml:74
-#: data/routes/messages/components/normal/Sticker.qml:19
-#: data/routes/messages/components/normal/VideoMessage.qml:52
+#: data/routes/messages/components/normal/PhotoMessage.qml:76
+#: data/routes/messages/components/normal/VideoMessage.qml:54
+#: data/routes/messages/components/shared/Sticker.qml:19
 #: data/routes/messages/components/thin/PhotoMessage.qml:45
-#: data/routes/messages/components/thin/VideoMessage.qml:24
+#: data/routes/messages/components/thin/VideoMessage.qml:26
 #, kde-format
 msgid "Photo message."
 msgstr "Foto-Nachricht."
@@ -978,7 +978,7 @@ msgid "%1 joined the group"
 msgstr "%1 ist der Gruppe beigetreten"
 
 #. +> trunk5
-#: data/routes/messages/components/normal/VideoMessage.qml:148
+#: data/routes/messages/components/normal/VideoMessage.qml:150
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
@@ -1008,7 +1008,7 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/messages/components/PinnedMessages.qml:102
-#: data/routes/messages/components/SearchMessages.qml:133
+#: data/routes/messages/components/SearchMessages.qml:135
 #, kde-format
 msgid "View In Chat"
 msgstr ""
@@ -1021,14 +1021,14 @@ msgid "Search Messages in %1"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:95
+#: data/routes/messages/components/SearchMessages.qml:97
 #, fuzzy, kde-format
 #| msgid "Edit Message"
 msgid "All Messages"
 msgstr "Nachricht bearbeiten"
 
 #. +> trunk5
-#: data/routes/messages/components/SearchMessages.qml:99
+#: data/routes/messages/components/SearchMessages.qml:101
 #, fuzzy, kde-format
 #| msgctxt "page title in switcher; keep small as possible"
 #| msgid "Files"
@@ -1036,18 +1036,18 @@ msgid "Files"
 msgstr "Dateien"
 
 #. +> trunk5
-#: data/routes/messages/components/thin/FileMessage.qml:124
-#, kde-format
-msgctxt "a button"
-msgid "Download"
-msgstr "Herunterladen"
-
-#. +> trunk5
-#: data/routes/messages/components/WebPageBlock.qml:92
+#: data/routes/messages/components/shared/WebPageBlock.qml:92
 #, kde-format
 msgctxt "button that opens a preview of a web page. 'instant view' is sort of like a brand name, but also sort of not? i would recommend consulting translations.telegram.org to see how instant view was translated officially."
 msgid "Instant View"
 msgstr "Schnellansicht"
+
+#. +> trunk5
+#: data/routes/messages/components/thin/FileMessage.qml:126
+#, kde-format
+msgctxt "a button"
+msgid "Download"
+msgstr "Herunterladen"
 
 #. +> trunk5
 #: data/routes/messages/NoView.qml:26
@@ -1070,41 +1070,41 @@ msgid "Search"
 msgstr "Chats durchsuchen"
 
 #. +> trunk5
-#: data/routes/settings/AccountSettings.qml:21
+#: data/routes/settings/AccountSettings.qml:22
 #, kde-format
 msgid "Log out"
 msgstr "Abmelden"
 
 #. +> trunk5
-#: data/routes/settings/AppearanceSettings.qml:21
+#: data/routes/settings/AppearanceSettings.qml:22
 #, kde-format
 msgctxt "Checkable control to toggle between the default appearance and a more compact style"
 msgid "Use a compact appearance for messages"
 msgstr "Kompakte Anzeige für Nachrichten nutzen"
 
 #. +> trunk5
-#: data/routes/settings/AppearanceSettings.qml:26
+#: data/routes/settings/AppearanceSettings.qml:27
 #, kde-format
 msgctxt "Checkable control to toggle between a photo background for the chat and using a solid colour"
 msgid "Display an image in the background of chats"
 msgstr "Hintergrundbild in Chats anzeigen"
 
 #. +> trunk5
-#: data/routes/settings/AppearanceSettings.qml:33
+#: data/routes/settings/AppearanceSettings.qml:34
 #, kde-format
 msgctxt "Checkable control to toggle viewing content underneath the window (transparent window bg)"
 msgid "Make the window transparent"
 msgstr "Fenstertransparenz aktivieren"
 
 #. +> trunk5
-#: data/routes/settings/AppearanceSettings.qml:39
+#: data/routes/settings/AppearanceSettings.qml:40
 #, kde-format
 msgctxt "Button that offers a menu to change the colour scheme"
 msgid "Change Color Scheme"
 msgstr "Farbschema ändern"
 
 #. +> trunk5
-#: data/routes/settings/BehaviourSettings.qml:21
+#: data/routes/settings/BehaviourSettings.qml:22
 #, kde-format
 msgctxt "Checkable control to toggle a system tray icon and not closing the app when X is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
@@ -1295,7 +1295,7 @@ msgstr ""
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:109
 #, kde-format
 msgid "Default language"
 msgstr ""
@@ -1563,37 +1563,37 @@ msgid "Dictionary for spellchecking"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:32
+#: data/routes/settings/SpellcheckSettings.qml:29
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:37
+#: data/routes/settings/SpellcheckSettings.qml:34
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:42
+#: data/routes/settings/SpellcheckSettings.qml:39
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:48
+#: data/routes/settings/SpellcheckSettings.qml:45
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:59
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:66
+#: data/routes/settings/SpellcheckSettings.qml:62
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""
