@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-01 00:46+0000\n"
+"POT-Creation-Date: 2021-12-18 10:45+0000\n"
 "PO-Revision-Date: 2021-10-28 11:23+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -635,14 +635,14 @@ msgctxt "button with menu"
 msgid "Create New..."
 msgstr "Créer un nouveau..."
 
-#: data/routes/Chats.qml:245
+#: data/routes/Chats.qml:246
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "Un message non lu."
 msgstr[1] "%1 messages non lus."
 
-#: data/routes/Chats.qml:248
+#: data/routes/Chats.qml:249
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -650,13 +650,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "Tout dernier message de %1 : %2"
 
-#: data/routes/Chats.qml:250
+#: data/routes/Chats.qml:251
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "Tout dernier message :%1"
 
-#: data/routes/Chats.qml:392
+#: data/routes/Chats.qml:400
 #, kde-format
 msgid "No chats available."
 msgstr "Aucun salon de discussion disponible."
@@ -1423,17 +1423,24 @@ msgstr ""
 msgid "All Chats"
 msgstr "Tous les salon de discussions"
 
-#: src/chatsstore.cpp:197 src/chatsstore.cpp:200
+#: src/chatsstore.cpp:141
+#, fuzzy, kde-format
+#| msgid "Send message"
+msgctxt "title for a chat consisting of saved messages"
+msgid "Saved Messages"
+msgstr "Envoyer un message"
+
+#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
 #, kde-format
 msgid "Group"
 msgstr "Groupe"
 
-#: src/chatsstore.cpp:198
+#: src/chatsstore.cpp:210
 #, kde-format
 msgid "Private chat"
 msgstr "Salon de discussions privé"
 
-#: src/chatsstore.cpp:199
+#: src/chatsstore.cpp:211
 #, kde-format
 msgid "Secret chat"
 msgstr "Salon confidentiel de discussions"

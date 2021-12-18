@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-01 00:46+0000\n"
+"POT-Creation-Date: 2021-12-18 10:45+0000\n"
 "PO-Revision-Date: 2021-11-14 20:07+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -638,13 +638,13 @@ msgctxt "button with menu"
 msgid "Create New..."
 msgstr "새로 만들기..."
 
-#: data/routes/Chats.qml:245
+#: data/routes/Chats.qml:246
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "읽지 않은 메시지 %1개가 있습니다."
 
-#: data/routes/Chats.qml:248
+#: data/routes/Chats.qml:249
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -652,13 +652,13 @@ msgctxt ""
 msgid "Latest message from %1: %2"
 msgstr "%1의 마지막 메시지: %2"
 
-#: data/routes/Chats.qml:250
+#: data/routes/Chats.qml:251
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "마지막 메시지: %1"
 
-#: data/routes/Chats.qml:392
+#: data/routes/Chats.qml:400
 #, kde-format
 msgid "No chats available."
 msgstr "대화가 없습니다."
@@ -1409,17 +1409,24 @@ msgstr "아래 목록에서 자동으로 언어 감지"
 msgid "All Chats"
 msgstr "모든 대화"
 
-#: src/chatsstore.cpp:197 src/chatsstore.cpp:200
+#: src/chatsstore.cpp:141
+#, fuzzy, kde-format
+#| msgid "Send message"
+msgctxt "title for a chat consisting of saved messages"
+msgid "Saved Messages"
+msgstr "메시지 보내기"
+
+#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
 #, kde-format
 msgid "Group"
 msgstr "그룹"
 
-#: src/chatsstore.cpp:198
+#: src/chatsstore.cpp:210
 #, kde-format
 msgid "Private chat"
 msgstr "개인 대화"
 
-#: src/chatsstore.cpp:199
+#: src/chatsstore.cpp:211
 #, kde-format
 msgid "Secret chat"
 msgstr "비밀 대화"
