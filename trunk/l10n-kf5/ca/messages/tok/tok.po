@@ -1425,7 +1425,6 @@ msgstr "Tots els xats"
 
 #: src/chatsstore.cpp:141
 #, kde-format
-#| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Missatges desats"
