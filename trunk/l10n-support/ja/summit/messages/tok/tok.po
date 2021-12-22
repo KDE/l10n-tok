@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-01 10:16+0100\n"
+"POT-Creation-Date: 2021-12-19 11:35+0100\n"
 "PO-Revision-Date: 2021-05-02 18:05-0700\n"
 "Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
 "Language-Team: Japanese <kde-jp@kde.org>\n"
@@ -737,7 +737,7 @@ msgid "Create New..."
 msgstr ""
 
 #. +> trunk5
-#: data/routes/Chats.qml:245
+#: data/routes/Chats.qml:246
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
@@ -745,7 +745,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: data/routes/Chats.qml:248
+#: data/routes/Chats.qml:249
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -754,14 +754,14 @@ msgid "Latest message from %1: %2"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/Chats.qml:250
+#: data/routes/Chats.qml:251
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr ""
 
 #. +> trunk5
-#: data/routes/Chats.qml:392
+#: data/routes/Chats.qml:400
 #, kde-format
 msgid "No chats available."
 msgstr ""
@@ -1635,19 +1635,26 @@ msgid "All Chats"
 msgstr ""
 
 #. +> trunk5
-#: src/chatsstore.cpp:197 src/chatsstore.cpp:200
+#: src/chatsstore.cpp:141
+#, kde-format
+msgctxt "title for a chat consisting of saved messages"
+msgid "Saved Messages"
+msgstr ""
+
+#. +> trunk5
+#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
 #, kde-format
 msgid "Group"
 msgstr ""
 
 #. +> trunk5
-#: src/chatsstore.cpp:198
+#: src/chatsstore.cpp:210
 #, kde-format
 msgid "Private chat"
 msgstr ""
 
 #. +> trunk5
-#: src/chatsstore.cpp:199
+#: src/chatsstore.cpp:211
 #, kde-format
 msgid "Secret chat"
 msgstr ""
