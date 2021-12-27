@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-18 10:45+0000\n"
+"POT-Creation-Date: 2021-12-27 00:43+0000\n"
 "PO-Revision-Date: 2021-12-18 15:46+0200\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -1421,23 +1421,23 @@ msgstr "Виявляти мову для перевірки з наведено�
 msgid "All Chats"
 msgstr "Усі спілкування"
 
-#: src/chatsstore.cpp:141
+#: src/chatsstore.cpp:145
 #, kde-format
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Збережені повідомлення"
 
-#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
+#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
 msgid "Group"
 msgstr "Група"
 
-#: src/chatsstore.cpp:210
+#: src/chatsstore.cpp:214
 #, kde-format
 msgid "Private chat"
 msgstr "Приватний чат"
 
-#: src/chatsstore.cpp:211
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Secret chat"
 msgstr "Таємне спілкування"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-18 10:45+0000\n"
+"POT-Creation-Date: 2021-12-27 00:43+0000\n"
 "PO-Revision-Date: 2021-10-11 00:51+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -1423,24 +1423,24 @@ msgstr ""
 msgid "All Chats"
 msgstr "Berriketa denak"
 
-#: src/chatsstore.cpp:141
+#: src/chatsstore.cpp:145
 #, fuzzy, kde-format
 #| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Bidali mezua"
 
-#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
+#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
 msgid "Group"
 msgstr "Taldea"
 
-#: src/chatsstore.cpp:210
+#: src/chatsstore.cpp:214
 #, kde-format
 msgid "Private chat"
 msgstr "Berriketa pribatua"
 
-#: src/chatsstore.cpp:211
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Secret chat"
 msgstr "Berriketa sekretua"

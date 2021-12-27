@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-18 10:45+0000\n"
+"POT-Creation-Date: 2021-12-27 00:43+0000\n"
 "PO-Revision-Date: 2021-12-04 11:24+0100\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
@@ -1417,24 +1417,24 @@ msgstr "Sam wykryj język sprawdzania pisowni z języków poniżej"
 msgid "All Chats"
 msgstr "Wszystkie rozmowy"
 
-#: src/chatsstore.cpp:141
+#: src/chatsstore.cpp:145
 #, fuzzy, kde-format
 #| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Wyślij wiadomość"
 
-#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
+#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
 msgid "Group"
 msgstr "Grupa"
 
-#: src/chatsstore.cpp:210
+#: src/chatsstore.cpp:214
 #, kde-format
 msgid "Private chat"
 msgstr "Rozmowa prywatna"
 
-#: src/chatsstore.cpp:211
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Secret chat"
 msgstr "Rozmowa prywatna"
