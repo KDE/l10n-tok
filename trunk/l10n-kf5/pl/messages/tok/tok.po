@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-12-27 00:43+0000\n"
-"PO-Revision-Date: 2021-12-04 11:24+0100\n"
+"PO-Revision-Date: 2021-12-30 12:19+0100\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10"
+" || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.03.70\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -1418,11 +1418,11 @@ msgid "All Chats"
 msgstr "Wszystkie rozmowy"
 
 #: src/chatsstore.cpp:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
-msgstr "Wyślij wiadomość"
+msgstr "Zapisane wiadomości"
 
 #: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
