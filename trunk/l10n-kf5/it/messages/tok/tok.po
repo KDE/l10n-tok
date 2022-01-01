@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-27 00:43+0000\n"
+"POT-Creation-Date: 2022-01-01 00:44+0000\n"
 "PO-Revision-Date: 2021-12-19 20:27+0100\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -841,12 +841,6 @@ msgstr "Scarica"
 #, kde-format
 msgid "GIF message."
 msgstr "Messaggio GIF."
-
-#: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
-msgctxt "small text displayed by timestamp when message has been edited"
-msgid "edited"
-msgstr "modificato"
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:76
 #: data/routes/messages/components/normal/VideoMessage.qml:54
@@ -1717,6 +1711,10 @@ msgstr "Ultima volta in linea %1"
 #, kde-format
 msgid "Unknown Status"
 msgstr "Stato sconosciuto"
+
+#~ msgctxt "small text displayed by timestamp when message has been edited"
+#~ msgid "edited"
+#~ msgstr "modificato"
 
 #~ msgid ""
 #~ "Enter your authentication code that you received from another Telegram "

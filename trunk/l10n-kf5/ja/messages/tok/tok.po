@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-27 00:43+0000\n"
+"POT-Creation-Date: 2022-01-01 00:44+0000\n"
 "PO-Revision-Date: 2021-05-02 18:05-0700\n"
 "Last-Translator: Japanese KDE translation team <kde-jp@kde.org>\n"
 "Language-Team: Japanese <kde-jp@kde.org>\n"
@@ -831,12 +831,6 @@ msgstr ""
 #: data/routes/messages/components/thin/GifMessage.qml:44
 #, kde-format
 msgid "GIF message."
-msgstr ""
-
-#: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
-msgctxt "small text displayed by timestamp when message has been edited"
-msgid "edited"
 msgstr ""
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:76
