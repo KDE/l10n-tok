@@ -1145,8 +1145,6 @@ msgstr "Default language"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "title"
 msgid "Spellchecking Settings"
 msgstr "Spellchecking Settings"
@@ -1355,8 +1353,6 @@ msgstr "Open proxy settings"
 
 #: data/routes/settings/Settings.qml:71
 #, kde-format
-#| msgctxt "sidebar item accessible text"
-#| msgid "Open account settings"
 msgctxt "sidebar item accessible text"
 msgid "Open spellchecking settings"
 msgstr "Open spellchecking settings"
@@ -1414,7 +1410,6 @@ msgstr "All Chats"
 
 #: src/chatsstore.cpp:145
 #, kde-format
-#| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Saved Messages"
