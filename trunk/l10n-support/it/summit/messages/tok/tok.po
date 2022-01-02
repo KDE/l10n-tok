@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-27 11:22+0100\n"
+"POT-Creation-Date: 2022-01-01 14:22+0100\n"
 "PO-Revision-Date: 2021-12-19 20:27+0100\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -975,13 +975,6 @@ msgstr "Scarica"
 #, kde-format
 msgid "GIF message."
 msgstr "Messaggio GIF."
-
-#. +> trunk5
-#: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
-msgctxt "small text displayed by timestamp when message has been edited"
-msgid "edited"
-msgstr "modificato"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/PhotoMessage.qml:76
@@ -1993,6 +1986,11 @@ msgstr "Ultima volta in linea %1"
 #, kde-format
 msgid "Unknown Status"
 msgstr "Stato sconosciuto"
+
+#, kde-format
+#~ msgctxt "small text displayed by timestamp when message has been edited"
+#~ msgid "edited"
+#~ msgstr "modificato"
 
 #, kde-format
 #~ msgid ""
