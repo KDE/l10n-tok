@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-19 11:35+0100\n"
+"POT-Creation-Date: 2022-01-01 14:22+0100\n"
 "PO-Revision-Date: 2021-09-01 23:05+0200\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -954,13 +954,6 @@ msgid "GIF message."
 msgstr "GIF-Nachricht."
 
 #. +> trunk5
-#: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
-msgctxt "small text displayed by timestamp when message has been edited"
-msgid "edited"
-msgstr "bearbeitet"
-
-#. +> trunk5
 #: data/routes/messages/components/normal/PhotoMessage.qml:76
 #: data/routes/messages/components/normal/VideoMessage.qml:54
 #: data/routes/messages/components/shared/Sticker.qml:19
@@ -1605,7 +1598,7 @@ msgid "All Chats"
 msgstr "Alle Chats"
 
 #. +> trunk5
-#: src/chatsstore.cpp:141
+#: src/chatsstore.cpp:145
 #, fuzzy, kde-format
 #| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
@@ -1613,19 +1606,19 @@ msgid "Saved Messages"
 msgstr "Nachricht senden"
 
 #. +> trunk5
-#: src/chatsstore.cpp:209 src/chatsstore.cpp:212
+#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
 msgid "Group"
 msgstr "Gruppe"
 
 #. +> trunk5
-#: src/chatsstore.cpp:210
+#: src/chatsstore.cpp:214
 #, kde-format
 msgid "Private chat"
 msgstr "Privater Chat"
 
 #. +> trunk5
-#: src/chatsstore.cpp:211
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Secret chat"
 msgstr "Geheimer Chat"
@@ -1946,6 +1939,11 @@ msgstr ""
 #| msgid "Unknown Sender"
 msgid "Unknown Status"
 msgstr "Unbekannter Absender"
+
+#, kde-format
+#~ msgctxt "small text displayed by timestamp when message has been edited"
+#~ msgid "edited"
+#~ msgstr "bearbeitet"
 
 #~ msgid "Enter your authentication code that you received from another Telegram client"
 #~ msgstr "Geben Sie Ihren Authentifizierungs-Code ein, den Sie von einem anderen Telegram-Programm erhalten haben"
