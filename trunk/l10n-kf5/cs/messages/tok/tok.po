@@ -1408,11 +1408,10 @@ msgid "All Chats"
 msgstr "Všechny rozhovory"
 
 #: src/chatsstore.cpp:145
-#, fuzzy, kde-format
-#| msgid "Send message"
+#, kde-format
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
-msgstr "Poslat správu"
+msgstr ""
 
 #: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
@@ -1715,7 +1714,3 @@ msgstr "Naposled online %1"
 #, kde-format
 msgid "Unknown Status"
 msgstr "Neznámý stav"
-
-#~ msgctxt "small text displayed by timestamp when message has been edited"
-#~ msgid "edited"
-#~ msgstr "upraveno"
