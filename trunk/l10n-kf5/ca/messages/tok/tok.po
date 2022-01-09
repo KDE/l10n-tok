@@ -3,13 +3,13 @@
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2021.
+# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-01-09 00:45+0000\n"
-"PO-Revision-Date: 2021-12-19 11:03+0100\n"
+"PO-Revision-Date: 2022-01-09 10:27+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -491,11 +491,11 @@ msgid "Unsupported"
 msgstr "No admès"
 
 #: data/components/SearchField.qml:8
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr "Cerca"
+msgstr "Cerca…"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
