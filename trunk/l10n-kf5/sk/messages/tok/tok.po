@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-01 00:44+0000\n"
+"POT-Creation-Date: 2022-01-09 00:45+0000\n"
 "PO-Revision-Date: 2021-11-15 18:38+0100\n"
 "Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
 "Language-Team: Slovak <kde-sk@linux.sk>\n"
@@ -487,6 +487,12 @@ msgstr "Faktúra"
 msgid "Unsupported"
 msgstr "Nepodporované"
 
+#: data/components/SearchField.qml:8
+#, fuzzy, kde-format
+msgctxt "placeholder text for a search field"
+msgid "Search…"
+msgstr "Hľadať"
+
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, fuzzy, kde-format
 msgctxt "dialog title"
@@ -728,13 +734,13 @@ msgstr ""
 msgid "Get Started"
 msgstr ""
 
-#: data/routes/messages/components/CompositionBar.qml:87
+#: data/routes/messages/components/CompositionBar.qml:90
 #, fuzzy, kde-format
 #| msgid "Send message"
 msgid "Edit Message"
 msgstr "&Upraviť správu"
 
-#: data/routes/messages/components/CompositionBar.qml:154
+#: data/routes/messages/components/CompositionBar.qml:157
 #, fuzzy, kde-format
 #| msgctxt ""
 #| "Specifically a file; I use Attachment in English because it sounds better "
@@ -743,18 +749,18 @@ msgstr "&Upraviť správu"
 msgid "Attach file"
 msgstr "Pripojiť &súbor..."
 
-#: data/routes/messages/components/CompositionBar.qml:248
+#: data/routes/messages/components/CompositionBar.qml:251
 #, fuzzy, kde-format
 #| msgid "Write your message..."
 msgid "Write your message…"
 msgstr "Napíšte vašu správu..."
 
-#: data/routes/messages/components/CompositionBar.qml:248
+#: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "You cannot send messages."
 msgstr ""
 
-#: data/routes/messages/components/CompositionBar.qml:361
+#: data/routes/messages/components/CompositionBar.qml:365
 #, kde-format
 msgid "Send message"
 msgstr "Poslať správu"
@@ -1130,26 +1136,26 @@ msgstr "Proxy"
 msgid "Log Out"
 msgstr "Odhlásiť sa"
 
-#: data/routes/settings/mobile/SpellcheckDefault.qml:27
+#: data/routes/settings/mobile/SpellcheckDefault.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
 msgstr ""
 
-#: data/routes/settings/mobile/SpellcheckDictionary.qml:27
+#: data/routes/settings/mobile/SpellcheckDictionary.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
 msgstr ""
 
-#: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
 msgstr ""
 
-#: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:109
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
+#: data/routes/settings/SpellcheckSettings.qml:111
 #, fuzzy, kde-format
 msgid "Default language"
 msgstr "Predvolený jazyk:"
@@ -1377,37 +1383,37 @@ msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
 msgstr ""
 
-#: data/routes/settings/SpellcheckDictionary.qml:31
+#: data/routes/settings/SpellcheckDictionary.qml:33
 #, kde-format
 msgid "Dictionary for spellchecking"
 msgstr ""
 
-#: data/routes/settings/SpellcheckSettings.qml:29
+#: data/routes/settings/SpellcheckSettings.qml:31
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr ""
 
-#: data/routes/settings/SpellcheckSettings.qml:34
+#: data/routes/settings/SpellcheckSettings.qml:36
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr ""
 
-#: data/routes/settings/SpellcheckSettings.qml:39
+#: data/routes/settings/SpellcheckSettings.qml:41
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr ""
 
-#: data/routes/settings/SpellcheckSettings.qml:45
+#: data/routes/settings/SpellcheckSettings.qml:47
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr ""
 
-#: data/routes/settings/SpellcheckSettings.qml:59
+#: data/routes/settings/SpellcheckSettings.qml:61
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr ""
 
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:64
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr ""

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-01 00:44+0000\n"
+"POT-Creation-Date: 2022-01-09 00:45+0000\n"
 "PO-Revision-Date: 2021-11-14 20:07+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -487,6 +487,13 @@ msgstr "인보이스"
 msgid "Unsupported"
 msgstr "지원하지 않음"
 
+#: data/components/SearchField.qml:8
+#, fuzzy, kde-format
+#| msgid "Search"
+msgctxt "placeholder text for a search field"
+msgid "Search…"
+msgstr "검색"
+
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
 msgctxt "dialog title"
@@ -723,27 +730,27 @@ msgstr "Tok에 오신 것을 환영합니다"
 msgid "Get Started"
 msgstr "시작하기"
 
-#: data/routes/messages/components/CompositionBar.qml:87
+#: data/routes/messages/components/CompositionBar.qml:90
 #, kde-format
 msgid "Edit Message"
 msgstr "메시지 편집"
 
-#: data/routes/messages/components/CompositionBar.qml:154
+#: data/routes/messages/components/CompositionBar.qml:157
 #, kde-format
 msgid "Attach file"
 msgstr "파일 첨부"
 
-#: data/routes/messages/components/CompositionBar.qml:248
+#: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "Write your message…"
 msgstr "메시지 쓰기..."
 
-#: data/routes/messages/components/CompositionBar.qml:248
+#: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "You cannot send messages."
 msgstr "메시지를 보낼 수 없습니다."
 
-#: data/routes/messages/components/CompositionBar.qml:361
+#: data/routes/messages/components/CompositionBar.qml:365
 #, kde-format
 msgid "Send message"
 msgstr "메시지 보내기"
@@ -1115,26 +1122,26 @@ msgstr "프록시"
 msgid "Log Out"
 msgstr "로그아웃"
 
-#: data/routes/settings/mobile/SpellcheckDefault.qml:27
+#: data/routes/settings/mobile/SpellcheckDefault.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
 msgstr "기본 맞춤법 검사 언어 선택…"
 
-#: data/routes/settings/mobile/SpellcheckDictionary.qml:27
+#: data/routes/settings/mobile/SpellcheckDictionary.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
 msgstr "맞춤법 검사 사전"
 
-#: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
 msgstr "맞춤법 검사 언어"
 
-#: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:109
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
+#: data/routes/settings/SpellcheckSettings.qml:111
 #, kde-format
 msgid "Default language"
 msgstr "기본 언어"
@@ -1363,37 +1370,37 @@ msgctxt "sidebar item accessible text"
 msgid "Open spellchecking dictionary"
 msgstr "맞춤법 검사 사전 열기"
 
-#: data/routes/settings/SpellcheckDictionary.qml:31
+#: data/routes/settings/SpellcheckDictionary.qml:33
 #, kde-format
 msgid "Dictionary for spellchecking"
 msgstr "맞춤법 검사 사전"
 
-#: data/routes/settings/SpellcheckSettings.qml:29
+#: data/routes/settings/SpellcheckSettings.qml:31
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr "자동 맞춤법 검사 사용"
 
-#: data/routes/settings/SpellcheckSettings.qml:34
+#: data/routes/settings/SpellcheckSettings.qml:36
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr "대문자 단어 무시"
 
-#: data/routes/settings/SpellcheckSettings.qml:39
+#: data/routes/settings/SpellcheckSettings.qml:41
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr "하이픈으로 연결된 단어 무시"
 
-#: data/routes/settings/SpellcheckSettings.qml:45
+#: data/routes/settings/SpellcheckSettings.qml:47
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr "기본 맞춤법 검사 언어:"
 
-#: data/routes/settings/SpellcheckSettings.qml:59
+#: data/routes/settings/SpellcheckSettings.qml:61
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr "맞춤법 검사 언어"
 
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:64
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr "아래 목록에서 자동으로 언어 감지"
