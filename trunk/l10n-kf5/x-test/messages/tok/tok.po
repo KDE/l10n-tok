@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-01-09 00:45+0000\n"
-"PO-Revision-Date: 2022-01-01 01:47+0000\n"
+"PO-Revision-Date: 2022-01-09 01:53+0000\n"
 "Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: KDE Test Language <kde-i18n-doc@kde.org>\n"
 "Language: x-test\n"
@@ -488,11 +488,10 @@ msgid "Unsupported"
 msgstr "xxUnsupportedxx"
 
 #: data/components/SearchField.qml:8
-#, fuzzy, kde-format
-#| msgid "Search"
+#, kde-format
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr "xxSearchxx"
+msgstr "xxSearch…xx"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
