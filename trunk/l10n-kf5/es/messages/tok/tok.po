@@ -491,7 +491,6 @@ msgstr "No permitido"
 
 #: data/components/SearchField.qml:8
 #, kde-format
-#| msgid "Search"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
 msgstr "Buscar..."
