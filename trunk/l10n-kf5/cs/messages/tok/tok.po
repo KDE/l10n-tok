@@ -491,11 +491,10 @@ msgid "Unsupported"
 msgstr "Nepodporováno"
 
 #: data/components/SearchField.qml:8
-#, fuzzy, kde-format
-#| msgid "Search"
+#, kde-format
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr "Hledat"
+msgstr ""
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
