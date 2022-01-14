@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This file is copyright:
 # This file is distributed under the same license as the tok package.
-# Vit Pelcak <vpelcak@suse.cz>, 2021.
+# Vit Pelcak <vpelcak@suse.cz>, 2021, 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-01-09 10:34+0100\n"
-"PO-Revision-Date: 2021-10-08 14:35+0200\n"
+"PO-Revision-Date: 2022-01-14 15:38+0100\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 21.08.1\n"
+"X-Generator: Lokalize 21.12.1\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -175,25 +175,25 @@ msgstr "Kontrola pravopisu"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "No suggestions for %1"
 msgid "No suggestions for \"%1\""
-msgstr "Žádné návrhy pro %1"
+msgstr "Žádné návrhy pro \"%1\""
 
 #. +> trunk5
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Add to dictionary"
 msgid "Add \"%1\" to dictionary"
-msgstr "Přidat do slovníku"
+msgstr "Přidat \"%1\" do slovníku"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt "@info:status"
 #| msgid "Ignored: %1"
 msgid "Ignore \"%1\""
-msgstr "Ignorováno: %1"
+msgstr "Ignorovat \"%1\""
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
@@ -572,7 +572,7 @@ msgstr "Nepodporováno"
 
 #. +> trunk5
 #: data/components/SearchField.qml:8
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search…"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
@@ -664,10 +664,10 @@ msgstr " od %1"
 
 #. +> trunk5
 #: data/components/UserDataSheet.qml:101
-#, fuzzy, kde-format
+#, kde-format
 #| msgid " from %1"
 msgid "Kick from \"%1\""
-msgstr " od %1"
+msgstr "Vykopnout z \"%1\""
 
 #. +> trunk5
 #: data/Content.qml:312
@@ -1296,7 +1296,7 @@ msgstr "Vzhled"
 #. +> trunk5
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:70
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Spell checking"
 msgid "Spellchecking"
 msgstr "Kontrola pravopisu"
@@ -1341,10 +1341,10 @@ msgstr "Jazyk kontroly pravopisu"
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
 #: data/routes/settings/SpellcheckSettings.qml:111
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Default language:"
 msgid "Default language"
-msgstr "Výchozí jazyk:"
+msgstr "Výchozí jazyk"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:27
@@ -1410,10 +1410,10 @@ msgstr "Vybrat počet řádků automaticky:"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Languages"
 msgid "Language list"
-msgstr "Jazyky"
+msgstr "Seznam jazyků"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
