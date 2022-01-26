@@ -17,13 +17,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 21.07.70\n"
 
-#: data/components/CreateNewMenu.qml:13 data/components/CreateNewMenuInWindow.qml:13
+#: data/components/CreateNewMenu.qml:13
+#: data/components/CreateNewMenuInWindow.qml:13
 #, kde-format
 msgctxt "menu"
 msgid "Create New"
 msgstr "Új létrehozása"
 
-#: data/components/CreateNewMenu.qml:39 data/components/CreateNewMenuInWindow.qml:39
+#: data/components/CreateNewMenu.qml:39
+#: data/components/CreateNewMenuInWindow.qml:39
 #, kde-format
 msgctxt "placeholder text"
 msgid "Name"
@@ -38,55 +40,64 @@ msgstr "Név"
 msgid "Cancel"
 msgstr "Mégsem"
 
-#: data/components/CreateNewMenu.qml:66 data/components/CreateNewMenuInWindow.qml:66
+#: data/components/CreateNewMenu.qml:66
+#: data/components/CreateNewMenuInWindow.qml:66
 #, kde-format
 msgid "Create"
 msgstr "Létrehozás"
 
-#: data/components/CreateNewMenu.qml:90 data/components/CreateNewMenuInWindow.qml:90
+#: data/components/CreateNewMenu.qml:90
+#: data/components/CreateNewMenuInWindow.qml:90
 #: data/components/GlobalMenu.qml:53 data/components/GlobalMenuInWindow.qml:53
 #, kde-format
 msgctxt "title"
 msgid "Select someone to chat with"
 msgstr "Válasszon valakit beszélgetéshez"
 
-#: data/components/CreateNewMenu.qml:121 data/components/CreateNewMenuInWindow.qml:121
+#: data/components/CreateNewMenu.qml:121
+#: data/components/CreateNewMenuInWindow.qml:121
 #, kde-format
 msgctxt "menu"
 msgid "Secret Chat…"
 msgstr "Titkos beszélgetés…"
 
-#: data/components/CreateNewMenu.qml:125 data/components/CreateNewMenuInWindow.qml:125
+#: data/components/CreateNewMenu.qml:125
+#: data/components/CreateNewMenuInWindow.qml:125
 #, kde-format
 msgctxt "menu"
 msgid "Private Group…"
 msgstr "Privát csoport…"
 
-#: data/components/CreateNewMenu.qml:126 data/components/CreateNewMenuInWindow.qml:126
+#: data/components/CreateNewMenu.qml:126
+#: data/components/CreateNewMenuInWindow.qml:126
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a private group"
 msgstr "Privát csoport létrehozása"
 
-#: data/components/CreateNewMenu.qml:129 data/components/CreateNewMenuInWindow.qml:129
+#: data/components/CreateNewMenu.qml:129
+#: data/components/CreateNewMenuInWindow.qml:129
 #, kde-format
 msgctxt "menu"
 msgid "Public Group…"
 msgstr "Nyilvános csoport…"
 
-#: data/components/CreateNewMenu.qml:130 data/components/CreateNewMenuInWindow.qml:130
+#: data/components/CreateNewMenu.qml:130
+#: data/components/CreateNewMenuInWindow.qml:130
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a public group"
 msgstr "Nyilvános csoport létrehozása"
 
-#: data/components/CreateNewMenu.qml:133 data/components/CreateNewMenuInWindow.qml:133
+#: data/components/CreateNewMenu.qml:133
+#: data/components/CreateNewMenuInWindow.qml:133
 #, kde-format
 msgctxt "menu"
 msgid "Channel…"
 msgstr "Csatorna…"
 
-#: data/components/CreateNewMenu.qml:134 data/components/CreateNewMenuInWindow.qml:134
+#: data/components/CreateNewMenu.qml:134
+#: data/components/CreateNewMenuInWindow.qml:134
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a broadcast channel"
@@ -260,43 +271,50 @@ msgctxt "menu"
 msgid "View"
 msgstr "Nézet"
 
-#: data/components/GlobalMenu.qml:100 data/components/GlobalMenuInWindow.qml:100
+#: data/components/GlobalMenu.qml:100
+#: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
 msgctxt "menu"
 msgid "Disable Compact Mode"
 msgstr "Kompakt mód kikapcsolása"
 
-#: data/components/GlobalMenu.qml:100 data/components/GlobalMenuInWindow.qml:100
+#: data/components/GlobalMenu.qml:100
+#: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
 msgctxt "menu"
 msgid "Enable Compact Mode"
 msgstr "Kompakt mód bekapcsolása"
 
-#: data/components/GlobalMenu.qml:104 data/components/GlobalMenuInWindow.qml:104
+#: data/components/GlobalMenu.qml:104
+#: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Don't Use Image As Background"
 msgstr "Ne használjon képet háttérként"
 
-#: data/components/GlobalMenu.qml:104 data/components/GlobalMenuInWindow.qml:104
+#: data/components/GlobalMenu.qml:104
+#: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Use Image As Background"
 msgstr "Kép használata háttérként"
 
-#: data/components/GlobalMenu.qml:108 data/components/GlobalMenuInWindow.qml:108
+#: data/components/GlobalMenu.qml:108
+#: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Disable Transparency"
 msgstr "Átlátszóság kikapcsolása"
 
-#: data/components/GlobalMenu.qml:108 data/components/GlobalMenuInWindow.qml:108
+#: data/components/GlobalMenu.qml:108
+#: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Enable Transparency"
 msgstr "Átlátszóság bekapcsolása"
 
-#: data/components/GlobalMenu.qml:112 data/components/GlobalMenuInWindow.qml:112
+#: data/components/GlobalMenu.qml:112
+#: data/components/GlobalMenuInWindow.qml:112
 #, kde-format
 msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
@@ -304,56 +322,65 @@ msgctxt ""
 msgid "Open Quick Switcher"
 msgstr "Gyorsváltó megnyitása"
 
-#: data/components/GlobalMenu.qml:118 data/components/GlobalMenuInWindow.qml:118
+#: data/components/GlobalMenu.qml:118
+#: data/components/GlobalMenuInWindow.qml:118
 #, kde-format
 msgctxt ""
 "menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
 msgstr "Színséma beállítása"
 
-#: data/components/GlobalMenu.qml:142 data/components/GlobalMenuInWindow.qml:142
+#: data/components/GlobalMenu.qml:142
+#: data/components/GlobalMenuInWindow.qml:142
 #, kde-format
 msgctxt "menu"
 msgid "Format"
 msgstr "Formázás"
 
-#: data/components/GlobalMenu.qml:146 data/components/GlobalMenuInWindow.qml:146
+#: data/components/GlobalMenu.qml:146
+#: data/components/GlobalMenuInWindow.qml:146
 #, kde-format
 msgctxt "menu"
 msgid "Window"
 msgstr "Ablak"
 
-#: data/components/GlobalMenu.qml:149 data/components/GlobalMenuInWindow.qml:149
+#: data/components/GlobalMenu.qml:149
+#: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
 msgstr "Oldalsáv elrejtése"
 
-#: data/components/GlobalMenu.qml:149 data/components/GlobalMenuInWindow.qml:149
+#: data/components/GlobalMenu.qml:149
+#: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Show Sidebar"
 msgstr "Oldalsáv megjelenítése"
 
-#: data/components/GlobalMenu.qml:153 data/components/GlobalMenuInWindow.qml:153
+#: data/components/GlobalMenu.qml:153
+#: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
 msgstr "Kilépés a teljes képernyős módból"
 
-#: data/components/GlobalMenu.qml:153 data/components/GlobalMenuInWindow.qml:153
+#: data/components/GlobalMenu.qml:153
+#: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
 msgstr "Teljes képernyő"
 
-#: data/components/GlobalMenu.qml:159 data/components/GlobalMenuInWindow.qml:159
+#: data/components/GlobalMenu.qml:159
+#: data/components/GlobalMenuInWindow.qml:159
 #, kde-format
 msgctxt "menu"
 msgid "Help"
 msgstr "Súgó"
 
-#: data/components/GlobalMenu.qml:162 data/components/GlobalMenuInWindow.qml:162
+#: data/components/GlobalMenu.qml:162
+#: data/components/GlobalMenuInWindow.qml:162
 #, kde-format
 msgctxt "menu"
 msgid "Telegram FAQ"
@@ -652,7 +679,8 @@ msgstr "Telefonos ellenőrzés"
 #, kde-format
 msgid "We've sent a code to the Telegram app on your other device."
 msgstr ""
-"Az ellenőrzőkódot elküldtük a másik eszközén található Telegram alkalmazásnak."
+"Az ellenőrzőkódot elküldtük a másik eszközén található Telegram "
+"alkalmazásnak."
 
 #: data/routes/entry/AuthenticationCode.qml:47
 #, kde-format
@@ -678,8 +706,8 @@ msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
-"Engedélyezte a kétlépcsős azonosítóst, ezért a fiókját egy további jelszó is"
-" védi."
+"Engedélyezte a kétlépcsős azonosítóst, ezért a fiókját egy további jelszó is "
+"védi."
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
@@ -1268,8 +1296,8 @@ msgstr "Ez a proxy csak egyszerű HTTP kéréseket támogat"
 msgctxt "additional explanatory text below checkbox"
 msgid "Ask your proxy provider if you're unsure about this option"
 msgstr ""
-"Kérdezze meg proxyszolgáltatóját, ha bizonytalan ezzel a beállítással"
-" kapcsolatban"
+"Kérdezze meg proxyszolgáltatóját, ha bizonytalan ezzel a beállítással "
+"kapcsolatban"
 
 #: data/routes/settings/ProxySettings.qml:24
 #, kde-format
@@ -1278,8 +1306,8 @@ msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
 msgstr ""
-"Nincsenek beállítva proxyk. Használja a Proxy hozzáadása gombot az ablak"
-" alján."
+"Nincsenek beállítva proxyk. Használja a Proxy hozzáadása gombot az ablak "
+"alján."
 
 #: data/routes/settings/ProxySettings.qml:83
 #, kde-format
