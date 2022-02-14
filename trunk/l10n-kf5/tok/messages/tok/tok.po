@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-01-09 00:45+0000\n"
 "PO-Revision-Date: 2022-02-14 09:21+0000\n"
-"Last-Translator: Theodore Dubois <tblodt@icloud.com>\n"
+"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
 "Language: tok\n"
@@ -238,7 +238,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Quit"
-msgstr ""
+msgstr "o pini e ilo"
 
 #: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
 #, kde-format
