@@ -32,7 +32,7 @@ msgstr ""
 #: imports/NeoChat/Component/ChatBox/AttachmentPane.qml:140
 #, kde-format
 msgid "Attachment:"
-msgstr ""
+msgstr "lipu:"
 
 #: imports/NeoChat/Component/ChatBox/AttachmentPane.qml:159
 #: imports/NeoChat/Menu/Timeline/MessageDelegateContextMenu.qml:28
@@ -40,7 +40,7 @@ msgstr ""
 #: imports/NeoChat/Page/RoomPage.qml:219
 #, kde-format
 msgid "Edit"
-msgstr ""
+msgstr "o ante"
 
 #: imports/NeoChat/Component/ChatBox/AttachmentPane.qml:181
 #: imports/NeoChat/Component/ChatBox/ReplyPane.qml:102
@@ -64,7 +64,7 @@ msgstr ""
 #: imports/NeoChat/Component/ChatBox/ChatBar.qml:97
 #, kde-format
 msgid "Write your message..."
-msgstr ""
+msgstr "o sitelen e toki sina..."
 
 #: imports/NeoChat/Component/ChatBox/ChatBar.qml:302
 #, kde-format
@@ -152,7 +152,7 @@ msgstr ""
 #: imports/NeoChat/Component/Login/Loading.qml:21
 #, kde-format
 msgid "Please wait. This might take a little while."
-msgstr ""
+msgstr "o awen. ken la tenpo ni li tenpo meso..."
 
 #: imports/NeoChat/Component/Login/Login.qml:20
 #: imports/NeoChat/Component/Login/Sso.qml:16
@@ -164,12 +164,12 @@ msgstr ""
 #: imports/NeoChat/Component/Login/Login.qml:21
 #, kde-format
 msgid "Enter your Matrix ID"
-msgstr ""
+msgstr "o pana e nimi sina pi ilo Matrix"
 
 #: imports/NeoChat/Component/Login/Login.qml:30
 #, kde-format
 msgid "Matrix ID:"
-msgstr ""
+msgstr "nimi pi ilo Matrix:"
 
 #: imports/NeoChat/Component/Login/LoginMethod.qml:15
 #, kde-format
@@ -203,18 +203,18 @@ msgstr ""
 #: imports/NeoChat/Page/WelcomePage.qml:18
 #, kde-format
 msgid "Welcome"
-msgstr ""
+msgstr "o kama pona!"
 
 #: imports/NeoChat/Component/Login/Password.qml:16
 #, kde-format
 msgctxt "@title"
 msgid "Password"
-msgstr ""
+msgstr "nimi len"
 
 #: imports/NeoChat/Component/Login/Password.qml:17
 #, kde-format
 msgid "Enter your password"
-msgstr ""
+msgstr "o pana e nimi len sina"
 
 #: imports/NeoChat/Component/Login/Password.qml:23
 #, kde-format
@@ -307,12 +307,12 @@ msgstr ""
 #: imports/NeoChat/Dialog/CreateRoomDialog.qml:17 qml/main.qml:244
 #, kde-format
 msgid "Create a Room"
-msgstr ""
+msgstr "o pali e tomo toki"
 
 #: imports/NeoChat/Dialog/CreateRoomDialog.qml:22
 #, kde-format
 msgid "Room Name"
-msgstr ""
+msgstr "nimi tomo"
 
 #: imports/NeoChat/Dialog/CreateRoomDialog.qml:28
 #, kde-format
@@ -369,7 +369,7 @@ msgstr ""
 #: imports/NeoChat/Dialog/UserDetailDialog.qml:142
 #, kde-format
 msgid "Delete recent messages by this user"
-msgstr ""
+msgstr "o weka e toki pi tenpo pini lili tan jan ni"
 
 #: imports/NeoChat/Dialog/UserDetailDialog.qml:153
 #, kde-format
