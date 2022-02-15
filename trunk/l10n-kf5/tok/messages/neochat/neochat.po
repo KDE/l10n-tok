@@ -84,17 +84,17 @@ msgstr ""
 #: imports/NeoChat/Component/ChatBox/ChatBox.qml:77
 #, kde-format
 msgid "NeoChat is offline. Please check your network connection."
-msgstr ""
+msgstr "ilo NeoChat li jo ala e linluwi. o pana e ona tawa ilo."
 
 #: imports/NeoChat/Component/ChatBox/ReplyPane.qml:62
 #, kde-format
 msgid "Editing message:"
-msgstr ""
+msgstr "sina ante e toki ni:"
 
 #: imports/NeoChat/Component/ChatBox/ReplyPane.qml:64
 #, kde-format
 msgid "Replying to %1:"
-msgstr ""
+msgstr "sina toki tawa %1:"
 
 #: imports/NeoChat/Component/Emoji/EmojiPicker.qml:67
 #, kde-format
