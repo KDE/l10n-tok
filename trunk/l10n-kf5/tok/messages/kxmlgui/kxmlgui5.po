@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-14 00:40+0000\n"
+"POT-Creation-Date: 2022-02-15 00:41+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -919,13 +919,13 @@ msgctxt "@title:window"
 msgid "License Agreement"
 msgstr "lipu lawa"
 
-#: kmainwindow.cpp:261
+#: kmainwindow.cpp:277
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "kulupu pali pi toki ante lon ma pona pi toki pona"
 
-#: kmainwindow.cpp:262
+#: kmainwindow.cpp:278
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"

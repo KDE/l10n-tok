@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-14 00:40+0000\n"
+"POT-Creation-Date: 2022-02-15 00:41+0000\n"
 "PO-Revision-Date: 2022-02-11 22:31-0500\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -2949,41 +2949,41 @@ msgctxt "KFile System Bookmarks"
 msgid "Audio"
 msgstr "kalama"
 
-#: filewidgets/kfileplacesmodel.cpp:1387
+#: filewidgets/kfileplacesmodel.cpp:1404
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Release"
 msgstr "o pini &pilin"
 
-#: filewidgets/kfileplacesmodel.cpp:1389
+#: filewidgets/kfileplacesmodel.cpp:1406
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Safely Remove"
 msgstr "o weka kepeken $nasin pona"
 
-#: filewidgets/kfileplacesmodel.cpp:1392
+#: filewidgets/kfileplacesmodel.cpp:1409
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Unmount"
 msgstr "&o weka e ilo"
 
-#: filewidgets/kfileplacesmodel.cpp:1411
+#: filewidgets/kfileplacesmodel.cpp:1428
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Eject"
 msgstr "o &weka"
 
-#: filewidgets/kfileplacesmodel.cpp:1447
+#: filewidgets/kfileplacesmodel.cpp:1464
 #, kde-format
 msgid "The device '%1' is not a disk and cannot be ejected."
 msgstr "ilo '%1' li poki sona ala li ken ala weka."
 
-#: filewidgets/kfileplacesmodel.cpp:1482
+#: filewidgets/kfileplacesmodel.cpp:1499
 #, kde-format
 msgid "An error occurred while accessing '%1', the system responded: %2"
 msgstr "kepeken '%1' la ilo li pakala. ona li toki e ni: %2"
 
-#: filewidgets/kfileplacesmodel.cpp:1484
+#: filewidgets/kfileplacesmodel.cpp:1501
 #, kde-format
 msgid "An error occurred while accessing '%1'"
 msgstr "kepeken '%1' la ilo li pakala"
