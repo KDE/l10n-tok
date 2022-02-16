@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-09 10:34+0100\n"
+"POT-Creation-Date: 2022-02-16 10:50+0100\n"
 "PO-Revision-Date: 2022-01-10 08:54+0100\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -557,8 +557,6 @@ msgstr "Non pris en charge"
 #. +> trunk5
 #: data/components/SearchField.qml:8
 #, kde-format
-#| msgctxt "text field placeholder text"
-#| msgid "Search…"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
 msgstr "Rechercher…"
@@ -1287,7 +1285,7 @@ msgstr "Langues pour la correction orthographique"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:112
 #, kde-format
 msgid "Default language"
 msgstr "Langue par défaut"
