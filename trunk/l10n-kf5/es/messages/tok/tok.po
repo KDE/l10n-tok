@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-09 00:45+0000\n"
+"POT-Creation-Date: 2022-02-16 00:45+0000\n"
 "PO-Revision-Date: 2022-01-09 04:44+0100\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -1148,7 +1148,7 @@ msgid "Spellchecking Languages"
 msgstr "Idiomas para corrección ortográfica"
 
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:112
 #, kde-format
 msgid "Default language"
 msgstr "Idioma predeterminado"

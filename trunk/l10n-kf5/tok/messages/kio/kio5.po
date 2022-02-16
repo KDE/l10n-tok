@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-15 00:41+0000\n"
+"POT-Creation-Date: 2022-02-16 00:42+0000\n"
 "PO-Revision-Date: 2022-02-11 22:31-0500\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -3098,7 +3098,7 @@ msgctxt "Huge icon size"
 msgid "Huge (%1x%1)"
 msgstr "suli mute (%1x%1)"
 
-#: filewidgets/kfilewidget.cpp:427
+#: filewidgets/kfilewidget.cpp:428
 #, kde-format
 msgid ""
 "<qt>Click this button to enter the parent folder.<br /><br />For instance, "
@@ -3106,42 +3106,42 @@ msgid ""
 "you to file:/home.</qt>"
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:431
+#: filewidgets/kfilewidget.cpp:432
 #, kde-format
 msgid "Click this button to move backwards one step in the browsing history."
 msgstr "sina wile tawa weka la o pilin e nena ni."
 
-#: filewidgets/kfilewidget.cpp:432
+#: filewidgets/kfilewidget.cpp:433
 #, kde-format
 msgid "Click this button to move forward one step in the browsing history."
 msgstr "sina wile tawa kama la o pilin e nena ni."
 
-#: filewidgets/kfilewidget.cpp:434
+#: filewidgets/kfilewidget.cpp:435
 #, kde-format
 msgid "Click this button to reload the contents of the current location."
 msgstr "sina wile sin e lukin ilo la o pilin e nena ni."
 
-#: filewidgets/kfilewidget.cpp:436
+#: filewidgets/kfilewidget.cpp:437
 #, kde-format
 msgid "Click this button to create a new folder."
 msgstr "sina luka e nena ni la, poki sin li kama."
 
-#: filewidgets/kfilewidget.cpp:443
+#: filewidgets/kfilewidget.cpp:444
 #, kde-format
 msgid "Show Places Panel"
 msgstr "o sitelen e ilo poka nasin"
 
-#: filewidgets/kfilewidget.cpp:450
+#: filewidgets/kfilewidget.cpp:451
 #, kde-format
 msgid "Show Bookmarks Button"
 msgstr "o sitelen e nena pi ijo suli"
 
-#: filewidgets/kfilewidget.cpp:457
+#: filewidgets/kfilewidget.cpp:458
 #, kde-format
 msgid "Options"
 msgstr "wile ilo"
 
-#: filewidgets/kfilewidget.cpp:460
+#: filewidgets/kfilewidget.cpp:461
 #, kde-format
 msgid ""
 "<qt>This is the preferences menu for the file dialog. Various options can be "
@@ -3151,22 +3151,22 @@ msgid ""
 "folders from files</li></ul></qt>"
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:501
+#: filewidgets/kfilewidget.cpp:502
 #, kde-format
 msgid "Zoom out"
 msgstr "tawa suli"
 
-#: filewidgets/kfilewidget.cpp:506
+#: filewidgets/kfilewidget.cpp:507
 #, kde-format
 msgid "Zoom in"
 msgstr "tawa lili"
 
-#: filewidgets/kfilewidget.cpp:511
+#: filewidgets/kfilewidget.cpp:512
 #, kde-format
 msgid "Bookmarks"
 msgstr "ijo suli"
 
-#: filewidgets/kfilewidget.cpp:515
+#: filewidgets/kfilewidget.cpp:516
 #, kde-format
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
@@ -3176,32 +3176,32 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, nameLabel)
-#: filewidgets/kfilewidget.cpp:560 widgets/kpropertiesdesktopbase.ui:17
+#: filewidgets/kfilewidget.cpp:561 widgets/kpropertiesdesktopbase.ui:17
 #, kde-format
 msgid "&Name:"
 msgstr "&nimi:"
 
-#: filewidgets/kfilewidget.cpp:852
+#: filewidgets/kfilewidget.cpp:853
 #, kde-format
 msgid "You can only select one file"
 msgstr "sina ken wile e lipu wan taso"
 
-#: filewidgets/kfilewidget.cpp:852
+#: filewidgets/kfilewidget.cpp:853
 #, kde-format
 msgid "More than one file provided"
 msgstr "sina wile e lipu mute"
 
-#: filewidgets/kfilewidget.cpp:1025
+#: filewidgets/kfilewidget.cpp:1026
 #, kde-format
 msgid "You can only select local files"
 msgstr "sina ken wile e lipu lon ilo sina taso"
 
-#: filewidgets/kfilewidget.cpp:1025
+#: filewidgets/kfilewidget.cpp:1026
 #, kde-format
 msgid "Remote files not accepted"
 msgstr "lipu lon ilo ante li pona ala"
 
-#: filewidgets/kfilewidget.cpp:1032
+#: filewidgets/kfilewidget.cpp:1033
 #, kde-format
 msgid ""
 "The selected URL uses an unsupported scheme. Please use the following "
@@ -3222,12 +3222,12 @@ msgstr[3] ""
 "nimi URL wile li kepeken e nasin toki ilo pi sona ala. o kepeken e nasin "
 "toki ilo mute ni: %2"
 
-#: filewidgets/kfilewidget.cpp:1038
+#: filewidgets/kfilewidget.cpp:1039
 #, kde-format
 msgid "Unsupported URL scheme"
 msgstr "nimi \"URL\" sina li pali ala tawa mi"
 
-#: filewidgets/kfilewidget.cpp:1054
+#: filewidgets/kfilewidget.cpp:1055
 #, kde-format
 msgid ""
 "More than one folder has been selected and this dialog does not accept "
@@ -3236,34 +3236,34 @@ msgid ""
 msgstr ""
 "sina pana e poki mute. taso mi wile poki wan taso. o pali sin e pana wile."
 
-#: filewidgets/kfilewidget.cpp:1056
+#: filewidgets/kfilewidget.cpp:1057
 #, kde-format
 msgid "More than one folder provided"
 msgstr "sina pana e poki mute"
 
-#: filewidgets/kfilewidget.cpp:1066
+#: filewidgets/kfilewidget.cpp:1067
 #, kde-format
 msgid ""
 "At least one folder and one file has been selected. Selected files will be "
 "ignored and the selected folder will be listed"
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:1067
+#: filewidgets/kfilewidget.cpp:1068
 #, kde-format
 msgid "Files and folders selected"
 msgstr "sina wile e lipu e poki"
 
-#: filewidgets/kfilewidget.cpp:1085
+#: filewidgets/kfilewidget.cpp:1086
 #, kde-format
 msgid "The file \"%1\" could not be found"
 msgstr "ilo li sona ala e lon pi lipu \"%1\""
 
-#: filewidgets/kfilewidget.cpp:1085
+#: filewidgets/kfilewidget.cpp:1086
 #, kde-format
 msgid "Cannot open file"
 msgstr "lipu li ken ala kama open"
 
-#: filewidgets/kfilewidget.cpp:1373
+#: filewidgets/kfilewidget.cpp:1374
 #, kde-format
 msgid ""
 "<qt>While typing in the text area, you may be presented with possible "
@@ -3272,96 +3272,96 @@ msgid ""
 "qt>"
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:1380
+#: filewidgets/kfilewidget.cpp:1381
 #, kde-format
 msgid "This is the name to save the file as."
 msgstr "lipu li kama awen kepeken nimi ni."
 
-#: filewidgets/kfilewidget.cpp:1383
+#: filewidgets/kfilewidget.cpp:1384
 #, kde-format
 msgid ""
 "This is the list of files to open. More than one file can be specified by "
 "listing several files, separated by spaces."
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:1388
+#: filewidgets/kfilewidget.cpp:1389
 #, kde-format
 msgid "This is the name of the file to open."
 msgstr "ni li nimi pi lipu wile."
 
-#: filewidgets/kfilewidget.cpp:1401
+#: filewidgets/kfilewidget.cpp:1402
 #, kde-format
 msgctxt "@title:window"
 msgid "Places"
 msgstr "ma mute"
 
-#: filewidgets/kfilewidget.cpp:1621
+#: filewidgets/kfilewidget.cpp:1622
 #, kde-format
 msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
 msgstr "lipu \"%1\" li lon awen li jo e ijo. sina wile ala wile sitelen e ona?"
 
-#: filewidgets/kfilewidget.cpp:1622
+#: filewidgets/kfilewidget.cpp:1623
 #, kde-format
 msgid "Overwrite File?"
 msgstr "o weka e lipu pini la, o pana e sona tawa lipu ni?"
 
-#: filewidgets/kfilewidget.cpp:1847
+#: filewidgets/kfilewidget.cpp:1848
 #, kde-format
 msgid "You can only select local files."
 msgstr "sina ken wile e lipu lon tomo sina taso."
 
-#: filewidgets/kfilewidget.cpp:1847
+#: filewidgets/kfilewidget.cpp:1848
 #, kde-format
 msgid "Remote Files Not Accepted"
 msgstr "lipu lon ilo ante li pona ala"
 
-#: filewidgets/kfilewidget.cpp:1957
+#: filewidgets/kfilewidget.cpp:1958
 #, kde-format
 msgid "*|All Folders"
 msgstr "*|poki ale"
 
-#: filewidgets/kfilewidget.cpp:1959
+#: filewidgets/kfilewidget.cpp:1960
 #, kde-format
 msgid "*|All Files"
 msgstr "*|lipu ale"
 
-#: filewidgets/kfilewidget.cpp:2109 widgets/executablefileopendialog.cpp:30
+#: filewidgets/kfilewidget.cpp:2110 widgets/executablefileopendialog.cpp:30
 #: widgets/kfileitemactions.cpp:873
 #, kde-format
 msgid "&Open"
 msgstr "o kama e &lipu"
 
-#: filewidgets/kfilewidget.cpp:2222
+#: filewidgets/kfilewidget.cpp:2223
 #, kde-format
 msgid "Icon size: %1 pixels (standard size)"
 msgstr "suli pi sitelen lili: %1 pixels (suli pona)"
 
-#: filewidgets/kfilewidget.cpp:2225
+#: filewidgets/kfilewidget.cpp:2226
 #, kde-format
 msgid "Icon size: %1 pixels"
 msgstr "suli pi sitelen lili: %1 pixels"
 
-#: filewidgets/kfilewidget.cpp:2375
+#: filewidgets/kfilewidget.cpp:2376
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr "pini nimi lipu o tan kule insa lipu (%1)"
 
-#: filewidgets/kfilewidget.cpp:2376
+#: filewidgets/kfilewidget.cpp:2377
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr "ilo lili <b>%1</b>"
 
-#: filewidgets/kfilewidget.cpp:2382
+#: filewidgets/kfilewidget.cpp:2383
 #, kde-format
 msgid "Automatically select filename e&xtension"
 msgstr "pini nimi lipu o tan kule insa lipu"
 
-#: filewidgets/kfilewidget.cpp:2383
+#: filewidgets/kfilewidget.cpp:2384
 #, kde-format
 msgid "a suitable extension"
 msgstr "ilo lili pona"
 
-#: filewidgets/kfilewidget.cpp:2391
+#: filewidgets/kfilewidget.cpp:2392
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -3386,24 +3386,24 @@ msgstr ""
 "pini (.) tawa nimi lipu (mi weka e sike pini).</li></ol>\n"
 "sina sona ala la, o awen e ijo ni tan ni: ona li pona e nasin lipu."
 
-#: filewidgets/kfilewidget.cpp:2846
+#: filewidgets/kfilewidget.cpp:2847
 #, kde-format
 msgid "&File type:"
 msgstr "poki &lipu:"
 
-#: filewidgets/kfilewidget.cpp:2847
+#: filewidgets/kfilewidget.cpp:2848
 #, kde-format
 msgid ""
 "<qt>This is the file type selector. It is used to select the format that the "
 "file will be saved as.</qt>"
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:2849
+#: filewidgets/kfilewidget.cpp:2850
 #, kde-format
 msgid "&Filter:"
 msgstr "sitelen pi &lukin ante:"
 
-#: filewidgets/kfilewidget.cpp:2851
+#: filewidgets/kfilewidget.cpp:2852
 #, kde-format
 msgid ""
 "<qt>This is the filter to apply to the file list. File names that do not "
@@ -3614,7 +3614,7 @@ msgstr "sina wile tawa la o pilin e ni"
 msgid "Click to Edit Location"
 msgstr "o pilin tawa ante ma"
 
-#: gui/applicationlauncherjob.cpp:106 gui/kprocessrunner.cpp:231
+#: gui/applicationlauncherjob.cpp:106 gui/kprocessrunner.cpp:237
 #, kde-format
 msgid "You are not authorized to execute this file."
 msgstr "sina ken ala kepeken e lipu ni sama ilo."
@@ -3677,7 +3677,7 @@ msgstr ""
 "%1\n"
 "li pakala."
 
-#: gui/kprocessrunner.cpp:255
+#: gui/kprocessrunner.cpp:261
 #, kde-format
 msgid "Launching %1"
 msgstr "mi open e ilo %1"
@@ -6901,12 +6901,12 @@ msgstr "p"
 msgid "Effective"
 msgstr "lon"
 
-#: widgets/kbuildsycocaprogressdialog.cpp:29
+#: widgets/kbuildsycocaprogressdialog.cpp:32
 #, kde-format
 msgid "Updating System Configuration"
 msgstr "mi sin e lawa ilo"
 
-#: widgets/kbuildsycocaprogressdialog.cpp:29
+#: widgets/kbuildsycocaprogressdialog.cpp:32
 #, kde-format
 msgid "Updating system configuration."
 msgstr "mi sin e lawa ilo."
@@ -8278,7 +8278,7 @@ msgstr "o ante e nasin lili linluwi..."
 msgid "Open file dialog"
 msgstr "o open e ilo pi open lipu"
 
-#: widgets/paste.cpp:100 widgets/paste.cpp:149 widgets/pastejob.cpp:62
+#: widgets/paste.cpp:100 widgets/paste.cpp:149 widgets/pastejob.cpp:67
 #, kde-format
 msgid "Filename for clipboard content:"
 msgstr "nimi pi ijo tan supa pali:"
@@ -8359,7 +8359,7 @@ msgstr "o lon e lipu lon ni"
 msgid "Data format:"
 msgstr "kule sona:"
 
-#: widgets/pastejob.cpp:62
+#: widgets/pastejob.cpp:67
 #, kde-format
 msgid "Filename for dropped contents:"
 msgstr "nimi lipu pi ijo pana:"

@@ -5866,7 +5866,7 @@ msgid "1. Foreground to Transparent"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/3_eroded.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/3_eroded.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/3_eroded.gih"
@@ -5874,7 +5874,7 @@ msgid "3_eroded"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_bamboo-leaves.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_bamboo-leaves.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_bamboo-"
@@ -5883,7 +5883,7 @@ msgid "A-4 Bamboo Leaves"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_bamboo.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_bamboo.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_bamboo.gih"
@@ -5891,7 +5891,7 @@ msgid "A-4 Bamboo"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dirty-brush.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dirty-brush.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dirty-brush."
@@ -5900,7 +5900,7 @@ msgid "A - 2 Dirty Brush2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_distant-mountain.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_distant-mountain.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_distant-"
@@ -5909,7 +5909,7 @@ msgid "A-4 distant-mountain"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dynamic-brush.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dynamic-brush.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dynamic-"
@@ -5918,7 +5918,7 @@ msgid "A - 2 Dynamic Brush"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dynamic-brush3.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dynamic-brush3.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_dynamic-"
@@ -5927,7 +5927,7 @@ msgid "A-2 Dynamic brush 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-brush2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-brush2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-"
@@ -5936,7 +5936,7 @@ msgid "A -2 Eroded Brush 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-cercle-anim.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-cercle-anim.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-"
@@ -5945,7 +5945,7 @@ msgid "A -18 Round eroded anim"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-chinese-anim.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-chinese-anim.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-"
@@ -5954,7 +5954,7 @@ msgid "A -2 Chinese eroded anim"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-dirtybrush-anim.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-dirtybrush-anim.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-"
@@ -5963,7 +5963,7 @@ msgid "A - 2 Dirty Brush"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-knife-anim.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-knife-anim.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_eroded-knife-"
@@ -5972,7 +5972,7 @@ msgid "A-17 Knife eroded anim"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_fairy-dust.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_fairy-dust.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_fairy-dust."
@@ -5981,7 +5981,7 @@ msgid "A-4 Fairy Dust"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_floor.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_floor.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_floor.gih"
@@ -5989,7 +5989,7 @@ msgid "A-4 Floor"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_flowers.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_flowers.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_flowers.gih"
@@ -5997,7 +5997,7 @@ msgid "A-4 Flower"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_forest.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_forest.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_forest.gih"
@@ -6005,7 +6005,7 @@ msgid "A-4 Forest"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_fur.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_fur.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_fur.gih"
@@ -6013,7 +6013,7 @@ msgid "A-4 Fur"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_grass-floor.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_grass-floor.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_grass-floor."
@@ -6022,7 +6022,7 @@ msgid "A-4 Grass-Floor"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_herbs.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_herbs.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_herbs.gih"
@@ -6030,7 +6030,7 @@ msgid "A-4 herbs"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_leaves-mapple.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_leaves-mapple.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_leaves-"
@@ -6039,7 +6039,7 @@ msgid "A-4 Leaves Mapples"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_leaves.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_leaves.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_leaves.gih"
@@ -6047,7 +6047,7 @@ msgid "A-4 Leaves"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_mineral-cristal.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_mineral-cristal.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_mineral-"
@@ -6056,7 +6056,7 @@ msgid "A-3 minerals"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_pin.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_pin.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_pin.gih"
@@ -6064,7 +6064,7 @@ msgid "A-4 Pin"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_random-vegetal.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_random-vegetal.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_random-"
@@ -6073,7 +6073,7 @@ msgid "A-4 random vegetal"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_random-vegetal2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_random-vegetal2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_random-"
@@ -6082,7 +6082,7 @@ msgid "A-4 random vegetal2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_rocks-floor-neg.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_rocks-floor-neg.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_rocks-floor-"
@@ -6091,7 +6091,7 @@ msgid "A-4 rocksfloor neg"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_rocks.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_rocks.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_rocks.gih"
@@ -6099,7 +6099,7 @@ msgid "A-3 Rocks"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_snow-pack.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_snow-pack.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_snow-pack.gih"
@@ -6107,7 +6107,7 @@ msgid "A-4 SnowPack"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_splat2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_splat2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_splat2.gih"
@@ -6115,7 +6115,7 @@ msgid "A-2 Splat"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_starfield.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_starfield.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_starfield.gih"
@@ -6123,7 +6123,7 @@ msgid "A-4 starfield intense"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_wall-texture.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_wall-texture.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/A_wall-texture."
@@ -6132,7 +6132,7 @@ msgid "A-4 Wall"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/D_Dust_Particles.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/D_Dust_Particles.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6141,7 +6141,7 @@ msgid "D_Dust Particles"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Flat_textured1.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Flat_textured1.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Flat_textured1."
@@ -6150,7 +6150,7 @@ msgid "Flat_textured1"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Flat_textured2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Flat_textured2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Flat_textured2."
@@ -6159,7 +6159,7 @@ msgid "Flat_textured2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/G_Sparks.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/G_Sparks.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/G_Sparks.gih"
@@ -6167,7 +6167,7 @@ msgid "G_Sparks"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/L_Trees.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/L_Trees.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/L_Trees.gih"
@@ -6175,7 +6175,7 @@ msgid "L_Trees"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_smoke_c.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_smoke_c.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_smoke_c.gih"
@@ -6183,7 +6183,7 @@ msgid "Smoke Pipebrush"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_Water_Brush_02.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_Water_Brush_02.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6192,7 +6192,7 @@ msgid "LJF Water Brush 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_Water_Brush_03.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/LJF_Water_Brush_03.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6201,7 +6201,7 @@ msgid "LJF Water Brush 3"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/N_Grass_1.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/N_Grass_1.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/N_Grass_1.gih"
@@ -6209,7 +6209,7 @@ msgid "N_Grass 1"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/N_Grass_2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/N_Grass_2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/N_Grass_2.gih"
@@ -6217,7 +6217,7 @@ msgid "N_Grass 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_2B_Pencil_Angled.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_2B_Pencil_Angled.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6226,7 +6226,7 @@ msgid "P_2B Pencil  Angled"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_6B_Pencil_Angled.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_6B_Pencil_Angled.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6235,7 +6235,7 @@ msgid "P_6B Pencil  Angled"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Black_Grass.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Black_Grass.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6244,7 +6244,7 @@ msgid "P_Graphite Black Grass"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Pencil.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Pencil.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6253,7 +6253,7 @@ msgid "P_Graphite Pencil"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Pencil_grain.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Pencil_grain.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6262,7 +6262,7 @@ msgid "GIMP Brush Pipe"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Pencil_grainb.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_Graphite_Pencil_grainb.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6271,7 +6271,7 @@ msgid "P_Graphite Pencil _grainb"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_RealPencil10x10.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_RealPencil10x10.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6280,7 +6280,7 @@ msgid "P_Real Pencil 10x10"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_RealPencil16x16.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/P_RealPencil16x16.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6289,7 +6289,7 @@ msgid "P_Real Pencil 16x16"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured1.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured1.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured1."
@@ -6298,7 +6298,7 @@ msgid "Rect_textured1"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured2."
@@ -6307,7 +6307,7 @@ msgid "Rect_textured2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured3.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured3.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Rect_textured3."
@@ -6316,7 +6316,7 @@ msgid "Rect_textured3"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/S_splats_02.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/S_splats_02.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/S_splats_02.gih"
@@ -6324,7 +6324,7 @@ msgid "S_Splats 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Sc_Scratch.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Sc_Scratch.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Sc_Scratch.gih"
@@ -6332,7 +6332,7 @@ msgid "Sc_Scratch"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Fibers_1.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Fibers_1.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Fibers_1.gih"
@@ -6340,7 +6340,7 @@ msgid "T_Fibers 1"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Fibers_2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Fibers_2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Fibers_2.gih"
@@ -6348,7 +6348,7 @@ msgid "T_Fibers 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_2.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_2.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_2.gih"
@@ -6356,7 +6356,7 @@ msgid "T_Texture 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_3.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_3.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_3.gih"
@@ -6364,7 +6364,7 @@ msgid "T_Texture 3"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_4.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_4.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_4.gih"
@@ -6372,7 +6372,7 @@ msgid "T_Texture 4"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_5.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_5.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_5.gih"
@@ -6380,7 +6380,7 @@ msgid "T_Texture 5"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_6.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_6.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_6.gih"
@@ -6388,7 +6388,7 @@ msgid "T_Texture 6"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_7.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_7.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/T_Texture_7.gih"
@@ -6396,7 +6396,7 @@ msgid "T_Texture 7"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Te_Techno_1.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Te_Techno_1.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Te_Techno_1.gih"
@@ -6404,7 +6404,7 @@ msgid "Te_Techno 1"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/V_Vyle_Rock.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/V_Vyle_Rock.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/V_Vyle_Rock.gih"
@@ -6412,7 +6412,7 @@ msgid "Vyle Rock"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_2H.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_2H.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6421,7 +6421,7 @@ msgid "Z_study pencil 2H"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_2H_horiz.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_2H_horiz.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6430,7 +6430,7 @@ msgid "Z_study pencil 2H_horiz"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_2Hb.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_2Hb.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6439,7 +6439,7 @@ msgid "2B pencil Grain 2 b"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_H.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_H.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6448,7 +6448,7 @@ msgid "Z_study pencil H"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_H_h.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/z_study_pencil_H_h.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/"
@@ -6457,7 +6457,7 @@ msgid "Z_study pencil H_horiz"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Z_Test-pressure.gih:1
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Z_Test-pressure.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:brushes/Z_Test-"
@@ -6466,7 +6466,7 @@ msgid "Z- Test pressure"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/BG-Krita2.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/BG-Krita2.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/BG-Krita2.ggr"
@@ -6474,7 +6474,7 @@ msgid "BG-Krita2. Gradient background for brush preset icons."
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-eye-_Blue_.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-eye-_Blue_.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-eye-"
@@ -6483,7 +6483,7 @@ msgid "GPS eye (Blue)"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-FG-Glare.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-FG-Glare.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-FG-Glare."
@@ -6492,7 +6492,7 @@ msgid "GPS FG Glare"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Blueish.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Blueish.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-"
@@ -6501,7 +6501,7 @@ msgid "GPS Fire Blueish"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Burning-Cloud.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Burning-Cloud.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-"
@@ -6510,7 +6510,7 @@ msgid "GPS Fire Burning Cloud"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Dust-Blended.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Dust-Blended.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-"
@@ -6519,7 +6519,7 @@ msgid "GPS Fire Dust Blended"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Dust.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Dust.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-"
@@ -6528,7 +6528,7 @@ msgid "GPS Fire Dust"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Incandescent.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Incandescent.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-"
@@ -6537,7 +6537,7 @@ msgid "GPS Fire Incandescent"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Life-Span.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-Life-Span.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Fire-"
@@ -6546,7 +6546,7 @@ msgid "GPS Fire Life Span"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Haze-and-Atmosphere.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Haze-and-Atmosphere.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Haze-and-"
@@ -6555,7 +6555,7 @@ msgid "GPS Haze and Atmosphere"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Light-Saber-_Use-FG-color_.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Light-Saber-_Use-FG-color_.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Light-"
@@ -6564,7 +6564,7 @@ msgid "GPS Light Saber (Use FG color)"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-browns-copy.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-browns-copy.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-"
@@ -6573,7 +6573,7 @@ msgid "GPS Nature browns copy"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-Pure-greens.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-Pure-greens.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-"
@@ -6582,7 +6582,7 @@ msgid "GPS Nature Pure greens"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-random-greens.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-random-greens.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature-"
@@ -6591,7 +6591,7 @@ msgid "GPS Nature random greens"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature_Grass.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Nature_Grass.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-"
@@ -6600,7 +6600,7 @@ msgid "GPS Nature_Grass"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Simple-Smoke.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Simple-Smoke.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Simple-"
@@ -6609,7 +6609,7 @@ msgid "GPS Simple Smoke"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Steel-Bars.ggr:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Steel-Bars.ggr:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:gradients/GPS-Steel-"
@@ -6618,7 +6618,7 @@ msgid "GPS Steel Bars"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/concept-cookie.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/concept-cookie.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/concept-"
@@ -6627,7 +6627,7 @@ msgid "Concept-cookie"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/default.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/default.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/default.gpl"
@@ -6635,7 +6635,7 @@ msgid "Default"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/gradient.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/gradient.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/gradient.gpl"
@@ -6643,7 +6643,7 @@ msgid "Gradient"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/marker.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/marker.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/marker.gpl"
@@ -6651,7 +6651,7 @@ msgid "Markers"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/pixelart-16.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/pixelart-16.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/pixelart-16."
@@ -6660,7 +6660,7 @@ msgid "PixelArt 16"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/pixelart-32.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/pixelart-32.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/pixelart-32."
@@ -6669,14 +6669,14 @@ msgid "PixelArt 32"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/ps.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/ps.gpl:2
 #, kde-format
 msgctxt "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/ps.gpl"
 msgid "Ps"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-cmyk.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-cmyk.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-cmyk."
@@ -6685,7 +6685,7 @@ msgid "Swatch CMYK"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-colored-grey.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-colored-grey.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-"
@@ -6694,7 +6694,7 @@ msgid "Swatch colored grey"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-rgb.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-rgb.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatch-rgb.gpl"
@@ -6702,7 +6702,7 @@ msgid "Swatch RGB"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatche.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatche.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/swatche.gpl"
@@ -6710,7 +6710,7 @@ msgid "Swatches"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/web.gpl:2
+#: krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/web.gpl:2
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_3_Default_Resources.bundle:palettes/web.gpl"
@@ -6718,7 +6718,7 @@ msgid "Web"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/bamboo_leaves_random.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/bamboo_leaves_random.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6727,7 +6727,7 @@ msgid "bamboo_leaves_random"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/brick.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/brick.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/brick.gih"
@@ -6735,7 +6735,7 @@ msgid "GIMP Brush Pipe"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_random.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/bristles_circle_random.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6744,7 +6744,7 @@ msgid "bristles_circle_random"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel."
@@ -6753,7 +6753,7 @@ msgid "Chalk Chisel"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel_random.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel_random.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6762,7 +6762,7 @@ msgid "Chalk Chisel Random"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel_random_small.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chalk_chisel_random_small.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6771,7 +6771,7 @@ msgid "3_eroded"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_bent_rough.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/chisel_bent_rough.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6780,7 +6780,7 @@ msgid "Chisel Bent Rough"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/circle_hard_eroded.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/circle_hard_eroded.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6789,7 +6789,7 @@ msgid "Circle Hard Eroded"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/fairy-dust.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/fairy-dust.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/fairy-dust.gih"
@@ -6797,7 +6797,7 @@ msgid "GIMP Brush Pipe"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/floor.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/floor.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/floor.gih"
@@ -6805,7 +6805,7 @@ msgid "A-4 Forest"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/graphite_grain.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/graphite_grain.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/graphite_grain."
@@ -6814,7 +6814,7 @@ msgid "Graphite Grain"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/grass.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/grass.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/grass.gih"
@@ -6822,7 +6822,7 @@ msgid "Grass"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/grass_patch.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/grass_patch.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/grass_patch.gih"
@@ -6830,7 +6830,7 @@ msgid "Grass Patch"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/hearts.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/hearts.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/hearts.gih"
@@ -6838,7 +6838,7 @@ msgid "Hearts"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/impressionism_brush.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/impressionism_brush.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6847,7 +6847,7 @@ msgid "random-stroke"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/mountains_distant.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/mountains_distant.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6856,7 +6856,7 @@ msgid "Mountains Distant"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/noise.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/noise.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/noise.gih"
@@ -6864,7 +6864,7 @@ msgid "P_Graphite Black Grass"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/paint_splats.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/paint_splats.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/paint_splats."
@@ -6873,7 +6873,7 @@ msgid "Paint Splats"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/random-vegetal.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/random-vegetal.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/random-vegetal."
@@ -6882,7 +6882,7 @@ msgid "A-4 random vegetal2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_light.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_light.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_light.gih"
@@ -6890,7 +6890,7 @@ msgid "Rock Light"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_pitted.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_pitted.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_pitted.gih"
@@ -6898,7 +6898,7 @@ msgid "Rock Pitted"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_scraped.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_scraped.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/rock_scraped."
@@ -6907,7 +6907,7 @@ msgid "rock_scraped"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/scratches_rough.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/scratches_rough.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6916,7 +6916,7 @@ msgid "scratches_rough"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_mech_random.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_mech_random.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6925,7 +6925,7 @@ msgid "shapes_mech_random"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_round_random.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_round_random.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6934,7 +6934,7 @@ msgid "shapes_round_random"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_spiked_random.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/shapes_spiked_random.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6943,7 +6943,7 @@ msgid "shapes_spiked_random"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/snow.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/snow.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/snow.gih"
@@ -6951,7 +6951,7 @@ msgid "Snow"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/splats_large.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/splats_large.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/splats_large."
@@ -6960,7 +6960,7 @@ msgid "S_Splats 2"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/vegetal_stylised.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/vegetal_stylised.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/"
@@ -6969,7 +6969,7 @@ msgid "deevad_vegetal-stylised_colormask_01"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/water_still.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/water_still.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/water_still.gih"
@@ -6977,7 +6977,7 @@ msgid "Water Still"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/watercolor.gih:1
+#: krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/watercolor.gih:1
 #, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:brushes/watercolor.gih"
@@ -6985,210 +6985,210 @@ msgid "Watercolor"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/BG-Krita2.ggr:2
+#: krita/data/gradients/BG-Krita2.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/BG-Krita2.ggr"
 msgid "BG-Krita2. Gradient background for brush preset icons."
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-eye-_Blue_.ggr:2
+#: krita/data/gradients/GPS-eye-_Blue_.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-eye-_Blue_.ggr"
 msgid "GPS eye (Blue)"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-FG-Glare.ggr:2
+#: krita/data/gradients/GPS-FG-Glare.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-FG-Glare.ggr"
 msgid "GPS FG Glare"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Fire-Blueish.ggr:2
+#: krita/data/gradients/GPS-Fire-Blueish.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Fire-Blueish.ggr"
 msgid "GPS Fire Blueish"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Fire-Burning-Cloud.ggr:2
+#: krita/data/gradients/GPS-Fire-Burning-Cloud.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Fire-Burning-Cloud.ggr"
 msgid "GPS Fire Burning Cloud"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Fire-Dust-Blended.ggr:2
+#: krita/data/gradients/GPS-Fire-Dust-Blended.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Fire-Dust-Blended.ggr"
 msgid "GPS Fire Dust Blended"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Fire-Dust.ggr:2
+#: krita/data/gradients/GPS-Fire-Dust.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Fire-Dust.ggr"
 msgid "GPS Fire Dust"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Fire-Incandescent.ggr:2
+#: krita/data/gradients/GPS-Fire-Incandescent.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Fire-Incandescent.ggr"
 msgid "GPS Fire Incandescent"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Fire-Life-Span.ggr:2
+#: krita/data/gradients/GPS-Fire-Life-Span.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Fire-Life-Span.ggr"
 msgid "GPS Fire Life Span"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Haze-and-Atmosphere.ggr:2
+#: krita/data/gradients/GPS-Haze-and-Atmosphere.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Haze-and-Atmosphere.ggr"
 msgid "GPS Haze and Atmosphere"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Light-Saber-_Use-FG-color_.ggr:2
+#: krita/data/gradients/GPS-Light-Saber-_Use-FG-color_.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Light-Saber-_Use-FG-color_.ggr"
 msgid "GPS Light Saber (Use FG color)"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Nature-browns-copy.ggr:2
+#: krita/data/gradients/GPS-Nature-browns-copy.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Nature-browns-copy.ggr"
 msgid "GPS Nature browns copy"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Nature-Pure-greens.ggr:2
+#: krita/data/gradients/GPS-Nature-Pure-greens.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Nature-Pure-greens.ggr"
 msgid "GPS Nature Pure greens"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Nature-random-greens.ggr:2
+#: krita/data/gradients/GPS-Nature-random-greens.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Nature-random-greens.ggr"
 msgid "GPS Nature random greens"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Nature_Grass.ggr:2
+#: krita/data/gradients/GPS-Nature_Grass.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Nature_Grass.ggr"
 msgid "GPS Nature_Grass"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Simple-Smoke.ggr:2
+#: krita/data/gradients/GPS-Simple-Smoke.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Simple-Smoke.ggr"
 msgid "GPS Simple Smoke"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/gradients/GPS-Steel-Bars.ggr:2
+#: krita/data/gradients/GPS-Steel-Bars.ggr:2
 #, kde-format
 msgctxt "./krita/data/gradients/GPS-Steel-Bars.ggr"
 msgid "GPS Steel Bars"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/animation-color-set.gpl:2
+#: krita/data/palettes/animation-color-set.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/animation-color-set.gpl"
 msgid "Animation Color Set"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/concept-cookie.gpl:2
+#: krita/data/palettes/concept-cookie.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/concept-cookie.gpl"
 msgid "Concept-cookie"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/default.gpl:2
+#: krita/data/palettes/default.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/default.gpl"
 msgid "Default"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/gradient.gpl:2
+#: krita/data/palettes/gradient.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/gradient.gpl"
 msgid "Gradient"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/marker.gpl:2
+#: krita/data/palettes/marker.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/marker.gpl"
 msgid "Markers"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/pixelart-16.gpl:2
+#: krita/data/palettes/pixelart-16.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/pixelart-16.gpl"
 msgid "PixelArt 16"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/pixelart-32.gpl:2
+#: krita/data/palettes/pixelart-32.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/pixelart-32.gpl"
 msgid "PixelArt 32"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/ps.gpl:2
+#: krita/data/palettes/ps.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/ps.gpl"
 msgid "Ps"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/swatch-cmyk.gpl:2
+#: krita/data/palettes/swatch-cmyk.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/swatch-cmyk.gpl"
 msgid "Swatch CMYK"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/swatch-colored-grey.gpl:2
+#: krita/data/palettes/swatch-colored-grey.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/swatch-colored-grey.gpl"
 msgid "Swatch colored grey"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/swatch-rgb.gpl:2
+#: krita/data/palettes/swatch-rgb.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/swatch-rgb.gpl"
 msgid "Swatch RGB"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/swatche.gpl:2
+#: krita/data/palettes/swatche.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/swatche.gpl"
 msgid "Swatches"
 msgstr ""
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
-#: ./krita/data/palettes/web.gpl:2
+#: krita/data/palettes/web.gpl:2
 #, kde-format
 msgctxt "./krita/data/palettes/web.gpl"
 msgid "Web"
@@ -11624,7 +11624,8 @@ msgstr ""
 msgid "&Snap To"
 msgstr ""
 
-#: krita/krita5.xmlgui:146 plugins/extensions/colorspaceconversion/colorspaceconversion.xmlgui:4
+#: krita/krita5.xmlgui:146
+#: plugins/extensions/colorspaceconversion/colorspaceconversion.xmlgui:4
 #: plugins/extensions/offsetimage/offsetimage.xmlgui:5
 #: plugins/extensions/rotateimage/rotateimage.xmlgui:4
 #: plugins/extensions/shearimage/shearimage.xmlgui:4
@@ -11657,7 +11658,8 @@ msgid "&Import/Export"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, addPresetButton)
-#: krita/krita5.xmlgui:206 plugins/paintops/libpaintop/forms/wdgpredefinedbrushchooser.ui:68
+#: krita/krita5.xmlgui:206
+#: plugins/paintops/libpaintop/forms/wdgpredefinedbrushchooser.ui:68
 #, kde-format
 msgid "Import"
 msgstr ""
@@ -11668,7 +11670,8 @@ msgid "&Convert"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, bnSelect)
-#: krita/krita5.xmlgui:225 krita/krita5.xmlgui:296 libs/ui/imagesize/imagesize.xmlgui:12
+#: krita/krita5.xmlgui:225 krita/krita5.xmlgui:296
+#: libs/ui/imagesize/imagesize.xmlgui:12
 #: plugins/dockers/layerdocker/LayerBox.cpp:1113
 #: plugins/extensions/colorrange/wdg_colorrange.ui:134
 #: plugins/extensions/modify_selection/modify_selection.xmlgui:4
@@ -14114,18 +14117,21 @@ msgstr ""
 msgid "Redo %1"
 msgstr ""
 
-#: libs/command/kundo2model.cpp:54 plugins/dockers/historydocker/KisUndoModel.cpp:57
+#: libs/command/kundo2model.cpp:54
+#: plugins/dockers/historydocker/KisUndoModel.cpp:57
 #, kde-format
 msgid "<empty>"
 msgstr ""
 
-#: libs/command/kundo2stack.cpp:1413 libs/widgetutils/xmlgui/kundoactions.cpp:32
+#: libs/command/kundo2stack.cpp:1413
+#: libs/widgetutils/xmlgui/kundoactions.cpp:32
 #, kde-format
 msgid "Redo"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QToolButton, liquifyUndo)
-#: libs/command/kundo2stack.cpp:1432 libs/widgetutils/xmlgui/kundoactions.cpp:51
+#: libs/command/kundo2stack.cpp:1432
+#: libs/widgetutils/xmlgui/kundoactions.cpp:51
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:1905
 #, kde-format
 msgid "Undo"
@@ -14394,7 +14400,8 @@ msgstr ""
 msgid "Cannot save %1 to html"
 msgstr ""
 
-#: libs/flake/KoMarkerCollection.cpp:68 libs/flake/resources/KoSvgSymbolCollectionResource.cpp:126
+#: libs/flake/KoMarkerCollection.cpp:68
+#: libs/flake/resources/KoSvgSymbolCollectionResource.cpp:126
 #: libs/ui/flake/kis_shape_layer.cc:552
 #, kde-format
 msgid ""
@@ -14623,9 +14630,8 @@ msgstr ""
 #: libs/ui/animation/VideoImportDialog.ui:687
 #: libs/ui/animation/wdg_animationrenderer.ui:258
 #: libs/ui/animation/wdg_animationrenderer.ui:400
-#: libs/ui/forms/wdggeneralsettings.ui:288
-#: libs/ui/forms/wdgnewimage.ui:234 libs/ui/forms/wdgnewimage.ui:253
-#: libs/ui/forms/wdgselectionoptions.ui:29
+#: libs/ui/forms/wdggeneralsettings.ui:288 libs/ui/forms/wdgnewimage.ui:234
+#: libs/ui/forms/wdgnewimage.ui:253 libs/ui/forms/wdgselectionoptions.ui:29
 #: libs/ui/forms/wdgselectionoptions.ui:45
 #: libs/ui/forms/wdgselectionoptions.ui:61
 #: libs/ui/forms/wdgselectionoptions.ui:80
@@ -14635,9 +14641,8 @@ msgstr ""
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:291
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:351
 #: libs/ui/layerstyles/WdgColorOverlay.ui:61
-#: libs/ui/layerstyles/wdgInnerGlow.ui:129
-#: libs/ui/layerstyles/WdgSatin.ui:58 libs/ui/layerstyles/WdgStroke.ui:170
-#: libs/ui/widgets/KisDitherWidget.ui:101
+#: libs/ui/layerstyles/wdgInnerGlow.ui:129 libs/ui/layerstyles/WdgSatin.ui:58
+#: libs/ui/layerstyles/WdgStroke.ui:170 libs/ui/widgets/KisDitherWidget.ui:101
 #: libs/ui/widgets/KoFillConfigWidget.ui:189
 #: libs/ui/widgets/KoFillConfigWidget.ui:205
 #: libs/ui/widgets/KoFillConfigWidget.ui:316
@@ -14810,8 +14815,8 @@ msgstr ""
 #: libs/ui/forms/wdgrectangleconstraints.ui:86
 #: libs/ui/forms/wdgrectangleconstraints.ui:134
 #: libs/ui/forms/wdgrectangleconstraints.ui:184
-#: libs/ui/forms/wdgrectangleconstraints.ui:226
-#: libs/ui/kis_paintop_box.cc:285 libs/ui/widgets/kis_lod_availability_widget.cpp:75
+#: libs/ui/forms/wdgrectangleconstraints.ui:226 libs/ui/kis_paintop_box.cc:285
+#: libs/ui/widgets/kis_lod_availability_widget.cpp:75
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:434
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:674
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:767
@@ -14881,8 +14886,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, opacityCBox)
 #: libs/image/brushengine/kis_standard_uniform_properties_factory.h:19
-#: libs/image/kis_keyframe_channel.cpp:26
-#: libs/image/kis_layer.cc:278 libs/widgets/KoColorPopupAction.cpp:85
+#: libs/image/kis_keyframe_channel.cpp:26 libs/image/kis_layer.cc:278
+#: libs/widgets/KoColorPopupAction.cpp:85
 #: plugins/dockers/layerdocker/LayerBox.cpp:197
 #: plugins/paintops/hairy/wdghairyeoptions.ui:301
 #: plugins/paintops/hairy/wdgInkOptions.ui:62
@@ -15109,7 +15114,8 @@ msgid "Hermite"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbSmoothingType)
-#: libs/image/kis_filter_strategy.h:72 libs/ui/animation/KisDlgImportVideoAnimation.cpp:122
+#: libs/image/kis_filter_strategy.h:72
+#: libs/ui/animation/KisDlgImportVideoAnimation.cpp:122
 #: libs/ui/widgets/KoFillConfigWidget.ui:421
 #, kde-format
 msgid "Bicubic"
@@ -15122,7 +15128,8 @@ msgid ""
 "gradations than Bilinear."
 msgstr ""
 
-#: libs/image/kis_filter_strategy.h:86 libs/ui/animation/KisDlgImportVideoAnimation.cpp:125
+#: libs/image/kis_filter_strategy.h:86
+#: libs/ui/animation/KisDlgImportVideoAnimation.cpp:125
 #, kde-format
 msgid "Nearest Neighbor"
 msgstr ""
@@ -15135,7 +15142,8 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbSmoothingType)
-#: libs/image/kis_filter_strategy.h:108 libs/ui/animation/KisDlgImportVideoAnimation.cpp:123
+#: libs/image/kis_filter_strategy.h:108
+#: libs/ui/animation/KisDlgImportVideoAnimation.cpp:123
 #: libs/ui/canvas/kis_canvas_controller.cpp:302
 #: libs/ui/widgets/KoFillConfigWidget.ui:416
 #, kde-format
@@ -15160,7 +15168,8 @@ msgstr ""
 msgid "BSpline"
 msgstr ""
 
-#: libs/image/kis_filter_strategy.h:146 libs/ui/animation/KisDlgImportVideoAnimation.cpp:124
+#: libs/image/kis_filter_strategy.h:146
+#: libs/ui/animation/KisDlgImportVideoAnimation.cpp:124
 #, kde-format
 msgid "Lanczos3"
 msgstr ""
@@ -15177,7 +15186,8 @@ msgstr ""
 msgid "Mitchell"
 msgstr ""
 
-#: libs/image/kis_group_layer.cc:327 libs/image/kis_layer_properties_icons.cpp:26
+#: libs/image/kis_group_layer.cc:327
+#: libs/image/kis_layer_properties_icons.cpp:26
 #, kde-format
 msgid "Pass Through"
 msgstr ""
@@ -15194,7 +15204,8 @@ msgid "Selection Mask"
 msgstr ""
 
 #: libs/image/kis_image.cc:716 libs/ui/KisDocument.cpp:2426
-#: plugins/impex/psd/psd_loader.cpp:162 plugins/paintops/defaultpaintops/brush/kis_brushop_settings_widget.cpp:68
+#: plugins/impex/psd/psd_loader.cpp:162
+#: plugins/paintops/defaultpaintops/brush/kis_brushop_settings_widget.cpp:68
 #: plugins/python/comics_project_management_tools/comics_template_dialog.py:302
 #, kde-format
 msgid "Background"
@@ -15296,8 +15307,7 @@ msgid "Crop Selections"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: libs/image/kis_keyframe_channel.cpp:25
-#: libs/ui/forms/wdgnewimage.ui:414
+#: libs/image/kis_keyframe_channel.cpp:25 libs/ui/forms/wdgnewimage.ui:414
 #, kde-format
 msgid "Content"
 msgstr ""
@@ -15390,7 +15400,8 @@ msgid "Alpha Locked"
 msgstr ""
 
 #: libs/image/kis_layer_properties_icons.cpp:25
-#: libs/image/kis_paint_layer.cc:203 plugins/dockers/animation/KisOnionSkinsDocker.cpp:30
+#: libs/image/kis_paint_layer.cc:203
+#: plugins/dockers/animation/KisOnionSkinsDocker.cpp:30
 #, kde-format
 msgid "Onion Skins"
 msgstr ""
@@ -15497,9 +15508,9 @@ msgid "Processing"
 msgstr ""
 
 #: libs/image/kis_psd_layer_style.cpp:104
-#: libs/ui/KisApplicationArguments.cpp:372
-#: libs/ui/KisMainWindow.cpp:1320 libs/ui/KisMainWindow.cpp:1586
-#: libs/ui/KisMainWindow.cpp:1605 plugins/impex/libkra/kis_kra_saver.cpp:90
+#: libs/ui/KisApplicationArguments.cpp:372 libs/ui/KisMainWindow.cpp:1320
+#: libs/ui/KisMainWindow.cpp:1586 libs/ui/KisMainWindow.cpp:1605
+#: plugins/impex/libkra/kis_kra_saver.cpp:90
 #, kde-format
 msgid "Unnamed"
 msgstr ""
@@ -15591,7 +15602,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbType)
 #: libs/image/KisTranslateLayerNamesVisitor.cpp:43
-#: libs/ui/imagesize/imagesize.xmlgui:9 plugins/tools/tool_crop/wdg_tool_crop.ui:410
+#: libs/ui/imagesize/imagesize.xmlgui:9
+#: plugins/tools/tool_crop/wdg_tool_crop.ui:410
 #, kde-format
 msgid "Layer"
 msgstr ""
@@ -15745,12 +15757,14 @@ msgctxt "Layer name for translation of template"
 msgid "Layout"
 msgstr ""
 
-#: libs/image/krita_utils.cpp:351 plugins/dockers/animation/KisAnimTimelineLayersHeader.cpp:252
+#: libs/image/krita_utils.cpp:351
+#: plugins/dockers/animation/KisAnimTimelineLayersHeader.cpp:252
 #, kde-format
 msgid "off"
 msgstr ""
 
-#: libs/image/krita_utils.cpp:351 plugins/dockers/animation/KisAnimTimelineLayersHeader.cpp:252
+#: libs/image/krita_utils.cpp:351
+#: plugins/dockers/animation/KisAnimTimelineLayersHeader.cpp:252
 #, kde-format
 msgid "on"
 msgstr ""
@@ -15858,33 +15872,30 @@ msgid ""
 "the first layer</b> will be saved."
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:98
-#: libs/ui/kis_layer_manager.cc:647
+#: libs/impex/KisExportCheckRegistry.cpp:98 libs/ui/kis_layer_manager.cc:647
 #, kde-format
 msgid "Clone Layer"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:100
-#: libs/ui/kis_layer_manager.cc:631 libs/ui/kis_node_manager.cpp:1514
+#: libs/impex/KisExportCheckRegistry.cpp:100 libs/ui/kis_layer_manager.cc:631
+#: libs/ui/kis_node_manager.cpp:1514
 #, kde-format
 msgctxt "A group of layers"
 msgid "Group"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:102
-#: libs/ui/kis_layer_manager.cc:956
+#: libs/impex/KisExportCheckRegistry.cpp:102 libs/ui/kis_layer_manager.cc:956
 #, kde-format
 msgid "File Layer"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:104
-#: libs/ui/kis_layer_manager.cc:660 plugins/impex/svg/kis_svg_import.cc:80
+#: libs/impex/KisExportCheckRegistry.cpp:104 libs/ui/kis_layer_manager.cc:660
+#: plugins/impex/svg/kis_svg_import.cc:80
 #, kde-format
 msgid "Vector Layer"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:106
-#: libs/ui/kis_layer_manager.cc:682
+#: libs/impex/KisExportCheckRegistry.cpp:106 libs/ui/kis_layer_manager.cc:682
 #, kde-format
 msgid "Filter Layer"
 msgstr ""
@@ -15894,29 +15905,27 @@ msgstr ""
 msgid "Generator Layer"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:110
-#: libs/ui/kis_mask_manager.cc:274
+#: libs/impex/KisExportCheckRegistry.cpp:110 libs/ui/kis_mask_manager.cc:274
 #, kde-format
 msgid "Colorize Mask"
 msgstr ""
 
 #: libs/impex/KisExportCheckRegistry.cpp:112
-#: libs/ui/dialogs/kis_dlg_filter.cpp:218
-#: libs/ui/kis_mask_manager.cc:223
+#: libs/ui/dialogs/kis_dlg_filter.cpp:218 libs/ui/kis_mask_manager.cc:223
 #, kde-format
 msgid "Filter Mask"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:114
-#: libs/ui/kis_mask_manager.cc:286
+#: libs/impex/KisExportCheckRegistry.cpp:114 libs/ui/kis_mask_manager.cc:286
 #, kde-format
 msgid "Transform Mask"
 msgstr ""
 
-#: libs/impex/KisExportCheckRegistry.cpp:116
-#: libs/ui/kis_mask_manager.cc:210 libs/ui/kis_node_manager.cpp:1294
+#: libs/impex/KisExportCheckRegistry.cpp:116 libs/ui/kis_mask_manager.cc:210
+#: libs/ui/kis_node_manager.cpp:1294
 #: plugins/impex/libkra/kis_kra_load_visitor.cpp:213
-#: plugins/impex/psd/psd_loader.cpp:288 plugins/impex/tiff/kis_tiff_converter.cc:1296
+#: plugins/impex/psd/psd_loader.cpp:288
+#: plugins/impex/tiff/kis_tiff_converter.cc:1296
 #: plugins/impex/xcf/kis_xcf_import.cpp:273
 #, kde-format
 msgid "Transparency Mask"
@@ -17401,8 +17410,8 @@ msgstr ""
 #: libs/pigment/resources/KoColorSet.cpp:852
 #: libs/pigment/resources/KoColorSet.cpp:1075
 #: libs/ui/actions/KisPasteActionFactories.cpp:301
-#: libs/ui/animation/KisDlgAnimationRenderer.cpp:345
-#: libs/ui/KisView.cpp:839 plugins/generators/seexpr/kis_wdg_seexpr.cpp:34
+#: libs/ui/animation/KisDlgAnimationRenderer.cpp:345 libs/ui/KisView.cpp:839
+#: plugins/generators/seexpr/kis_wdg_seexpr.cpp:34
 #, kde-format
 msgid "Untitled"
 msgstr ""
@@ -17455,26 +17464,26 @@ msgstr ""
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:791
 #: libs/ui/dialogs/kis_dlg_layer_style.cpp:354
 #: libs/ui/dialogs/kis_dlg_preferences.cc:650
-#: libs/ui/input/kis_tablet_debugger.cpp:96
-#: libs/ui/kis_clipboard.cc:675 libs/ui/kis_custom_pattern.cc:131
-#: libs/ui/kis_filter_manager.cc:233 libs/ui/kis_filter_manager.cc:242
-#: libs/ui/kis_layer_manager.cc:314 libs/ui/kis_layer_manager.cc:964
-#: libs/ui/kis_node_manager.cpp:1218 libs/ui/kis_node_manager.cpp:1281
-#: libs/ui/KisApplication.cpp:969 libs/ui/KisApplication.cpp:972
-#: libs/ui/KisApplication.cpp:988 libs/ui/KisApplication.cpp:1020
-#: libs/ui/KisApplication.cpp:1034 libs/ui/KisApplication.cpp:1062
-#: libs/ui/KisDocument.cpp:917 libs/ui/KisDocument.cpp:925
-#: libs/ui/KisDocument.cpp:1782 libs/ui/KisDocument.cpp:1825
-#: libs/ui/KisDocument.cpp:1833 libs/ui/KisMainWindow.cpp:994
-#: libs/ui/KisMainWindow.cpp:1120 libs/ui/KisMainWindow.cpp:1218
-#: libs/ui/KisMainWindow.cpp:1814 libs/ui/KisMainWindow.cpp:1823
-#: libs/ui/KisMainWindow.cpp:1962 libs/ui/KisMainWindow.cpp:2023
-#: libs/ui/KisMainWindow.cpp:2044 libs/ui/KisPart.cpp:569
-#: libs/ui/KisPart.cpp:572 libs/ui/KisReferenceImage.cpp:180
-#: libs/ui/KisRemoteFileFetcher.cpp:35 libs/ui/KisRemoteFileFetcher.cpp:56
-#: libs/ui/KisRemoteFileFetcher.cpp:86 libs/ui/KisTemplateCreateDia.cpp:284
-#: libs/ui/KisTemplateCreateDia.cpp:390 libs/ui/KisView.cpp:589
-#: libs/ui/KisView.cpp:842 libs/ui/KisWelcomePageWidget.cpp:711
+#: libs/ui/input/kis_tablet_debugger.cpp:96 libs/ui/kis_clipboard.cc:675
+#: libs/ui/kis_custom_pattern.cc:131 libs/ui/kis_filter_manager.cc:233
+#: libs/ui/kis_filter_manager.cc:242 libs/ui/kis_layer_manager.cc:314
+#: libs/ui/kis_layer_manager.cc:964 libs/ui/kis_node_manager.cpp:1218
+#: libs/ui/kis_node_manager.cpp:1281 libs/ui/KisApplication.cpp:969
+#: libs/ui/KisApplication.cpp:972 libs/ui/KisApplication.cpp:988
+#: libs/ui/KisApplication.cpp:1020 libs/ui/KisApplication.cpp:1034
+#: libs/ui/KisApplication.cpp:1062 libs/ui/KisDocument.cpp:917
+#: libs/ui/KisDocument.cpp:925 libs/ui/KisDocument.cpp:1782
+#: libs/ui/KisDocument.cpp:1825 libs/ui/KisDocument.cpp:1833
+#: libs/ui/KisMainWindow.cpp:994 libs/ui/KisMainWindow.cpp:1120
+#: libs/ui/KisMainWindow.cpp:1218 libs/ui/KisMainWindow.cpp:1814
+#: libs/ui/KisMainWindow.cpp:1823 libs/ui/KisMainWindow.cpp:1962
+#: libs/ui/KisMainWindow.cpp:2023 libs/ui/KisMainWindow.cpp:2044
+#: libs/ui/KisPart.cpp:569 libs/ui/KisPart.cpp:572
+#: libs/ui/KisReferenceImage.cpp:180 libs/ui/KisRemoteFileFetcher.cpp:35
+#: libs/ui/KisRemoteFileFetcher.cpp:56 libs/ui/KisRemoteFileFetcher.cpp:86
+#: libs/ui/KisTemplateCreateDia.cpp:284 libs/ui/KisTemplateCreateDia.cpp:390
+#: libs/ui/KisView.cpp:589 libs/ui/KisView.cpp:842
+#: libs/ui/KisWelcomePageWidget.cpp:711
 #: libs/ui/opengl/KisOpenGLCanvasRenderer.cpp:356
 #: libs/ui/widgets/kis_custom_image_widget.cc:293
 #: plugins/assistants/Assistants/kis_assistant_tool.cc:1301
@@ -17618,8 +17627,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, shapeBox)
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbType)
-#: libs/resources/KisResourceModel.cpp:135
-#: libs/ui/imagesize/imagesize.xmlgui:4 plugins/extensions/imagesplit/imagesplit.xmlgui:4
+#: libs/resources/KisResourceModel.cpp:135 libs/ui/imagesize/imagesize.xmlgui:4
+#: plugins/extensions/imagesplit/imagesplit.xmlgui:4
 #: plugins/extensions/separate_channels/imageseparate.xmlgui:4
 #: plugins/paintops/libpaintop/kis_predefined_brush_chooser.cpp:363
 #: plugins/paintops/spray/wdgsprayshapeoptions.ui:90
@@ -17662,8 +17671,8 @@ msgstr ""
 #: libs/resources/KisResourceStorage.h:116
 #: libs/ui/dialogs/kis_dlg_preferences.cc:1517
 #: libs/ui/dialogs/kis_dlg_preferences.cc:1521
-#: libs/ui/forms/wdgdisplaysettings.ui:173
-#: libs/ui/KoDocumentInfo.cpp:39 libs/widgets/KisDlgInternalColorSelector.cpp:322
+#: libs/ui/forms/wdgdisplaysettings.ui:173 libs/ui/KoDocumentInfo.cpp:39
+#: libs/widgets/KisDlgInternalColorSelector.cpp:322
 #: libs/widgets/WdgDlgInternalColorSelector.ui:89
 #: plugins/python/channels2layers/channels2layers.py:853
 #, kde-format
@@ -17929,8 +17938,8 @@ msgstr ""
 #: libs/resourcewidgets/dbexplorer/WdgDbExplorer.ui:140
 #: libs/resourcewidgets/dbexplorer/WdgDbExplorer.ui:154
 #: libs/ui/forms/wdgdisplaysettings.ui:266
-#: libs/ui/forms/wdgimageproperties.ui:414
-#: libs/ui/forms/wdgnewimage.ui:305 plugins/dockers/lut/wdglut.ui:358
+#: libs/ui/forms/wdgimageproperties.ui:414 libs/ui/forms/wdgnewimage.ui:305
+#: plugins/dockers/lut/wdglut.ui:358
 #: plugins/extensions/resourcemanager/wdgdlgcreatebundle.ui:374
 #, kde-format
 msgid "TextLabel"
@@ -17984,7 +17993,8 @@ msgid "Storage Resources"
 msgstr ""
 
 #: libs/resourcewidgets/KisResourceItemChooser.cpp:230
-#: libs/ui/KisMainWindow.cpp:2452 plugins/paintops/libpaintop/kis_predefined_brush_chooser.cpp:571
+#: libs/ui/KisMainWindow.cpp:2452
+#: plugins/paintops/libpaintop/kis_predefined_brush_chooser.cpp:571
 #, kde-format
 msgctxt "@title:window"
 msgid "Choose File to Add"
@@ -19353,7 +19363,8 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgImportImageSequence)
 #. i18n: ectx: property (windowTitle), widget (QWidget, DlgHeifImport)
 #: libs/ui/animation/VideoHDRMetadataOptionsDialog.ui:18
-#: libs/ui/forms/wdgfilterdialog.ui:30 libs/ui/forms/wdgimportimagesequence.ui:18
+#: libs/ui/forms/wdgfilterdialog.ui:30
+#: libs/ui/forms/wdgimportimagesequence.ui:18
 #: libs/widgets/WdgDlgInternalColorSelector.ui:18
 #: plugins/impex/heif/DlgHeifImport.ui:14
 #, kde-format
@@ -19382,7 +19393,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. i18n: ectx: property (text), widget (QLabel, labelX)
 #: libs/ui/animation/VideoHDRMetadataOptionsDialog.ui:46
-#: libs/ui/kis_paintop_box.cc:297 plugins/dockers/recorder/recorder_export.ui:241
+#: libs/ui/kis_paintop_box.cc:297
+#: plugins/dockers/recorder/recorder_export.ui:241
 #, kde-format
 msgid "x"
 msgstr ""
@@ -19469,8 +19481,9 @@ msgstr ""
 #: libs/ui/animation/VideoImportDialog.ui:34
 #: libs/ui/dialogs/kis_dlg_preferences.cc:1775
 #: libs/ui/dialogs/kis_dlg_preferences.cc:1777
-#: libs/ui/forms/wdgcolorsettings.ui:32 libs/ui/forms/wdgperformancesettings.ui:50
-#: libs/ui/KoDocumentInfoDlg.cpp:92 libs/ui/KoDocumentInfoDlg.cpp:93
+#: libs/ui/forms/wdgcolorsettings.ui:32
+#: libs/ui/forms/wdgperformancesettings.ui:50 libs/ui/KoDocumentInfoDlg.cpp:92
+#: libs/ui/KoDocumentInfoDlg.cpp:93
 #: plugins/dockers/logdocker/LogDockerDock.cpp:119
 #: plugins/generators/gradient/KisGradientGeneratorConfigWidget.ui:49
 #: plugins/impex/webp/dlg_webp_export.ui:31
@@ -19652,8 +19665,8 @@ msgstr ""
 #: libs/ui/forms/wdg_resolution.ui:24 libs/ui/forms/wdgimageproperties.ui:48
 #: libs/ui/forms/wdgrectangleconstraints.ui:96
 #: libs/ui/forms/wdgstrokeselectionproperties.ui:133
-#: libs/ui/imagesize/wdg_canvassize.ui:55
-#: libs/ui/imagesize/wdg_imagesize.ui:71 libs/ui/imagesize/wdg_layersize.ui:62
+#: libs/ui/imagesize/wdg_canvassize.ui:55 libs/ui/imagesize/wdg_imagesize.ui:71
+#: libs/ui/imagesize/wdg_layersize.ui:62
 #: libs/ui/input/wintab/kis_screen_size_choice_dialog.ui:81
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1015
 #: plugins/generators/multigridpattern/wdgmultigridpatternoptions.ui:89
@@ -20248,7 +20261,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, pushButtonClose)
 #: libs/ui/dialogs/kis_about_application.cpp:189
 #: libs/ui/forms/wdgbookmarkedconfigurationseditor.ui:75
-#: libs/ui/forms/wdgsessionmanager.ui:94 plugins/python/scripter/ui_scripter/actions/closeaction/closeaction.py:20
+#: libs/ui/forms/wdgsessionmanager.ui:94
+#: plugins/python/scripter/ui_scripter/actions/closeaction/closeaction.py:20
 #, kde-format
 msgid "Close"
 msgstr ""
@@ -20271,8 +20285,7 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QDialog, KisDelayedSaveDialog)
 #. i18n: ectx: property (windowTitle), widget (QDialog, KisRecoverNamedAutosaveDialog)
 #: libs/ui/dialogs/kis_delayed_save_dialog.ui:21
-#: libs/ui/dialogs/KisRecoverNamedAutosaveDialog.ui:21
-#: libs/ui/wdgsplash.ui:309
+#: libs/ui/dialogs/KisRecoverNamedAutosaveDialog.ui:21 libs/ui/wdgsplash.ui:309
 #, kde-format
 msgid "Krita"
 msgstr ""
@@ -20392,9 +20405,8 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (KisDoubleParseSpinBox, spbScaleWidth)
 #. i18n: ectx: property (suffix), widget (KisDoubleParseSpinBox, spbScaleHeight)
 #: libs/ui/dialogs/kis_dlg_layer_properties.cc:97
-#: libs/ui/forms/wdgdisplaysettings.ui:572
-#: libs/ui/kis_paintop_box.cc:267 libs/ui/kis_paintop_box.cc:275
-#: libs/ui/layerstyles/wdgInnerGlow.ui:220
+#: libs/ui/forms/wdgdisplaysettings.ui:572 libs/ui/kis_paintop_box.cc:267
+#: libs/ui/kis_paintop_box.cc:275 libs/ui/layerstyles/wdgInnerGlow.ui:220
 #: libs/ui/layerstyles/wdgInnerGlow.ui:322
 #: libs/ui/layerstyles/wdgInnerGlow.ui:351
 #: libs/ui/widgets/gradient/KisGradientColorEditor.cpp:93
@@ -20490,8 +20502,7 @@ msgctxt "@title:window"
 msgid "Enter new style name"
 msgstr ""
 
-#: libs/ui/dialogs/kis_dlg_layer_style.cpp:275
-#: libs/ui/KisMainWindow.cpp:2463
+#: libs/ui/dialogs/kis_dlg_layer_style.cpp:275 libs/ui/KisMainWindow.cpp:2463
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Name:"
@@ -20949,7 +20960,8 @@ msgid "Author"
 msgstr ""
 
 #: libs/ui/dialogs/kis_dlg_preferences.cc:1867
-#: libs/ui/KoDocumentInfoDlg.cpp:115 plugins/python/comics_project_management_tools/exporters/CPMT_EPUB_exporter.py:227
+#: libs/ui/KoDocumentInfoDlg.cpp:115
+#: plugins/python/comics_project_management_tools/exporters/CPMT_EPUB_exporter.py:227
 #, kde-format
 msgid "Author"
 msgstr ""
@@ -21185,8 +21197,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, labelRowCount)
 #: libs/ui/dialogs/KisDlgPaletteEditor.cpp:54
-#: libs/ui/forms/WdgDlgPaletteEditor.ui:108
-#: libs/ui/KisPaletteEditor.cpp:222
+#: libs/ui/forms/WdgDlgPaletteEditor.ui:108 libs/ui/KisPaletteEditor.cpp:222
 #, kde-format
 msgid "Rows of swatches in group:"
 msgstr ""
@@ -21691,7 +21702,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbProofingIntent)
 #. i18n: ectx: property (text), widget (QRadioButton, radioPerceptual)
 #: libs/ui/forms/wdgapplyprofile.ui:100 libs/ui/forms/wdgcolorsettings.ui:183
-#: libs/ui/forms/wdgcolorsettings.ui:274 libs/ui/forms/wdgimageproperties.ui:298
+#: libs/ui/forms/wdgcolorsettings.ui:274
+#: libs/ui/forms/wdgimageproperties.ui:298
 #: libs/ui/widgets/kis_advanced_color_space_selector.cc:485
 #: plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:45
 #, kde-format
@@ -21707,7 +21719,8 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioRelativeColorimetric)
-#: libs/ui/forms/wdgapplyprofile.ui:110 plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:66
+#: libs/ui/forms/wdgapplyprofile.ui:110
+#: plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:66
 #, kde-format
 msgid "Relative colorimetric"
 msgstr ""
@@ -21726,7 +21739,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbProofingIntent)
 #. i18n: ectx: property (text), widget (QRadioButton, radioSaturation)
 #: libs/ui/forms/wdgapplyprofile.ui:120 libs/ui/forms/wdgcolorsettings.ui:193
-#: libs/ui/forms/wdgcolorsettings.ui:284 libs/ui/forms/wdgimageproperties.ui:308
+#: libs/ui/forms/wdgcolorsettings.ui:284
+#: libs/ui/forms/wdgimageproperties.ui:308
 #: libs/ui/widgets/kis_advanced_color_space_selector.cc:494
 #: plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:89
 #, kde-format
@@ -21745,7 +21759,8 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioAbsoluteColorimetric)
-#: libs/ui/forms/wdgapplyprofile.ui:130 plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:110
+#: libs/ui/forms/wdgapplyprofile.ui:130
+#: plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:110
 #, kde-format
 msgid "Absolute colorimetric"
 msgstr ""
@@ -21790,7 +21805,8 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpPasteFrom)
 #. i18n: ectx: property (title), widget (QGroupBox, grpPasteBehaviour)
-#: libs/ui/forms/wdgcolorsettings.ui:69 libs/ui/forms/wdggeneralsettings.ui:1133
+#: libs/ui/forms/wdgcolorsettings.ui:69
+#: libs/ui/forms/wdggeneralsettings.ui:1133
 #, kde-format
 msgid "When Pasting Into Krita From Other Applications"
 msgstr ""
@@ -21826,7 +21842,8 @@ msgid "Use Blackpoint Compensation"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkAllowLCMSOptimization)
-#: libs/ui/forms/wdgcolorsettings.ui:116 plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:133
+#: libs/ui/forms/wdgcolorsettings.ui:116
+#: plugins/extensions/colorspaceconversion/wdgconvertcolorspace.ui:133
 #, kde-format
 msgid ""
 "Allow Little CMS optimizations (uncheck when using linear light RGB or XYZ)"
@@ -21879,7 +21896,8 @@ msgid "Absolute Colorimetric"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, bnAddColorProfile)
-#: libs/ui/forms/wdgcolorsettings.ui:222 libs/ui/widgets/kis_advanced_color_space_selector.cc:67
+#: libs/ui/forms/wdgcolorsettings.ui:222
+#: libs/ui/widgets/kis_advanced_color_space_selector.cc:67
 #: libs/ui/widgets/kis_color_space_selector.cc:55
 #, kde-format
 msgid "Import profile"
@@ -21904,20 +21922,23 @@ msgid "Proofing Rendering Intent:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblAdaptationState)
-#: libs/ui/forms/wdgcolorsettings.ui:297 libs/ui/forms/wdgimageproperties.ui:326
+#: libs/ui/forms/wdgcolorsettings.ui:297
+#: libs/ui/forms/wdgimageproperties.ui:326
 #, kde-format
 msgid "Adaptation State:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblGamutWarning)
-#: libs/ui/forms/wdgcolorsettings.ui:311 libs/ui/forms/wdgimageproperties.ui:350
+#: libs/ui/forms/wdgcolorsettings.ui:311
+#: libs/ui/forms/wdgimageproperties.ui:350
 #, kde-format
 msgid "Gamut Warning:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, ckbBlackPointComp)
 #. i18n: ectx: property (text), widget (QCheckBox, ckbProofBlackPoint)
-#: libs/ui/forms/wdgcolorsettings.ui:325 libs/ui/forms/wdgimageproperties.ui:367
+#: libs/ui/forms/wdgcolorsettings.ui:325
+#: libs/ui/forms/wdgimageproperties.ui:367
 #, kde-format
 msgid "Black Point Compensation"
 msgstr ""
@@ -22005,7 +22026,8 @@ msgid "Profile Properties"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
-#: libs/ui/forms/wdgcustompattern.ui:23 plugins/python/comics_project_management_tools/comics_metadata_dialog.py:408
+#: libs/ui/forms/wdgcustompattern.ui:23
+#: plugins/python/comics_project_management_tools/comics_metadata_dialog.py:408
 #, kde-format
 msgid "Source:"
 msgstr ""
@@ -22184,8 +22206,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, brushSizeLabel)
 #. i18n: ectx: property (text), widget (QLabel, lblSize)
 #. i18n: ectx: property (text), widget (QLabel, labelSize)
-#: libs/ui/forms/wdgdisplaysettings.ui:349
-#: libs/ui/kis_paintop_box.cc:254 libs/ui/kis_paintop_box.cc:260
+#: libs/ui/forms/wdgdisplaysettings.ui:349 libs/ui/kis_paintop_box.cc:254
+#: libs/ui/kis_paintop_box.cc:260
 #: plugins/generators/screentone/KisScreentoneConfigWidget.ui:414
 #: plugins/paintops/libpaintop/forms/wdgpredefinedbrushchooser.ui:185
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:2007
@@ -22209,8 +22231,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, opacityLbl)
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #. i18n: ectx: property (text), widget (QLabel, opacityLabel)
-#: libs/ui/forms/wdgdisplaysettings.ui:489
-#: libs/ui/kis_paintop_box.cc:252 libs/ui/kis_paintop_box.cc:258
+#: libs/ui/forms/wdgdisplaysettings.ui:489 libs/ui/kis_paintop_box.cc:252
+#: libs/ui/kis_paintop_box.cc:258
 #: plugins/dockers/layerdocker/WdgLayerBox.ui:107
 #: plugins/filters/noisefilter/wdgnoiseoptions.ui:56
 #: plugins/filters/randompickfilter/wdgrandompickoptions.ui:57
@@ -22365,7 +22387,8 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnPreviewMask)
 #. i18n: ectx: property (text), widget (QCheckBox, checkPreview)
 #. i18n: ectx: property (text), widget (QLabel, lblThumbnail)
-#: libs/ui/forms/wdgfilterdialog.ui:67 libs/widgetutils/KisPreviewFileDialog.cpp:50
+#: libs/ui/forms/wdgfilterdialog.ui:67
+#: libs/widgetutils/KisPreviewFileDialog.cpp:50
 #: plugins/dockers/gamutmask/forms/wdgGamutMaskChooser.ui:219
 #: plugins/dockers/recorder/recorder_profile_settings.ui:177
 #: plugins/extensions/resourcemanager/WdgDlgResourceManager.ui:98
@@ -22555,7 +22578,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
 #: libs/ui/forms/wdggeneralsettings.ui:295
 #: libs/ui/input/wintab/drawpile_tablettester/tablettest.ui:43
-#: plugins/dockers/lut/wdglut.ui:241 plugins/extensions/pykrita/plugin/krita/sceditor/mainwindow.ui:105
+#: plugins/dockers/lut/wdglut.ui:241
+#: plugins/extensions/pykrita/plugin/krita/sceditor/mainwindow.ui:105
 #: plugins/python/scripter/ui_scripter/tabwidgets/outputwidget/clearaction.py:21
 #, kde-format
 msgid "Clear"
@@ -23074,8 +23098,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, patternLabel)
 #. i18n: ectx: property (text), widget (QToolButton, btnPatternFill)
 #. i18n: ectx: attribute (title), widget (QWidget, tabPatterns)
-#: libs/ui/forms/wdggeometryoptions.ui:74
-#: libs/ui/widgets/KisDitherWidget.ui:50 libs/ui/widgets/KisDitherWidget.ui:91
+#: libs/ui/forms/wdggeometryoptions.ui:74 libs/ui/widgets/KisDitherWidget.ui:50
+#: libs/ui/widgets/KisDitherWidget.ui:91
 #: libs/ui/widgets/KoFillConfigWidget.ui:110
 #: plugins/generators/pattern/patterngenerator.h:41
 #: plugins/generators/pattern/wdgpatternoptions.ui:21
@@ -23146,8 +23170,8 @@ msgstr ""
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgImageProperties)
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgStrokeSelection)
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgNewImage)
-#: libs/ui/forms/wdgimageproperties.ui:18
-#: libs/ui/forms/wdgnewimage.ui:36 libs/ui/forms/wdgstrokeselectionproperties.ui:24
+#: libs/ui/forms/wdgimageproperties.ui:18 libs/ui/forms/wdgnewimage.ui:36
+#: libs/ui/forms/wdgstrokeselectionproperties.ui:24
 #, kde-format
 msgid "New Image"
 msgstr ""
@@ -23157,8 +23181,8 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, dimensions)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
 #. i18n: ectx: property (text), widget (QLabel, dimensionLbl)
-#: libs/ui/forms/wdgimageproperties.ui:28
-#: libs/ui/forms/wdgnewimage.ui:58 plugins/impex/brush/wdg_export_gih.ui:161
+#: libs/ui/forms/wdgimageproperties.ui:28 libs/ui/forms/wdgnewimage.ui:58
+#: plugins/impex/brush/wdg_export_gih.ui:161
 #: plugins/impex/pdf/pdfimportwidgetbase.ui:64
 #: plugins/impex/webp/dlg_webp_import.ui:34
 #, kde-format
@@ -23186,8 +23210,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. i18n: ectx: property (text), widget (QLabel, lblOpacity)
-#: libs/ui/forms/wdgimageproperties.ui:189
-#: libs/ui/forms/wdgnewimage.ui:430
+#: libs/ui/forms/wdgimageproperties.ui:189 libs/ui/forms/wdgnewimage.ui:430
 #, kde-format
 msgid "Background Opacity:"
 msgstr ""
@@ -23341,8 +23364,7 @@ msgid "Source FPS:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblName)
-#: libs/ui/forms/wdglayerproperties.ui:28
-#: libs/ui/forms/wdgnewimage.ui:634
+#: libs/ui/forms/wdglayerproperties.ui:28 libs/ui/forms/wdgnewimage.ui:634
 #, kde-format
 msgid "&Name:"
 msgstr ""
@@ -23542,7 +23564,8 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, grpImage)
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgImagesplit)
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgLayerSplit)
-#: libs/ui/forms/wdgnewimage.ui:78 plugins/extensions/imagesplit/wdg_imagesplit.ui:18
+#: libs/ui/forms/wdgnewimage.ui:78
+#: plugins/extensions/imagesplit/wdg_imagesplit.ui:18
 #: plugins/extensions/layersplit/wdg_layersplit.ui:18
 #, kde-format
 msgid "Image Size"
@@ -23568,21 +23591,24 @@ msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnLandscape)
 #. i18n: ectx: property (text), item, widget (QComboBox, pageOrientationComboBox)
-#: libs/ui/forms/wdgnewimage.ui:231 plugins/dockers/storyboarddocker/wdgexportstoryboard.ui:108
+#: libs/ui/forms/wdgnewimage.ui:231
+#: plugins/dockers/storyboarddocker/wdgexportstoryboard.ui:108
 #, kde-format
 msgid "Landscape"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnPortrait)
 #. i18n: ectx: property (text), item, widget (QComboBox, pageOrientationComboBox)
-#: libs/ui/forms/wdgnewimage.ui:250 plugins/dockers/storyboarddocker/wdgexportstoryboard.ui:103
+#: libs/ui/forms/wdgnewimage.ui:250
+#: plugins/dockers/storyboarddocker/wdgexportstoryboard.ui:103
 #, kde-format
 msgid "Portrait"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, grpClipboard)
 #. i18n: ectx: property (text), widget (QPushButton, clipboardButton)
-#: libs/ui/forms/wdgnewimage.ui:284 plugins/paintops/libpaintop/forms/wdgpredefinedbrushchooser.ui:94
+#: libs/ui/forms/wdgnewimage.ui:284
+#: plugins/paintops/libpaintop/forms/wdgpredefinedbrushchooser.ui:94
 #: plugins/paintops/libpaintop/kis_predefined_brush_chooser.cpp:325
 #, kde-format
 msgid "Clipboard"
@@ -23609,7 +23635,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, bnSaveAsPredefined)
 #. i18n: ectx: property (text), widget (QStatusBar, statusbar)
-#: libs/ui/forms/wdgnewimage.ui:398 libs/widgetutils/config/kstandardaction_p.h:32
+#: libs/ui/forms/wdgnewimage.ui:398
+#: libs/widgetutils/config/kstandardaction_p.h:32
 #: plugins/extensions/pykrita/plugin/krita/sceditor/mainwindow.ui:135
 #, kde-format
 msgid "&Save"
@@ -23638,7 +23665,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lblBackgroundStyle)
 #. i18n: ectx: property (text), widget (QLabel, labelBackground)
 #. i18n: ectx: property (text), widget (QLabel, mLabelBackground)
-#: libs/ui/forms/wdgnewimage.ui:484 plugins/filters/halftone/KisHalftoneConfigPageWidget.ui:175
+#: libs/ui/forms/wdgnewimage.ui:484
+#: plugins/filters/halftone/KisHalftoneConfigPageWidget.ui:175
 #: plugins/generators/screentone/KisScreentoneConfigWidget.ui:719
 #, kde-format
 msgid "Background:"
@@ -23752,8 +23780,7 @@ msgid "path"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, WdgPaintOpSettings)
-#: libs/ui/forms/wdgpaintopsettings.ui:18
-#: libs/ui/kis_paintop_box.cc:446
+#: libs/ui/forms/wdgpaintopsettings.ui:18 libs/ui/kis_paintop_box.cc:446
 #, kde-format
 msgid "Brush Editor"
 msgstr ""
@@ -23766,8 +23793,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, updateBrushNameButton)
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnSaveMask)
-#: libs/ui/forms/wdgpaintopsettings.ui:188
-#: libs/ui/KisMainWindow.cpp:973 libs/ui/widgets/kis_workspace_chooser.cpp:111
+#: libs/ui/forms/wdgpaintopsettings.ui:188 libs/ui/KisMainWindow.cpp:973
+#: libs/ui/widgets/kis_workspace_chooser.cpp:111
 #: libs/ui/widgets/kis_workspace_chooser.cpp:189
 #: plugins/dockers/gamutmask/forms/wdgGamutMaskChooser.ui:232
 #: plugins/generators/seexpr/wdgseexpr.ui:172
@@ -24575,7 +24602,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbGradientType)
 #: libs/ui/forms/wdgsegmentgradienteditor.ui:348
 #: libs/ui/layerstyles/WdgGradientOverlay.ui:138
-#: libs/ui/layerstyles/WdgStroke.ui:231 libs/ui/widgets/KoFillConfigWidget.ui:242
+#: libs/ui/layerstyles/WdgStroke.ui:231
+#: libs/ui/widgets/KoFillConfigWidget.ui:242
 #, kde-format
 msgctxt "Gradient type - Linear"
 msgid "Linear"
@@ -24784,7 +24812,8 @@ msgstr ""
 #: libs/ui/forms/wdgstrokeselectionproperties.ui:114
 #: libs/ui/forms/wdgstrokeselectionproperties.ui:232
 #: libs/ui/layerstyles/WdgColorOverlay.ui:27
-#: libs/ui/layerstyles/WdgStroke.ui:138 plugins/extensions/layersplit/layersplit.cpp:203
+#: libs/ui/layerstyles/WdgStroke.ui:138
+#: plugins/extensions/layersplit/layersplit.cpp:203
 #: plugins/generators/solid/colorgenerator.h:41
 #, kde-format
 msgid "Color"
@@ -24846,7 +24875,8 @@ msgid "High Pressure"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
-#: libs/ui/forms/wdgtabletsettings.ui:98 plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:55
+#: libs/ui/forms/wdgtabletsettings.ui:98
+#: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:55
 #: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:61
 #: plugins/paintops/colorsmudge/kis_smudge_option_widget.cpp:22
 #: plugins/paintops/defaultpaintops/brush/kis_brushop_settings_widget.cpp:67
@@ -24952,12 +24982,14 @@ msgstr ""
 msgid "Resize Canvas"
 msgstr ""
 
-#: libs/ui/imagesize/dlg_imagesize.cc:41 libs/ui/widgets/kis_custom_image_widget.cc:57
+#: libs/ui/imagesize/dlg_imagesize.cc:41
+#: libs/ui/widgets/kis_custom_image_widget.cc:57
 #, kde-format
 msgid "Pixels/Inch"
 msgstr ""
 
-#: libs/ui/imagesize/dlg_imagesize.cc:47 libs/ui/widgets/kis_custom_image_widget.cc:63
+#: libs/ui/imagesize/dlg_imagesize.cc:47
+#: libs/ui/widgets/kis_custom_image_widget.cc:63
 #, kde-format
 msgid "Pixels/Centimeter"
 msgstr ""
@@ -24993,8 +25025,7 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupNewSize)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: libs/ui/imagesize/wdg_canvassize.ui:30
-#: libs/ui/imagesize/wdg_layersize.ui:24
+#: libs/ui/imagesize/wdg_canvassize.ui:30 libs/ui/imagesize/wdg_layersize.ui:24
 #, kde-format
 msgid "New Size"
 msgstr ""
@@ -26014,7 +26045,8 @@ msgid "Custom Pattern"
 msgstr ""
 
 #: libs/ui/kis_control_frame.cpp:240 libs/ui/KisApplication.cpp:331
-#: libs/ui/KisApplication.cpp:332 plugins/extensions/resourcemanager/dlg_embed_tags.cpp:63
+#: libs/ui/KisApplication.cpp:332
+#: plugins/extensions/resourcemanager/dlg_embed_tags.cpp:63
 #: plugins/extensions/resourcemanager/wdgtagselection.cpp:245
 #, kde-format
 msgid "Gradients"
@@ -26494,7 +26526,8 @@ msgstr ""
 msgid "Canvas Only"
 msgstr ""
 
-#: libs/ui/kis_popup_palette.cpp:187 plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:47
+#: libs/ui/kis_popup_palette.cpp:187
+#: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:47
 #: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:48
 #: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:69
 #: plugins/paintops/colorsmudge/kis_colorsmudgeop_settings_widget.cpp:78
@@ -26666,7 +26699,8 @@ msgid ""
 "\t\tPlease configure more RAM for Krita in Settings dialog"
 msgstr ""
 
-#: libs/ui/kis_statusbar.cc:378 plugins/python/channels2layers/channels2layers.py:79
+#: libs/ui/kis_statusbar.cc:378
+#: plugins/python/channels2layers/channels2layers.py:79
 #, kde-format
 msgid "Hidden"
 msgstr ""
@@ -26676,7 +26710,8 @@ msgstr ""
 msgid "Ants"
 msgstr ""
 
-#: libs/ui/kis_statusbar.cc:380 plugins/paintops/libpaintop/kis_predefined_brush_chooser.cpp:361
+#: libs/ui/kis_statusbar.cc:380
+#: plugins/paintops/libpaintop/kis_predefined_brush_chooser.cpp:361
 #, kde-format
 msgid "Mask"
 msgstr ""
@@ -26710,7 +26745,8 @@ msgctxt "floating message about zoom"
 msgid "Zoom: %1 %"
 msgstr ""
 
-#: libs/ui/KisApplication.cpp:323 plugins/extensions/resourcemanager/wdgtagselection.cpp:239
+#: libs/ui/KisApplication.cpp:323
+#: plugins/extensions/resourcemanager/wdgtagselection.cpp:239
 #, kde-format
 msgid "Brush presets"
 msgstr ""
@@ -26722,7 +26758,8 @@ msgstr ""
 msgid "Brush tips"
 msgstr ""
 
-#: libs/ui/KisApplication.cpp:334 plugins/extensions/resourcemanager/dlg_embed_tags.cpp:66
+#: libs/ui/KisApplication.cpp:334
+#: plugins/extensions/resourcemanager/dlg_embed_tags.cpp:66
 #: plugins/extensions/resourcemanager/wdgtagselection.cpp:243
 #, kde-format
 msgid "Palettes"
@@ -26745,7 +26782,8 @@ msgstr ""
 msgid "Window layouts"
 msgstr ""
 
-#: libs/ui/KisApplication.cpp:351 plugins/extensions/resourcemanager/wdgtagselection.cpp:246
+#: libs/ui/KisApplication.cpp:351
+#: plugins/extensions/resourcemanager/wdgtagselection.cpp:246
 #, kde-format
 msgid "Gamut masks"
 msgstr ""
@@ -27492,12 +27530,14 @@ msgctxt "@action:inmenu"
 msgid "Wor&kspace"
 msgstr ""
 
-#: libs/ui/KisMainWindow.cpp:561 plugins/tools/svgtexttool/SvgTextEditor.cpp:314
+#: libs/ui/KisMainWindow.cpp:561
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:314
 #, kde-format
 msgid "Show %1 Toolbar"
 msgstr ""
 
-#: libs/ui/KisMainWindow.cpp:563 plugins/tools/svgtexttool/SvgTextEditor.cpp:316
+#: libs/ui/KisMainWindow.cpp:563
+#: plugins/tools/svgtexttool/SvgTextEditor.cpp:316
 #, kde-format
 msgid "Hide %1 Toolbar"
 msgstr ""
@@ -27546,7 +27586,8 @@ msgstr ""
 msgid "Saving As"
 msgstr ""
 
-#: libs/ui/KisMainWindow.cpp:1565 libs/widgetutils/config/kstandardaction_p.h:29
+#: libs/ui/KisMainWindow.cpp:1565
+#: libs/widgetutils/config/kstandardaction_p.h:29
 #, kde-format
 msgid "Create new document"
 msgstr ""
@@ -27566,7 +27607,8 @@ msgstr ""
 msgid "Layers/Masks"
 msgstr ""
 
-#: libs/ui/KisMainWindow.cpp:1809 plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:181
+#: libs/ui/KisMainWindow.cpp:1809
+#: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:181
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:279
 #, kde-format
 msgid "You don't have any resource bundles enabled."
@@ -27580,7 +27622,8 @@ msgid ""
 "presets before continuing.\n"
 msgstr ""
 
-#: libs/ui/KisMainWindow.cpp:1823 plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:191
+#: libs/ui/KisMainWindow.cpp:1823
+#: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:191
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:291
 #, kde-format
 msgid ""
@@ -27813,7 +27856,8 @@ msgctxt "Fetching remote image"
 msgid "Could not download %1."
 msgstr ""
 
-#: libs/ui/KisTemplateCreateDia.cpp:87 plugins/python/comics_project_management_tools/comics_template_dialog.py:91
+#: libs/ui/KisTemplateCreateDia.cpp:87
+#: plugins/python/comics_project_management_tools/comics_template_dialog.py:91
 #, kde-format
 msgid "Create Template"
 msgstr ""
@@ -27851,7 +27895,8 @@ msgstr ""
 msgid "&Preview"
 msgstr ""
 
-#: libs/ui/KisTemplateCreateDia.cpp:137 libs/widgetutils/xmlgui/KisShortcutEditWidget.cpp:58
+#: libs/ui/KisTemplateCreateDia.cpp:137
+#: libs/widgetutils/xmlgui/KisShortcutEditWidget.cpp:58
 #, kde-format
 msgid "Custom:"
 msgstr ""
@@ -28083,7 +28128,8 @@ msgid ""
 "krita.org website"
 msgstr ""
 
-#: libs/ui/KisWelcomePageWidget.cpp:151 plugins/python/comics_project_management_tools/comics_metadata_dialog.py:343
+#: libs/ui/KisWelcomePageWidget.cpp:151
+#: plugins/python/comics_project_management_tools/comics_metadata_dialog.py:343
 #, kde-format
 msgid "Language"
 msgstr ""
@@ -28191,8 +28237,8 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:27
 #: libs/ui/layerstyles/wdgdropshadow.ui:113
-#: libs/ui/layerstyles/wdgInnerGlow.ui:27
-#: libs/ui/layerstyles/WdgSatin.ui:27 libs/ui/layerstyles/WdgStroke.ui:27
+#: libs/ui/layerstyles/wdgInnerGlow.ui:27 libs/ui/layerstyles/WdgSatin.ui:27
+#: libs/ui/layerstyles/WdgStroke.ui:27
 #: plugins/extensions/metadataeditor/kis_meta_data_model.cpp:72
 #, kde-format
 msgid "Structure"
@@ -28334,8 +28380,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkAntiAliased)
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:263
 #: libs/ui/layerstyles/wdgContour.ui:48 libs/ui/layerstyles/wdgdropshadow.ui:78
-#: libs/ui/layerstyles/wdgInnerGlow.ui:297
-#: libs/ui/layerstyles/WdgSatin.ui:162
+#: libs/ui/layerstyles/wdgInnerGlow.ui:297 libs/ui/layerstyles/WdgSatin.ui:162
 #, kde-format
 msgid "Anti-aliased"
 msgstr ""
@@ -28395,7 +28440,8 @@ msgstr ""
 #: libs/ui/layerstyles/wdgInnerGlow.ui:81
 #: libs/ui/layerstyles/wdgInnerGlow.ui:113
 #: libs/ui/layerstyles/WdgPatternOverlay.ui:84
-#: libs/ui/layerstyles/WdgSatin.ui:92 plugins/dockers/layerdocker/WdgLayerBox.ui:123
+#: libs/ui/layerstyles/WdgSatin.ui:92
+#: plugins/dockers/layerdocker/WdgLayerBox.ui:123
 #, kde-format
 msgid "Adjust the transparency of the layer"
 msgstr ""
@@ -28616,7 +28662,8 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #. i18n: ectx: property (text), item, widget (QListWidget, lstStyleSelector)
-#: libs/ui/layerstyles/wdgContour.ui:21 libs/ui/layerstyles/wdglayerstyles.ui:84
+#: libs/ui/layerstyles/wdgContour.ui:21
+#: libs/ui/layerstyles/wdglayerstyles.ui:84
 #, kde-format
 msgid "Contour"
 msgstr ""
@@ -28632,8 +28679,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: libs/ui/layerstyles/wdgContour.ui:33 libs/ui/layerstyles/wdgdropshadow.ui:56
-#: libs/ui/layerstyles/wdgInnerGlow.ui:285
-#: libs/ui/layerstyles/WdgSatin.ui:149
+#: libs/ui/layerstyles/wdgInnerGlow.ui:285 libs/ui/layerstyles/WdgSatin.ui:149
 #, kde-format
 msgid "Contour:"
 msgstr ""
@@ -28654,7 +28700,8 @@ msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (KisSliderSpinBox, intRange)
 #. i18n: ectx: property (toolTip), widget (KisSliderSpinBox, intNoise)
-#: libs/ui/layerstyles/wdgContour.ui:73 libs/ui/layerstyles/wdgdropshadow.ui:103
+#: libs/ui/layerstyles/wdgContour.ui:73
+#: libs/ui/layerstyles/wdgdropshadow.ui:103
 #, kde-format
 msgid "Add noise to shadow"
 msgstr ""
@@ -28702,29 +28749,25 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #. i18n: ectx: property (text), widget (QLabel, label_13)
-#: libs/ui/layerstyles/wdgdropshadow.ui:119
-#: libs/ui/layerstyles/WdgStroke.ui:88
+#: libs/ui/layerstyles/wdgdropshadow.ui:119 libs/ui/layerstyles/WdgStroke.ui:88
 #, kde-format
 msgid "&Blend Mode:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_14)
-#: libs/ui/layerstyles/wdgdropshadow.ui:149
-#: libs/ui/layerstyles/WdgSatin.ui:67
+#: libs/ui/layerstyles/wdgdropshadow.ui:149 libs/ui/layerstyles/WdgSatin.ui:67
 #, kde-format
 msgid "Opaci&ty:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: libs/ui/layerstyles/wdgdropshadow.ui:181
-#: libs/ui/layerstyles/WdgSatin.ui:99
+#: libs/ui/layerstyles/wdgdropshadow.ui:181 libs/ui/layerstyles/WdgSatin.ui:99
 #, kde-format
 msgid "An&gle:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#: libs/ui/layerstyles/wdgdropshadow.ui:194
-#: libs/ui/layerstyles/WdgSatin.ui:109
+#: libs/ui/layerstyles/wdgdropshadow.ui:194 libs/ui/layerstyles/WdgSatin.ui:109
 #, kde-format
 msgid "&Distance:"
 msgstr ""
@@ -28737,8 +28780,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: libs/ui/layerstyles/wdgdropshadow.ui:234
-#: libs/ui/layerstyles/WdgSatin.ui:129 libs/ui/layerstyles/WdgStroke.ui:33
+#: libs/ui/layerstyles/wdgdropshadow.ui:234 libs/ui/layerstyles/WdgSatin.ui:129
+#: libs/ui/layerstyles/WdgStroke.ui:33
 #, kde-format
 msgid "S&ize:"
 msgstr ""
@@ -28755,7 +28798,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFillType)
 #. i18n: ectx: property (text), widget (QToolButton, btnGradientFill)
 #: libs/ui/layerstyles/WdgGradientOverlay.ui:27
-#: libs/ui/layerstyles/WdgStroke.ui:143 libs/ui/widgets/KoFillConfigWidget.ui:88
+#: libs/ui/layerstyles/WdgStroke.ui:143
+#: libs/ui/widgets/KoFillConfigWidget.ui:88
 #: plugins/generators/gradient/KisGradientGenerator.h:33
 #: plugins/paintops/libpaintop/kis_color_source_option.cpp:43
 #: plugins/paintops/libpaintop/kis_pressure_gradient_option.cpp:14
@@ -28786,7 +28830,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbStyle)
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbGradientType)
 #: libs/ui/layerstyles/WdgGradientOverlay.ui:143
-#: libs/ui/layerstyles/WdgStroke.ui:236 libs/ui/widgets/KoFillConfigWidget.ui:247
+#: libs/ui/layerstyles/WdgStroke.ui:236
+#: libs/ui/widgets/KoFillConfigWidget.ui:247
 #, kde-format
 msgid "Radial"
 msgstr ""
@@ -28938,15 +28983,15 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QListWidget, lstStyleSelector)
 #. i18n: ectx: attribute (title), widget (QWidget, textureTab)
 #: libs/ui/layerstyles/wdglayerstyles.ui:95
-#: libs/ui/layerstyles/wdgTexture.ui:21 plugins/paintops/libpaintop/forms/wdgtexturechooser.ui:31
+#: libs/ui/layerstyles/wdgTexture.ui:21
+#: plugins/paintops/libpaintop/forms/wdgtexturechooser.ui:31
 #, kde-format
 msgid "Texture"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #. i18n: ectx: property (text), item, widget (QListWidget, lstStyleSelector)
-#: libs/ui/layerstyles/wdglayerstyles.ui:106
-#: libs/ui/layerstyles/WdgSatin.ui:21
+#: libs/ui/layerstyles/wdglayerstyles.ui:106 libs/ui/layerstyles/WdgSatin.ui:21
 #, kde-format
 msgid "Satin"
 msgstr ""
@@ -29080,7 +29125,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, colorLabel3)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #. i18n: ectx: property (text), widget (QLabel, label_20)
-#: libs/ui/layerstyles/WdgStroke.ui:163 libs/ui/widgets/KoFillConfigWidget.ui:176
+#: libs/ui/layerstyles/WdgStroke.ui:163
+#: libs/ui/widgets/KoFillConfigWidget.ui:176
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:306
 #: plugins/filters/colors/wdgcolortoalphabase.ui:44
 #: plugins/filters/phongbumpmap/wdgphongbumpmap.ui:462
@@ -29198,7 +29244,8 @@ msgid ""
 "mask."
 msgstr ""
 
-#: libs/ui/tool/kis_tool_freehand.cc:200 libs/ui/tool/kis_tool_polyline_base.cpp:81
+#: libs/ui/tool/kis_tool_freehand.cc:200
+#: libs/ui/tool/kis_tool_polyline_base.cpp:81
 #: libs/ui/tool/kis_tool_rectangle_base.cpp:125
 #: libs/ui/tool/KisToolOutlineBase.cpp:88
 #: plugins/tools/basictools/kis_tool_line.cc:175
@@ -30446,7 +30493,8 @@ msgstr ""
 
 #: libs/ui/widgets/kis_paintop_presets_chooser_popup.cpp:72
 #: libs/ui/widgets/kis_paintop_presets_editor.cpp:155
-#: libs/widgets/KoToolBoxDocker.cpp:136 libs/widgetutils/xmlgui/ktoolbar.cpp:321
+#: libs/widgets/KoToolBoxDocker.cpp:136
+#: libs/widgetutils/xmlgui/ktoolbar.cpp:321
 #: plugins/dockers/svgcollectiondocker/SvgSymbolCollectionDocker.cpp:200
 #, kde-format
 msgid "Icon Size"
@@ -30807,7 +30855,8 @@ msgstr ""
 #. i18n: ectx: property (prefix), widget (QStackedWidget, thresholdModeStackedWidget)
 #. i18n: ectx: property (prefix), widget (QStackedWidget, stackedWidgetColorMode)
 #. i18n: ectx: property (prefix), widget (QStackedWidget, alphaModeStackedWidget)
-#: libs/ui/widgets/KisDitherWidget.ui:78 plugins/filters/gradientmap/KisGradientMapFilterConfigWidget.ui:139
+#: libs/ui/widgets/KisDitherWidget.ui:78
+#: plugins/filters/gradientmap/KisGradientMapFilterConfigWidget.ui:139
 #: plugins/filters/palettize/palettize.ui:211
 #, kde-format
 msgid "Amount:  "
@@ -31122,7 +31171,8 @@ msgstr ""
 msgid "%1:"
 msgstr ""
 
-#: libs/widgets/kis_color_input.cpp:371 libs/widgets/KoEditColorSetDialog.cpp:159
+#: libs/widgets/kis_color_input.cpp:371
+#: libs/widgets/KoEditColorSetDialog.cpp:159
 #, kde-format
 msgid "Color name:"
 msgstr ""
@@ -34931,7 +34981,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, shapeCBox)
 #. i18n: ectx: property (text), item, widget (KComboBox, cbShape)
 #: plugins/dockers/griddocker/grid_config_widget.cpp:52
-#: plugins/filters/blur/wdgblur.ui:81 plugins/flake/pathshapes/rectangle/RectangleShapeFactory.cpp:24
+#: plugins/filters/blur/wdgblur.ui:81
+#: plugins/flake/pathshapes/rectangle/RectangleShapeFactory.cpp:24
 #: plugins/paintops/gridbrush/wdggridbrushshapeoptions.ui:46
 #: plugins/paintops/libpaintop/forms/wdgBrushSizeOptions.ui:267
 #: plugins/paintops/spray/wdgsprayshapeoptions.ui:75
@@ -35438,7 +35489,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #. i18n: ectx: property (text), widget (QLabel, m_lblExposure)
-#: plugins/dockers/lut/wdglut.ui:139 plugins/filters/dodgeburn/DodgeBurnConfigurationBaseWidget.ui:59
+#: plugins/dockers/lut/wdglut.ui:139
+#: plugins/filters/dodgeburn/DodgeBurnConfigurationBaseWidget.ui:59
 #, kde-format
 msgid "Exposure:"
 msgstr ""
@@ -39535,7 +39587,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: plugins/filters/blur/wdg_gaussian_blur.ui:72
-#: plugins/filters/blur/wdgblur.ui:33 plugins/filters/convertheightnormalmap/kis_wdg_convert_height_to_normal_map.cpp:42
+#: plugins/filters/blur/wdgblur.ui:33
+#: plugins/filters/convertheightnormalmap/kis_wdg_convert_height_to_normal_map.cpp:42
 #: plugins/filters/edgedetection/kis_wdg_edge_detection.cpp:40
 #, kde-format
 msgid "Vertical Radius:"
@@ -39544,7 +39597,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
 #: plugins/filters/blur/wdg_gaussian_blur.ui:82
-#: plugins/filters/blur/wdgblur.ui:124 plugins/filters/convertheightnormalmap/kis_wdg_convert_height_to_normal_map.cpp:37
+#: plugins/filters/blur/wdgblur.ui:124
+#: plugins/filters/convertheightnormalmap/kis_wdg_convert_height_to_normal_map.cpp:37
 #: plugins/filters/edgedetection/kis_wdg_edge_detection.cpp:35
 #, kde-format
 msgid "Horizontal Radius:"
@@ -39565,8 +39619,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
 #. i18n: ectx: property (text), widget (QLabel, labelShape)
 #. i18n: ectx: property (text), widget (QLabel, labeShape)
-#: plugins/filters/blur/wdg_lens_blur.ui:33
-#: plugins/filters/blur/wdgblur.ui:46 plugins/filters/wavefilter/wdgwaveoptions.ui:129
+#: plugins/filters/blur/wdg_lens_blur.ui:33 plugins/filters/blur/wdgblur.ui:46
+#: plugins/filters/wavefilter/wdgwaveoptions.ui:129
 #: plugins/filters/wavefilter/wdgwaveoptions.ui:238
 #: plugins/generators/gradient/KisGradientGeneratorConfigWidget.ui:81
 #: plugins/generators/screentone/KisScreentoneConfigWidget.ui:95
@@ -39609,7 +39663,8 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: plugins/filters/blur/wdg_motion_blur.ui:23
-#: plugins/filters/blur/wdgblur.ui:62 plugins/generators/gradient/KisGradientGeneratorConfigWidget.ui:436
+#: plugins/filters/blur/wdgblur.ui:62
+#: plugins/generators/gradient/KisGradientGeneratorConfigWidget.ui:436
 #: plugins/paintops/hatching/wdghatchingoptions.ui:53
 #: plugins/paintops/libpaintop/forms/wdgautobrush.ui:160
 #: plugins/paintops/libpaintop/forms/wdgBrushSizeOptions.ui:220
@@ -39631,7 +39686,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboBoxShape)
 #. i18n: ectx: property (text), item, widget (KComboBox, cbShape)
-#: plugins/filters/blur/wdgblur.ui:76 plugins/paintops/libpaintop/forms/wdgautobrush.ui:96
+#: plugins/filters/blur/wdgblur.ui:76
+#: plugins/paintops/libpaintop/forms/wdgautobrush.ui:96
 #, kde-format
 msgid "Circle"
 msgstr ""
@@ -44411,7 +44467,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, btnUpdate)
 #. i18n: ectx: property (text), widget (QPushButton, pushButtonUpdate)
-#: plugins/impex/raw/wdgrawimport.ui:33 plugins/tools/tool_lazybrush/kis_tool_lazy_brush_options_widget.ui:30
+#: plugins/impex/raw/wdgrawimport.ui:33
+#: plugins/tools/tool_lazybrush/kis_tool_lazy_brush_options_widget.ui:30
 #, kde-format
 msgid "Update"
 msgstr ""
