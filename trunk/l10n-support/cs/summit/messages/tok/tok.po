@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-09 10:34+0100\n"
+"POT-Creation-Date: 2022-02-16 10:50+0100\n"
 "PO-Revision-Date: 2022-01-14 15:38+0100\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -176,22 +176,18 @@ msgstr "Kontrola pravopisu"
 #. +> trunk5
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
 #, kde-format
-#| msgid "No suggestions for %1"
 msgid "No suggestions for \"%1\""
 msgstr "Žádné návrhy pro \"%1\""
 
 #. +> trunk5
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
 #, kde-format
-#| msgid "Add to dictionary"
 msgid "Add \"%1\" to dictionary"
 msgstr "Přidat \"%1\" do slovníku"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
 #, kde-format
-#| msgctxt "@info:status"
-#| msgid "Ignored: %1"
 msgid "Ignore \"%1\""
 msgstr "Ignorovat \"%1\""
 
@@ -573,7 +569,6 @@ msgstr "Nepodporováno"
 #. +> trunk5
 #: data/components/SearchField.qml:8
 #, kde-format
-#| msgid "Search…"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
 msgstr "Hledat…"
@@ -665,7 +660,6 @@ msgstr " od %1"
 #. +> trunk5
 #: data/components/UserDataSheet.qml:101
 #, kde-format
-#| msgid " from %1"
 msgid "Kick from \"%1\""
 msgstr "Vykopnout z \"%1\""
 
@@ -1297,7 +1291,6 @@ msgstr "Vzhled"
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:70
 #, kde-format
-#| msgid "Spell checking"
 msgid "Spellchecking"
 msgstr "Kontrola pravopisu"
 
@@ -1340,9 +1333,8 @@ msgstr "Jazyk kontroly pravopisu"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:112
 #, kde-format
-#| msgid "Default language:"
 msgid "Default language"
 msgstr "Výchozí jazyk"
 
@@ -1411,7 +1403,6 @@ msgstr "Vybrat počet řádků automaticky:"
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
-#| msgid "Languages"
 msgid "Language list"
 msgstr "Seznam jazyků"
 
