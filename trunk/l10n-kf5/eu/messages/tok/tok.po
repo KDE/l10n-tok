@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-16 00:45+0000\n"
+"POT-Creation-Date: 2022-02-17 00:45+0000\n"
 "PO-Revision-Date: 2021-10-11 00:51+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -148,23 +148,23 @@ msgctxt "text editing menu action"
 msgid "Select All"
 msgstr "Hautatu dena"
 
-#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
+#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:102
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
 msgstr ""
 
-#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
+#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
 msgstr ""
 
-#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
+#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
 msgstr ""
 
-#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
+#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
 msgstr ""

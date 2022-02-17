@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-16 00:45+0000\n"
+"POT-Creation-Date: 2022-02-17 00:45+0000\n"
 "PO-Revision-Date: 2022-01-25 10:49+0100\n"
 "Last-Translator: Kristof Kiszel <ulysses@fsf.hu>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
@@ -145,23 +145,23 @@ msgctxt "text editing menu action"
 msgid "Select All"
 msgstr "Összes kijelölése"
 
-#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
+#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:102
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
 msgstr "Helyesírás-ellenőrzés"
 
-#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
+#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
 msgstr "Nincs javaslat erre: „%1”"
 
-#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
+#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
 msgstr "„%1” hozzáadása a szótárhoz"
 
-#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
+#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
 msgstr "„%1” mellőzése"
