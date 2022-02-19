@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-01 10:16+0100\n"
+"POT-Creation-Date: 2022-02-17 10:34+0100\n"
 "PO-Revision-Date: 2021-11-14 20:07+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -165,26 +165,26 @@ msgid "Select All"
 msgstr "모두 선택"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
+#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:102
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
 msgstr "맞춤법 검사"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
+#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
 msgstr "\"%1\"의 추천 목록 없음"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
+#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
 msgstr "사전에 \"%1\" 추가"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
+#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
 msgstr "\"%1\" 무시"
@@ -563,6 +563,14 @@ msgid "Unsupported"
 msgstr "지원하지 않음"
 
 #. +> trunk5
+#: data/components/SearchField.qml:8
+#, fuzzy, kde-format
+#| msgid "Search"
+msgctxt "placeholder text for a search field"
+msgid "Search…"
+msgstr "검색"
+
+#. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
 msgctxt "dialog title"
@@ -740,14 +748,14 @@ msgid "Create New..."
 msgstr "새로 만들기..."
 
 #. +> trunk5
-#: data/routes/Chats.qml:245
+#: data/routes/Chats.qml:246
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
 msgstr[0] "읽지 않은 메시지 %1개가 있습니다."
 
 #. +> trunk5
-#: data/routes/Chats.qml:248
+#: data/routes/Chats.qml:249
 #, kde-format
 msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
@@ -756,14 +764,14 @@ msgid "Latest message from %1: %2"
 msgstr "%1의 마지막 메시지: %2"
 
 #. +> trunk5
-#: data/routes/Chats.qml:250
+#: data/routes/Chats.qml:251
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
 msgstr "마지막 메시지: %1"
 
 #. +> trunk5
-#: data/routes/Chats.qml:392
+#: data/routes/Chats.qml:400
 #, kde-format
 msgid "No chats available."
 msgstr "대화가 없습니다."
@@ -840,31 +848,31 @@ msgid "Get Started"
 msgstr "시작하기"
 
 #. +> trunk5
-#: data/routes/messages/components/CompositionBar.qml:87
+#: data/routes/messages/components/CompositionBar.qml:90
 #, kde-format
 msgid "Edit Message"
 msgstr "메시지 편집"
 
 #. +> trunk5
-#: data/routes/messages/components/CompositionBar.qml:154
+#: data/routes/messages/components/CompositionBar.qml:157
 #, kde-format
 msgid "Attach file"
 msgstr "파일 첨부"
 
 #. +> trunk5
-#: data/routes/messages/components/CompositionBar.qml:248
+#: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "Write your message…"
 msgstr "메시지 쓰기..."
 
 #. +> trunk5
-#: data/routes/messages/components/CompositionBar.qml:248
+#: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "You cannot send messages."
 msgstr "메시지를 보낼 수 없습니다."
 
 #. +> trunk5
-#: data/routes/messages/components/CompositionBar.qml:361
+#: data/routes/messages/components/CompositionBar.qml:365
 #, kde-format
 msgid "Send message"
 msgstr "메시지 보내기"
@@ -968,13 +976,6 @@ msgstr "다운로드"
 #, kde-format
 msgid "GIF message."
 msgstr "GIF 메시지입니다."
-
-#. +> trunk5
-#: data/routes/messages/components/normal/MessageBackground.qml:128
-#, kde-format
-msgctxt "small text displayed by timestamp when message has been edited"
-msgid "edited"
-msgstr "편집됨"
 
 #. +> trunk5
 #: data/routes/messages/components/normal/PhotoMessage.qml:76
@@ -1301,29 +1302,29 @@ msgid "Log Out"
 msgstr "로그아웃"
 
 #. +> trunk5
-#: data/routes/settings/mobile/SpellcheckDefault.qml:27
+#: data/routes/settings/mobile/SpellcheckDefault.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Pick a default spellchecking language…"
 msgstr "기본 맞춤법 검사 언어 선택…"
 
 #. +> trunk5
-#: data/routes/settings/mobile/SpellcheckDictionary.qml:27
+#: data/routes/settings/mobile/SpellcheckDictionary.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Dictionary"
 msgstr "맞춤법 검사 사전"
 
 #. +> trunk5
-#: data/routes/settings/mobile/SpellcheckLanguageList.qml:27
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:29
 #, kde-format
 msgctxt "title"
 msgid "Spellchecking Languages"
 msgstr "맞춤법 검사 언어"
 
 #. +> trunk5
-#: data/routes/settings/mobile/SpellcheckLanguageList.qml:61
-#: data/routes/settings/SpellcheckSettings.qml:109
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
+#: data/routes/settings/SpellcheckSettings.qml:112
 #, kde-format
 msgid "Default language"
 msgstr "기본 언어"
@@ -1590,43 +1591,43 @@ msgid "Open spellchecking dictionary"
 msgstr "맞춤법 검사 사전 열기"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckDictionary.qml:31
+#: data/routes/settings/SpellcheckDictionary.qml:33
 #, kde-format
 msgid "Dictionary for spellchecking"
 msgstr "맞춤법 검사 사전"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:29
+#: data/routes/settings/SpellcheckSettings.qml:31
 #, kde-format
 msgid "Enable automatic spellchecking"
 msgstr "자동 맞춤법 검사 사용"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:34
+#: data/routes/settings/SpellcheckSettings.qml:36
 #, kde-format
 msgid "Ignore capitalised words"
 msgstr "대문자 단어 무시"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:39
+#: data/routes/settings/SpellcheckSettings.qml:41
 #, kde-format
 msgid "Ignore hyphenated words"
 msgstr "하이픈으로 연결된 단어 무시"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:45
+#: data/routes/settings/SpellcheckSettings.qml:47
 #, kde-format
 msgid "Default language for spellchecking:"
 msgstr "기본 맞춤법 검사 언어:"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:59
+#: data/routes/settings/SpellcheckSettings.qml:61
 #, kde-format
 msgid "Languages for spellchecking"
 msgstr "맞춤법 검사 언어"
 
 #. +> trunk5
-#: data/routes/settings/SpellcheckSettings.qml:62
+#: data/routes/settings/SpellcheckSettings.qml:64
 #, kde-format
 msgid "Detect language to spellcheck automatically from below list"
 msgstr "아래 목록에서 자동으로 언어 감지"
@@ -1638,19 +1639,27 @@ msgid "All Chats"
 msgstr "모든 대화"
 
 #. +> trunk5
-#: src/chatsstore.cpp:197 src/chatsstore.cpp:200
+#: src/chatsstore.cpp:145
+#, fuzzy, kde-format
+#| msgid "Send message"
+msgctxt "title for a chat consisting of saved messages"
+msgid "Saved Messages"
+msgstr "메시지 보내기"
+
+#. +> trunk5
+#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
 #, kde-format
 msgid "Group"
 msgstr "그룹"
 
 #. +> trunk5
-#: src/chatsstore.cpp:198
+#: src/chatsstore.cpp:214
 #, kde-format
 msgid "Private chat"
 msgstr "개인 대화"
 
 #. +> trunk5
-#: src/chatsstore.cpp:199
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Secret chat"
 msgstr "비밀 대화"
@@ -1967,6 +1976,11 @@ msgstr "마지막 온라인: %1"
 #, kde-format
 msgid "Unknown Status"
 msgstr "알 수 없는 상태"
+
+#, kde-format
+#~ msgctxt "small text displayed by timestamp when message has been edited"
+#~ msgid "edited"
+#~ msgstr "편집됨"
 
 #, kde-format
 #~ msgid ""
