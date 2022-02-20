@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This file is copyright:
 # This file is distributed under the same license as the tok package.
 #
-# Shinjo Park <kde@peremen.name>, 2021.
+# Shinjo Park <kde@peremen.name>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-17 10:34+0100\n"
-"PO-Revision-Date: 2021-11-14 20:07+0100\n"
+"PO-Revision-Date: 2022-02-20 21:06+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -564,11 +564,11 @@ msgstr "지원하지 않음"
 
 #. +> trunk5
 #: data/components/SearchField.qml:8
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr "검색"
+msgstr "검색…"
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:17
@@ -1506,8 +1506,7 @@ msgctxt "placeholder message"
 msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
-msgstr ""
-"추가한 프록시가 없습니다. 창 아래의 프록시 추가 단추를 사용하여 추가하십시오."
+msgstr "추가한 프록시가 없습니다. 창 아래의 프록시 추가 단추를 사용하여 추가하십시오."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
@@ -1640,11 +1639,11 @@ msgstr "모든 대화"
 
 #. +> trunk5
 #: src/chatsstore.cpp:145
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
-msgstr "메시지 보내기"
+msgstr "저장된 메시지"
 
 #. +> trunk5
 #: src/chatsstore.cpp:213 src/chatsstore.cpp:216
