@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-12-21 00:41+0000\n"
 "PO-Revision-Date: 2022-02-19 21:20+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Last-Translator: Theodore Dubois <tblodt@icloud.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/krita-appdata/tok/>\n"
 "Language: tok\n"
@@ -80,6 +80,8 @@ msgid ""
 "Into animation? Krita provides everything you need for traditional, hand-"
 "drawn animation"
 msgstr ""
+"sitelen li ken tawa! kepeken ilo Kita la sina ken sitelen e sitelen wan mute "
+"li ken pali e sitelen tawa kepeken ni"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.krita.appdata.xml:43
