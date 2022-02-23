@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-17 00:45+0000\n"
-"PO-Revision-Date: 2022-02-23 03:04+0000\n"
-"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
+"PO-Revision-Date: 2022-02-23 03:24+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
 "Language: tok\n"
@@ -123,19 +123,19 @@ msgstr "o sin e pali weka"
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Cut"
-msgstr ""
+msgstr "o tawa e sitelen tawa poki jo"
 
 #: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Copy"
-msgstr ""
+msgstr "o lon e sitelen sama lon poki jo"
 
 #: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Paste"
-msgstr ""
+msgstr "o pana tan poki jo"
 
 #: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
 #, kde-format
@@ -204,7 +204,7 @@ msgstr "linja meso"
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Monospace"
-msgstr ""
+msgstr "sitelen pi supa sama"
 
 #: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
 #, kde-format
@@ -381,7 +381,7 @@ msgstr ""
 #, kde-format
 msgctxt "menu"
 msgid "Help"
-msgstr ""
+msgstr "wile pona"
 
 #: data/components/GlobalMenu.qml:162
 #: data/components/GlobalMenuInWindow.qml:162
