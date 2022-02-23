@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-17 00:45+0000\n"
 "PO-Revision-Date: 2022-02-23 03:03+0000\n"
-"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
 "Language: tok\n"
@@ -84,7 +84,7 @@ msgstr "o lon e kulupu insa"
 #, kde-format
 msgctxt "menu"
 msgid "Public Group…"
-msgstr "kulupu open"
+msgstr "kulupu open…"
 
 #: data/components/CreateNewMenu.qml:130
 #: data/components/CreateNewMenuInWindow.qml:130
