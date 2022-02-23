@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-22 00:41+0000\n"
-"PO-Revision-Date: 2022-02-23 03:09+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2022-02-23 03:30+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/base/tok/>\n"
 "Language: tok\n"
@@ -1086,8 +1086,8 @@ msgid ""
 "strong></blockquote>"
 msgstr ""
 "nimi URL pi pana sina li pakala lukin. ona li wile lukin sama ni:\n"
-"<blockquote><strong>nasin://jan:nimilen@www.lipu.org:nanpa/poki/lipu.nimi?"
-"nimi=sona</strong></blockquote>"
+"<blockquote><strong>nasin://jan:nimilen@www.lipu.org:nanpa/poki/lipu."
+"nimi?nimi=sona</strong></blockquote>"
 
 #: core/job_error.cpp:485
 #, kde-format
@@ -1160,8 +1160,7 @@ msgstr "pali ni li ken ala: %1"
 msgid ""
 "The requested action is not supported by the KDE program which is "
 "implementing the <strong>%1</strong> protocol."
-msgstr ""
-"ilo KDE pi nasin toki <strong>%1</strong> li ken ala pali pi wile sina."
+msgstr "ilo KDE pi nasin toki <strong>%1</strong> li ken ala pali pi wile sina."
 
 #: core/job_error.cpp:526
 #, kde-format
@@ -1454,8 +1453,7 @@ msgid ""
 "A network firewall (a device which restricts Internet requests), either "
 "protecting your network or the network of the server, may have intervened, "
 "preventing this request."
-msgstr ""
-"ken la sinpin linluwi (pi ilo sina anu ilo linluwi) li weka e toki ilo."
+msgstr "ken la sinpin linluwi (pi ilo sina anu ilo linluwi) li weka e toki ilo."
 
 #: core/job_error.cpp:725
 #, kde-format
@@ -1889,8 +1887,8 @@ msgid ""
 "Please file a bug at <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/"
 "</a> to inform the KDE team of the unsupported authentication method."
 msgstr ""
-"o pana e lipu pi ilo pakala tawa <a href=\"https://bugs.kde.org/\">https://"
-"bugs.kde.org/</a> o toki e nasin pi sona ala."
+"o pana e lipu pi ilo pakala tawa <a href=\"https://bugs.kde.org/\""
+">https://bugs.kde.org/</a> o toki e nasin pi sona ala."
 
 #: core/job_error.cpp:1060
 #, kde-format
@@ -1907,8 +1905,7 @@ msgstr "ilo ante li pakala lon insa"
 msgid ""
 "The program on the server which provides access to the <strong>%1</strong> "
 "protocol has reported an internal error: %2."
-msgstr ""
-"ilo linluwi pi toki ilo <strong>%1</strong> li toki e pakala tan ni: %2"
+msgstr "ilo linluwi pi toki ilo <strong>%1</strong> li toki e pakala tan ni: %2"
 
 #: core/job_error.cpp:1076
 #, kde-format
@@ -3880,8 +3877,7 @@ msgstr ""
 #: ioslaves/file/file_unix.cpp:835
 #, kde-format
 msgid "Cannot copy file from %1 to %2. (Errno: %3)"
-msgstr ""
-"ilo li ken ala sama e lipu tan poki %1 tawa poki %2. (nanpa pakala: %3)"
+msgstr "ilo li ken ala sama e lipu tan poki %1 tawa poki %2. (nanpa pakala: %3)"
 
 #: ioslaves/file/file_unix.cpp:1062
 #, kde-format
@@ -5389,8 +5385,8 @@ msgstr ""
 "ni li lawa ala e ilo mute, sama ni: ilo <application>Firefox</application>, "
 "ilo <application>Chromium</application>, ilo <application>Konqueror</"
 "application> (pi kepeken ilo lili <application>WebEnginePart</application>), "
-"ilo <application>Akregator</application>, en ilo <application>Falkon</"
-"application>.\n"
+"ilo <application>Akregator</application>, en ilo "
+"<application>Falkon</application>.\n"
 "\n"
 "ken la ilo li jo e lawa ona."
 
@@ -5768,8 +5764,8 @@ msgstr ""
 "pini (.) lon open nimi linluwi sama ni: <i>.kde.org</i> li weka e lawa tawa "
 "ijo ale pi pini <i>kde.org</i> sama ni: apps.kde.org en invent.kde.org. sike "
 "* en nimi ? li pali ala.</p>\n"
-"<p>sina ken sitelen e nanpa linluwi kin. sama ni: 127.0.0.1 en "
-"192.168.0.1/24</p>\n"
+"<p>sina ken sitelen e nanpa linluwi kin. sama ni: 127.0.0.1 en 192.168.0.1/"
+"24</p>\n"
 "</qt>"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, useReverseProxyCheckBox)
@@ -6327,14 +6323,14 @@ msgstr ""
 "<qt>\n"
 "o sitelen e nimi URL pi ilo alasa lon poki ni.<br/>\n"
 "sitelen \\{@} en sitelen \\{0} li jo e sitelen alasa.<br/>\n"
-"o kepeken e \\{@} tan ni: ona li weka e nimi sona (nimi=ijo) tan nimi "
-"alasa.\n"
+"o kepeken e \\{@} tan ni: ona li weka e nimi sona (nimi=ijo) tan nimi alasa."
+"\n"
 "\\{0} li weka ala e nimi sona.<br/>\n"
 "sina ken kepeken \\{1} ... \\{nanpa} tawa sitelen e nimi pi nanpa ona.\n"
-"sina ken kepeken \\{nimi} tawa sitelen e nimi pi nimi sona (nimi=ijo) sama."
-"<br/>\n"
-"kin la, \\{} li ken jo e nimi mute sama ni: \\{nimi1, nimi2, ... \"nimi\"}."
-"<br/>\n"
+"sina ken kepeken \\{nimi} tawa sitelen e nimi pi nimi sona (nimi=ijo) sama.<"
+"br/>\n"
+"kin la, \\{} li ken jo e nimi mute sama ni: \\{nimi1, nimi2, ... \"nimi\"}.<"
+"br/>\n"
 "ijo lon nanpa wan li kepeken tawa nimi URL.<br/>\n"
 "ijo ale li lon ala la sitelen lon poki (\"\") li ken kepeken.\n"
 "</qt>"
