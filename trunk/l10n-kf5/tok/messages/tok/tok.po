@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-17 00:45+0000\n"
-"PO-Revision-Date: 2022-02-23 03:02+0000\n"
+"PO-Revision-Date: 2022-02-23 03:03+0000\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
@@ -91,14 +91,14 @@ msgstr "kulupu open"
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a public group"
-msgstr ""
+msgstr "o lon e kulupu open"
 
 #: data/components/CreateNewMenu.qml:133
 #: data/components/CreateNewMenuInWindow.qml:133
 #, kde-format
 msgctxt "menu"
 msgid "Channel…"
-msgstr ""
+msgstr "tomo pi pana toki…"
 
 #: data/components/CreateNewMenu.qml:134
 #: data/components/CreateNewMenuInWindow.qml:134
