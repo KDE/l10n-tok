@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-17 00:45+0000\n"
-"PO-Revision-Date: 2022-02-23 03:24+0000\n"
+"PO-Revision-Date: 2022-02-23 03:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
@@ -168,7 +168,7 @@ msgstr "o pana e nimi \"%1\" tawa lipu nimi"
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
+msgstr "nimi \"%1\" li pakala ala"
 
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
 #, kde-format
