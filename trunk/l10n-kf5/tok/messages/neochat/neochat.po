@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: neochat\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-19 00:43+0000\n"
+"POT-Creation-Date: 2022-02-23 00:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1148,42 +1148,42 @@ msgstr ""
 msgid "Compact"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:180
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:181
 #, kde-format
 msgid "In Chat"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:189
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:190
 #, kde-format
 msgid "In Sidebar"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:198
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:199
 #, kde-format
 msgid "Show Fancy Effects"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:208
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:209
 #, kde-format
 msgid "Theme:"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:213
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:214
 #, kde-format
 msgid "Use transparent chat page"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:224
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:225
 #, kde-format
 msgid "Transparency:"
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:238
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:239
 #, kde-format
 msgid "Only enabled if the transparent chat page is enabled."
 msgstr ""
 
-#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:245
+#: imports/NeoChat/Settings/AppearanceSettingsPage.qml:246
 #, kde-format
 msgid "Show your messages on the right"
 msgstr ""
@@ -1294,7 +1294,7 @@ msgstr ""
 msgid "Intermixed"
 msgstr ""
 
-#: imports/NeoChat/Settings/GeneralSettingsPage.qml:97
+#: imports/NeoChat/Settings/GeneralSettingsPage.qml:100
 #, kde-format
 msgid "Use s/text/replacement syntax to edit your last message"
 msgstr ""
