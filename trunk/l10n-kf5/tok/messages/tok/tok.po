@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-17 00:45+0000\n"
-"PO-Revision-Date: 2022-02-23 03:03+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2022-02-23 03:04+0000\n"
+"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
 "Language: tok\n"
@@ -105,19 +105,19 @@ msgstr "tomo pi pana toki…"
 #, kde-format
 msgctxt "dialog title"
 msgid "Create a broadcast channel"
-msgstr ""
+msgstr "o lon e tomo pi pana toki"
 
 #: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Undo"
-msgstr ""
+msgstr "o weka e pali"
 
 #: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Redo"
-msgstr ""
+msgstr "o sin e pali weka"
 
 #: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
 #, kde-format
@@ -141,7 +141,7 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action"
 msgid "Delete"
-msgstr ""
+msgstr "o weka"
 
 #: data/components/EditMenu.qml:94 data/components/EditMenuInWindow.qml:88
 #, kde-format
@@ -153,17 +153,17 @@ msgstr ""
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
+msgstr "pona sitelen"
 
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
+msgstr "nimi \"%1\" la pona sitelen li lon ala"
 
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
+msgstr "o pana e nimi \"%1\" tawa lipu nimi"
 
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
@@ -174,31 +174,31 @@ msgstr ""
 #, kde-format
 msgctxt "text menu editing action"
 msgid "Format"
-msgstr ""
+msgstr "nasin sitelen"
 
 #: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Bold"
-msgstr ""
+msgstr "sitelen wawa"
 
 #: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Italic"
-msgstr ""
+msgstr "sitelen linja"
 
 #: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Underline"
-msgstr ""
+msgstr "linja anpa"
 
 #: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Strikethrough"
-msgstr ""
+msgstr "linja meso"
 
 #: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
 #, kde-format
@@ -210,13 +210,13 @@ msgstr ""
 #, kde-format
 msgctxt "text editing menu action; applies format"
 msgid "Normal"
-msgstr ""
+msgstr "namako ala"
 
 #: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
 #, kde-format
 msgctxt "menu"
 msgid "Tok"
-msgstr ""
+msgstr "ilo Tok"
 
 #: data/components/GlobalMenu.qml:17 data/components/GlobalMenuInWindow.qml:17
 #, kde-format
@@ -229,20 +229,20 @@ msgstr "nasin ilo…"
 #, kde-format
 msgctxt "menu"
 msgid "Enable Notifications"
-msgstr ""
+msgstr "o kalama"
 
 #: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
 #: data/Content.qml:134
 #, kde-format
 msgctxt "menu"
 msgid "Disable Notifications"
-msgstr ""
+msgstr "o kalama ala"
 
 #: data/components/GlobalMenu.qml:26 data/components/GlobalMenuInWindow.qml:26
 #, kde-format
 msgctxt "menu"
 msgid "Log Out"
-msgstr ""
+msgstr "o tawa"
 
 #: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
 #: data/Content.qml:138
@@ -255,13 +255,13 @@ msgstr "o pini e ilo"
 #, kde-format
 msgctxt "menu"
 msgid "Chats"
-msgstr ""
+msgstr "tomo toki"
 
 #: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
 #, kde-format
 msgctxt "menu"
 msgid "Chat With…"
-msgstr ""
+msgstr "o toki tawa…"
 
 #: data/components/GlobalMenu.qml:92 data/components/GlobalMenuInWindow.qml:92
 #, kde-format
