@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-22 00:41+0000\n"
+"POT-Creation-Date: 2022-02-24 00:41+0000\n"
 "PO-Revision-Date: 2022-02-23 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
-"ante-toki-pi-ilo-kde/base/tok/>\n"
+"Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
+"ilo-kde/base/tok/>\n"
 "Language: tok\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,7 +46,7 @@ msgstr ""
 msgid "Unable to create io-slave: %1"
 msgstr "mi ken ala lon e ilo pi pali lipu: %1"
 
-#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1288
+#: core/copyjob.cpp:165 ioslaves/file/file_unix.cpp:1289
 #, kde-format
 msgctxt ""
 "The first arg is the path to the symlink that couldn't be created, the "
@@ -105,38 +105,38 @@ msgstr "ona li lon li poki"
 msgid "Trash"
 msgstr "ilo wile ala"
 
-#: core/desktopexecparser.cpp:315
+#: core/desktopexecparser.cpp:316
 #, kde-format
 msgid "No Exec field in %1"
 msgstr "lipu %1 li jo ala e poki \"Exec\""
 
-#: core/desktopexecparser.cpp:340
+#: core/desktopexecparser.cpp:341
 #, kde-format
 msgid "Could not find the program '%1'"
 msgstr "mi ken ala alasa e ilo '%1'"
 
-#: core/desktopexecparser.cpp:343
+#: core/desktopexecparser.cpp:344
 #, kde-format
 msgid ""
 "The program '%1' was found at '%2' but it is missing executable permissions."
 msgstr "ilo '%1' li lon '%2'. taso ona li ken ala kepeken."
 
-#: core/desktopexecparser.cpp:345
+#: core/desktopexecparser.cpp:346
 #, kde-format
 msgid "The program '%1' is missing executable permissions."
 msgstr "ilo '%1' li ken ala kepeken."
 
-#: core/desktopexecparser.cpp:359
+#: core/desktopexecparser.cpp:360
 #, kde-format
 msgid "Syntax error in command %1 coming from %2"
 msgstr "pakala sitelen lon %1 tan %2"
 
-#: core/desktopexecparser.cpp:491
+#: core/desktopexecparser.cpp:492
 #, kde-format
 msgid "Terminal %1 not found while trying to run %2"
 msgstr "mi wile kepeken %2 la mi ken ala alasa e ilo %1"
 
-#: core/desktopexecparser.cpp:507
+#: core/desktopexecparser.cpp:508
 #, kde-format
 msgid "Syntax error in command %1 while trying to run %2"
 msgstr "ilo %1 li wile kepeken e ilo %2, taso toki li ike lon ilo %1"
@@ -345,7 +345,7 @@ msgid ""
 "continue?"
 msgstr "wawa li wile tawa tawa ijo. sina wile ala wile awen pali?"
 
-#: core/job.cpp:299 ioslaves/file/file_unix.cpp:123
+#: core/job.cpp:299 ioslaves/file/file_unix.cpp:124
 #, kde-format
 msgid "Rename"
 msgstr "o ante e nimi"
@@ -357,7 +357,7 @@ msgid ""
 msgstr "wawa li wile tawa ante nimi. sina wile ala wile awen pali?"
 
 #: core/job.cpp:305 filewidgets/knewfilemenu.cpp:595
-#: ioslaves/file/file_unix.cpp:127
+#: ioslaves/file/file_unix.cpp:128
 #, kde-format
 msgid "Create Symlink"
 msgstr "o lon e nimi nanpa tu tawa ijo"
@@ -1086,8 +1086,8 @@ msgid ""
 "strong></blockquote>"
 msgstr ""
 "nimi URL pi pana sina li pakala lukin. ona li wile lukin sama ni:\n"
-"<blockquote><strong>nasin://jan:nimilen@www.lipu.org:nanpa/poki/lipu."
-"nimi?nimi=sona</strong></blockquote>"
+"<blockquote><strong>nasin://jan:nimilen@www.lipu.org:nanpa/poki/lipu.nimi?"
+"nimi=sona</strong></blockquote>"
 
 #: core/job_error.cpp:485
 #, kde-format
@@ -1160,7 +1160,8 @@ msgstr "pali ni li ken ala: %1"
 msgid ""
 "The requested action is not supported by the KDE program which is "
 "implementing the <strong>%1</strong> protocol."
-msgstr "ilo KDE pi nasin toki <strong>%1</strong> li ken ala pali pi wile sina."
+msgstr ""
+"ilo KDE pi nasin toki <strong>%1</strong> li ken ala pali pi wile sina."
 
 #: core/job_error.cpp:526
 #, kde-format
@@ -1453,7 +1454,8 @@ msgid ""
 "A network firewall (a device which restricts Internet requests), either "
 "protecting your network or the network of the server, may have intervened, "
 "preventing this request."
-msgstr "ken la sinpin linluwi (pi ilo sina anu ilo linluwi) li weka e toki ilo."
+msgstr ""
+"ken la sinpin linluwi (pi ilo sina anu ilo linluwi) li weka e toki ilo."
 
 #: core/job_error.cpp:725
 #, kde-format
@@ -1887,8 +1889,8 @@ msgid ""
 "Please file a bug at <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/"
 "</a> to inform the KDE team of the unsupported authentication method."
 msgstr ""
-"o pana e lipu pi ilo pakala tawa <a href=\"https://bugs.kde.org/\""
-">https://bugs.kde.org/</a> o toki e nasin pi sona ala."
+"o pana e lipu pi ilo pakala tawa <a href=\"https://bugs.kde.org/\">https://"
+"bugs.kde.org/</a> o toki e nasin pi sona ala."
 
 #: core/job_error.cpp:1060
 #, kde-format
@@ -1905,7 +1907,8 @@ msgstr "ilo ante li pakala lon insa"
 msgid ""
 "The program on the server which provides access to the <strong>%1</strong> "
 "protocol has reported an internal error: %2."
-msgstr "ilo linluwi pi toki ilo <strong>%1</strong> li toki e pakala tan ni: %2"
+msgstr ""
+"ilo linluwi pi toki ilo <strong>%1</strong> li toki e pakala tan ni: %2"
 
 #: core/job_error.cpp:1076
 #, kde-format
@@ -3541,7 +3544,7 @@ msgstr "ilo li lon ala linluwi"
 #. i18n: ectx: property (text), widget (QPushButton, sha1CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
-#: filewidgets/kurlnavigator.cpp:495 ioslaves/file/file_unix.cpp:134
+#: filewidgets/kurlnavigator.cpp:495 ioslaves/file/file_unix.cpp:135
 #: widgets/checksumswidget.ui:118 widgets/checksumswidget.ui:156
 #: widgets/checksumswidget.ui:194 widgets/checksumswidget.ui:232
 #, kde-format
@@ -3788,82 +3791,82 @@ msgstr "ilo Windows CE li ken ala weka e poki insa."
 msgid "Could not find program \"umount\""
 msgstr "mi ken ala alasa e ilo \"umount\""
 
-#: ioslaves/file/file_unix.cpp:99
+#: ioslaves/file/file_unix.cpp:100
 #, kde-format
 msgid "Change File Permissions"
 msgstr "o ante e lawa lipu"
 
-#: ioslaves/file/file_unix.cpp:100
+#: ioslaves/file/file_unix.cpp:101
 #, kde-format
 msgid "New Permissions: %1"
 msgstr "lawa sin: %1"
 
-#: ioslaves/file/file_unix.cpp:103
+#: ioslaves/file/file_unix.cpp:104
 #, kde-format
 msgid "Change File Owner"
 msgstr "o ante e jan jo"
 
-#: ioslaves/file/file_unix.cpp:104
+#: ioslaves/file/file_unix.cpp:105
 #, kde-format
 msgid "New Owner: UID=%1, GID=%2"
 msgstr "jan lawa sin: nimi UID=%1, nimi GID=%2"
 
-#: ioslaves/file/file_unix.cpp:107
+#: ioslaves/file/file_unix.cpp:108
 #, kde-format
 msgid "Remove File"
 msgstr "o weka e lipu"
 
-#: ioslaves/file/file_unix.cpp:110
+#: ioslaves/file/file_unix.cpp:111
 #, kde-format
 msgid "Remove Directory"
 msgstr "o weka e poki"
 
-#: ioslaves/file/file_unix.cpp:113
+#: ioslaves/file/file_unix.cpp:114
 #, kde-format
 msgid "Create Directory"
 msgstr "o pali e poki"
 
-#: ioslaves/file/file_unix.cpp:114
+#: ioslaves/file/file_unix.cpp:115
 #, kde-format
 msgid "Directory Permissions: %1"
 msgstr "ken poki: %1"
 
-#: ioslaves/file/file_unix.cpp:117
+#: ioslaves/file/file_unix.cpp:118
 #, kde-format
 msgid "Open File"
 msgstr "o open e lipu"
 
-#: ioslaves/file/file_unix.cpp:120
+#: ioslaves/file/file_unix.cpp:121
 #, kde-format
 msgid "Open Directory"
 msgstr "o open e poki lipu"
 
-#: ioslaves/file/file_unix.cpp:124
+#: ioslaves/file/file_unix.cpp:125
 #, kde-format
 msgid "New Filename: %1"
 msgstr "nimi lipu sin li %1"
 
-#: ioslaves/file/file_unix.cpp:128
+#: ioslaves/file/file_unix.cpp:129
 #, kde-format
 msgid "Target: %1"
 msgstr "pini tawa: %1"
 
-#: ioslaves/file/file_unix.cpp:131
+#: ioslaves/file/file_unix.cpp:132
 #, kde-format
 msgid "Change Timestamp"
 msgstr "o pana e tenpo ante"
 
-#: ioslaves/file/file_unix.cpp:135
+#: ioslaves/file/file_unix.cpp:136
 #, kde-format
 msgid "From: %1, To: %2"
 msgstr "tan: %1, tawa: %2"
 
-#: ioslaves/file/file_unix.cpp:138
+#: ioslaves/file/file_unix.cpp:139
 #, kde-format
 msgid "Unknown Action"
 msgstr "mi sona ala e pali ni"
 
-#: ioslaves/file/file_unix.cpp:143
+#: ioslaves/file/file_unix.cpp:144
 #, kde-format
 msgid ""
 "Action: %1\n"
@@ -3874,22 +3877,23 @@ msgstr ""
 "tan: %2\n"
 "%3"
 
-#: ioslaves/file/file_unix.cpp:835
+#: ioslaves/file/file_unix.cpp:836
 #, kde-format
 msgid "Cannot copy file from %1 to %2. (Errno: %3)"
-msgstr "ilo li ken ala sama e lipu tan poki %1 tawa poki %2. (nanpa pakala: %3)"
+msgstr ""
+"ilo li ken ala sama e lipu tan poki %1 tawa poki %2. (nanpa pakala: %3)"
 
-#: ioslaves/file/file_unix.cpp:1062
+#: ioslaves/file/file_unix.cpp:1063
 #, kde-format
 msgid "No media in device for %1"
 msgstr "ijo li lon ala ilo tawa %1"
 
-#: ioslaves/file/file_unix.cpp:1373
+#: ioslaves/file/file_unix.cpp:1374
 #, kde-format
 msgid "Could not get user id for given user name %1"
 msgstr "mi ken ala kama jo e nanpa jan tan nimi jan %1"
 
-#: ioslaves/file/file_unix.cpp:1385
+#: ioslaves/file/file_unix.cpp:1386
 #, kde-format
 msgid "Could not get group id for given group name %1"
 msgstr "mi ken ala kama jo e nanpa kulupu tan nimi kulupu %1"
@@ -5385,8 +5389,8 @@ msgstr ""
 "ni li lawa ala e ilo mute, sama ni: ilo <application>Firefox</application>, "
 "ilo <application>Chromium</application>, ilo <application>Konqueror</"
 "application> (pi kepeken ilo lili <application>WebEnginePart</application>), "
-"ilo <application>Akregator</application>, en ilo "
-"<application>Falkon</application>.\n"
+"ilo <application>Akregator</application>, en ilo <application>Falkon</"
+"application>.\n"
 "\n"
 "ken la ilo li jo e lawa ona."
 
@@ -5764,8 +5768,8 @@ msgstr ""
 "pini (.) lon open nimi linluwi sama ni: <i>.kde.org</i> li weka e lawa tawa "
 "ijo ale pi pini <i>kde.org</i> sama ni: apps.kde.org en invent.kde.org. sike "
 "* en nimi ? li pali ala.</p>\n"
-"<p>sina ken sitelen e nanpa linluwi kin. sama ni: 127.0.0.1 en 192.168.0.1/"
-"24</p>\n"
+"<p>sina ken sitelen e nanpa linluwi kin. sama ni: 127.0.0.1 en "
+"192.168.0.1/24</p>\n"
 "</qt>"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, useReverseProxyCheckBox)
@@ -6323,14 +6327,14 @@ msgstr ""
 "<qt>\n"
 "o sitelen e nimi URL pi ilo alasa lon poki ni.<br/>\n"
 "sitelen \\{@} en sitelen \\{0} li jo e sitelen alasa.<br/>\n"
-"o kepeken e \\{@} tan ni: ona li weka e nimi sona (nimi=ijo) tan nimi alasa."
-"\n"
+"o kepeken e \\{@} tan ni: ona li weka e nimi sona (nimi=ijo) tan nimi "
+"alasa.\n"
 "\\{0} li weka ala e nimi sona.<br/>\n"
 "sina ken kepeken \\{1} ... \\{nanpa} tawa sitelen e nimi pi nanpa ona.\n"
-"sina ken kepeken \\{nimi} tawa sitelen e nimi pi nimi sona (nimi=ijo) sama.<"
-"br/>\n"
-"kin la, \\{} li ken jo e nimi mute sama ni: \\{nimi1, nimi2, ... \"nimi\"}.<"
-"br/>\n"
+"sina ken kepeken \\{nimi} tawa sitelen e nimi pi nimi sona (nimi=ijo) sama."
+"<br/>\n"
+"kin la, \\{} li ken jo e nimi mute sama ni: \\{nimi1, nimi2, ... \"nimi\"}."
+"<br/>\n"
 "ijo lon nanpa wan li kepeken tawa nimi URL.<br/>\n"
 "ijo ale li lon ala la sitelen lon poki (\"\") li ken kepeken.\n"
 "</qt>"
