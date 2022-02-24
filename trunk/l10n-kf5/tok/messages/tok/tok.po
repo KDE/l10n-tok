@@ -267,41 +267,41 @@ msgstr "o toki tawa…"
 #, kde-format
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "ante"
 
 #: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
 #, kde-format
 msgctxt "menu"
 msgid "View"
-msgstr ""
+msgstr "lukin"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
 msgctxt "menu"
 msgid "Disable Compact Mode"
-msgstr ""
+msgstr "o lili ala e ilo"
 
 #: data/components/GlobalMenu.qml:100
 #: data/components/GlobalMenuInWindow.qml:100
 #, kde-format
 msgctxt "menu"
 msgid "Enable Compact Mode"
-msgstr ""
+msgstr "o lili e ilo"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Don't Use Image As Background"
-msgstr ""
+msgstr "o sitelen ala e monsi"
 
 #: data/components/GlobalMenu.qml:104
 #: data/components/GlobalMenuInWindow.qml:104
 #, kde-format
 msgctxt "menu"
 msgid "Use Image As Background"
-msgstr ""
+msgstr "o sitelen e monsi"
 
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
@@ -324,7 +324,7 @@ msgctxt ""
 "menu item that opens a UI element called the 'Quick Switcher', which offers "
 "a fast keyboard-based interface for switching in between chats."
 msgid "Open Quick Switcher"
-msgstr ""
+msgstr "o open e ilo tawa"
 
 #: data/components/GlobalMenu.qml:118
 #: data/components/GlobalMenuInWindow.qml:118
@@ -332,49 +332,49 @@ msgstr ""
 msgctxt ""
 "menu item offering access to more menu items to pick the colour scheme"
 msgid "Set Color Scheme"
-msgstr ""
+msgstr "o ante e nasin kule"
 
 #: data/components/GlobalMenu.qml:142
 #: data/components/GlobalMenuInWindow.qml:142
 #, kde-format
 msgctxt "menu"
 msgid "Format"
-msgstr ""
+msgstr "nasin sitelen"
 
 #: data/components/GlobalMenu.qml:146
 #: data/components/GlobalMenuInWindow.qml:146
 #, kde-format
 msgctxt "menu"
 msgid "Window"
-msgstr ""
+msgstr "sijelo ilo"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "o ala e lipu poka"
 
 #: data/components/GlobalMenu.qml:149
 #: data/components/GlobalMenuInWindow.qml:149
 #, kde-format
 msgctxt "menu"
 msgid "Show Sidebar"
-msgstr ""
+msgstr "o lon e lipu poka"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Exit Full Screen"
-msgstr ""
+msgstr "o weka tan ilo suli"
 
 #: data/components/GlobalMenu.qml:153
 #: data/components/GlobalMenuInWindow.qml:153
 #, kde-format
 msgctxt "menu"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "o tawa ilo suli"
 
 #: data/components/GlobalMenu.qml:159
 #: data/components/GlobalMenuInWindow.qml:159
@@ -388,17 +388,17 @@ msgstr "wile pona"
 #, kde-format
 msgctxt "menu"
 msgid "Telegram FAQ"
-msgstr ""
+msgstr "lipu sona pi ilo Telegram"
 
 #: data/components/PlaintextMessage.qml:23
 #, kde-format
 msgid "You"
-msgstr ""
+msgstr "sina"
 
 #: data/components/PlaintextMessage.qml:30
 #, kde-format
 msgid "GIF"
-msgstr ""
+msgstr "sitelen GIF"
 
 #: data/components/PlaintextMessage.qml:32
 #: data/routes/messages/components/GroupInformation.qml:130
@@ -406,7 +406,7 @@ msgstr ""
 #: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
 msgid "Music"
-msgstr ""
+msgstr "kalama musi"
 
 #: data/components/PlaintextMessage.qml:34
 #, kde-format
@@ -414,248 +414,248 @@ msgctxt ""
 "Specifically a file; I use Attachment in English because it sounds better "
 "than File in this context."
 msgid "Attachment"
-msgstr ""
+msgstr "lipu"
 
 #: data/components/PlaintextMessage.qml:36
 #, kde-format
 msgid "Photo"
-msgstr ""
+msgstr "sitelen"
 
 #: data/components/PlaintextMessage.qml:38
 #, kde-format
 msgid "Expired Photo"
-msgstr ""
+msgstr "sitelen weka"
 
 #: data/components/PlaintextMessage.qml:40
 #, kde-format
 msgid "Sticker"
-msgstr ""
+msgstr "sitelen pilin"
 
 #: data/components/PlaintextMessage.qml:42
 #, kde-format
 msgid "Video"
-msgstr ""
+msgstr "sitelen tawa"
 
 #: data/components/PlaintextMessage.qml:44
 #, kde-format
 msgid "Expired Video"
-msgstr ""
+msgstr "sitelen tawa weka"
 
 #: data/components/PlaintextMessage.qml:46
 #, kde-format
 msgid "Video Note"
-msgstr ""
+msgstr "sitelen tawa lili"
 
 #: data/components/PlaintextMessage.qml:48
 #, kde-format
 msgid "Voice Note"
-msgstr ""
+msgstr "kalama lili"
 
 #: data/components/PlaintextMessage.qml:50
 #, kde-format
 msgid "Location"
-msgstr ""
+msgstr "ma"
 
 #: data/components/PlaintextMessage.qml:52
 #, kde-format
 msgid "Venue"
-msgstr ""
+msgstr "tomo esun"
 
 #: data/components/PlaintextMessage.qml:54
 #, kde-format
 msgid "Contact"
-msgstr ""
+msgstr "jan"
 
 #: data/components/PlaintextMessage.qml:56
 #, kde-format
 msgid "Dice"
-msgstr ""
+msgstr "leko nanpa"
 
 #: data/components/PlaintextMessage.qml:58
 #, kde-format
 msgid "Game"
-msgstr ""
+msgstr "musi"
 
 #: data/components/PlaintextMessage.qml:60
 #, kde-format
 msgid "Poll"
-msgstr ""
+msgstr "wile sona"
 
 #: data/components/PlaintextMessage.qml:62
 #, kde-format
 msgid "Invoice"
-msgstr ""
+msgstr "wile mani"
 
 #: data/components/PlaintextMessage.qml:89
 #, kde-format
 msgid "Unsupported"
-msgstr ""
+msgstr "sona ala"
 
 #: data/components/SearchField.qml:8
 #, kde-format
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr ""
+msgstr "o alasa…"
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, kde-format
 msgctxt "dialog title"
 msgid "Upload"
-msgstr ""
+msgstr "pana lipu"
 
 #: data/components/upload/desktop/UploadDialog.qml:35
 #, kde-format
 msgctxt "Dialog title"
 msgid "Upload"
-msgstr ""
+msgstr "pana lipu"
 
 #: data/components/upload/desktop/UploadDialog.qml:50
 #: data/routes/settings/ProxySettings.qml:123
 #, kde-format
 msgctxt "button"
 msgid "Cancel"
-msgstr ""
+msgstr "o pali ala"
 
 #: data/components/upload/desktop/UploadDialog.qml:62
 #: data/components/upload/mobile/UploadDialog.qml:310
 #, kde-format
 msgctxt "button"
 msgid "Send"
-msgstr ""
+msgstr "o pana"
 
 #: data/components/upload/desktop/UploadDialog.qml:104
 #, kde-format
 msgid "Compress image"
-msgstr ""
+msgstr "o lili e sitelen"
 
 #: data/components/upload/mobile/UploadDialog.qml:79
 #, kde-format
 msgctxt "page title"
 msgid "Upload…"
-msgstr ""
+msgstr "o pana…"
 
 #: data/components/upload/mobile/UploadDialog.qml:364
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Photos"
-msgstr ""
+msgstr "sitelen"
 
 #: data/components/upload/mobile/UploadDialog.qml:369
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Videos"
-msgstr ""
+msgstr "sitelen tawa"
 
 #: data/components/upload/mobile/UploadDialog.qml:374
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Music"
-msgstr ""
+msgstr "kalama"
 
 #: data/components/upload/mobile/UploadDialog.qml:379
 #, kde-format
 msgctxt "page title in switcher; keep small as possible"
 msgid "Files"
-msgstr ""
+msgstr "lipu"
 
 #: data/components/upload/RichTextArea.qml:32
 #, kde-format
 msgid "Add a caption…"
-msgstr ""
+msgstr "o pana e sitelen…"
 
 #: data/components/UserDataSheet.qml:88
 #, kde-format
 msgid "Ban from \"%1\""
-msgstr ""
+msgstr "o weka e ona tan \"%1\""
 
 #: data/components/UserDataSheet.qml:101
 #, kde-format
 msgid "Kick from \"%1\""
-msgstr ""
+msgstr "o weka e ona tan \"%1\""
 
 #: data/Content.qml:312
 #, kde-format
 msgid "Do you want to delete this message?"
-msgstr ""
+msgstr "sina wile ala wile weka e toki ni?"
 
 #: data/Content.qml:319
 #, kde-format
 msgid "This will delete it just for you."
-msgstr ""
+msgstr "ona li weka lukin tawa sina taso."
 
 #: data/Content.qml:323
 #, kde-format
 msgid "This will delete it for everyone in this chat."
-msgstr ""
+msgstr "ona li weka tawa jan ale lon tomo ni."
 
 #: data/Content.qml:329
 #, kde-format
 msgid "Also delete for everyone"
-msgstr ""
+msgstr "weka tawa jan ante kin"
 
 #: data/Content.qml:329
 #, kde-format
 msgid "Also delete for %1"
-msgstr ""
+msgstr "weka tawa %1 kin"
 
 #: data/Content.qml:347
 #, kde-format
 msgid "Delete"
-msgstr ""
+msgstr "o weka"
 
 #: data/Content.qml:398
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr ""
+msgstr "mi pali linluwi…"
 
 #: data/Content.qml:400
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr ""
+msgstr "mi open e toki tawa ilo pi nasin linluwi…"
 
 #: data/Content.qml:402
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Waiting on network…"
-msgstr ""
+msgstr "mi awen tawa linluwi…"
 
 #: data/Content.qml:404
 #, kde-format
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Updating…"
-msgstr ""
+msgstr "mi kama sin…"
 
 #: data/main.qml:23 data/maui_main.qml:18
 #, kde-format
 msgctxt "window title"
 msgid "Tok"
-msgstr ""
+msgstr "ilo Tok"
 
 #: data/routes/Chats.qml:44
 #, kde-format
 msgid "Search chats"
-msgstr ""
+msgstr "o alasa lon tomo toki"
 
 #: data/routes/Chats.qml:197
 #, kde-format
 msgctxt "button with menu"
 msgid "Create New..."
-msgstr ""
+msgstr "o lon e..."
 
 #: data/routes/Chats.qml:246
 #, kde-format
 msgid "1 unread message."
 msgid_plural "%1 unread messages."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "poki toki %1 pi lukin ala."
+msgstr[1] "poki toki pi luka %1 pi lukin ala."
+msgstr[2] "poki toki pi mute %1 pi lukin ala."
+msgstr[3] "poki toki %1 pi lukin ala."
 
 #: data/routes/Chats.qml:249
 #, kde-format
@@ -663,33 +663,33 @@ msgctxt ""
 "%1 is the message author (probably, but not necessarily a human), and %2 is "
 "the message contents"
 msgid "Latest message from %1: %2"
-msgstr ""
+msgstr "toki sin tan %1: %2"
 
 #: data/routes/Chats.qml:251
 #, kde-format
 msgctxt "%1 is the message contents"
 msgid "Latest message: %1"
-msgstr ""
+msgstr "toki sin: %1"
 
 #: data/routes/Chats.qml:400
 #, kde-format
 msgid "No chats available."
-msgstr ""
+msgstr "tomo toki li lon ala."
 
 #: data/routes/entry/AuthenticationCode.qml:19
 #, kde-format
 msgid "Phone verification"
-msgstr ""
+msgstr "pona kepeken ilo luka"
 
 #: data/routes/entry/AuthenticationCode.qml:35
 #, kde-format
 msgid "We've sent a code to the Telegram app on your other device."
-msgstr ""
+msgstr "mi pana e nanpa len tawa ilo pi ilo Telekan tawa ilo ante sina."
 
 #: data/routes/entry/AuthenticationCode.qml:47
 #, kde-format
 msgid "Code"
-msgstr ""
+msgstr "nanpa len"
 
 #: data/routes/entry/AuthenticationCode.qml:57
 #: data/routes/entry/AuthenticationCode.qml:58
@@ -697,12 +697,12 @@ msgstr ""
 #: data/routes/entry/PhoneNumber.qml:76 data/routes/entry/PhoneNumber.qml:77
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "o awen tawa"
 
 #: data/routes/entry/Password.qml:19
 #, kde-format
 msgid "Password"
-msgstr ""
+msgstr "nimi len"
 
 #: data/routes/entry/Password.qml:35
 #, kde-format
@@ -710,98 +710,99 @@ msgid ""
 "You have enabled Two-Step Verification, so your account is protected with an "
 "additional password."
 msgstr ""
+"sina kepeken ilo \"Two-Step Verification\" la sijelo sina li wile e nimi len."
 
 #: data/routes/entry/PhoneNumber.qml:19
 #, kde-format
 msgid "Welcome"
-msgstr ""
+msgstr "o kama pona a!"
 
 #: data/routes/entry/PhoneNumber.qml:67
 #, kde-format
 msgid "Phone number"
-msgstr ""
+msgstr "nanpa toki"
 
 #: data/routes/entry/PhoneNumber.qml:86 data/routes/entry/Welcome.qml:27
 #, kde-format
 msgid "Configure Proxy…"
-msgstr ""
+msgstr "o lawa e ilo pi nasin linluwi…"
 
 #: data/routes/entry/Welcome.qml:17
 #, kde-format
 msgid "Welcome to Tok"
-msgstr ""
+msgstr "o kama pona tawa ilo Tok a!"
 
 #: data/routes/entry/Welcome.qml:21
 #, kde-format
 msgid "Get Started"
-msgstr ""
+msgstr "o open"
 
 #: data/routes/messages/components/CompositionBar.qml:90
 #, kde-format
 msgid "Edit Message"
-msgstr ""
+msgstr "o ante e toki"
 
 #: data/routes/messages/components/CompositionBar.qml:157
 #, kde-format
 msgid "Attach file"
-msgstr ""
+msgstr "o pana e lipu"
 
 #: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "Write your message…"
-msgstr ""
+msgstr "o sitelen e toki sina…"
 
 #: data/routes/messages/components/CompositionBar.qml:251
 #, kde-format
 msgid "You cannot send messages."
-msgstr ""
+msgstr "sina ken ala toki."
 
 #: data/routes/messages/components/CompositionBar.qml:365
 #, kde-format
 msgid "Send message"
-msgstr ""
+msgstr "o pana e toki"
 
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Group Info"
-msgstr ""
+msgstr "sona kulupu"
 
 #: data/routes/messages/components/GroupInformation.qml:64
 #, kde-format
 msgid "Info"
-msgstr ""
+msgstr "sona"
 
 #: data/routes/messages/components/GroupInformation.qml:108
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Photos"
-msgstr ""
+msgstr "sitelen"
 
 #: data/routes/messages/components/GroupInformation.qml:119
 #: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
 msgid "Videos"
-msgstr ""
+msgstr "sitelen tawa"
 
 #: data/routes/messages/components/MessageDelegate.qml:76
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
-msgstr ""
+msgstr "o ante"
 
 #: data/routes/messages/components/MessageDelegate.qml:85
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
-msgstr ""
+msgstr "o toki tawa ni"
 
 #: data/routes/messages/components/MessageDelegate.qml:93
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
-msgstr ""
+msgstr "o weka"
 
 #: data/routes/messages/components/normal/FileMessage.qml:41
 #: data/routes/messages/components/thin/FileMessage.qml:29
@@ -810,14 +811,14 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Open File"
-msgstr ""
+msgstr "o open e lipu ni"
 
 #: data/routes/messages/components/normal/FileMessage.qml:51
 #: data/routes/messages/components/thin/FileMessage.qml:39
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 / %2"
-msgstr ""
+msgstr "%1 / %2"
 
 #: data/routes/messages/components/normal/FileMessage.qml:57
 #: data/routes/messages/components/thin/FileMessage.qml:45
@@ -826,27 +827,27 @@ msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
 msgid "Stop Download"
-msgstr ""
+msgstr "o weka e kama jo lipu"
 
 #: data/routes/messages/components/normal/FileMessage.qml:151
 #, kde-format
 msgctxt "explanatory popup notification"
 msgid ""
 "You can drag and drop the icon on downloaded files into other applications."
-msgstr ""
+msgstr "sina ken pana e lipu tawa ilo ante kepeken sitelen lili."
 
 #: data/routes/messages/components/normal/FileMessage.qml:245
 #, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to download its file"
 msgid "Download"
-msgstr ""
+msgstr "o kama jo"
 
 #: data/routes/messages/components/normal/GifMessage.qml:68
 #: data/routes/messages/components/thin/GifMessage.qml:44
 #, kde-format
 msgid "GIF message."
-msgstr ""
+msgstr "toki pi sitelen GIF"
 
 #: data/routes/messages/components/normal/PhotoMessage.qml:76
 #: data/routes/messages/components/normal/VideoMessage.qml:54
@@ -855,60 +856,60 @@ msgstr ""
 #: data/routes/messages/components/thin/VideoMessage.qml:26
 #, kde-format
 msgid "Photo message."
-msgstr ""
+msgstr "toki sitelen"
 
 #: data/routes/messages/components/normal/UserAddMessage.qml:22
 #: data/routes/messages/components/thin/UserAddMessage.qml:19
 #, kde-format
 msgid "%1 joined the group"
-msgstr ""
+msgstr "%1 li kama tawa kulupu"
 
 #: data/routes/messages/components/normal/VideoMessage.qml:150
 #, kde-format
 msgctxt "file download progress"
 msgid "%1 of %2 downloaded"
-msgstr ""
+msgstr "%1 tan %2 li jo"
 
 #: data/routes/messages/components/normal/VoiceChatFinished.qml:18
 #: data/routes/messages/components/thin/VoiceChatFinished.qml:16
 #, kde-format
 msgid "%1 ended a voice chat"
-msgstr ""
+msgstr "%1 li pini e toki uta"
 
 #: data/routes/messages/components/normal/VoiceChatStarted.qml:18
 #: data/routes/messages/components/thin/VoiceChatStarted.qml:16
 #, kde-format
 msgid "%1 started a voice chat"
-msgstr ""
+msgstr "%1 li open e toki uta"
 
 #: data/routes/messages/components/PinnedMessages.qml:18
 #: data/routes/messages/components/PinnedMessages.qml:70
 #, kde-format
 msgctxt "dialog title"
 msgid "Pinned Messages in %1"
-msgstr ""
+msgstr "toki sewi lon %1"
 
 #: data/routes/messages/components/PinnedMessages.qml:102
 #: data/routes/messages/components/SearchMessages.qml:135
 #, kde-format
 msgid "View In Chat"
-msgstr ""
+msgstr "o lukin lon ilo pi tomo toki"
 
 #: data/routes/messages/components/SearchMessages.qml:18
 #, kde-format
 msgctxt "dialog title"
 msgid "Search Messages in %1"
-msgstr ""
+msgstr "o alasa e toki lon %1"
 
 #: data/routes/messages/components/SearchMessages.qml:97
 #, kde-format
 msgid "All Messages"
-msgstr ""
+msgstr "toki ale"
 
 #: data/routes/messages/components/SearchMessages.qml:101
 #, kde-format
 msgid "Files"
-msgstr ""
+msgstr "lipu"
 
 #: data/routes/messages/components/shared/WebPageBlock.qml:92
 #, kde-format
@@ -917,28 +918,28 @@ msgctxt ""
 "brand name, but also sort of not? i would recommend consulting translations."
 "telegram.org to see how instant view was translated officially."
 msgid "Instant View"
-msgstr ""
+msgstr "lipu pi tenpo lili"
 
 #: data/routes/messages/components/thin/FileMessage.qml:126
 #, kde-format
 msgctxt "a button"
 msgid "Download"
-msgstr ""
+msgstr "o kama jo"
 
 #: data/routes/messages/NoView.qml:26
 #, kde-format
 msgid "Select a chat to start messaging"
-msgstr ""
+msgstr "o pilin e tomo toki la sina ken open toki."
 
 #: data/routes/messages/View.qml:162
 #, kde-format
 msgid "Pinned Messages"
-msgstr ""
+msgstr "toki sewi"
 
 #: data/routes/messages/View.qml:177
 #, kde-format
 msgid "Search"
-msgstr ""
+msgstr "o alasa"
 
 #: data/routes/settings/AccountSettings.qml:22
 #, kde-format
@@ -951,7 +952,7 @@ msgctxt ""
 "Checkable control to toggle between the default appearance and a more "
 "compact style"
 msgid "Use a compact appearance for messages"
-msgstr ""
+msgstr "o kepeken e sijelo lili tawa toki"
 
 #: data/routes/settings/AppearanceSettings.qml:27
 #, kde-format
@@ -959,7 +960,7 @@ msgctxt ""
 "Checkable control to toggle between a photo background for the chat and "
 "using a solid colour"
 msgid "Display an image in the background of chats"
-msgstr ""
+msgstr "o lon e sitelen lon monsi pi tomo toki"
 
 #: data/routes/settings/AppearanceSettings.qml:34
 #, kde-format
@@ -973,7 +974,7 @@ msgstr ""
 #, kde-format
 msgctxt "Button that offers a menu to change the colour scheme"
 msgid "Change Color Scheme"
-msgstr ""
+msgstr "o ante e nasin kule"
 
 #: data/routes/settings/BehaviourSettings.qml:22
 #, kde-format
@@ -981,13 +982,13 @@ msgctxt ""
 "Checkable control to toggle a system tray icon and not closing the app when "
 "X is pressed, instead using the tray icon"
 msgid "Minimize to system tray when I close the app"
-msgstr ""
+msgstr "sina weka e sijelo ilo la mi o tawa kulupu ilo lon palisa ilo"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Appearance"
-msgstr ""
+msgstr "nasin lukin"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:44
 #, kde-format
@@ -996,7 +997,7 @@ msgctxt ""
 "compact style. Keep the text no longer than a few letters longer than the "
 "source string due to screen size constraints. Reword heavily if needed."
 msgid "Compact appearance for messages"
-msgstr ""
+msgstr "sijelo lili tawa toki"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:53
 #, kde-format
@@ -1005,19 +1006,19 @@ msgctxt ""
 "using a solid colour. Keep the text no longer than a few letters longer than "
 "the source string due to screen size constraints. Reword heavily if needed."
 msgid "Show image behind chats"
-msgstr ""
+msgstr "sitelen monsi lon tomo toki"
 
 #: data/routes/settings/mobile/AppearanceSettings.qml:62
 #, kde-format
 msgctxt "List item that opens a page to change the colour scheme"
 msgid "Change color scheme"
-msgstr ""
+msgstr "o ante e nasin kule"
 
 #: data/routes/settings/mobile/ColorSchemes.qml:24
 #, kde-format
 msgctxt "title"
 msgid "Pick a color scheme…"
-msgstr ""
+msgstr "o pana e kulupu kule…"
 
 #: data/routes/settings/mobile/NewProxy.qml:26
 #, kde-format
