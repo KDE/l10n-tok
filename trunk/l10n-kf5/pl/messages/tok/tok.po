@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-17 00:45+0000\n"
+"POT-Creation-Date: 2022-02-27 00:47+0000\n"
 "PO-Revision-Date: 2022-01-15 10:49+0100\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
@@ -398,7 +398,7 @@ msgid "GIF"
 msgstr "GIF"
 
 #: data/components/PlaintextMessage.qml:32
-#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/GroupInformation.qml:166
 #: data/routes/messages/components/MusicView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
@@ -759,24 +759,29 @@ msgstr "Nie możesz wysyłać wiadomości."
 msgid "Send message"
 msgstr "Wyślij wiadomość"
 
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Group Info"
 msgstr "Info grupy"
 
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Info"
 msgstr "Dane"
 
-#: data/routes/messages/components/GroupInformation.qml:108
+#: data/routes/messages/components/GroupInformation.qml:109
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Photos"
 msgstr "Zdjęcia"
 
-#: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/GroupInformation.qml:155
 #: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
@@ -928,12 +933,12 @@ msgstr "Pobierz"
 msgid "Select a chat to start messaging"
 msgstr "Wybierz rozmowę, aby wysyłać wiadomości"
 
-#: data/routes/messages/View.qml:162
+#: data/routes/messages/View.qml:163
 #, kde-format
 msgid "Pinned Messages"
 msgstr "Przypięte wiadomości"
 
-#: data/routes/messages/View.qml:177
+#: data/routes/messages/View.qml:178
 #, kde-format
 msgid "Search"
 msgstr "Szukaj"
@@ -1417,23 +1422,23 @@ msgstr "Sam wykryj język sprawdzania pisowni z języków poniżej"
 msgid "All Chats"
 msgstr "Wszystkie rozmowy"
 
-#: src/chatsstore.cpp:145
+#: src/chatsstore.cpp:146
 #, kde-format
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Zapisane wiadomości"
 
-#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
+#: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
 msgid "Group"
 msgstr "Grupa"
 
-#: src/chatsstore.cpp:214
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Private chat"
 msgstr "Rozmowa prywatna"
 
-#: src/chatsstore.cpp:215
+#: src/chatsstore.cpp:216
 #, kde-format
 msgid "Secret chat"
 msgstr "Rozmowa prywatna"

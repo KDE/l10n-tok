@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-17 00:45+0000\n"
+"POT-Creation-Date: 2022-02-27 00:47+0000\n"
 "PO-Revision-Date: 2022-01-14 15:38+0100\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -400,7 +400,7 @@ msgid "GIF"
 msgstr "GIF"
 
 #: data/components/PlaintextMessage.qml:32
-#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/GroupInformation.qml:166
 #: data/routes/messages/components/MusicView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
@@ -759,24 +759,29 @@ msgstr ""
 msgid "Send message"
 msgstr "Poslat správu"
 
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Group Info"
 msgstr "Informace o skupině"
 
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Info"
 msgstr "Informace"
 
-#: data/routes/messages/components/GroupInformation.qml:108
+#: data/routes/messages/components/GroupInformation.qml:109
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
 msgid "Photos"
 msgstr "Fotografie"
 
-#: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/GroupInformation.qml:155
 #: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
@@ -928,12 +933,12 @@ msgstr "Stáhnout"
 msgid "Select a chat to start messaging"
 msgstr ""
 
-#: data/routes/messages/View.qml:162
+#: data/routes/messages/View.qml:163
 #, kde-format
 msgid "Pinned Messages"
 msgstr "Připnuté zprávy"
 
-#: data/routes/messages/View.qml:177
+#: data/routes/messages/View.qml:178
 #, kde-format
 msgid "Search"
 msgstr "Hledat"
@@ -1413,23 +1418,23 @@ msgstr ""
 msgid "All Chats"
 msgstr "Všechny rozhovory"
 
-#: src/chatsstore.cpp:145
+#: src/chatsstore.cpp:146
 #, kde-format
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr ""
 
-#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
+#: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
 msgid "Group"
 msgstr "Skupina"
 
-#: src/chatsstore.cpp:214
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Private chat"
 msgstr "Soukromý rozhovor"
 
-#: src/chatsstore.cpp:215
+#: src/chatsstore.cpp:216
 #, kde-format
 msgid "Secret chat"
 msgstr "Tajný rozhovor"
