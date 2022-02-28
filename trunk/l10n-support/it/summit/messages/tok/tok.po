@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-27 13:30+0100\n"
-"PO-Revision-Date: 2022-01-11 02:08+0100\n"
+"PO-Revision-Date: 2022-02-28 08:59+0100\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 21.12.1\n"
+"X-Generator: Lokalize 21.12.2\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -897,7 +897,7 @@ msgstr "Informazioni"
 #: data/routes/messages/components/GroupInformation.qml:109
 #, kde-format
 msgid "Description"
-msgstr ""
+msgstr "Descrizione"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:144
