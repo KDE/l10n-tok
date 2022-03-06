@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2021-12-21 00:41+0000\n"
 "PO-Revision-Date: 2022-03-06 00:28+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Last-Translator: Logan Wemyss <vixietsq@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/krita-appdata/tok/>\n"
 "Language: tok\n"
@@ -18,7 +18,7 @@ msgstr ""
 #. (itstool) path: component/developer_name
 #: org.kde.krita.appdata.xml:7
 msgid "Krita Foundation"
-msgstr "kulupu mani Krita"
+msgstr "kulupu Krita"
 
 #. (itstool) path: component/name
 #: org.kde.krita.appdata.xml:9
