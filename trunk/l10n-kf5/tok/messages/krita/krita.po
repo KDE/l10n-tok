@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-03-04 00:43+0000\n"
 "PO-Revision-Date: 2022-03-06 00:28+0000\n"
-"Last-Translator: Logan Wemyss <vixietsq@gmail.com>\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/krita/tok/>\n"
 "Language: tok\n"
@@ -53850,7 +53850,7 @@ msgstr ""
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:1577
 #, kde-format
 msgid "Draw"
-msgstr ""
+msgstr "pali sitelen"
 
 #. i18n: ectx: property (text), widget (QPushButton, resetPointsButton)
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:1611
