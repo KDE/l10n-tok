@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-17 10:34+0100\n"
+"POT-Creation-Date: 2022-02-27 13:30+0100\n"
 "PO-Revision-Date: 2021-09-01 23:05+0200\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -452,7 +452,7 @@ msgstr "GIF"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:32
-#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/GroupInformation.qml:166
 #: data/routes/messages/components/MusicView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
@@ -868,19 +868,25 @@ msgid "Send message"
 msgstr "Nachricht senden"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Group Info"
 msgstr "Gruppen-Info"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Info"
 msgstr "Info"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:108
+#: data/routes/messages/components/GroupInformation.qml:109
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
@@ -888,7 +894,7 @@ msgid "Photos"
 msgstr "Fotos"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/GroupInformation.qml:155
 #: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
@@ -1057,14 +1063,14 @@ msgid "Select a chat to start messaging"
 msgstr "Wählen Sie einen Chat, um zu schreiben"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:162
+#: data/routes/messages/View.qml:163
 #, fuzzy, kde-format
 #| msgid "Edit Message"
 msgid "Pinned Messages"
 msgstr "Nachricht bearbeiten"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:177
+#: data/routes/messages/View.qml:178
 #, fuzzy, kde-format
 #| msgid "Search chats"
 msgid "Search"
@@ -1606,7 +1612,7 @@ msgid "All Chats"
 msgstr "Alle Chats"
 
 #. +> trunk5
-#: src/chatsstore.cpp:145
+#: src/chatsstore.cpp:146
 #, fuzzy, kde-format
 #| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
@@ -1614,19 +1620,19 @@ msgid "Saved Messages"
 msgstr "Nachricht senden"
 
 #. +> trunk5
-#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
+#: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
 msgid "Group"
 msgstr "Gruppe"
 
 #. +> trunk5
-#: src/chatsstore.cpp:214
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Private chat"
 msgstr "Privater Chat"
 
 #. +> trunk5
-#: src/chatsstore.cpp:215
+#: src/chatsstore.cpp:216
 #, kde-format
 msgid "Secret chat"
 msgstr "Geheimer Chat"
