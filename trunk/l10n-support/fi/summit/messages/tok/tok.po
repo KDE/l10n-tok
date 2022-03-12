@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-09 10:34+0100\n"
+"POT-Creation-Date: 2022-02-27 13:30+0100\n"
 "PO-Revision-Date: 2022-02-12 19:07+0200\n"
 "Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
@@ -165,26 +165,26 @@ msgid "Select All"
 msgstr "Valitse kaikki"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
+#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:102
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
 msgstr "Oikeinkirjoituksen tarkistus"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
+#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
 msgstr "Ei ehdotuksia: ”%1”"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
+#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
 msgstr "Lisää ”%1” sanastoon"
 
 #. +> trunk5
-#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
+#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
 msgstr "Sivuuta ”%1”"
@@ -453,7 +453,7 @@ msgstr "GIF"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:32
-#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/GroupInformation.qml:166
 #: data/routes/messages/components/MusicView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
@@ -560,7 +560,6 @@ msgstr "Ei tuettu"
 #. +> trunk5
 #: data/components/SearchField.qml:8
 #, kde-format
-#| msgid "Search"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
 msgstr "Etsi…"
@@ -866,19 +865,25 @@ msgid "Send message"
 msgstr "Lähetä viesti"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Group Info"
 msgstr "Ryhmän tiedot"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Info"
 msgstr "Tietoa"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:108
+#: data/routes/messages/components/GroupInformation.qml:109
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
@@ -886,7 +891,7 @@ msgid "Photos"
 msgstr "Valokuvat"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/GroupInformation.qml:155
 #: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
@@ -1052,13 +1057,13 @@ msgid "Select a chat to start messaging"
 msgstr "Aloita viestittely valitsemalla keskustelu"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:162
+#: data/routes/messages/View.qml:163
 #, kde-format
 msgid "Pinned Messages"
 msgstr "Kiinnitetyt viestit"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:177
+#: data/routes/messages/View.qml:178
 #, kde-format
 msgid "Search"
 msgstr "Etsi"
@@ -1289,7 +1294,7 @@ msgstr "Oikeinkirjoituksen tarkistuksen kielet"
 
 #. +> trunk5
 #: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
-#: data/routes/settings/SpellcheckSettings.qml:111
+#: data/routes/settings/SpellcheckSettings.qml:112
 #, kde-format
 msgid "Default language"
 msgstr "Oletuskieli"
@@ -1595,27 +1600,26 @@ msgid "All Chats"
 msgstr "Kaikki keskustelut"
 
 #. +> trunk5
-#: src/chatsstore.cpp:145
+#: src/chatsstore.cpp:146
 #, kde-format
-#| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "Tallennetut viestit"
 
 #. +> trunk5
-#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
+#: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
 msgid "Group"
 msgstr "Ryhmä"
 
 #. +> trunk5
-#: src/chatsstore.cpp:214
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Private chat"
 msgstr "Yksityinen keskustelu"
 
 #. +> trunk5
-#: src/chatsstore.cpp:215
+#: src/chatsstore.cpp:216
 #, kde-format
 msgid "Secret chat"
 msgstr "Salainen keskustelu"
