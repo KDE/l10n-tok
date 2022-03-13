@@ -1,12 +1,12 @@
 # Burkhard Lück <lueck@hube-lueck.de>, 2021.
 # Janet Blackquill <uhhadd@gmail.com>, 2021.
-# Frederik Schwarzer <schwarzer@kde.org>, 2021.
+# Frederik Schwarzer <schwarzer@kde.org>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-02-27 13:30+0100\n"
-"PO-Revision-Date: 2021-09-01 23:05+0200\n"
+"PO-Revision-Date: 2022-03-13 09:29+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Lokalize 21.08.0\n"
+"X-Generator: Lokalize 21.12.3\n"
 
 #. +> trunk5
 #: data/components/CreateNewMenu.qml:13
@@ -169,24 +169,28 @@ msgstr "Alle auswählen"
 msgctxt "text editing submenu"
 msgid "Spellchecking"
 msgstr ""
+"Rechtschreibprüfung"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
 msgstr ""
+"Keine Vorschläge für „%1“"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
 msgstr ""
+"„%1“ zum Wörterbuch hinzufügen"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
 msgstr ""
+"„%1“ ignorieren"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
@@ -558,11 +562,11 @@ msgstr "Nicht unterstützt"
 
 #. +> trunk5
 #: data/components/SearchField.qml:8
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Search chats"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr "Chats durchsuchen"
+msgstr "Suchen ..."
 
 #. +> trunk5
 #: data/components/upload/desktop/UploadDialog.qml:17
@@ -691,19 +695,19 @@ msgstr "Löschen"
 
 #. +> trunk5
 #: data/Content.qml:398
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Wird geladen ..."
+msgstr "Verbindung wird aufgebaut …"
 
 #. +> trunk5
 #: data/Content.qml:400
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Configure Proxy…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
-msgstr "Proxy einrichten ..."
+msgstr "Verbindung zum Proxy wird aufgebaut ..."
 
 #. +> trunk5
 #: data/Content.qml:402
