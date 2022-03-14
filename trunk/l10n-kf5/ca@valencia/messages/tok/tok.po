@@ -1726,33 +1726,3 @@ msgstr "Darrera connexió %1"
 #, kde-format
 msgid "Unknown Status"
 msgstr "Estat desconegut"
-
-#~ msgctxt "small text displayed by timestamp when message has been edited"
-#~ msgid "edited"
-#~ msgstr "editat"
-
-#~ msgid ""
-#~ "Enter your authentication code that you received from another Telegram "
-#~ "client"
-#~ msgstr ""
-#~ "Introduïu el codi d'autenticació que heu rebut des d'un altre client de "
-#~ "Telegram"
-
-#~ msgid "Authentication code"
-#~ msgstr "Codi d'autenticació"
-
-#~ msgid "Enter your password"
-#~ msgstr "Introduïu la contrasenya"
-
-#~ msgid "Enter your phone number"
-#~ msgstr "Introduïu el número de telèfon"
-
-#~ msgctxt "Dialog title"
-#~ msgid "Upload photo"
-#~ msgstr "Pujada de foto"
-
-#~ msgid "we know that this person is a human, but we don't know their name"
-#~ msgstr "Se sap que aquesta persona és un humà, però no se sap el seu nom"
-
-#~ msgid "button action"
-#~ msgstr "acció del botó"
