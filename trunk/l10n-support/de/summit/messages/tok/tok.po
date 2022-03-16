@@ -168,29 +168,25 @@ msgstr "Alle auswählen"
 #, kde-format
 msgctxt "text editing submenu"
 msgid "Spellchecking"
-msgstr ""
-"Rechtschreibprüfung"
+msgstr "Rechtschreibprüfung"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:118
 #, kde-format
 msgid "No suggestions for \"%1\""
-msgstr ""
-"Keine Vorschläge für „%1“"
+msgstr "Keine Vorschläge für „%1“"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:127
 #, kde-format
 msgid "Add \"%1\" to dictionary"
-msgstr ""
-"„%1“ zum Wörterbuch hinzufügen"
+msgstr "„%1“ zum Wörterbuch hinzufügen"
 
 #. +> trunk5
 #: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:133
 #, kde-format
 msgid "Ignore \"%1\""
-msgstr ""
-"„%1“ ignorieren"
+msgstr "„%1“ ignorieren"
 
 #. +> trunk5
 #: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
