@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-15 00:41+0000\n"
+"POT-Creation-Date: 2022-03-17 00:41+0000\n"
 "PO-Revision-Date: 2022-02-23 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -3557,7 +3557,7 @@ msgstr "ilo li lon ala linluwi"
 #. i18n: ectx: property (text), widget (QPushButton, sha1CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
-#: filewidgets/kurlnavigator.cpp:495 ioslaves/file/file_unix.cpp:135
+#: filewidgets/kurlnavigator.cpp:493 ioslaves/file/file_unix.cpp:135
 #: widgets/checksumswidget.ui:118 widgets/checksumswidget.ui:156
 #: widgets/checksumswidget.ui:194 widgets/checksumswidget.ui:232
 #, kde-format
@@ -3565,27 +3565,27 @@ msgid "Copy"
 msgstr "o lanpan sama"
 
 #. i18n: ectx: property (text), widget (QPushButton, pasteButton)
-#: filewidgets/kurlnavigator.cpp:499 widgets/checksumswidget.ui:39
+#: filewidgets/kurlnavigator.cpp:497 widgets/checksumswidget.ui:39
 #, kde-format
 msgid "Paste"
 msgstr "o pana e lanpan sama"
 
-#: filewidgets/kurlnavigator.cpp:511
+#: filewidgets/kurlnavigator.cpp:509
 #, kde-format
 msgid "Open %1 in tab"
 msgstr "o open e %1 lon nena sin"
 
-#: filewidgets/kurlnavigator.cpp:521
+#: filewidgets/kurlnavigator.cpp:519
 #, kde-format
 msgid "Edit"
 msgstr "o ante e ni"
 
-#: filewidgets/kurlnavigator.cpp:524
+#: filewidgets/kurlnavigator.cpp:522
 #, kde-format
 msgid "Navigate"
 msgstr "o tawa"
 
-#: filewidgets/kurlnavigator.cpp:539
+#: filewidgets/kurlnavigator.cpp:537
 #, kde-format
 msgid "Show Full Path"
 msgstr "o lukin e nasin tawa suli"
