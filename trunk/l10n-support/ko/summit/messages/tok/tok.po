@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-17 10:34+0100\n"
+"POT-Creation-Date: 2022-02-27 13:30+0100\n"
 "PO-Revision-Date: 2022-02-20 21:06+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -456,7 +456,7 @@ msgstr "GIF"
 
 #. +> trunk5
 #: data/components/PlaintextMessage.qml:32
-#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/GroupInformation.qml:166
 #: data/routes/messages/components/MusicView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:100
 #, kde-format
@@ -565,7 +565,6 @@ msgstr "지원하지 않음"
 #. +> trunk5
 #: data/components/SearchField.qml:8
 #, kde-format
-#| msgid "Search"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
 msgstr "검색…"
@@ -878,19 +877,25 @@ msgid "Send message"
 msgstr "메시지 보내기"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Group Info"
 msgstr "그룹 정보"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:64
+#: data/routes/messages/components/GroupInformation.qml:65
 #, kde-format
 msgid "Info"
 msgstr "정보"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:108
+#: data/routes/messages/components/GroupInformation.qml:109
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#. +> trunk5
+#: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
 #: data/routes/messages/components/SearchMessages.qml:98
 #, kde-format
@@ -898,7 +903,7 @@ msgid "Photos"
 msgstr "사진"
 
 #. +> trunk5
-#: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/GroupInformation.qml:155
 #: data/routes/messages/components/SearchMessages.qml:99
 #: data/routes/messages/components/VideosView.qml:14
 #, kde-format
@@ -1073,13 +1078,13 @@ msgid "Select a chat to start messaging"
 msgstr "메시지를 주고 받으려면 대화 선택"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:162
+#: data/routes/messages/View.qml:163
 #, kde-format
 msgid "Pinned Messages"
 msgstr "고정된 메시지"
 
 #. +> trunk5
-#: data/routes/messages/View.qml:177
+#: data/routes/messages/View.qml:178
 #, kde-format
 msgid "Search"
 msgstr "검색"
@@ -1506,7 +1511,8 @@ msgctxt "placeholder message"
 msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
-msgstr "추가한 프록시가 없습니다. 창 아래의 프록시 추가 단추를 사용하여 추가하십시오."
+msgstr ""
+"추가한 프록시가 없습니다. 창 아래의 프록시 추가 단추를 사용하여 추가하십시오."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
@@ -1638,27 +1644,26 @@ msgid "All Chats"
 msgstr "모든 대화"
 
 #. +> trunk5
-#: src/chatsstore.cpp:145
+#: src/chatsstore.cpp:146
 #, kde-format
-#| msgid "Send message"
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
 msgstr "저장된 메시지"
 
 #. +> trunk5
-#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
+#: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
 msgid "Group"
 msgstr "그룹"
 
 #. +> trunk5
-#: src/chatsstore.cpp:214
+#: src/chatsstore.cpp:215
 #, kde-format
 msgid "Private chat"
 msgstr "개인 대화"
 
 #. +> trunk5
-#: src/chatsstore.cpp:215
+#: src/chatsstore.cpp:216
 #, kde-format
 msgid "Secret chat"
 msgstr "비밀 대화"
