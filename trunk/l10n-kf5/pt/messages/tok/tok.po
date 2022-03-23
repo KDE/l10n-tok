@@ -773,7 +773,7 @@ msgstr "Informação"
 #: data/routes/messages/components/GroupInformation.qml:109
 #, kde-format
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
