@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-27 00:47+0000\n"
+"POT-Creation-Date: 2022-03-24 00:44+0000\n"
 "PO-Revision-Date: 2022-03-02 20:04+0100\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -789,19 +789,19 @@ msgstr "Fotografije"
 msgid "Videos"
 msgstr "Videoposnetki"
 
-#: data/routes/messages/components/MessageDelegate.qml:76
+#: data/routes/messages/components/MessageDelegate.qml:77
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
 msgstr "Uredi"
 
-#: data/routes/messages/components/MessageDelegate.qml:85
+#: data/routes/messages/components/MessageDelegate.qml:86
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Odgovor"
 
-#: data/routes/messages/components/MessageDelegate.qml:93
+#: data/routes/messages/components/MessageDelegate.qml:94
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
@@ -1713,28 +1713,28 @@ msgctxt "placeholder text"
 msgid "Reply to %1…"
 msgstr "Odgovori na %1…"
 
-#: src/userdata.cpp:53
+#: src/userdata.cpp:54
 #, kde-format
 msgid "Loading…"
 msgstr "Nalaganje…"
 
-#: src/userdata.cpp:69
+#: src/userdata.cpp:82
 #, kde-format
 msgid "Online"
 msgstr "V omrežju"
 
-#: src/userdata.cpp:73
+#: src/userdata.cpp:86
 #, kde-format
 msgid "Online recently"
 msgstr "Zadnjič v omrežju"
 
-#: src/userdata.cpp:98
+#: src/userdata.cpp:111
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
 msgstr "Zadnjič v omrežju %1"
 
-#: src/userdata.cpp:101
+#: src/userdata.cpp:114
 #, kde-format
 msgid "Unknown Status"
 msgstr "Neznano stanje"
