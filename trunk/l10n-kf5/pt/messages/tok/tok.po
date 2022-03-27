@@ -1722,4 +1722,3 @@ msgstr "Última ligação há %1"
 #, kde-format
 msgid "Unknown Status"
 msgstr "Estado Desconhecido"
-
