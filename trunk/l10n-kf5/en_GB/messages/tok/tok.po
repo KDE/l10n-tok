@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-03-24 00:44+0000\n"
-"PO-Revision-Date: 2022-02-19 11:53+0000\n"
+"PO-Revision-Date: 2022-04-02 16:44+0100\n"
 "Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
 "Language-Team: British English <kde-l10n-en_gb@kde.org>\n"
 "Language: en_GB\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.12.1\n"
+"X-Generator: Lokalize 21.12.3\n"
 
 #: data/components/CreateNewMenu.qml:13
 #: data/components/CreateNewMenuInWindow.qml:13
@@ -770,7 +770,7 @@ msgstr "Info"
 #: data/routes/messages/components/GroupInformation.qml:109
 #, kde-format
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
