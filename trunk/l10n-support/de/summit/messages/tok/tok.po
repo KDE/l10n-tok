@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-27 13:30+0100\n"
+"POT-Creation-Date: 2022-03-24 10:22+0100\n"
 "PO-Revision-Date: 2022-03-13 09:29+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -559,7 +559,6 @@ msgstr "Nicht unterstützt"
 #. +> trunk5
 #: data/components/SearchField.qml:8
 #, kde-format
-#| msgid "Search chats"
 msgctxt "placeholder text for a search field"
 msgid "Search…"
 msgstr "Suchen ..."
@@ -692,7 +691,6 @@ msgstr "Löschen"
 #. +> trunk5
 #: data/Content.qml:398
 #, kde-format
-#| msgid "Loading…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
 msgstr "Verbindung wird aufgebaut …"
@@ -700,7 +698,6 @@ msgstr "Verbindung wird aufgebaut …"
 #. +> trunk5
 #: data/Content.qml:400
 #, kde-format
-#| msgid "Configure Proxy…"
 msgctxt "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting to proxy…"
 msgstr "Verbindung zum Proxy wird aufgebaut ..."
@@ -902,21 +899,21 @@ msgid "Videos"
 msgstr "Videos"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:76
+#: data/routes/messages/components/MessageDelegate.qml:77
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Edit"
 msgstr "Bearbeiten"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:85
+#: data/routes/messages/components/MessageDelegate.qml:86
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Reply"
 msgstr "Antworten"
 
 #. +> trunk5
-#: data/routes/messages/components/MessageDelegate.qml:93
+#: data/routes/messages/components/MessageDelegate.qml:94
 #, kde-format
 msgctxt "popup menu for message"
 msgid "Delete"
@@ -1920,13 +1917,13 @@ msgid "Reply to %1…"
 msgstr "Antworten auf %1 ..."
 
 #. +> trunk5
-#: src/userdata.cpp:53
+#: src/userdata.cpp:54
 #, kde-format
 msgid "Loading…"
 msgstr "Wird geladen ..."
 
 #. +> trunk5
-#: src/userdata.cpp:69
+#: src/userdata.cpp:82
 #, fuzzy, kde-format
 #| msgctxt "text editing menu action; applies format"
 #| msgid "Underline"
@@ -1934,20 +1931,20 @@ msgid "Online"
 msgstr "Unterstrichen"
 
 #. +> trunk5
-#: src/userdata.cpp:73
+#: src/userdata.cpp:86
 #, kde-format
 msgid "Online recently"
 msgstr ""
 
 #. +> trunk5
-#: src/userdata.cpp:98
+#: src/userdata.cpp:111
 #, kde-format
 msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
 msgid "Last online %1"
 msgstr ""
 
 #. +> trunk5
-#: src/userdata.cpp:101
+#: src/userdata.cpp:114
 #, fuzzy, kde-format
 #| msgctxt "we know that this person is a human, but we don't know their name"
 #| msgid "Unknown Sender"
