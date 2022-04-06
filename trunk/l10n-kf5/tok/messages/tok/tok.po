@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-03-24 00:44+0000\n"
-"PO-Revision-Date: 2022-04-06 21:31+0000\n"
+"PO-Revision-Date: 2022-04-06 21:33+0000\n"
 "Last-Translator: Jade Lentz <shotgun282006@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
@@ -1060,7 +1060,7 @@ msgstr ""
 #: data/routes/settings/ProxySettings.qml:40
 #, kde-format
 msgid "HTTP"
-msgstr ""
+msgstr "nasin HTTP"
 
 #: data/routes/settings/mobile/ProxySettings.qml:62
 #: data/routes/settings/ProxySettings.qml:41
@@ -1115,7 +1115,7 @@ msgstr ""
 #: data/routes/settings/Settings.qml:52
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "nasin lukin"
 
 #: data/routes/settings/mobile/Settings.qml:51
 #: data/routes/settings/Settings.qml:70
@@ -1197,7 +1197,7 @@ msgstr ""
 #, kde-format
 msgctxt "currently <which language is default>"
 msgid "Currently %1"
-msgstr ""
+msgstr "toki li toki %1"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:97
 #, kde-format
@@ -1207,7 +1207,7 @@ msgstr ""
 #: data/routes/settings/mobile/SpellcheckSettings.qml:106
 #, kde-format
 msgid "Language list"
-msgstr ""
+msgstr "kulupu toki"
 
 #: data/routes/settings/mobile/SpellcheckSettings.qml:107
 #, kde-format
@@ -1234,7 +1234,7 @@ msgstr ""
 #, kde-format
 msgctxt "form label"
 msgid "Server:"
-msgstr ""
+msgstr "ilo pana:"
 
 #: data/routes/settings/ProxyForm.qml:66
 #, kde-format
@@ -1258,7 +1258,7 @@ msgstr ""
 #, kde-format
 msgctxt "form subheader"
 msgid "HTTP Configuration"
-msgstr ""
+msgstr "nasin pi nasin HTTP"
 
 #: data/routes/settings/ProxyForm.qml:86
 #, kde-format
@@ -1283,7 +1283,7 @@ msgstr ""
 #, kde-format
 msgctxt "form control label"
 msgid "Username:"
-msgstr ""
+msgstr "nimi jan:"
 
 #: data/routes/settings/ProxyForm.qml:109
 #: data/routes/settings/ProxyForm.qml:135
@@ -1328,7 +1328,7 @@ msgstr ""
 #, kde-format
 msgctxt "window title"
 msgid "Preferences"
-msgstr ""
+msgstr "nasin ilo"
 
 #: data/routes/settings/Settings.qml:46
 #, kde-format
@@ -1345,18 +1345,18 @@ msgstr ""
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open appearance settings"
-msgstr ""
+msgstr "o open e nasin lukin"
 
 #: data/routes/settings/Settings.qml:58
 #, kde-format
 msgid "Behaviour"
-msgstr ""
+msgstr "nasin pali"
 
 #: data/routes/settings/Settings.qml:59
 #, kde-format
 msgctxt "sidebar item accessible text"
 msgid "Open app behaviour settings"
-msgstr ""
+msgstr "o open e nasin pali"
 
 #: data/routes/settings/Settings.qml:65
 #, kde-format
@@ -1419,7 +1419,7 @@ msgstr ""
 #: src/chatlistmodel.cpp:22
 #, kde-format
 msgid "All Chats"
-msgstr ""
+msgstr "toki ale"
 
 #: src/chatsstore.cpp:146
 #, kde-format
@@ -1430,7 +1430,7 @@ msgstr ""
 #: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
 msgid "Group"
-msgstr ""
+msgstr "kulupu"
 
 #: src/chatsstore.cpp:215
 #, kde-format
