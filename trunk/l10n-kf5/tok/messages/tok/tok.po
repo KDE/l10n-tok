@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-03-24 00:44+0000\n"
 "PO-Revision-Date: 2022-04-06 21:33+0000\n"
-"Last-Translator: Jade Lentz <shotgun282006@gmail.com>\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/tok/tok/>\n"
 "Language: tok\n"
@@ -308,14 +308,14 @@ msgstr "o sitelen e monsi"
 #, kde-format
 msgctxt "menu"
 msgid "Disable Transparency"
-msgstr "o pali e kule"
+msgstr "o lon e kule sinpin"
 
 #: data/components/GlobalMenu.qml:108
 #: data/components/GlobalMenuInWindow.qml:108
 #, kde-format
 msgctxt "menu"
 msgid "Enable Transparency"
-msgstr ""
+msgstr "o weka e kule sinpin"
 
 #: data/components/GlobalMenu.qml:112
 #: data/components/GlobalMenuInWindow.qml:112
@@ -973,7 +973,7 @@ msgctxt ""
 "Checkable control to toggle viewing content underneath the window "
 "(transparent window bg)"
 msgid "Make the window transparent"
-msgstr ""
+msgstr "o weka e kule sinpin"
 
 #: data/routes/settings/AppearanceSettings.qml:40
 #, kde-format
@@ -1109,7 +1109,7 @@ msgstr ""
 #, kde-format
 msgctxt "title"
 msgid "Preferences"
-msgstr ""
+msgstr "ante nasin"
 
 #: data/routes/settings/mobile/Settings.qml:44
 #: data/routes/settings/Settings.qml:52
@@ -1290,7 +1290,7 @@ msgstr "nimi jan:"
 #, kde-format
 msgctxt "form control label"
 msgid "Password:"
-msgstr ""
+msgstr "nimi len:"
 
 #: data/routes/settings/ProxyForm.qml:114
 #, kde-format
@@ -1425,7 +1425,7 @@ msgstr "toki ale"
 #, kde-format
 msgctxt "title for a chat consisting of saved messages"
 msgid "Saved Messages"
-msgstr ""
+msgstr "toki awen"
 
 #: src/chatsstore.cpp:214 src/chatsstore.cpp:217
 #, kde-format
@@ -1435,7 +1435,7 @@ msgstr "kulupu"
 #: src/chatsstore.cpp:215
 #, kde-format
 msgid "Private chat"
-msgstr ""
+msgstr "toki pi jan tu"
 
 #: src/chatsstore.cpp:216
 #, kde-format
