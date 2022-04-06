@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-04 00:41+0000\n"
+"POT-Creation-Date: 2022-04-06 00:42+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -692,7 +692,7 @@ msgstr "kulupu ilo mute o sin sama"
 msgid "Reset"
 msgstr "ni o sin sama open"
 
-#: kedittoolbar.cpp:992
+#: kedittoolbar.cpp:989
 #, kde-format
 msgid "&Toolbar:"
 msgstr "kulupu &Ilo:"
@@ -704,66 +704,66 @@ msgstr "kulupu &Ilo:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1008
+#: kedittoolbar.cpp:1005
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "ilo lon ni:"
 
-#: kedittoolbar.cpp:1029 kedittoolbar.cpp:1054
+#: kedittoolbar.cpp:1026 kedittoolbar.cpp:1051
 #, kde-format
 msgid "Filter"
 msgstr "sitelen pi lukin ante"
 
-#: kedittoolbar.cpp:1032
+#: kedittoolbar.cpp:1029
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "&pali pi tenpo ni:"
 
-#: kedittoolbar.cpp:1057
+#: kedittoolbar.cpp:1054
 #, kde-format
 msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "o pana e sitelen lili ante..."
 
-#: kedittoolbar.cpp:1066
+#: kedittoolbar.cpp:1063
 #, kde-format
 msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "o ante e &toki..."
 
-#: kedittoolbar.cpp:1208
+#: kedittoolbar.cpp:1205
 #, kde-format
 msgid "--- separator ---"
 msgstr "--- linja ---"
 
-#: kedittoolbar.cpp:1209
+#: kedittoolbar.cpp:1206
 #, kde-format
 msgid "--- expanding spacer ---"
 msgstr "--- kon suli ---"
 
-#: kedittoolbar.cpp:1231
+#: kedittoolbar.cpp:1228
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "pali \"%1\""
 
-#: kedittoolbar.cpp:1259
+#: kedittoolbar.cpp:1256
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr "leko ni li kama leko pi ilo ante."
 
-#: kedittoolbar.cpp:1261
+#: kedittoolbar.cpp:1258
 #, kde-format
 msgid "<Merge>"
 msgstr "<Merge>"
 
-#: kedittoolbar.cpp:1263
+#: kedittoolbar.cpp:1260
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Merge %1>"
 
-#: kedittoolbar.cpp:1273
+#: kedittoolbar.cpp:1270
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -772,18 +772,18 @@ msgstr ""
 "ni li kulupu pi ken pali. sina ken tawa e ona. sina li weka e ona la sina "
 "ken ala lon sin e ona."
 
-#: kedittoolbar.cpp:1274
+#: kedittoolbar.cpp:1271
 #, kde-format
 msgid "ActionList: %1"
 msgstr "ActionList: %1"
 
-#: kedittoolbar.cpp:1375 kedittoolbar.cpp:1400
+#: kedittoolbar.cpp:1372 kedittoolbar.cpp:1397
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "pali \"%1\""
 
-#: kedittoolbar.cpp:1628
+#: kedittoolbar.cpp:1625
 #, kde-format
 msgid "Change Icon"
 msgstr "o pana e sitelen lili ante"
@@ -1340,109 +1340,109 @@ msgid ""
 msgstr ""
 "ni li toki nanpa tu. toki nanpa wan li jo ala e nimi la, ilo li kepeken e ni."
 
-#: ktoolbar.cpp:294 ktoolbar.cpp:301
+#: ktoolbar.cpp:300 ktoolbar.cpp:307
 #, kde-format
 msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "nasin ilo pi kulupu ilo"
 
-#: ktoolbar.cpp:296
+#: ktoolbar.cpp:302
 #, kde-format
 msgctxt "@title:menu"
 msgid "Show Text"
 msgstr "o sitelen e toki"
 
-#: ktoolbar.cpp:303
+#: ktoolbar.cpp:309
 #, kde-format
 msgctxt "Toolbar orientation"
 msgid "Orientation"
 msgstr "sewi anu anpa anu seme"
 
-#: ktoolbar.cpp:305
+#: ktoolbar.cpp:311
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "poka sewi"
 
-#: ktoolbar.cpp:309
+#: ktoolbar.cpp:315
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "poka open"
 
-#: ktoolbar.cpp:312
+#: ktoolbar.cpp:318
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "poka pini"
 
-#: ktoolbar.cpp:315
+#: ktoolbar.cpp:321
 #, kde-format
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "poka anpa"
 
-#: ktoolbar.cpp:326
+#: ktoolbar.cpp:332
 #, kde-format
 msgid "Text Position"
 msgstr "poka sitelen"
 
-#: ktoolbar.cpp:328
+#: ktoolbar.cpp:334
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Icons Only"
 msgstr "sitelen lili taso"
 
-#: ktoolbar.cpp:331
+#: ktoolbar.cpp:337
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Text Only"
 msgstr "sitelen toki taso"
 
-#: ktoolbar.cpp:334
+#: ktoolbar.cpp:340
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Text Alongside Icons"
 msgstr "sitelen toki lon poka sitelen"
 
-#: ktoolbar.cpp:337
+#: ktoolbar.cpp:343
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Text Under Icons"
 msgstr "sitelen toki lon anpa sitelen"
 
-#: ktoolbar.cpp:348
+#: ktoolbar.cpp:354
 #, kde-format
 msgid "Icon Size"
 msgstr "suli pi sitelen lili"
 
-#: ktoolbar.cpp:354
+#: ktoolbar.cpp:356
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "suli tan jan pali ilo"
 
-#: ktoolbar.cpp:371 ktoolbar.cpp:392
+#: ktoolbar.cpp:376 ktoolbar.cpp:400
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "lili (%1x%2)"
 
-#: ktoolbar.cpp:373 ktoolbar.cpp:394
+#: ktoolbar.cpp:378 ktoolbar.cpp:402
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "lili ala (%1x%2)"
 
-#: ktoolbar.cpp:375 ktoolbar.cpp:396
+#: ktoolbar.cpp:380 ktoolbar.cpp:404
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "suli (%1x%2)"
 
-#: ktoolbar.cpp:377 ktoolbar.cpp:398
+#: ktoolbar.cpp:382 ktoolbar.cpp:406
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "suli mute (%1x%2)"
 
-#: ktoolbar.cpp:421
+#: ktoolbar.cpp:432
 #, kde-format
 msgid "Lock Toolbar Positions"
 msgstr "o awen e poka pi kulupu ilo"
