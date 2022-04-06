@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-04-06 00:43+0000\n"
-"PO-Revision-Date: 2022-04-06 21:33+0000\n"
-"Last-Translator: Logan Wemyss <vixietsq@gmail.com>\n"
+"PO-Revision-Date: 2022-04-06 22:11+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
 "ante-toki-pi-ilo-kde/krita/tok/>\n"
 "Language: tok\n"
@@ -20299,7 +20299,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "kulupu pi ante toki pi toki pona"
 
 #: libs/ui/dialogs/kis_about_application.cpp:72
 #, kde-format
