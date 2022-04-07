@@ -1,18 +1,18 @@
 # translation of tok.po to Slovak
-# Roman Paholík <wizzardsk@gmail.com>, 2021.
+# Roman Paholík <wizzardsk@gmail.com>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-03-24 00:44+0000\n"
-"PO-Revision-Date: 2021-11-15 18:38+0100\n"
+"PO-Revision-Date: 2022-04-07 18:19+0200\n"
 "Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
 "Language-Team: Slovak <kde-sk@linux.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 21.08.3\n"
+"X-Generator: Lokalize 21.12.3\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #: data/components/CreateNewMenu.qml:13
@@ -491,7 +491,7 @@ msgstr "Nepodporované"
 #, fuzzy, kde-format
 msgctxt "placeholder text for a search field"
 msgid "Search…"
-msgstr "Hľadať"
+msgstr "Hľadať..."
 
 #: data/components/upload/desktop/UploadDialog.qml:17
 #, fuzzy, kde-format
@@ -602,12 +602,12 @@ msgid "Delete"
 msgstr "Vymazať"
 
 #: data/Content.qml:398
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Loading..."
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
-msgstr "Pripájam"
+msgstr "Pripájam..."
 
 #: data/Content.qml:400
 #, kde-format
@@ -747,7 +747,7 @@ msgstr "&Upraviť správu"
 #| "than File in this context."
 #| msgid "Attachment"
 msgid "Attach file"
-msgstr "Pripojiť &súbor..."
+msgstr "Pripojiť súbor"
 
 #: data/routes/messages/components/CompositionBar.qml:251
 #, fuzzy, kde-format
@@ -776,9 +776,9 @@ msgid "Info"
 msgstr "Info"
 
 #: data/routes/messages/components/GroupInformation.qml:109
-#, kde-format
+#, fuzzy, kde-format
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: data/routes/messages/components/GroupInformation.qml:144
 #: data/routes/messages/components/PhotosView.qml:14
@@ -816,7 +816,7 @@ msgstr "Vymazať"
 
 #: data/routes/messages/components/normal/FileMessage.qml:41
 #: data/routes/messages/components/thin/FileMessage.qml:29
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "tooltip for a button on a message; offers ability to open its downloaded "
 "file with an appropriate application"
@@ -1454,7 +1454,7 @@ msgstr ""
 #, fuzzy, kde-format
 msgid "%1 is typing"
 msgid_plural "%1 are typing"
-msgstr[0] "%2 píše"
+msgstr[0] "%1 píše..."
 msgstr[1] "%2 píšu"
 msgstr[2] "%2 píšu"
 
@@ -1563,7 +1563,7 @@ msgstr "Hudba"
 #, fuzzy, kde-format
 msgctxt "notification body for receiving a file with a caption"
 msgid "File (%1): %2"
-msgstr "&Súbor"
+msgstr "Súbor (%1)"
 
 #: src/extractinator.cpp:61
 #, kde-format
@@ -1691,7 +1691,7 @@ msgstr "%1 a %2"
 msgctxt ""
 "The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
 msgid "%1, and %2"
-msgstr "a"
+msgstr "%1 a %2"
 
 #: src/internationalisedlist.cpp:31
 #, kde-format
