@@ -603,7 +603,6 @@ msgstr "Vymazať"
 
 #: data/Content.qml:398
 #, kde-format
-#| msgid "Loading..."
 msgctxt ""
 "small bubble in bottom left of window indicating current connection status"
 msgid "Connecting…"
