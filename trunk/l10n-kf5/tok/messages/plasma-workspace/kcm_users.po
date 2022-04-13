@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
-"%100>=11 && n%100<=14 ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || "
+"n%100>=11 && n%100<=14 ? 2 : 3;\n"
 "X-Generator: Weblate 4.10.1\n"
 
 #: package/contents/ui/ChangePassword.qml:26
@@ -46,12 +46,12 @@ msgstr "nimi len li wile sama"
 #: package/contents/ui/ChangePassword.qml:73
 #, kde-format
 msgid "Set Password"
-msgstr ""
+msgstr "o ante e nimi len"
 
 #: package/contents/ui/ChangeWalletPassword.qml:17
 #, kde-format
 msgid "Change Wallet Password?"
-msgstr ""
+msgstr "o ante ala ante e nimi len pi poki pi nimi len?"
 
 #: package/contents/ui/ChangeWalletPassword.qml:26
 #, kde-kuit-format
@@ -60,11 +60,13 @@ msgid ""
 "Now that you have changed your login password, you may also want to change "
 "the password on your default KWallet to match it."
 msgstr ""
+"sina ante e nimi len pi kama insa ilo la, ken la sina wile kin sama e nimi "
+"len pi poki pi nimi len."
 
 #: package/contents/ui/ChangeWalletPassword.qml:31
 #, kde-format
 msgid "What is KWallet?"
-msgstr ""
+msgstr "ilo KWallet li seme?"
 
 #: package/contents/ui/ChangeWalletPassword.qml:41
 #, kde-format
@@ -75,92 +77,95 @@ msgid ""
 "be unlocked at login automatically so you don't have to enter the KWallet "
 "password yourself."
 msgstr ""
+"ilo KWallet li poki pi nimi len li awen e nimi len ilo. ona li jo e nimi "
+"len. nimi len ni li ante tawa nimi len pi kama insa ilo. nimi len ni li sama "
+"la, ilo li open e poki kepeken ala sitelen sina."
 
 #: package/contents/ui/ChangeWalletPassword.qml:57
 #, kde-format
 msgid "Change Wallet Password"
-msgstr ""
+msgstr "o ante e nimi len pi poki pi nimi len"
 
 #: package/contents/ui/ChangeWalletPassword.qml:66
 #, kde-format
 msgid "Leave Unchanged"
-msgstr ""
+msgstr "o ante ala"
 
 #: package/contents/ui/CreateUser.qml:16
 #, kde-format
 msgid "Create User"
-msgstr ""
+msgstr "o lon e sijelo sin"
 
 #: package/contents/ui/CreateUser.qml:30
 #: package/contents/ui/UserDetailsPage.qml:134
 #, kde-format
 msgid "Name:"
-msgstr ""
+msgstr "nimi:"
 
 #: package/contents/ui/CreateUser.qml:35
 #: package/contents/ui/UserDetailsPage.qml:141
 #, kde-format
 msgid "Username:"
-msgstr ""
+msgstr "nimi ilo:"
 
 #: package/contents/ui/CreateUser.qml:45
 #: package/contents/ui/UserDetailsPage.qml:149
 #, kde-format
 msgid "Standard"
-msgstr ""
+msgstr "wawa ala"
 
 #: package/contents/ui/CreateUser.qml:46
 #: package/contents/ui/UserDetailsPage.qml:150
 #, kde-format
 msgid "Administrator"
-msgstr ""
+msgstr "wawa"
 
 #: package/contents/ui/CreateUser.qml:49
 #: package/contents/ui/UserDetailsPage.qml:153
 #, kde-format
 msgid "Account type:"
-msgstr ""
+msgstr "wawa sijelo:"
 
 #: package/contents/ui/CreateUser.qml:54
 #, kde-format
 msgid "Password:"
-msgstr ""
+msgstr "nimi len:"
 
 #: package/contents/ui/CreateUser.qml:59
 #, kde-format
 msgid "Confirm password:"
-msgstr ""
+msgstr "nimi len lon nanpa tu:"
 
 #: package/contents/ui/CreateUser.qml:70
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "o lon e sijelo"
 
 #: package/contents/ui/FingerprintDialog.qml:57
 #, kde-format
 msgid "Configure Fingerprints"
-msgstr ""
+msgstr "o lawa e nimi len luka"
 
 #: package/contents/ui/FingerprintDialog.qml:67
 #, kde-format
 msgid "Clear Fingerprints"
-msgstr ""
+msgstr "o weak e nimi len luka ale"
 
 #: package/contents/ui/FingerprintDialog.qml:74
 #, kde-format
 msgid "Add"
-msgstr ""
+msgstr "o lon e nimi len luka"
 
 #: package/contents/ui/FingerprintDialog.qml:83
 #: package/contents/ui/FingerprintDialog.qml:100
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "o ala"
 
 #: package/contents/ui/FingerprintDialog.qml:89
 #, kde-format
 msgid "Continue"
-msgstr ""
+msgstr "o awen tawa"
 
 #: package/contents/ui/FingerprintDialog.qml:108
 #, kde-format
@@ -170,7 +175,7 @@ msgstr ""
 #: package/contents/ui/FingerprintDialog.qml:131
 #, kde-format
 msgid "Enrolling Fingerprint"
-msgstr ""
+msgstr "mi pana e sona pi nimi len luka sin tawa ilo"
 
 #: package/contents/ui/FingerprintDialog.qml:137
 #, kde-format
@@ -180,7 +185,7 @@ msgstr ""
 #: package/contents/ui/FingerprintDialog.qml:147
 #, kde-format
 msgid "Finger Enrolled"
-msgstr ""
+msgstr "ilo li kama sona e nimi len luka"
 
 #: package/contents/ui/FingerprintDialog.qml:183
 #, kde-format
@@ -200,42 +205,42 @@ msgstr ""
 #: package/contents/ui/main.qml:22
 #, kde-format
 msgid "Manage Users"
-msgstr ""
+msgstr "o lawa e sijelo"
 
 #: package/contents/ui/main.qml:123
 #, kde-format
 msgid "Add New User"
-msgstr ""
+msgstr "o lon e sijelo sin"
 
 #: package/contents/ui/UserDetailsPage.qml:89
 #, kde-format
 msgid "Choose a picture"
-msgstr ""
+msgstr "o pana e sitelen"
 
 #: package/contents/ui/UserDetailsPage.qml:120
 #, kde-format
 msgid "Change avatar"
-msgstr ""
+msgstr "o ante e sitelen sijelo"
 
 #: package/contents/ui/UserDetailsPage.qml:162
 #, kde-format
 msgid "Email address:"
-msgstr ""
+msgstr "nasin Email:"
 
 #: package/contents/ui/UserDetailsPage.qml:186
 #, kde-format
 msgid "Delete files"
-msgstr ""
+msgstr "o weka e lipu"
 
 #: package/contents/ui/UserDetailsPage.qml:193
 #, kde-format
 msgid "Keep files"
-msgstr ""
+msgstr "o awen e lipu"
 
 #: package/contents/ui/UserDetailsPage.qml:200
 #, kde-format
 msgid "Delete User…"
-msgstr ""
+msgstr "o weka e sijelo…"
 
 #: package/contents/ui/UserDetailsPage.qml:211
 #, kde-format
