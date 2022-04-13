@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
-"%100>=11 && n%100<=14 ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || "
+"n%100>=11 && n%100<=14 ? 2 : 3;\n"
 "X-Generator: Weblate 4.10.1\n"
 
 #, kde-format
@@ -50,7 +50,7 @@ msgstr "o ante"
 #: imports/NeoChat/Settings/AccountsPage.qml:204
 #, kde-format
 msgid "Cancel"
-msgstr "o pali ala"
+msgstr "o ala"
 
 #: imports/NeoChat/Component/ChatBox/ChatBar.qml:97
 #, kde-format
@@ -69,16 +69,19 @@ msgid "Write your message..."
 msgstr "o sitelen e toki sina..."
 
 #: imports/NeoChat/Component/ChatBox/ChatBar.qml:290
+#: imports/NeoChat/Component/ChatBox/ChatBar.qml:299
 #, kde-format
 msgid "Attach an image or file"
 msgstr "o pana e sitelen anu lipu"
 
 #: imports/NeoChat/Component/ChatBox/ChatBar.qml:320
+#: imports/NeoChat/Component/ChatBox/ChatBar.qml:329
 #, kde-format
 msgid "Add an Emoji"
 msgstr "o pana e sitelen Emosi"
 
 #: imports/NeoChat/Component/ChatBox/ChatBar.qml:331
+#: imports/NeoChat/Component/ChatBox/ChatBar.qml:340
 #, kde-format
 msgid "Send message"
 msgstr "o pana e toki"
@@ -718,7 +721,7 @@ msgstr ""
 #: imports/NeoChat/Page/InviteUserPage.qml:42
 #, kde-format
 msgid "Add"
-msgstr ""
+msgstr "o lon e nimi len luka"
 
 #: imports/NeoChat/Page/InviteUserPage.qml:71
 #: imports/NeoChat/Page/StartChatPage.qml:135
@@ -842,12 +845,12 @@ msgstr ""
 msgid "Jump to latest message"
 msgstr ""
 
-#: imports/NeoChat/Page/RoomPage.qml:429
+#: imports/NeoChat/Page/RoomPage.qml:429 imports/NeoChat/Page/RoomPage.qml:435
 #, kde-format
 msgid "Drag items here to share them"
 msgstr ""
 
-#: imports/NeoChat/Page/RoomPage.qml:461
+#: imports/NeoChat/Page/RoomPage.qml:461 imports/NeoChat/Page/RoomPage.qml:467
 #, kde-format
 msgctxt "Message displayed when some users are typing"
 msgid "%2 is typing"
@@ -863,11 +866,13 @@ msgid "Chat"
 msgstr ""
 
 #: imports/NeoChat/Page/WelcomePage.qml:57
+#: imports/NeoChat/Page/WelcomePage.qml:50
 #, kde-format
 msgid "Welcome to Matrix"
 msgstr ""
 
 #: imports/NeoChat/Page/WelcomePage.qml:73
+#: imports/NeoChat/Page/WelcomePage.qml:66
 #, kde-format
 msgctxt "@action:button"
 msgid "Back"
@@ -1107,7 +1112,7 @@ msgstr ""
 #: imports/NeoChat/Settings/DevicesPage.qml:94
 #, kde-format
 msgid "Name:"
-msgstr ""
+msgstr "nimi:"
 
 #: imports/NeoChat/Settings/AccountsPage.qml:157
 #, kde-format
@@ -1214,7 +1219,7 @@ msgstr ""
 #: imports/NeoChat/Settings/DevicesPage.qml:71
 #, kde-format
 msgid "Password:"
-msgstr ""
+msgstr "nimi len:"
 
 #: imports/NeoChat/Settings/DevicesPage.qml:75
 #, kde-format
