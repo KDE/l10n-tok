@@ -241,8 +241,7 @@ msgstr[3] ""
 msgid "Color Picker"
 msgstr ""
 
-#: commands/tools/kpToolFloodFillCommand.cpp:77
-#: tools/kpToolFloodFill.cpp:55
+#: commands/tools/kpToolFloodFillCommand.cpp:77 tools/kpToolFloodFill.cpp:55
 #, kde-format
 msgid "Flood Fill"
 msgstr ""
@@ -1306,8 +1305,8 @@ msgstr ""
 
 #: mainWindow/kpMainWindow_Colors.cpp:374
 #: mainWindow/kpMainWindow_Colors.cpp:387
-#: mainWindow/kpMainWindow_Colors.cpp:396
-#: mainWindow/kpMainWindow_File.cpp:1077 mainWindow/kpMainWindow_File.cpp:1087
+#: mainWindow/kpMainWindow_Colors.cpp:396 mainWindow/kpMainWindow_File.cpp:1077
+#: mainWindow/kpMainWindow_File.cpp:1087
 #, kde-format
 msgid "&Reload"
 msgstr ""
@@ -1939,7 +1938,8 @@ msgstr ""
 msgid "Draws lines"
 msgstr ""
 
-#: tools/polygonal/kpToolLine.cpp:55 tools/rectangular/kpToolRectangularBase.cpp:119
+#: tools/polygonal/kpToolLine.cpp:55
+#: tools/rectangular/kpToolRectangularBase.cpp:119
 #, kde-format
 msgid "Drag to draw."
 msgstr ""
@@ -2484,7 +2484,8 @@ msgstr ""
 msgid "Top-&left of the page"
 msgstr ""
 
-#: widgets/kpTransparentColorCell.cpp:53 widgets/toolbars/options/kpToolWidgetOpaqueOrTransparent.cpp:44
+#: widgets/kpTransparentColorCell.cpp:53
+#: widgets/toolbars/options/kpToolWidgetOpaqueOrTransparent.cpp:44
 #, kde-format
 msgid "Transparent"
 msgstr ""
