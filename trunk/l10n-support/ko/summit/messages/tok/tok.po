@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: tok\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-03-24 10:22+0100\n"
-"PO-Revision-Date: 2022-02-20 21:06+0100\n"
+"PO-Revision-Date: 2022-04-16 01:28+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -892,7 +892,7 @@ msgstr "정보"
 #: data/routes/messages/components/GroupInformation.qml:109
 #, kde-format
 msgid "Description"
-msgstr ""
+msgstr "설명"
 
 #. +> trunk5
 #: data/routes/messages/components/GroupInformation.qml:144
@@ -1511,8 +1511,7 @@ msgctxt "placeholder message"
 msgid ""
 "You have no proxies added. Use the Add Proxy button at the bottom of the "
 "window to add one."
-msgstr ""
-"추가한 프록시가 없습니다. 창 아래의 프록시 추가 단추를 사용하여 추가하십시오."
+msgstr "추가한 프록시가 없습니다. 창 아래의 프록시 추가 단추를 사용하여 추가하십시오."
 
 #. +> trunk5
 #: data/routes/settings/ProxySettings.qml:83
