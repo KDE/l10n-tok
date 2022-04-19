@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-30 00:55+0000\n"
+"POT-Creation-Date: 2022-04-19 00:46+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -179,7 +179,9 @@ msgstr "mi pana e sona pi nimi len luka sin tawa ilo"
 
 #: package/contents/ui/FingerprintDialog.qml:137
 #, kde-format
-msgid "Please repeatedly "
+msgctxt ""
+"%1 is a type of operation (e.g. 'scan') and %2 is the name of a finger"
+msgid "Please repeatedly %1 your %2 on the fingerprint sensor."
 msgstr ""
 
 #: package/contents/ui/FingerprintDialog.qml:147
