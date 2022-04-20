@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-17 00:57+0000\n"
+"POT-Creation-Date: 2022-04-20 00:53+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1109,7 +1109,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "tomo toki lipu pi kulupu KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:30
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:31
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1863,7 +1863,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:25
+#: src/urifilters/ikws/searchproviders/yandex.desktop:26
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://ctan.org/search?phrase=\\\\{@}"
