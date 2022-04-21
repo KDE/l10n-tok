@@ -8,9 +8,10 @@ msgstr ""
 "Project-Id-Version: kolourpaint\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-11-18 00:25+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-21 13:22+0000\n"
+"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
+"Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/"
+"ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/>\n"
 "Language: tok\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,6 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
 "%100>=11 && n%100<=14 ? 2 : 3;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -33,22 +35,22 @@ msgstr ""
 #: dialogs/imagelib/effects/kpEffectsDialog.cpp:112
 #, kde-format
 msgid "Balance"
-msgstr ""
+msgstr "sama kule"
 
 #: commands/imagelib/effects/kpEffectBlurSharpenCommand.cpp:52
 #, kde-format
 msgid "Soften"
-msgstr ""
+msgstr "puwa"
 
 #: commands/imagelib/effects/kpEffectBlurSharpenCommand.cpp:53
 #, kde-format
 msgid "Sharpen"
-msgstr ""
+msgstr "kiki"
 
 #: commands/imagelib/effects/kpEffectClearCommand.cpp:58
 #, kde-format
 msgid "Clear"
-msgstr ""
+msgstr "weka"
 
 #: commands/imagelib/effects/kpEffectClearCommand.cpp:60
 #: commands/imagelib/effects/kpEffectCommandBase.cpp:66
@@ -57,7 +59,7 @@ msgstr ""
 #: commands/imagelib/transforms/kpTransformSkewCommand.cpp:77
 #, kde-format
 msgid "Selection: %1"
-msgstr ""
+msgstr "sitelen wile: %1"
 
 #: commands/imagelib/effects/kpEffectEmbossCommand.cpp:42
 #: dialogs/imagelib/effects/kpEffectsDialog.cpp:113
@@ -1000,7 +1002,7 @@ msgstr ""
 #: kolourpaint.cpp:51
 #, kde-format
 msgid "KolourPaint"
-msgstr ""
+msgstr "ilo KolourPaint"
 
 #: kolourpaint.cpp:53
 #, kde-format
