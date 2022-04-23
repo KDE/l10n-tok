@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-22 00:41+0000\n"
+"POT-Creation-Date: 2022-04-23 00:42+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -2502,8 +2502,8 @@ msgstr "poki lipu sin..."
 
 #: filewidgets/kdiroperator.cpp:2094 widgets/jobuidelegate.cpp:280
 #: widgets/jobuidelegate.cpp:281 widgets/jobuidelegate.cpp:290
-#: widgets/jobuidelegate.cpp:291 widgets/widgetsaskuseractionhandler.cpp:173
-#: widgets/widgetsaskuseractionhandler.cpp:174
+#: widgets/jobuidelegate.cpp:291 widgets/widgetsaskuseractionhandler.cpp:176
+#: widgets/widgetsaskuseractionhandler.cpp:177
 #, kde-format
 msgid "Move to Trash"
 msgstr "o weka e ni tawa poki jaki"
@@ -6726,7 +6726,7 @@ msgid ""
 msgstr ""
 
 #: widgets/jobuidelegate.cpp:242 widgets/jobuidelegate.cpp:256
-#: widgets/jobuidelegate.cpp:268 widgets/widgetsaskuseractionhandler.cpp:143
+#: widgets/jobuidelegate.cpp:268 widgets/widgetsaskuseractionhandler.cpp:144
 #, kde-format
 msgid "Delete Permanently"
 msgstr "o weka lon tenpo ale"
@@ -6745,7 +6745,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: widgets/jobuidelegate.cpp:267 widgets/widgetsaskuseractionhandler.cpp:158
+#: widgets/jobuidelegate.cpp:267 widgets/widgetsaskuseractionhandler.cpp:161
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -6753,13 +6753,13 @@ msgid ""
 "><emphasis strong='true'>This action cannot be undone.</emphasis>"
 msgstr ""
 
-#: widgets/jobuidelegate.cpp:269 widgets/widgetsaskuseractionhandler.cpp:160
+#: widgets/jobuidelegate.cpp:269 widgets/widgetsaskuseractionhandler.cpp:163
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "poki jaki o jo e ala"
 
-#: widgets/jobuidelegate.cpp:279 widgets/widgetsaskuseractionhandler.cpp:166
+#: widgets/jobuidelegate.cpp:279 widgets/widgetsaskuseractionhandler.cpp:169
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -6776,12 +6776,12 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: widgets/jobuidelegate.cpp:393 widgets/widgetsaskuseractionhandler.cpp:360
+#: widgets/jobuidelegate.cpp:393 widgets/widgetsaskuseractionhandler.cpp:363
 #, kde-format
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr "linja pi sitelen SSL li pakala lukin."
 
-#: widgets/jobuidelegate.cpp:393 widgets/widgetsaskuseractionhandler.cpp:363
+#: widgets/jobuidelegate.cpp:393 widgets/widgetsaskuseractionhandler.cpp:366
 #, kde-format
 msgid "SSL"
 msgstr "ilo SSL"
@@ -8716,7 +8716,7 @@ msgid ""
 "Aborting because the identity of the host cannot be established."
 msgstr ""
 
-#: widgets/widgetsaskuseractionhandler.cpp:148
+#: widgets/widgetsaskuseractionhandler.cpp:150
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -8738,7 +8738,7 @@ msgstr[3] ""
 "sina wile ala wile weka pi tenpo ale e ijo %1?<nl/><nl/><emphasis "
 "strong='true'>sina ken ala weka e pali ni.</emphasis>"
 
-#: widgets/widgetsaskuseractionhandler.cpp:171
+#: widgets/widgetsaskuseractionhandler.cpp:174
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Do you really want to move this %1 item to the Trash?"
@@ -8748,19 +8748,19 @@ msgstr[1] "sina wile ala wile tawa poki jaki e ijo %1?"
 msgstr[2] "sina wile ala wile tawa poki jaki e ijo %1?"
 msgstr[3] "sina wile ala wile tawa poki jaki e ijo %1?"
 
-#: widgets/widgetsaskuseractionhandler.cpp:190
+#: widgets/widgetsaskuseractionhandler.cpp:193
 #, kde-format
 msgctxt "@option:checkbox"
 msgid "Do not ask again"
 msgstr "o wile sona sin ala"
 
-#: widgets/widgetsaskuseractionhandler.cpp:234
+#: widgets/widgetsaskuseractionhandler.cpp:237
 #, kde-format
 msgctxt "@option:check"
 msgid "Do not ask again"
 msgstr "o wile sona sin ala"
 
-#: widgets/widgetsaskuseractionhandler.cpp:259
+#: widgets/widgetsaskuseractionhandler.cpp:262
 #, kde-format
 msgctxt "@option:check"
 msgid "Do not show this message again"
