@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-04 00:42+0000\n"
+"POT-Creation-Date: 2022-05-06 00:41+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -6587,22 +6587,22 @@ msgstr "o nanpa e ni"
 msgid "Click to copy the checksum to the clipboard."
 msgstr "sina pilin e ni la sitelen pimeja li tawa supa pali."
 
-#: widgets/dropjob.cpp:167
+#: widgets/dropjob.cpp:182
 #, kde-format
 msgid "C&ancel"
 msgstr "o &pini"
 
-#: widgets/dropjob.cpp:298
+#: widgets/dropjob.cpp:304
 #, kde-format
 msgid "&Move Here"
 msgstr "o &tawa ni"
 
-#: widgets/dropjob.cpp:303
+#: widgets/dropjob.cpp:309
 #, kde-format
 msgid "&Copy Here"
 msgstr "o &pana e ijo sama lon ni"
 
-#: widgets/dropjob.cpp:308
+#: widgets/dropjob.cpp:314
 #, kde-format
 msgid "&Link Here"
 msgstr "o lon e &nasin"
