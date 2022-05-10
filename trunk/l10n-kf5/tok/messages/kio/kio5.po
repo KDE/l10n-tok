@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-07 00:42+0000\n"
+"POT-Creation-Date: 2022-05-10 00:41+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -3113,27 +3113,27 @@ msgctxt "Huge icon size"
 msgid "Huge (%1x%1)"
 msgstr "suli mute (%1x%1)"
 
-#: filewidgets/kfilewidget.cpp:647
+#: filewidgets/kfilewidget.cpp:645
 #, kde-format
 msgid "You can only select one file"
 msgstr "sina ken wile e lipu wan taso"
 
-#: filewidgets/kfilewidget.cpp:647
+#: filewidgets/kfilewidget.cpp:645
 #, kde-format
 msgid "More than one file provided"
 msgstr "sina wile e lipu mute"
 
-#: filewidgets/kfilewidget.cpp:820
+#: filewidgets/kfilewidget.cpp:818
 #, kde-format
 msgid "You can only select local files"
 msgstr "sina ken wile e lipu lon ilo sina taso"
 
-#: filewidgets/kfilewidget.cpp:820
+#: filewidgets/kfilewidget.cpp:818
 #, kde-format
 msgid "Remote files not accepted"
 msgstr "lipu lon ilo ante li pona ala"
 
-#: filewidgets/kfilewidget.cpp:827
+#: filewidgets/kfilewidget.cpp:825
 #, kde-format
 msgid ""
 "The selected URL uses an unsupported scheme. Please use the following "
@@ -3154,12 +3154,12 @@ msgstr[3] ""
 "nimi URL wile li kepeken e nasin toki ilo pi sona ala. o kepeken e nasin "
 "toki ilo mute ni: %2"
 
-#: filewidgets/kfilewidget.cpp:833
+#: filewidgets/kfilewidget.cpp:831
 #, kde-format
 msgid "Unsupported URL scheme"
 msgstr "nimi \"URL\" sina li pali ala tawa mi"
 
-#: filewidgets/kfilewidget.cpp:849
+#: filewidgets/kfilewidget.cpp:847
 #, kde-format
 msgid ""
 "More than one folder has been selected and this dialog does not accept "
@@ -3168,29 +3168,29 @@ msgid ""
 msgstr ""
 "sina pana e poki mute. taso mi wile poki wan taso. o pali sin e pana wile."
 
-#: filewidgets/kfilewidget.cpp:851
+#: filewidgets/kfilewidget.cpp:849
 #, kde-format
 msgid "More than one folder provided"
 msgstr "sina pana e poki mute"
 
-#: filewidgets/kfilewidget.cpp:861
+#: filewidgets/kfilewidget.cpp:859
 #, kde-format
 msgid ""
 "At least one folder and one file has been selected. Selected files will be "
 "ignored and the selected folder will be listed"
 msgstr ""
 
-#: filewidgets/kfilewidget.cpp:862
+#: filewidgets/kfilewidget.cpp:860
 #, kde-format
 msgid "Files and folders selected"
 msgstr "sina wile e lipu e poki"
 
-#: filewidgets/kfilewidget.cpp:880
+#: filewidgets/kfilewidget.cpp:878
 #, kde-format
 msgid "The file \"%1\" could not be found"
 msgstr "ilo li sona ala e lon pi lipu \"%1\""
 
-#: filewidgets/kfilewidget.cpp:880
+#: filewidgets/kfilewidget.cpp:878
 #, kde-format
 msgid "Cannot open file"
 msgstr "lipu li ken ala kama open"
