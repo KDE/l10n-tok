@@ -797,13 +797,21 @@ msgctxt "KFormat|"
 msgid "%1 at %2"
 msgstr "%1 lon %2"
 
-#: lib/util/klistopenfilesjob_unix.cpp:37
+#: lib/util/klistopenfilesjob_unix.cpp:38
 #, qt-format
 msgctxt "QObject|"
 msgid "Path %1 doesn't exist"
 msgstr "nasin %1 li lon ala"
 
-#: lib/util/klistopenfilesjob_unix.cpp:50
+#: lib/util/klistopenfilesjob_unix.cpp:45
+#, fuzzy
+#| msgctxt "KPluginFactory|"
+#| msgid "Could not find plugin %1"
+msgctxt "QObject|"
+msgid "Could not find lsof executable in PATH:"
+msgstr "mi ken ala alasa e ilo lili %1."
+
+#: lib/util/klistopenfilesjob_unix.cpp:60
 #, qt-format
 msgctxt "QObject|"
 msgid "Failed to execute `lsof' error code %1"

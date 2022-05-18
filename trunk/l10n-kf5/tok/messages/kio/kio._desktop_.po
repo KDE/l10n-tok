@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-22 00:55+0000\n"
+"POT-Creation-Date: 2022-05-18 00:54+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -70,80 +70,80 @@ msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "ilo wile ala"
 
-#: src/kcms/cookies/cookies.desktop:13
+#: src/kcms/cookies/cookies.desktop:14
 msgctxt "Name"
 msgid "Cookies"
 msgstr "sona lili awen pi ilo lipu"
 
-#: src/kcms/cookies/cookies.desktop:68
+#: src/kcms/cookies/cookies.desktop:69
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "o ante e nasin pi suwi linluwi"
 
-#: src/kcms/cookies/cookies.desktop:160
+#: src/kcms/cookies/cookies.desktop:161
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
 "suwi linluwi, alasa linluwi, linluwi, ma WWW, kulupu ilo, lawa, nimi linluwi"
 
-#: src/kcms/netpref/netpref.desktop:13
+#: src/kcms/netpref/netpref.desktop:14
 msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "wile sina tawa linluwi"
 
-#: src/kcms/netpref/netpref.desktop:103
+#: src/kcms/netpref/netpref.desktop:104
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr "o ante e ijo pi linluwi ale"
 
-#: src/kcms/netpref/netpref.desktop:194
+#: src/kcms/netpref/netpref.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr "kulupu ilo,linja,tenpo suli,ftp,linluwi"
 
-#: src/kcms/proxy/proxy.desktop:13
+#: src/kcms/proxy/proxy.desktop:14
 msgctxt "Name"
 msgid "Proxy"
 msgstr "nasin linluwi"
 
-#: src/kcms/proxy/proxy.desktop:106
+#: src/kcms/proxy/proxy.desktop:107
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "o ante e nasin linja pi kulupu ilo"
 
-#: src/kcms/proxy/proxy.desktop:199
+#: src/kcms/proxy/proxy.desktop:200
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr "nasin linja,linluwi,sinpin,awen,squid"
 
-#: src/kcms/smb/smb.desktop:11
+#: src/kcms/smb/smb.desktop:12
 msgctxt "Name"
 msgid "Windows Shares"
 msgstr "poki pi kulupu ilo Windows"
 
-#: src/kcms/smb/smb.desktop:102
+#: src/kcms/smb/smb.desktop:103
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr "nimi len tawa poki linluwi SMB"
 
-#: src/kcms/smb/smb.desktop:153
+#: src/kcms/smb/smb.desktop:154
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
 "Broadcast,WINS,Share,Login,Passwords"
 msgstr "SMB,SAMBA,ilo SMB,Windows,linluwi,LAN,ilo linluwi,nimi len"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:13
+#: src/kcms/webshortcuts/webshortcuts.desktop:14
 msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "nimi open pi alasa linluwi"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:57
+#: src/kcms/webshortcuts/webshortcuts.desktop:58
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "o ante e nimi open pi alasa linluwi"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:101
+#: src/kcms/webshortcuts/webshortcuts.desktop:102
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
