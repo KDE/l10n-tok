@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-02 00:41+0000\n"
+"POT-Creation-Date: 2022-05-22 00:42+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1262,24 +1262,24 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "pali \"%1\""
 
-#: kswitchlanguagedialog_p.cpp:140
+#: kswitchlanguagedialog_p.cpp:137
 #, kde-format
 msgctxt "@title:window"
 msgid "Configure Language"
 msgstr "wile sina pi toki ilo"
 
-#: kswitchlanguagedialog_p.cpp:144
+#: kswitchlanguagedialog_p.cpp:141
 #, kde-format
 msgid "Please choose the language which should be used for this application:"
 msgstr "o toki e ni: ilo o toki seme?"
 
-#: kswitchlanguagedialog_p.cpp:171
+#: kswitchlanguagedialog_p.cpp:168
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Fallback Language"
 msgstr "o pana e toki nanpa tu"
 
-#: kswitchlanguagedialog_p.cpp:172
+#: kswitchlanguagedialog_p.cpp:169
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -1287,41 +1287,41 @@ msgid ""
 "contain a proper translation."
 msgstr "toki nanpa wan li jo ala e nimi la, ilo li alasa e nimi lon toki ni."
 
-#: kswitchlanguagedialog_p.cpp:264 kswitchlanguagedialog_p.cpp:285
+#: kswitchlanguagedialog_p.cpp:261 kswitchlanguagedialog_p.cpp:282
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
 "effect the next time the application is started."
 msgstr "toki pi pi ilo ni li ante. ilo li toki ante lon open sin."
 
-#: kswitchlanguagedialog_p.cpp:265
+#: kswitchlanguagedialog_p.cpp:262
 #, kde-format
 msgctxt "@title:window"
 msgid "Application Language Changed"
 msgstr "toki ilo li ante"
 
-#: kswitchlanguagedialog_p.cpp:286
+#: kswitchlanguagedialog_p.cpp:283
 #, kde-format
 msgid "Application Language Changed"
 msgstr "toki ilo li ante"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, kde-format
 msgid "Primary language:"
 msgstr "toki nanpa wan:"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, kde-format
 msgid "Fallback language:"
 msgstr "toki nanpa tu:"
 
-#: kswitchlanguagedialog_p.cpp:388
+#: kswitchlanguagedialog_p.cpp:385
 #, kde-format
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "o weka"
 
-#: kswitchlanguagedialog_p.cpp:394
+#: kswitchlanguagedialog_p.cpp:391
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -1331,7 +1331,7 @@ msgstr ""
 "ni li toki nanpa wan. ilo li kepeken toki ni. nimi li lon ala toki ni la ilo "
 "li kepeken toki ante."
 
-#: kswitchlanguagedialog_p.cpp:395
+#: kswitchlanguagedialog_p.cpp:392
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
