@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-25 00:41+0000\n"
+"POT-Creation-Date: 2022-05-27 00:41+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -2189,17 +2189,17 @@ msgstr ""
 msgid "Undocumented Error"
 msgstr "pakala pi sona ala"
 
-#: core/kfileitem.cpp:1356
+#: core/kfileitem.cpp:1368
 #, kde-format
 msgid "(Symbolic Link to %1)"
 msgstr "(nasin tawa %1)"
 
-#: core/kfileitem.cpp:1358
+#: core/kfileitem.cpp:1370
 #, kde-format
 msgid "(%1, Link to %2)"
 msgstr "(%1, nasin tawa %2)"
 
-#: core/kfileitem.cpp:1361
+#: core/kfileitem.cpp:1373
 #, kde-format
 msgid " (Points to %1)"
 msgstr " (li tawa %1)"
@@ -4647,8 +4647,8 @@ msgstr "jaki suli:"
 
 #: ioslaves/trash/kio_trash.cpp:99 ioslaves/trash/kio_trash.cpp:146
 #: ioslaves/trash/kio_trash.cpp:210 ioslaves/trash/kio_trash.cpp:390
-#: ioslaves/trash/kio_trash.cpp:425 ioslaves/trash/kio_trash.cpp:603
-#: ioslaves/trash/kio_trash.cpp:615
+#: ioslaves/trash/kio_trash.cpp:425 ioslaves/trash/kio_trash.cpp:604
+#: ioslaves/trash/kio_trash.cpp:616
 #, kde-format
 msgid "Malformed URL %1"
 msgstr "nimi \"URL\" li ike %1"
