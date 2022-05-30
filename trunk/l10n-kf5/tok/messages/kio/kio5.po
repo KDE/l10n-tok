@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-27 00:41+0000\n"
+"POT-Creation-Date: 2022-05-30 00:42+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -3671,7 +3671,7 @@ msgstr "mi ken ala awen e sitelen lon %1"
 msgid "Icon file too big, download aborted"
 msgstr "suli sitelen li ike la mi kama ala jo e ona."
 
-#: gui/kemailclientlauncherjob.cpp:86
+#: gui/kemailclientlauncherjob.cpp:92
 #, kde-format
 msgid "No mail client found"
 msgstr "mi ken ala alasa e ilo pi linluwi Email"
