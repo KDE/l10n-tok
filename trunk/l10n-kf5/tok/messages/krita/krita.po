@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-02 00:43+0000\n"
+"POT-Creation-Date: 2022-06-03 00:43+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -15651,7 +15651,7 @@ msgctxt "PaintOp instant preview limitation"
 msgid "Brush Randomness recommended value 0.0"
 msgstr ""
 
-#: libs/brush/kis_brush.cpp:729
+#: libs/brush/kis_brush.cpp:727
 #, kde-format
 msgctxt "PaintOp instant preview limitation"
 msgid "Spacing > 0.5, consider disabling Instant Preview"
@@ -40533,7 +40533,7 @@ msgctxt "@title:column"
 msgid "Comment"
 msgstr ""
 
-#: plugins/extensions/qmic/kis_qmic_interface.cpp:287
+#: plugins/extensions/qmic/kis_qmic_interface.cpp:232
 msgctxt "(qtundo-format)"
 msgid "G'MIC filter"
 msgstr ""
