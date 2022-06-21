@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-20 00:43+0000\n"
+"POT-Creation-Date: 2022-06-21 00:43+0000\n"
 "PO-Revision-Date: 2022-04-06 22:11+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || "
-"n%100>=11 && n%100<=14 ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
+"%100>=11 && n%100<=14 ? 2 : 3;\n"
 "X-Generator: Weblate 4.10.1\n"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
@@ -21095,8 +21095,8 @@ msgstr ""
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><meta "
-"charset=\"utf-8\" /><style type=\"text/css\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset="
+"\"utf-8\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'Noto Sans'; font-size:10pt; font-"
 "weight:500; font-style:normal;\">\n"
@@ -23063,16 +23063,16 @@ msgstr ""
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-"css\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
+"\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body>\n"
 "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\">Krita is an open source "
 "and community-driven tool for digital artists everywhere.<br />Progress is "
-"made possible thanks to ongoing support from our community of <a "
-"href=\"https://docs.krita.org/en/contributors_manual.html\">contributors</"
-"a>, sponsors, and <a href=\"https://fund.krita.org/\">development fund </"
+"made possible thanks to ongoing support from our community of <a href="
+"\"https://docs.krita.org/en/contributors_manual.html\">contributors</a>, "
+"sponsors, and <a href=\"https://fund.krita.org/\">development fund </"
 "a>members.</p></body></html>"
 msgstr ""
 
@@ -23598,11 +23598,11 @@ msgstr ""
 #: libs/ui/forms/wdgcolorspaceselectoradvanced.ui:27
 #, kde-format
 msgid ""
-"<html><head/><body><p><a href=\"https://en.wikipedia.org/wiki/"
-"Color_space\"><span style=\" font-weight:600; text-decoration: underline; "
-"color:#006e28;\">Color Spaces</span></a>  determine how colors are encoded "
-"in your files. Different color spaces have different properties and are used "
-"for different purposes.</p></body></html>"
+"<html><head/><body><p><a href=\"https://en.wikipedia.org/wiki/Color_space"
+"\"><span style=\" font-weight:600; text-decoration: underline; color:#006e28;"
+"\">Color Spaces</span></a>  determine how colors are encoded in your files. "
+"Different color spaces have different properties and are used for different "
+"purposes.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -27016,8 +27016,8 @@ msgstr ""
 #: libs/ui/input/kis_change_primary_setting_action.cpp:23
 #, kde-format
 msgid ""
-"The <i>Change Primary Setting</i> action changes a tool's \"Primary "
-"Setting\", for example the brush size for the brush tool."
+"The <i>Change Primary Setting</i> action changes a tool's \"Primary Setting"
+"\", for example the brush size for the brush tool."
 msgstr ""
 
 #: libs/ui/input/kis_change_primary_setting_action.cpp:25
@@ -28372,11 +28372,11 @@ msgid ""
 "org/support-us/\"><span style=\" text-decoration: underline; color:%1;"
 "\">Support Krita's Development!</span></a></p><p><a href=\"https://docs."
 "krita.org/en/user_manual/getting_started.html\"><span style=\" text-"
-"decoration: underline; color:%1;\">Getting Started</span></a></p><p><a "
-"href=\"https://docs.krita.org/\"><span style=\" text-decoration: underline; "
-"color:%1;\">Manual</span></a></p><p><a href=\"https://krita.org/\"><span "
-"style=\" text-decoration: underline; color:%1;\">Krita Website</span></a></"
-"p></td><td><p><span style=\" color:%1;\"><b>Coding Krita</b></span></p><p><a "
+"decoration: underline; color:%1;\">Getting Started</span></a></p><p><a href="
+"\"https://docs.krita.org/\"><span style=\" text-decoration: underline; color:"
+"%1;\">Manual</span></a></p><p><a href=\"https://krita.org/\"><span style=\" "
+"text-decoration: underline; color:%1;\">Krita Website</span></a></p></"
+"td><td><p><span style=\" color:%1;\"><b>Coding Krita</b></span></p><p><a "
 "href=\"https://krita-artists.org\"><span style=\" text-decoration: "
 "underline; color:%1;\">User Community</span></a></p><p><a href=\"https://"
 "invent.kde.org/graphics/krita\"><span style=\" text-decoration: underline; "
@@ -29733,17 +29733,17 @@ msgstr ""
 msgid "You cannot drag and drop colors on the selected layer type."
 msgstr ""
 
-#: libs/ui/KisView.cpp:639 libs/ui/tool/kis_tool.cc:666
+#: libs/ui/KisView.cpp:639 libs/ui/tool/kis_tool.cc:658
 #, kde-format
 msgid "Layer is locked and invisible."
 msgstr ""
 
-#: libs/ui/KisView.cpp:641 libs/ui/tool/kis_tool.cc:668
+#: libs/ui/KisView.cpp:641 libs/ui/tool/kis_tool.cc:660
 #, kde-format
 msgid "Layer is locked."
 msgstr ""
 
-#: libs/ui/KisView.cpp:643 libs/ui/tool/kis_tool.cc:670
+#: libs/ui/KisView.cpp:643 libs/ui/tool/kis_tool.cc:662
 #, kde-format
 msgid "Layer is invisible."
 msgstr ""
@@ -29790,47 +29790,47 @@ msgstr ""
 msgid "Gamut Warnings turned off."
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:740
+#: libs/ui/KisViewManager.cpp:741
 #, kde-format
 msgid "Active Author Profile"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:870
+#: libs/ui/KisViewManager.cpp:871
 #, kde-format
 msgid "%1 (Copy)"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1012 libs/ui/KisViewManager.cpp:1093
+#: libs/ui/KisViewManager.cpp:1013 libs/ui/KisViewManager.cpp:1094
 #, kde-format
 msgid "Alternative names exhausted, try manually saving with a higher number"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1012
+#: libs/ui/KisViewManager.cpp:1013
 #, kde-format
 msgctxt "@title:window"
 msgid "Couldn't save incremental version"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1093
+#: libs/ui/KisViewManager.cpp:1094
 #, kde-format
 msgctxt "@title:window"
 msgid "Couldn't save incremental backup"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1276
+#: libs/ui/KisViewManager.cpp:1277
 #, kde-format
 msgid ""
 "Going into Canvas-Only mode.\n"
 "Press %1 to go back."
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1316
+#: libs/ui/KisViewManager.cpp:1317
 #, kde-format
 msgctxt "@title:window resource folder"
 msgid "Open Resource Folder"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1319
+#: libs/ui/KisViewManager.cpp:1320
 #, kde-format
 msgctxt "@info resource folder"
 msgid ""
@@ -29845,19 +29845,19 @@ msgid ""
 "%2</p>"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1333
+#: libs/ui/KisViewManager.cpp:1334
 #, kde-format
 msgctxt "@action:button resource folder"
 msgid "Open in &user AppData"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1334
+#: libs/ui/KisViewManager.cpp:1335
 #, kde-format
 msgctxt "@action:button resource folder"
 msgid "Open in &private app location"
 msgstr ""
 
-#: libs/ui/KisViewManager.cpp:1447 libs/ui/KisViewManager.cpp:1465
+#: libs/ui/KisViewManager.cpp:1448 libs/ui/KisViewManager.cpp:1466
 #, kde-format
 msgctxt "choice for author profile"
 msgid "Anonymous"
@@ -30971,22 +30971,22 @@ msgstr ""
 msgid "Transform"
 msgstr ""
 
-#: libs/ui/tool/kis_tool.cc:572
+#: libs/ui/tool/kis_tool.cc:564
 #, kde-format
 msgid "No options"
 msgstr ""
 
-#: libs/ui/tool/kis_tool.cc:672
+#: libs/ui/tool/kis_tool.cc:664
 #, kde-format
 msgid "Layer can be painted in Wash Mode only."
 msgstr ""
 
-#: libs/ui/tool/kis_tool.cc:674
+#: libs/ui/tool/kis_tool.cc:666
 #, kde-format
 msgid "Group not editable."
 msgstr ""
 
-#: libs/ui/tool/kis_tool.cc:689
+#: libs/ui/tool/kis_tool.cc:681
 #, kde-format
 msgid "Local selection is locked."
 msgstr ""
@@ -31011,12 +31011,12 @@ msgstr ""
 msgid "The MyPaint Brush Engine is not available for this colorspace"
 msgstr ""
 
-#: libs/ui/tool/kis_tool_paint.cc:384
+#: libs/ui/tool/kis_tool_paint.cc:425
 #, kde-format
 msgid "Color sampler does not work on this layer."
 msgstr ""
 
-#: libs/ui/tool/kis_tool_paint.cc:671
+#: libs/ui/tool/kis_tool_paint.cc:712
 #, kde-format
 msgid "Brush Size: %1 px"
 msgstr ""
@@ -31820,8 +31820,8 @@ msgid ""
 "<p><b>Extra notes on profiles by Elle Stone:</b></p><p><i>Krita comes with a "
 "number of high quality profiles created by <a href=\"https://"
 "ninedegreesbelow.com\">Elle Stone</a>. This is a summary. Please check <a "
-"href=\"https://ninedegreesbelow.com/photography/lcms-make-icc-profiles."
-"html\">the full documentation</a> as well.</i></p>"
+"href=\"https://ninedegreesbelow.com/photography/lcms-make-icc-profiles.html"
+"\">the full documentation</a> as well.</i></p>"
 msgstr ""
 
 #: libs/ui/widgets/kis_advanced_color_space_selector.cc:508
@@ -34122,12 +34122,12 @@ msgstr ""
 msgid "Toggle Preview"
 msgstr ""
 
-#: libs/widgetutils/KoFileDialog.cpp:242 libs/widgetutils/KoFileDialog.cpp:240
+#: libs/widgetutils/KoFileDialog.cpp:243
 #, kde-format
 msgid "Save As:"
 msgstr ""
 
-#: libs/widgetutils/KoFileDialog.cpp:321 libs/widgetutils/KoFileDialog.cpp:319
+#: libs/widgetutils/KoFileDialog.cpp:324
 #, kde-format
 msgid ""
 "The selected file name does not have a file extension that Krita "
@@ -34135,7 +34135,7 @@ msgid ""
 "Make sure the file name ends in '.%1' for example."
 msgstr ""
 
-#: libs/widgetutils/KoFileDialog.cpp:492 libs/widgetutils/KoFileDialog.cpp:487
+#: libs/widgetutils/KoFileDialog.cpp:504
 #, kde-format
 msgid "All supported formats"
 msgstr ""
@@ -34160,14 +34160,14 @@ msgstr ""
 #, kde-format
 msgid ""
 "<html><b>KDE</b> is a world-wide network of software engineers, artists, "
-"writers, translators and facilitators who are committed to <a "
-"href=\"%1\">Free Software</a> development. This community has created "
-"hundreds of Free Software applications as part of the KDE frameworks, "
-"workspaces and applications.<br /><br />KDE is a cooperative enterprise in "
-"which no single entity controls the efforts or products of KDE to the "
-"exclusion of others. Everyone is welcome to join and contribute to KDE, "
-"including you.<br /><br />Visit <a href=\"%2\">%2</a> for more information "
-"about the KDE community and the software we produce.</html>"
+"writers, translators and facilitators who are committed to <a href="
+"\"%1\">Free Software</a> development. This community has created hundreds of "
+"Free Software applications as part of the KDE frameworks, workspaces and "
+"applications.<br /><br />KDE is a cooperative enterprise in which no single "
+"entity controls the efforts or products of KDE to the exclusion of others. "
+"Everyone is welcome to join and contribute to KDE, including you.<br /><br /"
+">Visit <a href=\"%2\">%2</a> for more information about the KDE community "
+"and the software we produce.</html>"
 msgstr ""
 
 #: libs/widgetutils/xmlgui/kaboutkdedialog_p.cpp:69
@@ -40528,7 +40528,7 @@ msgctxt "@title:column"
 msgid "Comment"
 msgstr ""
 
-#: plugins/extensions/qmic/kis_qmic_interface.cpp:232
+#: plugins/extensions/qmic/kis_qmic_interface.cpp:237
 msgctxt "(qtundo-format)"
 msgid "G'MIC filter"
 msgstr ""
@@ -48216,9 +48216,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "<html><head/><body><p><span style=\" font-weight:600;\">Clone Brush:</span></"
-"p><p>Select the source point from the current layer with Ctrl-click. Use "
-"Ctrl+Alt-click to select a source from the previously picked layer.</p></"
-"body></html>"
+"p><p>Select the source point from the current layer with Ctrl-click. Use Ctrl"
+"+Alt-click to select a source from the previously picked layer.</p></body></"
+"html>"
 msgstr ""
 
 #: plugins/paintops/deform/deform_paintop_plugin.cpp:29
@@ -53875,8 +53875,8 @@ msgstr ""
 #: plugins/tools/basictools/kis_tool_line.cc:390
 #, kde-format
 msgid ""
-"Alt+Drag will move the origin of the currently displayed line around, "
-"Shift+Drag will force you to draw straight lines"
+"Alt+Drag will move the origin of the currently displayed line around, Shift"
+"+Drag will force you to draw straight lines"
 msgstr ""
 
 #: plugins/tools/basictools/kis_tool_line.h:106
