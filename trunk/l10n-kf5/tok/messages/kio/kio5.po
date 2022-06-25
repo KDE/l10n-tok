@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-21 00:41+0000\n"
+"POT-Creation-Date: 2022-06-25 00:42+0000\n"
 "PO-Revision-Date: 2022-06-20 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -7171,34 +7171,34 @@ msgstr "tenpo lukin:"
 msgid "Open With:"
 msgstr "o lukin e ni kepeken:"
 
-#: widgets/kopenwithdialog.cpp:296
+#: widgets/kopenwithdialog.cpp:298
 #, kde-format
 msgid "Known Applications"
 msgstr "ilo sona"
 
-#: widgets/kopenwithdialog.cpp:553
+#: widgets/kopenwithdialog.cpp:556
 #, kde-format
 msgid "Open With"
 msgstr "o lukin e ni kepeken"
 
-#: widgets/kopenwithdialog.cpp:558
+#: widgets/kopenwithdialog.cpp:561
 #, kde-format
 msgid ""
 "<qt>Select the program that should be used to open <b>%1</b>. If the program "
 "is not listed, enter the name or click the browse button.</qt>"
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:565
+#: widgets/kopenwithdialog.cpp:568
 #, kde-format
 msgid "Choose the name of the program with which to open the selected files."
 msgstr "o pana e nimi ilo tawa open pi lipu ni."
 
-#: widgets/kopenwithdialog.cpp:586
+#: widgets/kopenwithdialog.cpp:589
 #, kde-format
 msgid "<qt>Select the program you want to use to open the file<br/>%1</qt>"
 msgstr "<qt>o pilin e ilo pi wile sina tawa open pi lipu<br/>%1</qt>"
 
-#: widgets/kopenwithdialog.cpp:588
+#: widgets/kopenwithdialog.cpp:591
 #, kde-format
 msgid "<qt>Select the program you want to use to open the file.</qt>"
 msgid_plural ""
@@ -7208,38 +7208,38 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: widgets/kopenwithdialog.cpp:593 widgets/kopenwithdialog.cpp:624
+#: widgets/kopenwithdialog.cpp:596 widgets/kopenwithdialog.cpp:627
 #, kde-format
 msgid "Choose Application"
 msgstr "o toki e wile sina tawa ilo"
 
-#: widgets/kopenwithdialog.cpp:608
+#: widgets/kopenwithdialog.cpp:611
 #, kde-format
 msgid "Choose Application for %1"
 msgstr "o toki e wile ilo sina tawa %1"
 
-#: widgets/kopenwithdialog.cpp:610
+#: widgets/kopenwithdialog.cpp:613
 #, kde-format
 msgid ""
 "<qt>Select the program for the file type: <b>%1</b>. If the program is not "
 "listed, enter the name or click the browse button.</qt>"
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:626
+#: widgets/kopenwithdialog.cpp:629
 #, kde-format
 msgid ""
 "<qt>Select a program. If the program is not listed, enter the name or click "
 "the browse button.</qt>"
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:672
+#: widgets/kopenwithdialog.cpp:675
 #, kde-format
 msgid ""
 "Type to filter the applications below, or specify the name of a command.\n"
 "Press down arrow to navigate the results."
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:695
+#: widgets/kopenwithdialog.cpp:698
 #, kde-format
 msgid ""
 "Following the command, you can have several place holders which will be "
@@ -7256,7 +7256,7 @@ msgid ""
 "%c - the comment"
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:737
+#: widgets/kopenwithdialog.cpp:740
 #, kde-format
 msgid ""
 "&Remember application association for all files of type\n"
@@ -7265,35 +7265,40 @@ msgstr ""
 "o &kepeken e ilo ni tawa lipu ale pi kule\n"
 "\"%1\" (%2)"
 
-#: widgets/kopenwithdialog.cpp:746
+#: widgets/kopenwithdialog.cpp:749
 #, kde-format
 msgid "Terminal options"
 msgstr "lawa pi ilo pi toki taso"
 
-#: widgets/kopenwithdialog.cpp:751
+#: widgets/kopenwithdialog.cpp:754
 #, kde-format
 msgid "Run in &terminal"
 msgstr "o kepeken lon ilo pi &toki taso"
 
-#: widgets/kopenwithdialog.cpp:769
+#: widgets/kopenwithdialog.cpp:772
 #, kde-format
 msgid "&Do not close when command exits"
 msgstr "&ilo li pini la o weka ala"
 
-#: widgets/kopenwithdialog.cpp:958
+#: widgets/kopenwithdialog.cpp:792
+#, kde-format
+msgid "Get more Apps from Discover"
+msgstr ""
+
+#: widgets/kopenwithdialog.cpp:977
 #, kde-format
 msgid ""
 "Could not extract executable name from '%1', please type a valid program "
 "name."
 msgstr ""
 
-#: widgets/kopenwithdialog.cpp:1012
+#: widgets/kopenwithdialog.cpp:1031
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<filename>%1</filename> does not appear to be an executable program."
 msgstr "lipu <filename>%1</filename> li ilo ala."
 
-#: widgets/kopenwithdialog.cpp:1014
+#: widgets/kopenwithdialog.cpp:1033
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
