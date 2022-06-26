@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-13 01:26+0000\n"
+"POT-Creation-Date: 2022-06-26 00:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,17 +16,17 @@ msgctxt "Name"
 msgid "Melon"
 msgstr ""
 
-#: application data/org.kde.Melon.desktop:18
+#: application data/org.kde.Melon.desktop:19
 msgctxt "Comment"
 msgid "File manager"
 msgstr ""
 
-#: application data/org.kde.Melon.desktop:33
+#: application data/org.kde.Melon.desktop:35
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr ""
 
-#: application data/org.kde.Melon.desktop:51
+#: application data/org.kde.Melon.desktop:54
 msgctxt "Keywords"
 msgid "files;file management;file browsing;explorer;dolphin;finder;manager"
 msgstr ""
