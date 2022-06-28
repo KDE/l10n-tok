@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: melon\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-21 00:47+0000\n"
+"POT-Creation-Date: 2022-06-28 00:47+0000\n"
 "PO-Revision-Date: 2022-06-20 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -31,12 +31,12 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: data/AboutDialog.qml:10 src/menubar.cpp:153
+#: data/AboutDialog.qml:10 src/menubar.cpp:216
 #, kde-format
 msgid "About Melon"
 msgstr "sona pi ilo Melon"
 
-#: data/AboutDialog.qml:47 src/menubar.cpp:152
+#: data/AboutDialog.qml:47 src/menubar.cpp:215
 #, kde-format
 msgid "Melon"
 msgstr "ilo Melon"
@@ -136,12 +136,43 @@ msgstr ""
 msgid "%1 File(s), %2 Folder(s), %3"
 msgstr ""
 
-#: src/app.cpp:271
+#: src/app.cpp:83
+#, kde-format
+msgctxt "user's downloads folder"
+msgid "Downloads"
+msgstr ""
+
+#: src/app.cpp:87
+#, kde-format
+msgctxt "user's documents folder"
+msgid "Documents"
+msgstr ""
+
+#: src/app.cpp:91
+#, kde-format
+msgctxt "user's desktop folder"
+msgid "Desktop"
+msgstr ""
+
+#: src/app.cpp:95
+#, kde-format
+msgctxt "user's home folder"
+msgid "Home"
+msgstr ""
+
+#: src/app.cpp:99
+#, fuzzy, kde-format
+#| msgid "This Computer"
+msgctxt "root folder"
+msgid "Computer"
+msgstr "ilo ni"
+
+#: src/app.cpp:325
 #, kde-format
 msgid "Open In New Tab"
 msgstr ""
 
-#: src/app.cpp:277
+#: src/app.cpp:331
 #, kde-format
 msgid "Open In New Window"
 msgstr ""
@@ -163,7 +194,7 @@ msgctxt "<filename> alias"
 msgid "%1 alias"
 msgstr ""
 
-#: src/document.cpp:756 src/menubar.cpp:176
+#: src/document.cpp:756 src/menubar.cpp:239
 #, kde-format
 msgid "Get Info"
 msgstr ""
@@ -178,162 +209,172 @@ msgstr ""
 msgid "Search for %1"
 msgstr ""
 
-#: src/menubar.cpp:155
+#: src/menubar.cpp:218
 #, kde-format
 msgid "Preferences"
 msgstr "wile sina"
 
-#: src/menubar.cpp:157
+#: src/menubar.cpp:220
 #, kde-format
 msgid "Empty Trash"
 msgstr "o weka e insa jaki"
 
-#: src/menubar.cpp:159
+#: src/menubar.cpp:222
 #, kde-format
 msgid "Quit Melon"
 msgstr ""
 
-#: src/menubar.cpp:162
+#: src/menubar.cpp:225
 #, kde-format
 msgid "File"
 msgstr "lipu"
 
-#: src/menubar.cpp:170 src/toolbardelegate.cpp:40
+#: src/menubar.cpp:233 src/toolbardelegate.cpp:40
 #, kde-format
 msgid "New Window"
 msgstr "lukin sin"
 
-#: src/menubar.cpp:171
+#: src/menubar.cpp:234
 #, kde-format
 msgid "New Tab"
 msgstr ""
 
-#: src/menubar.cpp:172
+#: src/menubar.cpp:235
 #, kde-format
 msgid "New File"
 msgstr ""
 
-#: src/menubar.cpp:173
+#: src/menubar.cpp:236
 #, kde-format
 msgid "Open"
 msgstr "o open"
 
-#: src/menubar.cpp:174
+#: src/menubar.cpp:237
 #, kde-format
 msgid "Close Window"
 msgstr "o weka e lukin"
 
-#: src/menubar.cpp:177
+#: src/menubar.cpp:240
 #, kde-format
 msgid "Duplicate"
 msgstr "o tu e lipu"
 
-#: src/menubar.cpp:178
+#: src/menubar.cpp:241
 #, kde-format
 msgid "Make Alias"
 msgstr "o lon e nimi sin tawa lipu"
 
-#: src/menubar.cpp:180
+#: src/menubar.cpp:243
 #, kde-format
 msgid "Move To Trash"
 msgstr "o tawa poki jaki"
 
-#: src/menubar.cpp:183
+#: src/menubar.cpp:246
 #, kde-format
 msgid "Edit"
 msgstr "ante"
 
-#: src/menubar.cpp:184
+#: src/menubar.cpp:247
 #, kde-format
 msgid "Undo"
 msgstr "o weka e pali"
 
-#: src/menubar.cpp:186
+#: src/menubar.cpp:249
 #, kde-format
 msgid "Cut"
 msgstr "o tawa e lipu tawa lipu jo"
 
-#: src/menubar.cpp:187
+#: src/menubar.cpp:250
 #, kde-format
 msgid "Copy"
 msgstr "o tu e lipu tawa lipu jo"
 
-#: src/menubar.cpp:188
+#: src/menubar.cpp:251
 #, kde-format
 msgid "Paste"
 msgstr "o pana e lipu tan lipu jo"
 
-#: src/menubar.cpp:189
+#: src/menubar.cpp:252
 #, kde-format
 msgid "Select All"
 msgstr "o suli e wile tawa ijo ale"
 
-#: src/menubar.cpp:192
+#: src/menubar.cpp:255
 #, kde-format
 msgid "View"
 msgstr "lukin"
 
-#: src/menubar.cpp:193
+#: src/menubar.cpp:256
 #, kde-format
 msgid "as Icons"
 msgstr "pi sitelen lili"
 
-#: src/menubar.cpp:194
+#: src/menubar.cpp:257
 #, kde-format
 msgid "as List"
 msgstr "pi nimi mute"
 
-#: src/menubar.cpp:195
+#: src/menubar.cpp:258
 #, kde-format
 msgid "as Columns"
 msgstr ""
 
-#: src/menubar.cpp:197
+#: src/menubar.cpp:260
 #, kde-format
 msgid "Show Path Bar"
 msgstr "o sitelen e supa nasin"
 
-#: src/menubar.cpp:198
+#: src/menubar.cpp:261
 #, kde-format
 msgid "Show Status Bar"
 msgstr "o sitelen e supa sona"
 
-#: src/menubar.cpp:199
+#: src/menubar.cpp:262
 #, kde-format
 msgid "Show Sidebar"
 msgstr "o sitelen e supa poki"
 
-#: src/menubar.cpp:201
+#: src/menubar.cpp:264
 #, kde-format
 msgid "Show Toolbar"
 msgstr ""
 
-#: src/menubar.cpp:202 src/menubar.cpp:258
+#: src/menubar.cpp:265 src/menubar.cpp:334
 #, kde-format
 msgid "Customise Toolbar..."
 msgstr ""
 
-#: src/menubar.cpp:205
+#: src/menubar.cpp:268
 #, kde-format
 msgid "Go"
 msgstr ""
 
-#: src/menubar.cpp:206 src/toolbardelegate.cpp:36
+#: src/menubar.cpp:271 src/toolbardelegate.cpp:36
 #, kde-format
 msgid "Back"
 msgstr ""
 
-#: src/menubar.cpp:207 src/toolbardelegate.cpp:37
+#: src/menubar.cpp:272 src/toolbardelegate.cpp:37
 #, kde-format
 msgid "Forward"
 msgstr ""
 
-#: src/menubar.cpp:208
+#: src/menubar.cpp:273
 #, kde-format
 msgid "Containing Folder"
 msgstr ""
 
-#: src/menubar.cpp:256
+#: src/menubar.cpp:280
+#, kde-format
+msgid "Bookmark Current Folder"
+msgstr ""
+
+#: src/menubar.cpp:281
+#, kde-format
+msgid "Edit Bookmarks..."
+msgstr ""
+
+#: src/menubar.cpp:332
 #, kde-format
 msgid "Finish Customising Toolbar"
 msgstr ""
