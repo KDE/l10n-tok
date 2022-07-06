@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-14 00:15+0000\n"
+"POT-Creation-Date: 2022-07-06 00:42+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: toki pona\n"
@@ -280,32 +280,31 @@ msgctxt "comment"
 msgid "Softimage PIC image"
 msgstr "sitelen Softimage PIC"
 
-#: kde5.xml.podir/kde5.xml.in.h:63
-msgctxt "comment"
-msgid "Qt Markup Language file"
-msgstr "lipu Qt Markup Language"
-
-#: kde5.xml.podir/kde5.xml.in.h:64
+#: kde5.xml.podir/kde5.xml.in.h:62
 msgctxt "comment"
 msgid "KConfigXT Configuration Options"
 msgstr "lipu pi ante wile pi ilo KConfigXT"
 
-#: kde5.xml.podir/kde5.xml.in.h:65
+#: kde5.xml.podir/kde5.xml.in.h:63
 msgctxt "comment"
 msgid "KConfigXT Code Generation Options"
 msgstr "lipu pi pana wile pi ilo KConfigXT"
 
-#: kde5.xml.podir/kde5.xml.in.h:66
+#: kde5.xml.podir/kde5.xml.in.h:64
 msgctxt "comment"
 msgid "KXMLGUI UI Declaration"
 msgstr "lipu pi ilo KXMLGUI"
 
-#: kde5.xml.podir/kde5.xml.in.h:67
+#: kde5.xml.podir/kde5.xml.in.h:65
 msgctxt "comment"
 msgid "KNotification Declaration"
 msgstr "lipu KNotification"
 
-#: kde5.xml.podir/kde5.xml.in.h:68
+#: kde5.xml.podir/kde5.xml.in.h:66
 msgctxt "comment"
 msgid "KCrash Report"
 msgstr "lipu pakala ilo KCrash"
+
+#~ msgctxt "comment"
+#~ msgid "Qt Markup Language file"
+#~ msgstr "lipu Qt Markup Language"
