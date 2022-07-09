@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-08 00:48+0000\n"
+"POT-Creation-Date: 2022-07-09 00:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -105,17 +105,18 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
-#: localelistmodel.cpp:32
+#: localelistmodel.cpp:34
 #, kde-format
 msgid "Default for System"
 msgstr ""
 
-#: localelistmodel.cpp:32 localelistmodel.cpp:83 package/contents/ui/main.qml:210
+#: localelistmodel.cpp:34 localelistmodel.cpp:85
+#: package/contents/ui/main.qml:210
 #, kde-format
 msgid "Default"
 msgstr ""
 
-#: localelistmodel.cpp:79
+#: localelistmodel.cpp:81
 #, kde-format
 msgctxt ""
 "the first is language name, the second is the country name, like 'English "
@@ -123,14 +124,14 @@ msgctxt ""
 msgid "%1 (%2)"
 msgstr ""
 
-#: localelistmodel.cpp:150
+#: localelistmodel.cpp:152
 #, kde-format
 msgctxt ""
 "@info:title, meaning the current locale is system default(which is `C`)"
 msgid "System Default C"
 msgstr ""
 
-#: localelistmodel.cpp:153
+#: localelistmodel.cpp:155
 #, kde-format
 msgctxt ""
 "@info:title the current locale is the default for %1, %1 is the country name"
