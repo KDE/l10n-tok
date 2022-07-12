@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-10 00:42+0000\n"
+"POT-Creation-Date: 2022-07-12 00:42+0000\n"
 "PO-Revision-Date: 2022-06-20 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -2212,7 +2212,7 @@ msgstr "(%1, nasin tawa %2)"
 msgid " (Points to %1)"
 msgstr " (li tawa %1)"
 
-#: core/mimetypefinderjob.cpp:57 gui/openurljob.cpp:148 widgets/krun.cpp:402
+#: core/mimetypefinderjob.cpp:57 gui/openurljob.cpp:145 widgets/krun.cpp:399
 #: widgets/paste.cpp:262 widgets/renamedialog.cpp:610
 #, kde-format
 msgid ""
@@ -3659,8 +3659,8 @@ msgstr ""
 "mi ken ala kepeken e %1 sama ilo, mi pini a!\n"
 "%2"
 
-#: gui/applicationlauncherjob.cpp:253 gui/openurljob.cpp:630
-#: widgets/krun.cpp:199
+#: gui/applicationlauncherjob.cpp:253 gui/openurljob.cpp:627
+#: widgets/krun.cpp:196
 #, kde-format
 msgid "You are not authorized to select an application to open this file."
 msgstr "sina jo ala e ken ni: sina ken ala toki e ilo tawa open lipu."
@@ -3712,12 +3712,12 @@ msgstr "mi open e ilo %1"
 msgid "No terminal emulator found"
 msgstr "ilo pi toki taso li lon ala"
 
-#: gui/openurljob.cpp:161
+#: gui/openurljob.cpp:158
 #, kde-format
 msgid "Failed to open %1"
 msgstr "mi ken ala open e nimi %1"
 
-#: gui/openurljob.cpp:299 widgets/kdesktopfileactions.cpp:129
+#: gui/openurljob.cpp:296 widgets/kdesktopfileactions.cpp:129
 #, kde-format
 msgid ""
 "The desktop entry file\n"
@@ -3728,27 +3728,27 @@ msgstr ""
 "%1\n"
 "li kule Link. taso ona li jo ala e sitelen \"URL=...\"."
 
-#: gui/openurljob.cpp:367
+#: gui/openurljob.cpp:364
 #, kde-format
 msgid ""
 "The executable file \"%1\" is located on a remote filesystem. For safety "
 "reasons it will not be started."
 msgstr ""
 
-#: gui/openurljob.cpp:403
+#: gui/openurljob.cpp:400
 #, kde-format
 msgid ""
 "For security reasons, launching executables is not allowed in this context."
 msgstr "awen pi pona ilo la mi ken ala open e ilo lon ni."
 
-#: gui/openurljob.cpp:433
+#: gui/openurljob.cpp:430
 #, kde-format
 msgid ""
 "The program \"%1\" needs to have executable permission before it can be "
 "launched."
 msgstr ""
 
-#: gui/openurljob.cpp:444
+#: gui/openurljob.cpp:441
 #, kde-format
 msgid ""
 "Unable to make file \"%1\" executable.\n"
@@ -3757,12 +3757,12 @@ msgstr ""
 "mi ken ala ken e kepeken \"%1\".\n"
 "%2."
 
-#: gui/openurljob.cpp:530 widgets/kdesktopfileactions.cpp:61
+#: gui/openurljob.cpp:527 widgets/kdesktopfileactions.cpp:61
 #, kde-format
 msgid "The desktop entry file %1 has no Type=... entry."
 msgstr "lipu ilo %1 li jo ala e sitelen \"Type=...\"."
 
-#: gui/openurljob.cpp:616
+#: gui/openurljob.cpp:613
 #, kde-format
 msgid ""
 "This file is incomplete and should not be opened.\n"
@@ -3770,12 +3770,12 @@ msgid ""
 "or downloads."
 msgstr ""
 
-#: gui/openurljob.cpp:642
+#: gui/openurljob.cpp:639
 #, kde-format
 msgid "Failed to open the file."
 msgstr "ilo li ken ala open e lipu."
 
-#: gui/openurljob.cpp:676
+#: gui/openurljob.cpp:673
 #, kde-format
 msgid "The program \"%1\" could not be launched."
 msgstr "ilo \"%1\" li ken ala kama open."
@@ -8193,14 +8193,14 @@ msgstr "ilo lon ilo sina taso li ken kepeken."
 msgid "Advanced Options for %1"
 msgstr "lawa kiwen tawa %1"
 
-#: widgets/krun.cpp:436
+#: widgets/krun.cpp:433
 #, kde-format
 msgid ""
 "<qt>Unable to run the command specified. The file or folder <b>%1</b> does "
 "not exist.</qt>"
 msgstr ""
 
-#: widgets/krun.cpp:495
+#: widgets/krun.cpp:492
 #, kde-format
 msgid "Could not find any application or handler for %1"
 msgstr "mi ken ala alasa e ilo tawa %1"
