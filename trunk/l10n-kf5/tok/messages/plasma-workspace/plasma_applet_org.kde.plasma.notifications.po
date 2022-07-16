@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-28 01:02+0000\n"
+"POT-Creation-Date: 2022-07-16 00:49+0000\n"
 "PO-Revision-Date: 2022-07-08 04:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -284,7 +284,7 @@ msgid "Show Details"
 msgstr ""
 
 #: package/contents/ui/JobItem.qml:230
-#: package/contents/ui/ThumbnailStrip.qml:167
+#: package/contents/ui/ThumbnailStrip.qml:169
 #, kde-format
 msgid "More Options…"
 msgstr ""

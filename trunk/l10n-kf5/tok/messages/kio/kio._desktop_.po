@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-15 00:56+0000\n"
+"POT-Creation-Date: 2022-07-16 00:57+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "lipu sitelen..."
 
-#: src/new_file_templates/EmptyFile.desktop:24
+#: src/new_file_templates/EmptyFile.desktop:25
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
