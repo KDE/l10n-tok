@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-19 00:42+0000\n"
+"POT-Creation-Date: 2022-07-20 00:43+0000\n"
 "PO-Revision-Date: 2022-07-08 04:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -19099,9 +19099,6 @@ msgstr ""
 #: plugins/extensions/resourcemanager/dlg_create_bundle.cpp:413
 #: plugins/filters/colorsfilters/kis_multichannel_filter_base.cpp:352
 #: plugins/filters/levelfilter/KisLevelsConfigWidget.cpp:163
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:162
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:167
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:225
 #: plugins/tools/defaulttool/referenceimagestool/KisReferenceImageCollection.cpp:95
 #: plugins/tools/defaulttool/referenceimagestool/ToolReferenceImages.cpp:131
 #: plugins/tools/defaulttool/referenceimagestool/ToolReferenceImages.cpp:166
@@ -22081,7 +22078,7 @@ msgstr ""
 #: plugins/paintops/spray/kis_sprayop_option.cpp:60
 #: plugins/paintops/tangentnormal/kis_tangent_tilt_option.cpp:39
 #: plugins/paintops/tangentnormal/kis_tangent_tilt_option.cpp:43
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:398
+#: plugins/tools/basictools/kis_tool_colorsampler.cc:273
 #: plugins/tools/basictools/kis_tool_fill.cc:359
 #: plugins/tools/basictools/kis_tool_fill.cc:369
 #: plugins/tools/selectiontools/kis_tool_select_contiguous.cc:244
@@ -31043,12 +31040,7 @@ msgstr ""
 msgid "The MyPaint Brush Engine is not available for this colorspace"
 msgstr ""
 
-#: libs/ui/tool/kis_tool_paint.cc:431
-#, kde-format
-msgid "Color sampler does not work on this layer."
-msgstr ""
-
-#: libs/ui/tool/kis_tool_paint.cc:718
+#: libs/ui/tool/kis_tool_paint.cc:569
 #, kde-format
 msgid "Brush Size: %1 px"
 msgstr ""
@@ -31083,6 +31075,11 @@ msgstr ""
 #: plugins/dockers/animation/KisAnimUtils.cpp:79
 msgctxt "(qtundo-format)"
 msgid "Clear"
+msgstr ""
+
+#: libs/ui/tool/KisAsyncColorSamplerHelper.cpp:291
+#, kde-format
+msgid "Color sampler does not work on this layer."
 msgstr ""
 
 #: libs/ui/tool/KisToolPaintFactoryBase.cpp:27
@@ -53710,22 +53707,12 @@ msgstr ""
 msgid "Freehand Brush Tool"
 msgstr ""
 
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:162
-#, kde-format
-msgid "Cannot sample a color as no layer is active."
-msgstr ""
-
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:167
-#, kde-format
-msgid "Cannot sample a color as the active layer is not visible."
-msgstr ""
-
-#: plugins/tools/basictools/kis_tool_colorsampler.cc:225
+#: plugins/tools/basictools/kis_tool_colorsampler.cc:90
 #, kde-format
 msgid "Cannot write to palette file %1. Maybe it is read-only."
 msgstr ""
 
-#: plugins/tools/basictools/kis_tool_colorsampler.h:137
+#: plugins/tools/basictools/kis_tool_colorsampler.h:122
 #, kde-format
 msgid "Color Sampler Tool"
 msgstr ""
