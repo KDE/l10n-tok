@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-16 00:49+0000\n"
+"POT-Creation-Date: 2022-08-02 00:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -46,7 +46,7 @@ msgctxt "PaperSize combobox"
 msgid "A4"
 msgstr ""
 
-#: kcmregionandlang.cpp:51
+#: kcmregionandlang.cpp:53
 #, kde-format
 msgid ""
 "You can configure the formats used for time, dates, money and other numbers "
