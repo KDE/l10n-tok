@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-06 00:43+0000\n"
+"POT-Creation-Date: 2022-08-07 00:43+0000\n"
 "PO-Revision-Date: 2022-07-08 04:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -34150,7 +34150,7 @@ msgstr ""
 msgid "Save As:"
 msgstr ""
 
-#: libs/widgetutils/KoFileDialog.cpp:324
+#: libs/widgetutils/KoFileDialog.cpp:326
 #, kde-format
 msgid ""
 "The selected file name does not have a file extension that Krita "
@@ -34158,7 +34158,7 @@ msgid ""
 "Make sure the file name ends in '.%1' for example."
 msgstr ""
 
-#: libs/widgetutils/KoFileDialog.cpp:504
+#: libs/widgetutils/KoFileDialog.cpp:506
 #, kde-format
 msgid "All supported formats"
 msgstr ""
