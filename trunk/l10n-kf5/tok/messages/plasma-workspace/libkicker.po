@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-22 00:47+0000\n"
+"POT-Creation-Date: 2022-08-12 00:47+0000\n"
 "PO-Revision-Date: 2022-07-08 04:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -46,22 +46,22 @@ msgstr ""
 msgid "Pin to Task Manager"
 msgstr ""
 
-#: plugin/actionlist.cpp:308 plugin/rootmodel.cpp:429
+#: plugin/actionlist.cpp:307 plugin/rootmodel.cpp:429
 #, kde-format
 msgid "Recent Files"
 msgstr ""
 
-#: plugin/actionlist.cpp:318
+#: plugin/actionlist.cpp:317
 #, kde-format
 msgid "Forget Recent Files"
 msgstr ""
 
-#: plugin/actionlist.cpp:396
+#: plugin/actionlist.cpp:395
 #, kde-format
 msgid "Edit Application…"
 msgstr ""
 
-#: plugin/actionlist.cpp:438
+#: plugin/actionlist.cpp:437
 #, kde-format
 msgctxt "@action opens a software center with the application"
 msgid "Uninstall or Manage Add-Ons…"
