@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-13 00:41+0000\n"
+"POT-Creation-Date: 2022-08-15 00:41+0000\n"
 "PO-Revision-Date: 2022-06-20 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -3345,7 +3345,7 @@ msgid "*|All Files"
 msgstr "*|lipu ale"
 
 #: filewidgets/kfilewidget.cpp:2147 widgets/executablefileopendialog.cpp:30
-#: widgets/kfileitemactions.cpp:875
+#: widgets/kfileitemactions.cpp:868
 #, kde-format
 msgid "&Open"
 msgstr "o kama e &lipu"
@@ -7028,47 +7028,47 @@ msgctxt "@item:inmenu Open With, %1 is application name"
 msgid "%1"
 msgstr "ilo %1"
 
-#: widgets/kfileitemactions.cpp:619
+#: widgets/kfileitemactions.cpp:612
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Actions"
 msgstr "&ken pali"
 
-#: widgets/kfileitemactions.cpp:864
+#: widgets/kfileitemactions.cpp:857
 #, kde-format
 msgid "&Open folder with %1"
 msgstr "o &open e poki kepeken %1"
 
-#: widgets/kfileitemactions.cpp:864
+#: widgets/kfileitemactions.cpp:857
 #, kde-format
 msgid "&Open with %1"
 msgstr "o &open kepeken %1"
 
-#: widgets/kfileitemactions.cpp:886
+#: widgets/kfileitemactions.cpp:879
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open Folder With..."
 msgstr "o &open e poki kepeken..."
 
-#: widgets/kfileitemactions.cpp:886
+#: widgets/kfileitemactions.cpp:879
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr "o &open kepeken..."
 
-#: widgets/kfileitemactions.cpp:900
+#: widgets/kfileitemactions.cpp:893
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open Folder With"
 msgstr "o &open e poki kepeken"
 
-#: widgets/kfileitemactions.cpp:900
+#: widgets/kfileitemactions.cpp:893
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With"
 msgstr "o &lukin e ni kepeken"
 
-#: widgets/kfileitemactions.cpp:911
+#: widgets/kfileitemactions.cpp:904
 #, kde-format
 msgctxt "@action:inmenu Open With"
 msgid "&Other Application..."
