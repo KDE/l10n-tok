@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-15 00:41+0000\n"
+"POT-Creation-Date: 2022-08-20 00:41+0000\n"
 "PO-Revision-Date: 2022-06-20 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -27,12 +27,12 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: core/chmodjob.cpp:193
+#: core/chmodjob.cpp:201
 #, kde-format
 msgid "Could not modify the ownership of file %1"
 msgstr "mi ken ala ante e jan lawa pi lipu %1"
 
-#: core/chmodjob.cpp:227
+#: core/chmodjob.cpp:235
 #, kde-kuit-format
 msgid ""
 "Could not modify the ownership of file <filename>%1</filename>. You have "
@@ -84,59 +84,59 @@ msgstr ""
 "poki poki (%2) li wile ala e nimi lili ni: %3\n"
 "sina kepeken \"ante\" li weka e nimi pi wile ala li lon e nimi \"_\"."
 
-#: core/copyjob.cpp:1399 core/job_error.cpp:579
+#: core/copyjob.cpp:1402 core/job_error.cpp:579
 #, kde-format
 msgid "Folder Already Exists"
 msgstr "poki li lon awen"
 
-#: core/copyjob.cpp:1729 core/copyjob.cpp:2420 core/filecopyjob.cpp:373
+#: core/copyjob.cpp:1732 core/copyjob.cpp:2423 core/filecopyjob.cpp:373
 #: core/job_error.cpp:568 widgets/paste.cpp:80
 #, kde-format
 msgid "File Already Exists"
 msgstr "ijo li lon awen"
 
-#: core/copyjob.cpp:1729 core/copyjob.cpp:2420
+#: core/copyjob.cpp:1732 core/copyjob.cpp:2423
 #, kde-format
 msgid "Already Exists as Folder"
 msgstr "ona li lon li poki"
 
-#: core/copyjob.cpp:1889 ioslaves/trash/kio_trash.cpp:288
+#: core/copyjob.cpp:1892 ioslaves/trash/kio_trash.cpp:288
 #, kde-format
 msgid "Trash"
 msgstr "ilo wile ala"
 
-#: core/desktopexecparser.cpp:317
+#: core/desktopexecparser.cpp:336
 #, kde-format
 msgid "No Exec field in %1"
 msgstr "lipu %1 li jo ala e poki \"Exec\""
 
-#: core/desktopexecparser.cpp:342
+#: core/desktopexecparser.cpp:361
 #, kde-format
 msgid "Could not find the program '%1'"
 msgstr "mi ken ala alasa e ilo '%1'"
 
-#: core/desktopexecparser.cpp:345
+#: core/desktopexecparser.cpp:364
 #, kde-format
 msgid ""
 "The program '%1' was found at '%2' but it is missing executable permissions."
 msgstr "ilo '%1' li lon '%2'. taso ona li ken ala kepeken."
 
-#: core/desktopexecparser.cpp:347
+#: core/desktopexecparser.cpp:366
 #, kde-format
 msgid "The program '%1' is missing executable permissions."
 msgstr "ilo '%1' li ken ala kepeken."
 
-#: core/desktopexecparser.cpp:361
+#: core/desktopexecparser.cpp:380
 #, kde-format
 msgid "Syntax error in command %1 coming from %2"
 msgstr "pakala sitelen lon %1 tan %2"
 
-#: core/desktopexecparser.cpp:493
+#: core/desktopexecparser.cpp:504
 #, kde-format
 msgid "Terminal %1 not found while trying to run %2"
 msgstr "mi wile kepeken %2 la mi ken ala alasa e ilo %1"
 
-#: core/desktopexecparser.cpp:509
+#: core/desktopexecparser.cpp:520
 #, kde-format
 msgid "Syntax error in command %1 while trying to run %2"
 msgstr "ilo %1 li wile kepeken e ilo %2, taso toki li ike lon ilo %1"
@@ -491,32 +491,32 @@ msgstr "toki ilo %1 li jo ala e poki lipu."
 msgid "Found a cyclic link in %1."
 msgstr "nasin sike li lon %1."
 
-#: core/job_error.cpp:94
+#: core/job_error.cpp:91
 #, kde-format
 msgid "Found a cyclic link while copying %1."
 msgstr "mi lon e ijo sama ijo %1 la mi lukin e nasin sike."
 
-#: core/job_error.cpp:97
+#: core/job_error.cpp:94
 #, kde-format
 msgid "Could not create socket for accessing %1."
 msgstr "mi ken ala lon e nasin toki tawa lukin %1."
 
-#: core/job_error.cpp:100
+#: core/job_error.cpp:97
 #, kde-format
 msgid "Could not connect to host %1."
 msgstr "ilo li ken ala toki tawa ilo pana %1."
 
-#: core/job_error.cpp:103
+#: core/job_error.cpp:100
 #, kde-format
 msgid "Connection to host %1 is broken."
 msgstr "linluwi tawa ilo pana %1 li pakala."
 
-#: core/job_error.cpp:106
+#: core/job_error.cpp:103
 #, kde-format
 msgid "The protocol %1 is not a filter protocol."
 msgstr "toki linluwi %1 li toki weka ala."
 
-#: core/job_error.cpp:109
+#: core/job_error.cpp:106
 #, kde-format
 msgid ""
 "Could not mount device.\n"
@@ -527,7 +527,7 @@ msgstr ""
 "pakala li ni:\n"
 "%1"
 
-#: core/job_error.cpp:112
+#: core/job_error.cpp:109
 #, kde-format
 msgid ""
 "Could not unmount device.\n"
@@ -538,82 +538,82 @@ msgstr ""
 "pakala li ni:\n"
 "%1"
 
-#: core/job_error.cpp:115
+#: core/job_error.cpp:112
 #, kde-format
 msgid "Could not read file %1."
 msgstr "ilo li ken ala lukin e lipu %1."
 
-#: core/job_error.cpp:118
+#: core/job_error.cpp:115
 #, kde-format
 msgid "Could not write to file %1."
 msgstr "ilo li ken ala pana e sona tawa lipu %1."
 
-#: core/job_error.cpp:121
+#: core/job_error.cpp:118
 #, kde-format
 msgid "Could not bind %1."
 msgstr "ijo %1 li ken ala pali linja."
 
-#: core/job_error.cpp:124
+#: core/job_error.cpp:121
 #, kde-format
 msgid "Could not listen %1."
 msgstr "ilo li ken ala kute e ijo %1."
 
-#: core/job_error.cpp:127
+#: core/job_error.cpp:124
 #, kde-format
 msgid "Could not accept %1."
 msgstr "ilo li ken ala kama jo e ijo %1."
 
-#: core/job_error.cpp:133
+#: core/job_error.cpp:130
 #, kde-format
 msgid "Could not access %1."
 msgstr "ilo li ken ala lukin e ijo %1."
 
-#: core/job_error.cpp:136
+#: core/job_error.cpp:133
 #, kde-format
 msgid "Could not terminate listing %1."
 msgstr "ilo li ken ala weka e ijo %1 tan lipu."
 
-#: core/job_error.cpp:139
+#: core/job_error.cpp:136
 #, kde-format
 msgid "Could not make folder %1."
 msgstr "ilo li ken ala pali e poki %1."
 
-#: core/job_error.cpp:142
+#: core/job_error.cpp:139
 #, kde-format
 msgid "Could not remove folder %1."
 msgstr "ilo li ken ala weka e poki %1."
 
-#: core/job_error.cpp:145
+#: core/job_error.cpp:142
 #, kde-format
 msgid "Could not resume file %1."
 msgstr "ilo li ken ala open pali sin e lipu %1."
 
-#: core/job_error.cpp:148
+#: core/job_error.cpp:145
 #, kde-format
 msgid "Could not rename file %1."
 msgstr "ilo li ken ala pana e nimi sin tawa lipu %1."
 
-#: core/job_error.cpp:151
+#: core/job_error.cpp:148
 #, kde-format
 msgid "Could not change permissions for %1."
 msgstr "ilo li ken ala ante e lawa kepeken pi ijo %1."
 
-#: core/job_error.cpp:154
+#: core/job_error.cpp:151
 #, kde-format
 msgid "Could not change ownership for %1."
 msgstr "ilo li ken ala ante e jo pi ijo %1."
 
-#: core/job_error.cpp:157
+#: core/job_error.cpp:154
 #, kde-format
 msgid "Could not delete file %1."
 msgstr "ilo li ken ala weka e lipu %1."
 
-#: core/job_error.cpp:160
+#: core/job_error.cpp:157
 #, kde-format
 msgid "The process for the %1 protocol died unexpectedly."
 msgstr "pali pi toki linluwi %1 li moli."
 
-#: core/job_error.cpp:163
+#: core/job_error.cpp:160
 #, kde-format
 msgid ""
 "Error. Out of memory.\n"
@@ -622,7 +622,7 @@ msgstr ""
 "pakala. poki nanpa li ken ala jo e ijo sin.\n"
 "%1"
 
-#: core/job_error.cpp:166
+#: core/job_error.cpp:163
 #, kde-format
 msgid ""
 "Unknown proxy host\n"
@@ -631,7 +631,7 @@ msgstr ""
 "ilo li sona ala e ilo pana pi nasin linluwi\n"
 "%1"
 
-#: core/job_error.cpp:169
+#: core/job_error.cpp:166
 #, kde-format
 msgid "Authorization failed, %1 authentication not supported"
 msgstr "pana pi sona jan li pakala. sona jan %1 li ken ala"
@@ -2212,7 +2212,7 @@ msgstr "(%1, nasin tawa %2)"
 msgid " (Points to %1)"
 msgstr " (li tawa %1)"
 
-#: core/mimetypefinderjob.cpp:57 gui/openurljob.cpp:145 widgets/krun.cpp:399
+#: core/mimetypefinderjob.cpp:57 gui/openurljob.cpp:145 widgets/krun.cpp:400
 #: widgets/paste.cpp:262 widgets/renamedialog.cpp:610
 #, kde-format
 msgid ""
@@ -2436,253 +2436,253 @@ msgid ""
 "Would you like to accept this certificate forever without being prompted?"
 msgstr "lipu ni li pona ala pon tawa sina lon tenpo ale?"
 
-#: filewidgets/kdiroperator.cpp:741
+#: filewidgets/kdiroperator.cpp:739
 #, kde-format
 msgid "A file or folder named %1 already exists."
 msgstr "lipu pi nimi %1 anu poki pi nimi %1 li lon kin."
 
-#: filewidgets/kdiroperator.cpp:744
+#: filewidgets/kdiroperator.cpp:742
 #, kde-format
 msgid "You do not have permission to create that folder."
 msgstr "sina jo ala e wawa tawa lon pi poki wile."
 
-#: filewidgets/kdiroperator.cpp:757 filewidgets/kdiroperator.cpp:806
+#: filewidgets/kdiroperator.cpp:755 filewidgets/kdiroperator.cpp:804
 #, kde-format
 msgid "You did not select a file to delete."
 msgstr "sina toki ala e lipu tawa weka."
 
-#: filewidgets/kdiroperator.cpp:757 filewidgets/kdiroperator.cpp:806
+#: filewidgets/kdiroperator.cpp:755 filewidgets/kdiroperator.cpp:804
 #, kde-format
 msgid "Nothing to Delete"
 msgstr "ijo ala li ken kama weka"
 
-#: filewidgets/kdiroperator.cpp:816 filewidgets/kdiroperator.cpp:912
+#: filewidgets/kdiroperator.cpp:814 filewidgets/kdiroperator.cpp:910
 #, kde-format
 msgid "You did not select a file to trash."
 msgstr "sina toki ala e lipu pi wile sina tawa poki jaki."
 
-#: filewidgets/kdiroperator.cpp:816 filewidgets/kdiroperator.cpp:912
+#: filewidgets/kdiroperator.cpp:814 filewidgets/kdiroperator.cpp:910
 #, kde-format
 msgid "Nothing to Trash"
 msgstr "ijo ala li ken tawa poki jaki"
 
-#: filewidgets/kdiroperator.cpp:1025 filewidgets/kdiroperator.cpp:1157
+#: filewidgets/kdiroperator.cpp:1023 filewidgets/kdiroperator.cpp:1155
 #, kde-format
 msgid "The specified folder does not exist or was not readable."
 msgstr "poki wile li lon ala anu ken lukin ala."
 
-#: filewidgets/kdiroperator.cpp:2049
+#: filewidgets/kdiroperator.cpp:2045
 #, kde-format
 msgid "Menu"
 msgstr "ilo mute"
 
-#: filewidgets/kdiroperator.cpp:2053
+#: filewidgets/kdiroperator.cpp:2049
 #, kde-format
 msgid "Parent Folder"
 msgstr "poki mama"
 
-#: filewidgets/kdiroperator.cpp:2059
+#: filewidgets/kdiroperator.cpp:2055
 #, kde-format
 msgctxt "@info"
 msgid "Go back"
 msgstr "o tawa tenpo pini"
 
-#: filewidgets/kdiroperator.cpp:2062
+#: filewidgets/kdiroperator.cpp:2058
 #, kde-format
 msgctxt "@info"
 msgid "Go forward"
 msgstr "o tawa tenpo kama"
 
-#: filewidgets/kdiroperator.cpp:2065
+#: filewidgets/kdiroperator.cpp:2061
 #, kde-format
 msgid "Home Folder"
 msgstr "poki pi tomo sina"
 
-#: filewidgets/kdiroperator.cpp:2068
+#: filewidgets/kdiroperator.cpp:2064
 #, kde-format
 msgid "Reload"
 msgstr "o sin e ni"
 
-#: filewidgets/kdiroperator.cpp:2071
+#: filewidgets/kdiroperator.cpp:2067
 #, kde-format
 msgid "New Folder..."
 msgstr "poki lipu sin..."
 
-#: filewidgets/kdiroperator.cpp:2081 widgets/jobuidelegate.cpp:289
-#: widgets/jobuidelegate.cpp:290 widgets/jobuidelegate.cpp:299
-#: widgets/jobuidelegate.cpp:300 widgets/widgetsaskuseractionhandler.cpp:272
+#: filewidgets/kdiroperator.cpp:2077 widgets/jobuidelegate.cpp:323
+#: widgets/jobuidelegate.cpp:324 widgets/jobuidelegate.cpp:333
+#: widgets/jobuidelegate.cpp:334 widgets/widgetsaskuseractionhandler.cpp:272
 #, kde-format
 msgid "Move to Trash"
 msgstr "o weka e ni tawa poki jaki"
 
-#: filewidgets/kdiroperator.cpp:2087
+#: filewidgets/kdiroperator.cpp:2083
 #, kde-format
 msgid "Delete"
 msgstr "o weka"
 
-#: filewidgets/kdiroperator.cpp:2094
+#: filewidgets/kdiroperator.cpp:2090
 #, kde-format
 msgid "Sorting"
 msgstr "nasin pana"
 
-#: filewidgets/kdiroperator.cpp:2099
+#: filewidgets/kdiroperator.cpp:2095
 #, kde-format
 msgid "Sort by Name"
 msgstr "o nasin tan nimi"
 
-#: filewidgets/kdiroperator.cpp:2105
+#: filewidgets/kdiroperator.cpp:2101
 #, kde-format
 msgid "Sort by Size"
 msgstr "o nasin tan suli"
 
-#: filewidgets/kdiroperator.cpp:2111
+#: filewidgets/kdiroperator.cpp:2107
 #, kde-format
 msgid "Sort by Date"
 msgstr "o nasin tan tenpo"
 
-#: filewidgets/kdiroperator.cpp:2117
+#: filewidgets/kdiroperator.cpp:2113
 #, kde-format
 msgid "Sort by Type"
 msgstr "o nasin tan kule"
 
-#: filewidgets/kdiroperator.cpp:2126
+#: filewidgets/kdiroperator.cpp:2122
 #, kde-format
 msgid "Ascending"
 msgstr "tan lili tawa suli"
 
-#: filewidgets/kdiroperator.cpp:2133
+#: filewidgets/kdiroperator.cpp:2129
 #, kde-format
 msgid "Descending"
 msgstr "tan suli tawa lili"
 
-#: filewidgets/kdiroperator.cpp:2140
+#: filewidgets/kdiroperator.cpp:2136
 #, kde-format
 msgid "Folders First"
 msgstr "poki o lon open"
 
-#: filewidgets/kdiroperator.cpp:2146
+#: filewidgets/kdiroperator.cpp:2142
 #, fuzzy, kde-format
 #| msgid "Show Hidden Files"
 msgid "Hidden Files Last"
 msgstr "o ken e lipu len tawa lukin"
 
-#: filewidgets/kdiroperator.cpp:2153
+#: filewidgets/kdiroperator.cpp:2149
 #, kde-format
 msgid "Icons View"
 msgstr "lukin pi sitelen lili"
 
-#: filewidgets/kdiroperator.cpp:2160
+#: filewidgets/kdiroperator.cpp:2156
 #, kde-format
 msgid "Compact View"
 msgstr "lukin pi lipu lili"
 
-#: filewidgets/kdiroperator.cpp:2167
+#: filewidgets/kdiroperator.cpp:2163
 #, kde-format
 msgid "Details View"
 msgstr "lukin pi lipu suli"
 
-#: filewidgets/kdiroperator.cpp:2186
+#: filewidgets/kdiroperator.cpp:2182
 #, kde-format
 msgid "Icon Position"
 msgstr "poka pi sitelen lili"
 
-#: filewidgets/kdiroperator.cpp:2189
+#: filewidgets/kdiroperator.cpp:2185
 #, kde-format
 msgid "Next to File Name"
 msgstr "lon poka pi nimi lipu"
 
-#: filewidgets/kdiroperator.cpp:2195
+#: filewidgets/kdiroperator.cpp:2191
 #, kde-format
 msgid "Above File Name"
 msgstr "lon sewi pi nimi lipu"
 
-#: filewidgets/kdiroperator.cpp:2209
+#: filewidgets/kdiroperator.cpp:2205
 #, kde-format
 msgid "Short View"
 msgstr "lukin lili"
 
-#: filewidgets/kdiroperator.cpp:2216
+#: filewidgets/kdiroperator.cpp:2212
 #, kde-format
 msgid "Detailed View"
 msgstr "lukin pi toki mute"
 
-#: filewidgets/kdiroperator.cpp:2223
+#: filewidgets/kdiroperator.cpp:2219
 #, kde-format
 msgid "Tree View"
 msgstr "lukin pi kasi lukin"
 
-#: filewidgets/kdiroperator.cpp:2230
+#: filewidgets/kdiroperator.cpp:2226
 #, kde-format
 msgid "Detailed Tree View"
 msgstr "lukin pi kasin lukin suli"
 
-#: filewidgets/kdiroperator.cpp:2243
+#: filewidgets/kdiroperator.cpp:2239
 #, kde-format
 msgid "Allow Expansion in Details View"
 msgstr "o ken e open poki lon lipu wan lon lukin pi sona mute"
 
-#: filewidgets/kdiroperator.cpp:2249
+#: filewidgets/kdiroperator.cpp:2245
 #, kde-format
 msgid "Show Hidden Files"
 msgstr "o ken e lipu len tawa lukin"
 
-#: filewidgets/kdiroperator.cpp:2256
+#: filewidgets/kdiroperator.cpp:2252
 #, kde-format
 msgid "Show Preview Panel"
 msgstr "o sitelen e ilo lukin lili"
 
-#: filewidgets/kdiroperator.cpp:2263
+#: filewidgets/kdiroperator.cpp:2259
 #, kde-format
 msgid "Show Preview"
 msgstr "o sitelen e lukin lipu"
 
-#: filewidgets/kdiroperator.cpp:2270
+#: filewidgets/kdiroperator.cpp:2266
 #, kde-format
 msgid "Open Containing Folder"
 msgstr "o open e poki pi jo lipu ni"
 
-#: filewidgets/kdiroperator.cpp:2277 filewidgets/kfileplacesview.cpp:1098
+#: filewidgets/kdiroperator.cpp:2273 filewidgets/kfileplacesview.cpp:1098
 #, kde-format
 msgid "Properties"
 msgstr "ijo lipu"
 
-#: filewidgets/kdiroperator.cpp:2286
+#: filewidgets/kdiroperator.cpp:2282
 #, fuzzy, kde-format
 #| msgid "&View"
 msgid "&View Mode"
 msgstr "&lukin"
 
-#: filewidgets/kdiroperator.cpp:2388 filewidgets/kdiroperator.cpp:2400
+#: filewidgets/kdiroperator.cpp:2384 filewidgets/kdiroperator.cpp:2396
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
 msgstr "W-A"
 
-#: filewidgets/kdiroperator.cpp:2389 filewidgets/kdiroperator.cpp:2401
+#: filewidgets/kdiroperator.cpp:2385 filewidgets/kdiroperator.cpp:2397
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
 msgstr "A-W"
 
-#: filewidgets/kdiroperator.cpp:2392
+#: filewidgets/kdiroperator.cpp:2388
 #, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
 msgstr "sin li nanpa wan"
 
-#: filewidgets/kdiroperator.cpp:2393
+#: filewidgets/kdiroperator.cpp:2389
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
 msgstr "sin li lon pini"
 
-#: filewidgets/kdiroperator.cpp:2396
+#: filewidgets/kdiroperator.cpp:2392
 #, kde-format
 msgctxt "Sort descending"
 msgid "Largest First"
 msgstr "suli li nanpa wa"
 
-#: filewidgets/kdiroperator.cpp:2397
+#: filewidgets/kdiroperator.cpp:2393
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
@@ -3345,7 +3345,7 @@ msgid "*|All Files"
 msgstr "*|lipu ale"
 
 #: filewidgets/kfilewidget.cpp:2147 widgets/executablefileopendialog.cpp:30
-#: widgets/kfileitemactions.cpp:868
+#: widgets/kfileitemactions.cpp:869
 #, kde-format
 msgid "&Open"
 msgstr "o kama e &lipu"
@@ -3556,7 +3556,7 @@ msgstr "ilo li lon ala linluwi"
 #. i18n: ectx: property (text), widget (QPushButton, sha1CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
-#: filewidgets/kurlnavigator.cpp:493 ioslaves/file/file_unix.cpp:135
+#: filewidgets/kurlnavigator.cpp:496 ioslaves/file/file_unix.cpp:135
 #: widgets/checksumswidget.ui:118 widgets/checksumswidget.ui:156
 #: widgets/checksumswidget.ui:194 widgets/checksumswidget.ui:232
 #, kde-format
@@ -3564,12 +3564,12 @@ msgid "Copy"
 msgstr "o tu e lipu tawa lipu jo"
 
 #. i18n: ectx: property (text), widget (QPushButton, pasteButton)
-#: filewidgets/kurlnavigator.cpp:497 widgets/checksumswidget.ui:39
+#: filewidgets/kurlnavigator.cpp:500 widgets/checksumswidget.ui:39
 #, kde-format
 msgid "Paste"
 msgstr "o pana e lipu tan lipu jo"
 
-#: filewidgets/kurlnavigator.cpp:517
+#: filewidgets/kurlnavigator.cpp:520
 #, fuzzy, kde-format
 #| msgctxt "@item:inmenu"
 #| msgid "Open in New Tab"
@@ -3577,7 +3577,7 @@ msgctxt "@item:inmenu"
 msgid "Open \"%1\" in New Tab"
 msgstr "o open lon nena sin"
 
-#: filewidgets/kurlnavigator.cpp:525
+#: filewidgets/kurlnavigator.cpp:528
 #, fuzzy, kde-format
 #| msgctxt "@item:inmenu"
 #| msgid "Open in New Window"
@@ -3585,17 +3585,17 @@ msgctxt "@item:inmenu"
 msgid "Open \"%1\" in New Window"
 msgstr "o open lon lupa sin"
 
-#: filewidgets/kurlnavigator.cpp:534
+#: filewidgets/kurlnavigator.cpp:537
 #, kde-format
 msgid "Edit"
 msgstr "ante"
 
-#: filewidgets/kurlnavigator.cpp:537
+#: filewidgets/kurlnavigator.cpp:540
 #, kde-format
 msgid "Navigate"
 msgstr "o tawa"
 
-#: filewidgets/kurlnavigator.cpp:552
+#: filewidgets/kurlnavigator.cpp:555
 #, kde-format
 msgid "Show Full Path"
 msgstr "o lukin e nasin tawa suli"
@@ -3660,7 +3660,7 @@ msgstr ""
 "%2"
 
 #: gui/applicationlauncherjob.cpp:253 gui/openurljob.cpp:627
-#: widgets/krun.cpp:196
+#: widgets/krun.cpp:197
 #, kde-format
 msgid "You are not authorized to select an application to open this file."
 msgstr "sina jo ala e ken ni: sina ken ala toki e ilo tawa open lipu."
@@ -6591,17 +6591,17 @@ msgstr "sina pilin e ni la sitelen pimeja li tawa supa pali."
 msgid "C&ancel"
 msgstr "o &pini"
 
-#: widgets/dropjob.cpp:305
+#: widgets/dropjob.cpp:309
 #, kde-format
 msgid "&Move Here"
 msgstr "o &tawa ni"
 
-#: widgets/dropjob.cpp:310
+#: widgets/dropjob.cpp:314
 #, kde-format
 msgid "&Copy Here"
 msgstr "o &pana e ijo sama lon ni"
 
-#: widgets/dropjob.cpp:315
+#: widgets/dropjob.cpp:319
 #, kde-format
 msgid "&Link Here"
 msgstr "o lon e &nasin"
@@ -6653,57 +6653,57 @@ msgstr "o ante e nimi"
 msgid "Deleting"
 msgstr "ilo li weka e ni"
 
-#: widgets/fileundomanager.cpp:291
+#: widgets/fileundomanager.cpp:305
 #, kde-format
 msgid "Und&o"
 msgstr "o weka e pali"
 
-#: widgets/fileundomanager.cpp:297
+#: widgets/fileundomanager.cpp:311
 #, kde-format
 msgid "Und&o: Copy"
 msgstr "o &weka e sama lipu"
 
-#: widgets/fileundomanager.cpp:299
+#: widgets/fileundomanager.cpp:313
 #, kde-format
 msgid "Und&o: Link"
 msgstr "o &weka e lon nasin"
 
-#: widgets/fileundomanager.cpp:301
+#: widgets/fileundomanager.cpp:315
 #, kde-format
 msgid "Und&o: Move"
 msgstr "o &weka e tawa"
 
-#: widgets/fileundomanager.cpp:303
+#: widgets/fileundomanager.cpp:317
 #, kde-format
 msgid "Und&o: Rename"
 msgstr "o &weka e ante nimi"
 
-#: widgets/fileundomanager.cpp:305
+#: widgets/fileundomanager.cpp:319
 #, kde-format
 msgid "Und&o: Trash"
 msgstr "o &weka e tawa jaki"
 
-#: widgets/fileundomanager.cpp:307
+#: widgets/fileundomanager.cpp:321
 #, kde-format
 msgid "Und&o: Create Folder"
 msgstr "o &weka e lon poki"
 
-#: widgets/fileundomanager.cpp:309
+#: widgets/fileundomanager.cpp:323
 #, kde-format
 msgid "Und&o: Create Folder(s)"
 msgstr "o &weka e lon poki"
 
-#: widgets/fileundomanager.cpp:311
+#: widgets/fileundomanager.cpp:325
 #, kde-format
 msgid "Und&o: Create File"
 msgstr "o &weka e lon lipu"
 
-#: widgets/fileundomanager.cpp:313
+#: widgets/fileundomanager.cpp:327
 #, kde-format
 msgid "Und&o: Batch Rename"
 msgstr "o &weka e ante pi nimi mute"
 
-#: widgets/fileundomanager.cpp:709
+#: widgets/fileundomanager.cpp:726
 #, kde-format
 msgid ""
 "The file %1 was copied from %2, but since then it has apparently been "
@@ -6716,12 +6716,12 @@ msgstr ""
 "sina wile weka e sama lipu la, ante ni li kama weka kin.\n"
 "sina wile ala wile weka e lipu %4?"
 
-#: widgets/fileundomanager.cpp:719
+#: widgets/fileundomanager.cpp:736
 #, kde-format
 msgid "Undo File Copy Confirmation"
 msgstr "o weka e wile pona pi sama lipu"
 
-#: widgets/jobuidelegate.cpp:248
+#: widgets/jobuidelegate.cpp:282
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -6730,13 +6730,13 @@ msgid ""
 "emphasis>"
 msgstr ""
 
-#: widgets/jobuidelegate.cpp:251 widgets/jobuidelegate.cpp:265
-#: widgets/jobuidelegate.cpp:277 widgets/widgetsaskuseractionhandler.cpp:240
+#: widgets/jobuidelegate.cpp:285 widgets/jobuidelegate.cpp:299
+#: widgets/jobuidelegate.cpp:311 widgets/widgetsaskuseractionhandler.cpp:240
 #, kde-format
 msgid "Delete Permanently"
 msgstr "o weka lon tenpo ale"
 
-#: widgets/jobuidelegate.cpp:261
+#: widgets/jobuidelegate.cpp:295
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -6750,7 +6750,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: widgets/jobuidelegate.cpp:276 widgets/widgetsaskuseractionhandler.cpp:257
+#: widgets/jobuidelegate.cpp:310 widgets/widgetsaskuseractionhandler.cpp:257
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -6758,13 +6758,13 @@ msgid ""
 "><emphasis strong='true'>This action cannot be undone.</emphasis>"
 msgstr ""
 
-#: widgets/jobuidelegate.cpp:278 widgets/widgetsaskuseractionhandler.cpp:259
+#: widgets/jobuidelegate.cpp:312 widgets/widgetsaskuseractionhandler.cpp:259
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "poki jaki o jo e ala"
 
-#: widgets/jobuidelegate.cpp:288 widgets/widgetsaskuseractionhandler.cpp:265
+#: widgets/jobuidelegate.cpp:322 widgets/widgetsaskuseractionhandler.cpp:265
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -6772,7 +6772,7 @@ msgid ""
 "filename>"
 msgstr ""
 
-#: widgets/jobuidelegate.cpp:297
+#: widgets/jobuidelegate.cpp:331
 #, kde-format
 msgid "Do you really want to move this item to the Trash?"
 msgid_plural "Do you really want to move these %1 items to the Trash?"
@@ -6781,12 +6781,12 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: widgets/jobuidelegate.cpp:402 widgets/widgetsaskuseractionhandler.cpp:465
+#: widgets/jobuidelegate.cpp:436 widgets/widgetsaskuseractionhandler.cpp:465
 #, kde-format
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr "linja pi sitelen SSL li pakala lukin."
 
-#: widgets/jobuidelegate.cpp:402 widgets/widgetsaskuseractionhandler.cpp:468
+#: widgets/jobuidelegate.cpp:436 widgets/widgetsaskuseractionhandler.cpp:468
 #, kde-format
 msgid "SSL"
 msgstr "ilo SSL"
@@ -7017,58 +7017,58 @@ msgctxt "@title:column"
 msgid "Type"
 msgstr "poki"
 
-#: widgets/kfileitemactions.cpp:426
+#: widgets/kfileitemactions.cpp:427
 #, kde-format
 msgid "Open &with %1"
 msgstr "o open &kepeken %1"
 
-#: widgets/kfileitemactions.cpp:428
+#: widgets/kfileitemactions.cpp:429
 #, kde-format
 msgctxt "@item:inmenu Open With, %1 is application name"
 msgid "%1"
 msgstr "ilo %1"
 
-#: widgets/kfileitemactions.cpp:612
+#: widgets/kfileitemactions.cpp:613
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Actions"
 msgstr "&ken pali"
 
-#: widgets/kfileitemactions.cpp:857
+#: widgets/kfileitemactions.cpp:858
 #, kde-format
 msgid "&Open folder with %1"
 msgstr "o &open e poki kepeken %1"
 
-#: widgets/kfileitemactions.cpp:857
+#: widgets/kfileitemactions.cpp:858
 #, kde-format
 msgid "&Open with %1"
 msgstr "o &open kepeken %1"
 
-#: widgets/kfileitemactions.cpp:879
+#: widgets/kfileitemactions.cpp:880
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open Folder With..."
 msgstr "o &open e poki kepeken..."
 
-#: widgets/kfileitemactions.cpp:879
+#: widgets/kfileitemactions.cpp:880
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr "o &open kepeken..."
 
-#: widgets/kfileitemactions.cpp:893
+#: widgets/kfileitemactions.cpp:894
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open Folder With"
 msgstr "o &open e poki kepeken"
 
-#: widgets/kfileitemactions.cpp:893
+#: widgets/kfileitemactions.cpp:894
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With"
 msgstr "o &lukin e ni kepeken"
 
-#: widgets/kfileitemactions.cpp:904
+#: widgets/kfileitemactions.cpp:905
 #, kde-format
 msgctxt "@action:inmenu Open With"
 msgid "&Other Application..."
@@ -8219,14 +8219,14 @@ msgstr "ilo lon ilo sina taso li ken kepeken."
 msgid "Advanced Options for %1"
 msgstr "lawa kiwen tawa %1"
 
-#: widgets/krun.cpp:433
+#: widgets/krun.cpp:434
 #, kde-format
 msgid ""
 "<qt>Unable to run the command specified. The file or folder <b>%1</b> does "
 "not exist.</qt>"
 msgstr ""
 
-#: widgets/krun.cpp:492
+#: widgets/krun.cpp:493
 #, kde-format
 msgid "Could not find any application or handler for %1"
 msgstr "mi ken ala alasa e ilo tawa %1"
@@ -8334,7 +8334,7 @@ msgstr "o ante e nasin lili linluwi..."
 msgid "Open file dialog"
 msgstr "o open e ilo pi open lipu"
 
-#: widgets/paste.cpp:100 widgets/paste.cpp:149 widgets/pastejob.cpp:67
+#: widgets/paste.cpp:100 widgets/paste.cpp:149 widgets/pastejob.cpp:71
 #, kde-format
 msgid "Filename for clipboard content:"
 msgstr "nimi pi ijo tan supa pali:"
@@ -8415,7 +8415,7 @@ msgstr "o lon e lipu lon ni"
 msgid "Data format:"
 msgstr "kule sona:"
 
-#: widgets/pastejob.cpp:67
+#: widgets/pastejob.cpp:71
 #, kde-format
 msgid "Filename for dropped contents:"
 msgstr "nimi lipu pi ijo pana:"
