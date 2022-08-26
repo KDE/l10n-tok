@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-21 00:46+0000\n"
+"POT-Creation-Date: 2022-08-26 00:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -19,7 +19,7 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
 "%100>=11 && n%100<=14 ? 2 : 3;\n"
 
-#: job_p.cpp:179
+#: job_p.cpp:185
 #, kde-format
 msgctxt "Copying n of m files to locaton"
 msgid "%2 of %1 file to %3"
@@ -29,7 +29,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:182 job_p.cpp:212 job_p.cpp:228
+#: job_p.cpp:188 job_p.cpp:218 job_p.cpp:234
 #, kde-format
 msgctxt "Copying n files to location"
 msgid "%1 file to %2"
@@ -39,7 +39,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:189
+#: job_p.cpp:195
 #, kde-format
 msgctxt "Copying n of m files"
 msgid "%2 of %1 file"
@@ -49,7 +49,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:192 job_p.cpp:222 job_p.cpp:232
+#: job_p.cpp:198 job_p.cpp:228 job_p.cpp:238
 #, kde-format
 msgctxt "Copying n files"
 msgid "%1 file"
@@ -59,7 +59,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:197
+#: job_p.cpp:203
 #, kde-format
 msgctxt "Copying n of m items"
 msgid "%2 of %1 item"
@@ -69,7 +69,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:200 job_p.cpp:220
+#: job_p.cpp:206 job_p.cpp:226
 #, kde-format
 msgctxt "Copying n items"
 msgid "%1 item"
@@ -79,13 +79,13 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:207
+#: job_p.cpp:213
 #, kde-format
 msgctxt "Copying file to location"
 msgid "%1 to %2"
 msgstr ""
 
-#: job_p.cpp:210
+#: job_p.cpp:216
 #, kde-format
 msgctxt "Copying n items to location"
 msgid "%1 file to %2"
@@ -95,7 +95,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: job_p.cpp:230
+#: job_p.cpp:236
 #, kde-format
 msgctxt "Copying unknown amount of files to location"
 msgid "to %1"
