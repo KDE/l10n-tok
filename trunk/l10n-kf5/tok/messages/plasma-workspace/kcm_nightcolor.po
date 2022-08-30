@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-10 00:48+0000\n"
+"POT-Creation-Date: 2022-08-30 00:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -174,17 +174,12 @@ msgstr[3] ""
 msgid "Input minutes - min. 1, max. 600"
 msgstr ""
 
-#: package/contents/ui/main.qml:346
-#, kde-format
-msgid "Error: Morning is before evening."
-msgstr ""
-
-#: package/contents/ui/main.qml:362
+#: package/contents/ui/main.qml:356
 #, kde-format
 msgid "Error: Transition time overlaps."
 msgstr ""
 
-#: package/contents/ui/main.qml:382
+#: package/contents/ui/main.qml:376
 #, kde-format
 msgctxt "@info:placeholder"
 msgid "Locating…"
