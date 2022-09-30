@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-23 00:55+0000\n"
+"POT-Creation-Date: 2022-09-30 00:55+0000\n"
 "PO-Revision-Date: 2022-04-21 13:22+0000\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -21,12 +21,12 @@ msgctxt "Name"
 msgid "KolourPaint"
 msgstr "ilo KolourPaint"
 
-#: org.kde.kolourpaint.desktop:78
+#: org.kde.kolourpaint.desktop:79
 msgctxt "GenericName"
 msgid "Paint Program"
 msgstr "ilo sitelen"
 
-#: org.kde.kolourpaint.desktop:156
+#: org.kde.kolourpaint.desktop:158
 msgctxt "Comment"
 msgid "An easy-to-use paint program"
 msgstr "ilo sitelen pona"
