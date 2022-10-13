@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-07 00:56+0000\n"
+"POT-Creation-Date: 2022-10-13 00:56+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -139,16 +139,6 @@ msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
 "Internet,Internet Filters,Network,Search Engines,Shortcuts"
 msgstr "nimi,alasa,linluwi,www"
-
-#: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:3
-msgctxt "Name"
-msgid "Remote URL Change Notifier"
-msgstr "ilo kalama pi ante lon poki linluwi"
-
-#: src/kioworkers/remote/kdedmodule/remotedirnotify.desktop:78
-msgctxt "Comment"
-msgid "Provides change notification for network folders"
-msgstr "poki linluwi li ante la ilo ni li kalama"
 
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"
@@ -1922,6 +1912,14 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Remote URL Change Notifier"
+#~ msgstr "ilo kalama pi ante lon poki linluwi"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides change notification for network folders"
+#~ msgstr "poki linluwi li ante la ilo ni li kalama"
 
 #~ msgctxt "Comment"
 #~ msgid "Plugin for the KIO Drag-and-drop Popup Menu"
