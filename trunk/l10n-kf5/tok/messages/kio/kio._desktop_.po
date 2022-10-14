@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-13 00:56+0000\n"
+"POT-Creation-Date: 2022-10-14 00:56+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1898,11 +1898,6 @@ msgctxt "Comment"
 msgid "Plugin for the Properties Dialog"
 msgstr "ni li pana e ilo pi sona lipu"
 
-#: src/widgets/kurifilterplugin.desktop:4
-msgctxt "Name"
-msgid "Enhanced Browsing Plugin"
-msgstr "ni li wawa e alasa"
-
 #: templates/kioworker/kioworker.kdevtemplate:2
 msgctxt "Name"
 msgid "C++"
@@ -1912,6 +1907,10 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Enhanced Browsing Plugin"
+#~ msgstr "ni li wawa e alasa"
 
 #~ msgctxt "Name"
 #~ msgid "Remote URL Change Notifier"
