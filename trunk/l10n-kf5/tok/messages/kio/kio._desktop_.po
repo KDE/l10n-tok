@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-21 00:55+0000\n"
+"POT-Creation-Date: 2022-11-23 00:57+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -23,11 +23,6 @@ msgstr "o pali e ni kepeken wawa."
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "pali ni li wile e wawa."
-
-#: src/ioslaves/telnet/ktelnetservice5.desktop:10
-msgctxt "Name"
-msgid "KTelnetService"
-msgstr "ilo KTelnetService"
 
 #: src/ioslaves/trash/kcm_trash.desktop:7 src/ioslaves/trash/kcmtrash.desktop:1
 #: src/ioslaves/trash/kcmtrash.desktop:184
@@ -243,6 +238,11 @@ msgstr "o pana e ma pi nimi URL:"
 msgctxt "Name"
 msgid "Text File..."
 msgstr "lipu sitelen..."
+
+#: src/schemehandlers/telnet/ktelnetservice5.desktop:10
+msgctxt "Name"
+msgid "KTelnetService"
+msgstr "ilo KTelnetService"
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"
