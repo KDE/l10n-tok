@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-23 00:57+0000\n"
+"POT-Creation-Date: 2022-11-25 00:56+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -460,7 +460,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "ilo alasa pi sona Python"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:45
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1194,7 +1194,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:46
+#: src/urifilters/ikws/searchproviders/linguee.desktop:47
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1578,7 +1578,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "ilo alasa pi sona Qt4"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:44
+#: src/urifilters/ikws/searchproviders/rust.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
