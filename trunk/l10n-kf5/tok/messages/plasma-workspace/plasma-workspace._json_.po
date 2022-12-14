@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-12-09 00:59+0000\n"
+"POT-Creation-Date: 2022-12-14 01:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -352,6 +352,11 @@ msgstr ""
 #: kcms/kfontinst/kcmfontinst/kcm_fontinst.json
 msgctxt "Name"
 msgid "Font Management"
+msgstr ""
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.json
+msgctxt "Name"
+msgid "Font Files"
 msgstr ""
 
 #: kcms/kfontinst/viewpart/kfontviewpart.json
