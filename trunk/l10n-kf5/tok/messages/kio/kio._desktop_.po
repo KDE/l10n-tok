@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-02 01:17+0000\n"
+"POT-Creation-Date: 2023-01-08 01:07+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -113,12 +113,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "nimi open pi alasa linluwi"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:61
+#: src/kcms/webshortcuts/webshortcuts.desktop:62
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "o ante e nimi open pi alasa linluwi"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:111
+#: src/kcms/webshortcuts/webshortcuts.desktop:113
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -188,7 +188,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "lipu sitelen..."
 
-#: src/new_file_templates/EmptyFile.desktop:43
+#: src/new_file_templates/EmptyFile.desktop:44
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -209,7 +209,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "nasin tawa lipu anu poki..."
 
-#: src/new_file_templates/linkPath.desktop:50
+#: src/new_file_templates/linkPath.desktop:51
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "o pana e nimi lipu anu nimi poki:"
@@ -1158,7 +1158,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:46
+#: src/urifilters/ikws/searchproviders/krita.desktop:47
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1360,7 +1360,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:44
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
