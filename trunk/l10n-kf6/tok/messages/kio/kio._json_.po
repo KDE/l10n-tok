@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-16 00:59+0000\n"
+"POT-Creation-Date: 2023-03-01 21:33+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -14,10 +14,33 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
 "%100>=11 && n%100<=14 ? 2 : 3);\n"
 
-#: src/ioslaves/trash/trash.json
-msgctxt "trash ExtraNames"
-msgid "Original Path;Deletion Date"
-msgstr "nasin pini;tenpo jaki;tenpo weka"
+#: src/kcms/cookies/kcm_cookies.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cookie Jar"
+msgctxt "Name"
+msgid "Cookies"
+msgstr "ilo poki pi sona lili awen"
+
+#: src/kcms/netpref/kcm_netpref.json
+msgctxt "Name"
+msgid "Connection Preferences"
+msgstr ""
+
+#: src/kcms/proxy/kcm_proxy.json
+msgctxt "Name"
+msgid "Proxy"
+msgstr ""
+
+#: src/kcms/smb/kcm_smb.json
+msgctxt "Name"
+msgid "Windows Shares"
+msgstr ""
+
+#: src/kcms/webshortcuts/kcm_webshortcuts.json
+msgctxt "Name"
+msgid "Web Search Keywords"
+msgstr ""
 
 #: src/kioworkers/http/kcookiejar/kcookiejar.json
 msgctxt "Name"
@@ -29,10 +52,40 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
+#: src/kioworkers/trash/kcmtrash.json
+msgctxt "Name"
+msgid "Trash"
+msgstr ""
+
 #: src/kpac/proxyscout.json
 msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "nasin linja pi kulupu ilo"
+
+#: src/kcms/cookies/kcm_cookies.json
+msgctxt "Description"
+msgid "Configure the way cookies work"
+msgstr ""
+
+#: src/kcms/netpref/kcm_netpref.json
+msgctxt "Description"
+msgid "Configure generic network preferences, like timeout values"
+msgstr ""
+
+#: src/kcms/proxy/kcm_proxy.json
+msgctxt "Description"
+msgid "Configure the proxy servers used"
+msgstr ""
+
+#: src/kcms/smb/kcm_smb.json
+msgctxt "Description"
+msgid "Credentials used to access SMB shares"
+msgstr ""
+
+#: src/kcms/webshortcuts/kcm_webshortcuts.json
+msgctxt "Description"
+msgid "Configure web search keywords"
+msgstr ""
 
 #: src/kioworkers/http/kcookiejar/kcookiejar.json
 msgctxt "Description"
@@ -44,7 +97,17 @@ msgctxt "Description"
 msgid "Provides change notification for network folders"
 msgstr ""
 
+#: src/kioworkers/trash/kcmtrash.json
+msgctxt "Description"
+msgid "Configure trash settings"
+msgstr ""
+
 #: src/kpac/proxyscout.json
 msgctxt "Description"
 msgid "Automatic proxy configuration"
 msgstr "ilo li lon e nasin linja pi kulupu ilo kepeken jan ala"
+
+#: src/kioworkers/trash/trash.json
+msgctxt "trash ExtraNames"
+msgid "Original Path;Deletion Date"
+msgstr "nasin pini;tenpo jaki;tenpo weka"
