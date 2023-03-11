@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-19 01:09+0000\n"
+"POT-Creation-Date: 2023-03-11 02:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1070,6 +1070,7 @@ msgid "Marco Martin"
 msgstr ""
 
 #: applets/appmenu/package/metadata.json
+#: applets/batterymonitor/package/metadata.json
 #: applets/notifications/package/metadata.json
 #: applets/systemmonitor/coreusage/metadata.json
 #: applets/systemmonitor/cpu/metadata.json
@@ -1079,10 +1080,6 @@ msgid "Kai Uwe Broulik"
 msgstr ""
 
 #: applets/batterymonitor/package/metadata.json
-msgctxt "Authors Name"
-msgid "Sebastian Kügler, Kai Uwe Broulik"
-msgstr ""
-
 #: applets/calendar/package/metadata.json
 #: applets/mediacontroller/package/metadata.json
 #: runners/recentdocuments/plasma-runner-recentdocuments.json
