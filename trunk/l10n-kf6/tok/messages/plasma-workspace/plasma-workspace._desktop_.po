@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-04-26 02:19+0000\n"
+"POT-Creation-Date: 2023-05-01 02:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -94,11 +94,6 @@ msgstr ""
 #: kcms/cursortheme/xcursor/xcursor.knsrc:2
 msgctxt "Name"
 msgid "Cursors"
-msgstr ""
-
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:7
-msgctxt "Name"
-msgid "Plasma Style"
 msgstr ""
 
 #: kcms/desktoptheme/plasma-themes.knsrc:2
