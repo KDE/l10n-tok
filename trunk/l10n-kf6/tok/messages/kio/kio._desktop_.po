@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-28 03:00+0000\n"
+"POT-Creation-Date: 2023-05-20 02:07+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1777,12 +1777,12 @@ msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
 msgstr "ni li pana e ilo kin tawa ilo Konqueror"
 
-#: templates/kioworker/kioworker.kdevtemplate:2
+#: templates/kioworker6/kioworker6.kdevtemplate:2
 msgctxt "Name"
-msgid "C++"
+msgid "C++ (KF6)"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:44
+#: templates/kioworker6/kioworker6.kdevtemplate:3
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
