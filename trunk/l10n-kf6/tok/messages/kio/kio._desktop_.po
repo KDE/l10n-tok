@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-22 02:09+0000\n"
+"POT-Creation-Date: 2023-05-23 03:15+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1782,7 +1782,7 @@ msgctxt "Name"
 msgid "C++ (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:12
+#: templates/kioworker6/kioworker6.kdevtemplate:17
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
