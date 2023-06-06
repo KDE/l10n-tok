@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-05 02:03+0000\n"
+"POT-Creation-Date: 2023-06-06 02:12+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -23,11 +23,6 @@ msgstr "o pali e ni kepeken wawa."
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr "pali ni li wile e wawa."
-
-#: src/kioworkers/trash/kcm_trash.desktop:7
-msgctxt "Name"
-msgid "Trash"
-msgstr "ilo wile ala"
 
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"
@@ -1786,6 +1781,10 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Trash"
+#~ msgstr "ilo wile ala"
 
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the trash."
