@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: neochat\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-07 00:50+0000\n"
+"POT-Creation-Date: 2023-07-09 01:01+0000\n"
 "PO-Revision-Date: 2022-06-20 03:30+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -129,90 +129,90 @@ msgstr ""
 msgid "Network Error"
 msgstr ""
 
-#: src/main.cpp:164
+#: src/main.cpp:165
 #, kde-format
 msgid "NeoChat"
 msgstr ""
 
-#: src/main.cpp:166
+#: src/main.cpp:167
 #, kde-format
 msgid "Matrix client"
 msgstr ""
 
-#: src/main.cpp:168
+#: src/main.cpp:169
 #, kde-format
 msgid "© 2018-2020 Black Hat, 2020-2023 KDE Community"
 msgstr ""
 
-#: src/main.cpp:169
+#: src/main.cpp:170
 #, kde-format
 msgid "Carl Schwan"
 msgstr ""
 
-#: src/main.cpp:169 src/main.cpp:170 src/main.cpp:171
+#: src/main.cpp:170 src/main.cpp:171 src/main.cpp:172
 #, kde-format
 msgid "Maintainer"
 msgstr ""
 
-#: src/main.cpp:170
+#: src/main.cpp:171
 #, kde-format
 msgid "Tobias Fella"
 msgstr ""
 
-#: src/main.cpp:171
+#: src/main.cpp:172
 #, kde-format
 msgid "James Graham"
 msgstr ""
 
-#: src/main.cpp:172
+#: src/main.cpp:173
 #, kde-format
 msgid "Black Hat"
 msgstr ""
 
-#: src/main.cpp:172
+#: src/main.cpp:173
 #, kde-format
 msgid "Original author of Spectral"
 msgstr ""
 
-#: src/main.cpp:173
+#: src/main.cpp:174
 #, kde-format
 msgid "Alexey Rusakov"
 msgstr ""
 
-#: src/main.cpp:173
+#: src/main.cpp:174
 #, kde-format
 msgid "Maintainer of Quotient"
 msgstr ""
 
-#: src/main.cpp:174
+#: src/main.cpp:175
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "kulupu pi ante toki pi toki pona"
 
-#: src/main.cpp:174
+#: src/main.cpp:175
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: src/main.cpp:178
+#: src/main.cpp:179
 #, kde-format
 msgid "A Qt5 library to write cross-platform clients for Matrix"
 msgstr ""
 
-#: src/main.cpp:181
+#: src/main.cpp:182
 #, kde-format
 msgctxt "<version number> (built against <possibly different version number>)"
 msgid "%1 (built against %2)"
 msgstr ""
 
-#: src/main.cpp:332
+#: src/main.cpp:334
 #, kde-format
 msgid "Client for the matrix communication protocol"
 msgstr ""
 
-#: src/main.cpp:333
+#: src/main.cpp:335
 #, kde-format
 msgid "Supports matrix: url scheme"
 msgstr ""
@@ -1634,32 +1634,32 @@ msgstr ""
 msgid "Maximize"
 msgstr ""
 
-#: src/qml/Component/TimelineView.qml:126
+#: src/qml/Component/TimelineView.qml:128
 #, kde-format
 msgid "Choose local file"
 msgstr ""
 
-#: src/qml/Component/TimelineView.qml:154
+#: src/qml/Component/TimelineView.qml:156
 #, kde-format
 msgid "Clipboard image"
 msgstr ""
 
-#: src/qml/Component/TimelineView.qml:203
+#: src/qml/Component/TimelineView.qml:205
 #, kde-format
 msgid "Jump to first unread message"
 msgstr ""
 
-#: src/qml/Component/TimelineView.qml:226
+#: src/qml/Component/TimelineView.qml:228
 #, kde-format
 msgid "Jump to latest message"
 msgstr ""
 
-#: src/qml/Component/TimelineView.qml:252
+#: src/qml/Component/TimelineView.qml:254
 #, kde-format
 msgid "Drag items here to share them"
 msgstr ""
 
-#: src/qml/Component/TimelineView.qml:278
+#: src/qml/Component/TimelineView.qml:280
 #, kde-format
 msgctxt "Message displayed when some users are typing"
 msgid "%2 is typing"
