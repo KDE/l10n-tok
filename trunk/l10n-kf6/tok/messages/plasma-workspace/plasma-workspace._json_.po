@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-08 02:13+0000\n"
+"POT-Creation-Date: 2023-07-18 02:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -174,6 +174,7 @@ msgid "Application Information"
 msgstr ""
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.json
+#: devicenotifications/devicenotifications.json
 msgctxt "Name"
 msgid "Device Notifications"
 msgstr ""
@@ -819,6 +820,11 @@ msgstr ""
 #: dataengines/weather/plasma-dataengine-weather.json
 msgctxt "Description"
 msgid "Weather data from multiple online sources"
+msgstr ""
+
+#: devicenotifications/devicenotifications.json
+msgctxt "Description"
+msgid "Play audible feedback when devices are inserted or removed"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.json
