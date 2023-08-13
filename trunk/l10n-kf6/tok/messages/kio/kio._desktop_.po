@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-08-09 02:06+0000\n"
+"POT-Creation-Date: 2023-08-13 02:00+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -939,13 +939,12 @@ msgid "Ask Jeeves"
 msgstr "ilo alasa Ask Jeeves"
 
 #: src/urifilters/ikws/searchproviders/jeeves.desktop:97
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "https://www.baidu.com/s?wd=\\\\{@}"
 msgctxt "Query"
-msgid ""
-"https://www.ask.com/main/askJeeves.asp?"
-"origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
-msgstr ""
-"https://www.ask.com/main/askJeeves.asp?"
-"origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+msgid "https://www.ask.com/web?q=\\\\{@}"
+msgstr "https://www.baidu.com/s?wd=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:3
 msgctxt "Name"
@@ -1777,10 +1776,18 @@ msgctxt "Name"
 msgid "C++ (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:32
+#: templates/kioworker6/kioworker6.kdevtemplate:33
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.ask.com/main/askJeeves.asp?"
+#~ "origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+#~ msgstr ""
+#~ "https://www.ask.com/main/askJeeves.asp?"
+#~ "origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
 
 #~ msgctxt "Name"
 #~ msgid "Trash"
