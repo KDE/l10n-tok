@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-06 02:13+0000\n"
+"POT-Creation-Date: 2023-08-14 02:03+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -14,11 +14,6 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || n%10>=5 && n%10<=9 || n"
 "%100>=11 && n%100<=14 ? 2 : 3);\n"
 
-#: src/kioworkers/http/kcookiejar/kcookiejar.json
-msgctxt "Name"
-msgid "Cookie Jar"
-msgstr "ilo poki pi sona lili awen"
-
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Name"
 msgid "Remote URL Change Notifier"
@@ -28,11 +23,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "nasin linja pi kulupu ilo"
-
-#: src/kioworkers/http/kcookiejar/kcookiejar.json
-msgctxt "Description"
-msgid "Stores network cookies"
-msgstr "ilo ni li awen e sona lili tan ilo lipu kulupu"
 
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
@@ -48,6 +38,14 @@ msgstr "ilo li lon e nasin linja pi kulupu ilo kepeken jan ala"
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "nasin pini;tenpo jaki;tenpo weka"
+
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "ilo poki pi sona lili awen"
+
+#~ msgctxt "Description"
+#~ msgid "Stores network cookies"
+#~ msgstr "ilo ni li awen e sona lili tan ilo lipu kulupu"
 
 #, fuzzy
 #~| msgctxt "Name"
