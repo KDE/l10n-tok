@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-26 01:53+0000\n"
+"POT-Creation-Date: 2023-10-21 01:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -207,16 +207,6 @@ msgstr ""
 #: dataengines/geolocation/plasma-dataengine-geolocation.json
 msgctxt "Name"
 msgid "Geolocation"
-msgstr ""
-
-#: dataengines/geolocation/plasma-geolocation-gps.json
-msgctxt "Name"
-msgid "Geolocation GPS"
-msgstr ""
-
-#: dataengines/geolocation/plasma-geolocation-ip.json
-msgctxt "Name"
-msgid "Geolocation IP"
 msgstr ""
 
 #: dataengines/hotplug/plasma-dataengine-hotplug.json
@@ -733,16 +723,6 @@ msgstr ""
 #: dataengines/geolocation/plasma-dataengine-geolocation.json
 msgctxt "Description"
 msgid "Geolocation Data Engine"
-msgstr ""
-
-#: dataengines/geolocation/plasma-geolocation-gps.json
-msgctxt "Description"
-msgid "Geolocation from GPS address."
-msgstr ""
-
-#: dataengines/geolocation/plasma-geolocation-ip.json
-msgctxt "Description"
-msgid "Geolocation from IP address."
 msgstr ""
 
 #: dataengines/hotplug/plasma-dataengine-hotplug.json
