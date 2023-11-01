@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-26 01:51+0000\n"
+"POT-Creation-Date: 2023-11-01 01:45+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -310,6 +310,18 @@ msgid ""
 "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
 msgstr ""
 "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:5
+msgctxt "Name"
+msgid "Codeberg"
+msgstr ""
+
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:6
+msgctxt "Query"
+msgid ""
+"https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
+"&only_show_relevant=true"
+msgstr ""
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:3
 msgctxt "Name"
@@ -1283,6 +1295,19 @@ msgstr ""
 msgctxt "Query"
 msgid "https://www.protondb.com/search?q=\\\\{@}"
 msgstr "https://www.bing.com/search?q=\\\\{@}"
+
+#: src/urifilters/ikws/searchproviders/pypi.desktop:5
+msgctxt "Name"
+msgid "PyPI"
+msgstr ""
+
+#: src/urifilters/ikws/searchproviders/pypi.desktop:6
+#, fuzzy
+#| msgctxt "Query"
+#| msgid "https://vimeo.com/search?q=\\\\{@}"
+msgctxt "Query"
+msgid "https://pypi.org/search/?q=\\\\{@}"
+msgstr "https://vimeo.com/search?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/python.desktop:5
 msgctxt "Name"
