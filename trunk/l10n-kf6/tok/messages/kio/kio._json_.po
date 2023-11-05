@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-08-14 02:03+0000\n"
+"POT-Creation-Date: 2023-11-05 01:14+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -19,25 +19,23 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
-#: src/kpac/proxyscout.json
-msgctxt "Name"
-msgid "Network Proxy Configuration"
-msgstr "nasin linja pi kulupu ilo"
-
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
 msgid "Provides change notification for network folders"
 msgstr ""
 
-#: src/kpac/proxyscout.json
-msgctxt "Description"
-msgid "Automatic proxy configuration"
-msgstr "ilo li lon e nasin linja pi kulupu ilo kepeken jan ala"
-
 #: src/kioworkers/trash/trash.json
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "nasin pini;tenpo jaki;tenpo weka"
+
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "nasin linja pi kulupu ilo"
+
+#~ msgctxt "Description"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "ilo li lon e nasin linja pi kulupu ilo kepeken jan ala"
 
 #~ msgctxt "Name"
 #~ msgid "Cookie Jar"
