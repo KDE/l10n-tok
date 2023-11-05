@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-12-21 00:41+0000\n"
+"POT-Creation-Date: 2023-11-05 12:26+0000\n"
 "PO-Revision-Date: 2022-03-06 00:28+0000\n"
 "Last-Translator: Logan Wemyss <vixietsq@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
