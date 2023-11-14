@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-09 01:43+0000\n"
+"POT-Creation-Date: 2023-11-14 01:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -576,11 +576,6 @@ msgstr ""
 #: shell/org.kde.plasmashell.desktop.cmake:4
 msgctxt "Name"
 msgid "Plasma Desktop Workspace"
-msgstr ""
-
-#: systemmonitor/org.kde.systemmonitor.desktop:5
-msgctxt "Name"
-msgid "System Activity"
 msgstr ""
 
 #: themes/qtcde.themerc:2
