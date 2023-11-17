@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-15 01:43+0000\n"
+"POT-Creation-Date: 2023-11-17 01:42+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -233,7 +233,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:6
+#: src/urifilters/ikws/searchproviders/boo.desktop:14
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
