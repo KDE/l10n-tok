@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-16 01:50+0000\n"
+"POT-Creation-Date: 2023-12-09 01:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -568,7 +568,7 @@ msgctxt "Name"
 msgid "File Search"
 msgstr ""
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:34
+#: runners/baloo/plasma-runner-baloosearch.desktop:35
 msgctxt "Comment"
 msgid "Searches for files by name and content"
 msgstr ""
