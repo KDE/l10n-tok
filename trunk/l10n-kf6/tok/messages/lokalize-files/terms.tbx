@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
+<martif xml:lang="en_US" type="TBX">
+    <text>
+        <body>
+        <termEntry id="janet_blackquill-1">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">to make something visually fuzzy</descrip>
+          <tig>
+            <term>blur</term>
+          </tig>
+          <tig>
+            <term>Blur</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>ko lukin</term>
+          </tig>
+          <tig>
+            <term>ko e lukin</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="janet_blackquill-0">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">the standard string for a get hot new stuff button
+opens a dialog to download new Something</descrip>
+          <tig>
+            <term>get new…</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>o kama jo…</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="janet_blackquill-3">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">the mouse pointer thingy</descrip>
+          <tig>
+            <term>cursor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>sitelen luka</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-4">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">a file that lasts for a short duration of time</descrip>
+          <tig>
+            <term>temporary file</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>lipu pi tenpo lili</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-5">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">to obtain something from over a network (probably the internet)</descrip>
+          <tig>
+            <term>download</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>kama jo</term>
+          </tig>
+          <tig>
+            <term>kama jo kepeken linluwi</term>
+          </tig>
+          <tig>
+            <term>alasa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-6">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">a thing that's basically a folder distilled into a file
+sometimes compressed</descrip>
+          <tig>
+            <term>archive</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>poki</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-7">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">a collection of files</descrip>
+          <tig>
+            <term>folder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>poki</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-8">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">"theme" usually refers to a Way that something looks or sounds
+it's an Aesthetic nasin basically</descrip>
+          <tig>
+            <term>theme</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>nasin</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-9">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <descrip type="definition">to get rid of something so that you can put a new thing there
+usually context is enough that we don't need to use anything more than a "weka"</descrip>
+          <tig>
+            <term>overwrite</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>weka</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+    </text>
+</martif>
