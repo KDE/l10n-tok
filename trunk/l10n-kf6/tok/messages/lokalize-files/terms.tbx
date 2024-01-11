@@ -145,6 +145,36 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="janet_blackquill-2">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <descrip type="definition">sina pana e nimi ni tawa ilo la ona li ken e ijo.</descrip>
+          <tig>
+            <term>nimi len</term>
+          </tig>
+          <tig>
+            <term>nimi ken</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-10">
+        <descrip type="subjectField">wawa</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>desktop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>monsi pali</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
