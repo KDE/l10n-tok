@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-27 01:39+0000\n"
+"POT-Creation-Date: 2024-01-11 00:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,6 +16,16 @@ msgctxt "Name"
 msgid "Open with File Manager"
 msgstr ""
 
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:2
+msgctxt "Name"
+msgid "Device Notifier"
+msgstr ""
+
+#: applets/devicenotifier/plugin/devicenotifications.notifyrc:84
+msgctxt "Name"
+msgid "Device Status"
+msgstr ""
+
 #: components/shellprivate/wallpaperplugin.knsrc:2
 msgctxt "Name"
 msgid "Wallpaper Plugins"
@@ -24,16 +34,6 @@ msgstr ""
 #: components/shellprivate/widgetexplorer/plasmoids.knsrc:2
 msgctxt "Name"
 msgid "Plasma Widgets"
-msgstr ""
-
-#: dataengines/devicenotifications/devicenotifications.notifyrc:2
-msgctxt "Name"
-msgid "Device Notifier"
-msgstr ""
-
-#: dataengines/devicenotifications/devicenotifications.notifyrc:84
-msgctxt "Name"
-msgid "Device Status"
 msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:3
