@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-09 01:37+0000\n"
+"POT-Creation-Date: 2024-01-13 00:43+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -233,7 +233,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:30
+#: src/urifilters/ikws/searchproviders/boo.desktop:31
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -294,7 +294,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:31
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:32
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -1279,7 +1279,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:30
+#: src/urifilters/ikws/searchproviders/pypi.desktop:31
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
@@ -1779,7 +1779,7 @@ msgctxt "Name"
 msgid "C++ (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:38
+#: templates/kioworker6/kioworker6.kdevtemplate:39
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""

@@ -61,8 +61,8 @@ msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
-"nasin '%1' ante li lon poki nasin pi sitelen lili. sina wile ala wile weka e"
-" ona la sina ken awen e nasin sina?"
+"nasin '%1' ante li lon poki nasin pi sitelen lili. sina wile ala wile weka e "
+"ona la sina ken awen e nasin sina?"
 
 #: kcmcursortheme.cpp:440
 #, kde-format
