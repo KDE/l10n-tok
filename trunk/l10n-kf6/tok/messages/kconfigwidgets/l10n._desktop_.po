@@ -1,0 +1,540 @@
+# Janet Blackquill <uhhadd@gmail.com>, 2024.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-09-27 01:45+0000\n"
+"PO-Revision-Date: 2024-01-15 18:09-0500\n"
+"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
+"Language-Team: C <kde-i18n-doc@kde.org>\n"
+"Language: tok\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n == 0 ? 0 : n == 1 ? 1 : n == 2 ? 2 : 3;\n"
+"X-Generator: Lokalize 22.11.70\n"
+
+#: af/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "toki Apikan"
+
+#: ar/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Arabic"
+msgstr "toki Alapi"
+
+#: as/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Assamese"
+msgstr ""
+
+#: ast/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Asturian"
+msgstr ""
+
+#: az/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Azerbaijani"
+msgstr ""
+
+#: be@latin/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian Latin"
+msgstr ""
+
+#: be/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian"
+msgstr ""
+
+#: bg/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "toki Pokasi"
+
+#: bn_IN/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "toki Panla pi ma Palata"
+
+#: bn/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali"
+msgstr "toki Panla"
+
+#: br/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Breton"
+msgstr "toki Peson"
+
+#: bs/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "toki Posan"
+
+#: ca/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan"
+msgstr "toki Katala"
+
+#: ca@valencia/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr ""
+
+#: crh/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr ""
+
+#: csb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kashubian"
+msgstr ""
+
+#: cs/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Czech"
+msgstr "toki Seki"
+
+#: cy/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Welsh"
+msgstr "toki Kinli"
+
+#: da/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Danish"
+msgstr "toki Tansi"
+
+#: de/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "toki Tosi"
+
+#: el/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Greek"
+msgstr "toki Elina"
+
+#: en_GB/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "British English"
+msgstr "toki Inli pi ma Juke"
+
+#: eo/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "toki Epelanto"
+
+#: es/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Spanish"
+msgstr "toki Epanja"
+
+#: et/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Estonian"
+msgstr "toki Esi"
+
+#: eu/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "toki Esuka"
+
+#: fa/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Farsi"
+msgstr "toki Pasi"
+
+#: fi/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Finnish"
+msgstr "toki Sumi"
+
+#: fr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "French"
+msgstr "toki Kanse"
+
+#: fy/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Frisian"
+msgstr ""
+
+#: ga/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Irish"
+msgstr "toki Ele"
+
+#: gd/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Scottish Gaelic"
+msgstr "toki Kalike"
+
+#: gl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Galician"
+msgstr ""
+
+#: gu/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Gujarati"
+msgstr ""
+
+#: ha/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hausa"
+msgstr "toki Awasa"
+
+#: he/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "toki Iwisi"
+
+#: hi/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hindi"
+msgstr "toki Insi"
+
+#: hne/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr ""
+
+#: hr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Croatian"
+msgstr "toki Lowasi"
+
+#: hsb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr ""
+
+#: hu/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "toki Mosijo"
+
+#: hy/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Armenian"
+msgstr ""
+
+#: ia/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Interlingua"
+msgstr ""
+
+#: id/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "toki Intonesija"
+
+#: ie/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Interlingue"
+msgstr ""
+
+#: is/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "toki Isilan"
+
+#: it/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Italian"
+msgstr "toki Italija"
+
+#: ja/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Japanese"
+msgstr "toki Nijon"
+
+#: ka/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Georgian"
+msgstr "toki Katuli"
+
+#: kk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kazakh"
+msgstr ""
+
+#: km/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Khmer"
+msgstr ""
+
+#: kn/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kannada"
+msgstr ""
+
+#: ko/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Korean"
+msgstr "toki Anku"
+
+#: ku/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Kurdish"
+msgstr ""
+
+#: lb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr ""
+
+#: lt/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr ""
+
+#: lv/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Latvian"
+msgstr ""
+
+#: mai/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Maithili"
+msgstr ""
+
+#: mk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Macedonian"
+msgstr ""
+
+#: ml/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Malayalam"
+msgstr ""
+
+#: mr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Marathi"
+msgstr ""
+
+#: ms/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Malay"
+msgstr ""
+
+#: my/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Burmese"
+msgstr ""
+
+#: nb/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "toki Nosiki"
+
+#: nds/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr ""
+
+#: ne/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Nepali"
+msgstr ""
+
+#: nl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Dutch"
+msgstr "toki Netelan"
+
+#: nn/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "toki Nosiki sin"
+
+#: oc/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Occitan"
+msgstr ""
+
+#: or/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Oriya"
+msgstr ""
+
+#: pa/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Punjabi"
+msgstr ""
+
+#: pl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Polish"
+msgstr "toki Posuki"
+
+#: ps/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Pashto"
+msgstr ""
+
+#: pt_BR/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Brazil portuguese"
+msgstr "toki Potuke pi ma Pasiju"
+
+#: pt/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "toki Potuke"
+
+#: ro/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Romanian"
+msgstr "toki Lomuno"
+
+#: ru/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Russian"
+msgstr "toki Losi"
+
+#: se/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr ""
+
+#: si/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Sinhala"
+msgstr ""
+
+#: sk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr ""
+
+#: sl/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Slovenian"
+msgstr ""
+
+#: sq/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Albanian"
+msgstr ""
+
+#: sr@ijekavianlatin/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr ""
+
+#: sr@ijekavian/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr ""
+
+#: sr@latin/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "toki Sopisi pi sitelen Lasina"
+
+#: sr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian"
+msgstr "toki Sopisi"
+
+#: sv/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Swedish"
+msgstr "toki Sensa"
+
+#: ta/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Tamil"
+msgstr ""
+
+#: te/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Telugu"
+msgstr "toki Teluku"
+
+#: tg/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Tajik"
+msgstr ""
+
+#: th/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Thai"
+msgstr "toki Tawi"
+
+#: tok/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Toki Pona"
+msgstr "toki pona"
+
+#: tr/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Turkish"
+msgstr "toki Tuki"
+
+#: tt/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr ""
+
+#: ug/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Uyghur"
+msgstr ""
+
+#: uk/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "toki Ukawina"
+
+#: uz@cyrillic/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr ""
+
+#: uz/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek"
+msgstr ""
+
+#: vi/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr ""
+
+#: wa/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Walloon"
+msgstr ""
+
+#: xh/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Xhosa"
+msgstr ""
+
+#: x-test/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "toki KDE"
+
+#: zh_CN/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Simplified Chinese"
+msgstr "toki Sonko"
+
+#: zh_HK/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: zh_TW/messages/kconfigwidgets/kf6_entry.desktop:2
+msgctxt "Name"
+msgid "Traditional Chinese"
+msgstr ""
