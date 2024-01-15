@@ -2780,7 +2780,7 @@ msgstr "ma mute"
 #, kde-format
 msgctxt "@item"
 msgid "Remote"
-msgstr "lon ala"
+msgstr "ma weka"
 
 #: filewidgets/kfileplacesitem.cpp:191
 #, kde-format
