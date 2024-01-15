@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-12-30 01:39+0000\n"
-"PO-Revision-Date: 2024-01-11 18:38-0500\n"
+"PO-Revision-Date: 2024-01-14 22:31-0500\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
 "Language: tok\n"
@@ -1772,253 +1772,253 @@ msgstr "telo lete en lete kiwen lili li lon."
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain mixed with rain"
-msgstr ""
+msgstr "telo li lon. ona li ken lete."
 
 #: envcan_i18n.dat:189
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain mixed with snow"
-msgstr ""
+msgstr "telo lete en lete ko li lon."
 
 #: envcan_i18n.dat:190
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain or ice pellets"
-msgstr ""
+msgstr "telo lete en lete kiwen li lon."
 
 #: envcan_i18n.dat:191
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain or rain"
-msgstr ""
+msgstr "telo li lon. ona li ken lete."
 
 #: envcan_i18n.dat:192
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain or snow"
-msgstr ""
+msgstr "telo lete anu lete ko li lon."
 
 #: envcan_i18n.dat:193
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice fog"
-msgstr ""
+msgstr "kon len supa li lete li lon."
 
 #: envcan_i18n.dat:194
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice fog developing"
-msgstr ""
+msgstr "kon len supa li lete li kama lon."
 
 #: envcan_i18n.dat:195
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice fog dissipating"
-msgstr ""
+msgstr "kon len supa li lete li kama weka."
 
 #: envcan_i18n.dat:196
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets"
-msgstr ""
+msgstr "lete kiwen sike"
 
 #: envcan_i18n.dat:197
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets mixed with freezing rain"
-msgstr ""
+msgstr "lete kiwen sike en telo lete li lon."
 
 #: envcan_i18n.dat:198
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets mixed with snow"
-msgstr ""
+msgstr "lete kiwen sike en lete ko li lon."
 
 #: envcan_i18n.dat:199
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets or freezing rain"
-msgstr ""
+msgstr "lete kiwen sike anu telo lete li lon."
 
 #: envcan_i18n.dat:200
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets or snow"
-msgstr ""
+msgstr "lete kiwen sike anu lete ko li lon."
 
 #: envcan_i18n.dat:201
 #, kde-format
 msgctxt "weather forecast"
 msgid "Increasing cloudiness"
-msgstr ""
+msgstr "kon ko li kama suli."
 
 #: envcan_i18n.dat:202
 #, kde-format
 msgctxt "weather forecast"
 msgid "Increasing clouds"
-msgstr ""
+msgstr "kon ko li kama suli."
 
 #: envcan_i18n.dat:203
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow"
-msgstr ""
+msgstr "lete ko lili"
 
 #: envcan_i18n.dat:204
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow and blizzard"
-msgstr ""
+msgstr "lete ko lili li lon. ona li tawa wawa."
 
 #: envcan_i18n.dat:205
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow and blizzard and blowing snow"
-msgstr ""
+msgstr "lete ko lili li lon. ona li tawa wawa."
 
 #: envcan_i18n.dat:206
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow and blowing snow"
-msgstr ""
+msgstr "lete ko lili en lete ko tawa li lon."
 
 #: envcan_i18n.dat:207
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with freezing drizzle"
-msgstr ""
+msgstr "lete ko lili en telo lete linja li lon."
 
 #: envcan_i18n.dat:208
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with freezing rain"
-msgstr ""
+msgstr "lete ko en telo lete li lon."
 
 #: envcan_i18n.dat:209
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with ice pellets"
-msgstr ""
+msgstr "lete ko lili en lete kiwen lili li lon."
 
 #: envcan_i18n.dat:210
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with rain"
-msgstr ""
+msgstr "lete ko lili en telo li lon."
 
 #: envcan_i18n.dat:211
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or freezing drizzle"
-msgstr ""
+msgstr "lete ko lili anu telo lete linja li lon."
 
 #: envcan_i18n.dat:212
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or freezing rain"
-msgstr ""
+msgstr "lete ko lili en telo lete li lon."
 
 #: envcan_i18n.dat:213
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or ice pellets"
-msgstr ""
+msgstr "lete ko lili en lete kiwen lili li lon."
 
 #: envcan_i18n.dat:214
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or rain"
-msgstr ""
+msgstr "lete ko lili en telo li lon."
 
 #: envcan_i18n.dat:215
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light wet snow"
-msgstr ""
+msgstr "lete ko lili li lon. ona li telo pilin."
 
 #: envcan_i18n.dat:216
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light wet snow or rain"
-msgstr ""
+msgstr "lete ko lili en telo li lon."
 
 #: envcan_i18n.dat:217
 #, kde-format
 msgctxt "weather forecast"
 msgid "Local snow squalls"
-msgstr ""
+msgstr "kon li tawa wawa kepeken tenpo lili."
 
 #: envcan_i18n.dat:218
 #, kde-format
 msgctxt "weather forecast"
 msgid "Near blizzard"
-msgstr ""
+msgstr "lete ko li tawa pi wawa lili."
 
 #: envcan_i18n.dat:219
 #, kde-format
 msgctxt "weather forecast"
 msgid "Overcast"
-msgstr ""
+msgstr "sewi laso li len tan kon ko."
 
 #: envcan_i18n.dat:220
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle"
-msgstr ""
+msgstr "tenpo lili la telo linja"
 
 #: envcan_i18n.dat:221
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle mixed with freezing drizzle"
-msgstr ""
+msgstr "tenpo lili la telo linja en telo linja lete li lon."
 
 #: envcan_i18n.dat:222
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle mixed with rain"
-msgstr ""
+msgstr "tenpo lili la telo linja en telo li lon."
 
 #: envcan_i18n.dat:223
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle or freezing drizzle"
-msgstr ""
+msgstr "tenpo lili la telo linja anu telo linja lete li lon."
 
 #: envcan_i18n.dat:224
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle or rain"
-msgstr ""
+msgstr "tenpo lili la telo li lon. ona li ken linja."
 
 #: envcan_i18n.dat:225
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing drizzle"
-msgstr ""
+msgstr "tenpo lili la telo linja li kama lete"
 
 #: envcan_i18n.dat:226
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing drizzle or drizzle"
-msgstr ""
+msgstr "tenpo lili la telo linja lete li lon."
 
 #: envcan_i18n.dat:227
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing drizzle or rain"
-msgstr ""
+msgstr "tenpo lili la telo linja lete anu telo li lon."
 
 #: envcan_i18n.dat:228
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain"
-msgstr ""
+msgstr "tenpo lili la telo lete li lon."
 
 #: envcan_i18n.dat:229
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain mixed with ice pellets"
-msgstr ""
+msgstr "tenpo lili la telo lete en lete kiwen lili li lon."
 
 #: envcan_i18n.dat:230
 #, kde-format
