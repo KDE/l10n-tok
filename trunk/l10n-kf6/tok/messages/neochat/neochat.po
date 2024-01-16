@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: neochat\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-15 00:37+0000\n"
+"POT-Creation-Date: 2024-01-16 00:37+0000\n"
 "PO-Revision-Date: 2024-01-08 19:47-0500\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -3754,7 +3754,7 @@ msgstr "nimi tomo"
 msgid "NeoChat is offline. Please check your network connection."
 msgstr "ilo NeoChat li jo ala e linluwi. o pana e ona tawa ilo."
 
-#: src/qml/RoomPage.qml:255
+#: src/qml/RoomPage.qml:254
 #, kde-format
 msgid "Message Source"
 msgstr ""
@@ -4304,22 +4304,22 @@ msgid ""
 "this point."
 msgstr ""
 
-#: src/qml/TimelineView.qml:183
+#: src/qml/TimelineView.qml:179
 #, kde-format
 msgid "Jump to first unread message"
 msgstr ""
 
-#: src/qml/TimelineView.qml:206
+#: src/qml/TimelineView.qml:202
 #, kde-format
 msgid "Jump to latest message"
 msgstr ""
 
-#: src/qml/TimelineView.qml:231
+#: src/qml/TimelineView.qml:227
 #, kde-format
 msgid "Drag items here to share them"
 msgstr ""
 
-#: src/qml/TimelineView.qml:239
+#: src/qml/TimelineView.qml:235
 #, kde-format
 msgctxt "Message displayed when some users are typing"
 msgid "%2 is typing"

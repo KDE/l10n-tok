@@ -120,8 +120,8 @@ msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
 "window used for status information.</p>"
 msgstr ""
-"o lukin e supa sona<p>ni li lon e supa sona. ona li lon anpa lupa li pana e"
-" sona tawa sina.</p>"
+"o lukin e supa sona<p>ni li lon e supa sona. ona li lon anpa lupa li pana e "
+"sona tawa sina.</p>"
 
 #: kstandardaction_p.h:63
 msgid "&New"
@@ -232,7 +232,6 @@ msgid "Cu&t"
 msgstr "o &lanpan"
 
 #: kstandardaction_p.h:77
-#, fuzzy
 msgid "Cut selection to clipboard"
 msgstr ""
 
