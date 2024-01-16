@@ -1,15 +1,18 @@
+# Janet Blackquill <uhhadd@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-11 00:44+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-01-16 16:47-0500\n"
+"Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
+"Language-Team: C <kde-i18n-doc@kde.org>\n"
 "Language: tok\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.11.70\n"
 
 #: applets/activitybar/metadata.json
 msgctxt "Name"
@@ -19,174 +22,174 @@ msgstr ""
 #: applets/analog-clock/metadata.json
 msgctxt "Name"
 msgid "Analog Clock"
-msgstr ""
+msgstr "ilo sike tenpo"
 
 #: applets/appmenu/package/metadata.json
 msgctxt "Name"
 msgid "Global Menu"
-msgstr ""
+msgstr "ilo mute palisa"
 
 #: applets/batterymonitor/package/metadata.json
 msgctxt "Name"
 msgid "Power and Battery"
-msgstr ""
+msgstr "wawa ilo"
 
 #: applets/brightness/package/metadata.json
 msgctxt "Name"
 msgid "Brightness and Color"
-msgstr ""
+msgstr "suno en kule"
 
 #: applets/calendar/package/metadata.json
 msgctxt "Name"
 msgid "Calendar"
-msgstr ""
+msgstr "ilo tenpo"
 
 #: applets/cameraindicator/metadata.json
 msgctxt "Name"
 msgid "Camera Indicator"
-msgstr ""
+msgstr "mu pi ilo lukin"
 
 #: applets/clipboard/metadata.json klipper/plasma-dataengine-clipboard.json
 msgctxt "Name"
 msgid "Clipboard"
-msgstr ""
+msgstr "poki jo"
 
 #: applets/devicenotifier/package/metadata.json
 msgctxt "Name"
 msgid "Disks & Devices"
-msgstr ""
+msgstr "poki en ilo ante"
 
 #: applets/digital-clock/package/metadata.json
 msgctxt "Name"
 msgid "Digital Clock"
-msgstr ""
+msgstr "ilo nanpa tenpo"
 
 #: applets/icon/package/metadata.json
 msgctxt "Name"
 msgid "Icon"
-msgstr ""
+msgstr "sitelen lili"
 
 #: applets/lock_logout/metadata.json
 msgctxt "Name"
 msgid "Lock/Logout"
-msgstr ""
+msgstr "weka"
 
 #: applets/manage-inputmethod/metadata.json
 msgctxt "Name"
 msgid "Input Method"
-msgstr ""
+msgstr "nasin sitelen"
 
 #: applets/mediacontroller/package/metadata.json
 msgctxt "Name"
 msgid "Media Player"
-msgstr ""
+msgstr "ilo kalama"
 
 #: applets/notifications/package/metadata.json
 #: kcms/notifications/kcm_notifications.json
 msgctxt "Name"
 msgid "Notifications"
-msgstr ""
+msgstr "mu ilo"
 
 #: applets/panelspacer/package/metadata.json
 msgctxt "Name"
 msgid "Panel Spacer"
-msgstr ""
+msgstr "kon suli"
 
 #: applets/systemmonitor/coreusage/metadata.json
 msgctxt "Name"
 msgid "Individual Core Usage"
-msgstr ""
+msgstr "kepeken pi ilo nanpa wan"
 
 #: applets/systemmonitor/cpu/metadata.json
 msgctxt "Name"
 msgid "Total CPU Use"
-msgstr ""
+msgstr "kepeken pi ilo nanpa ale"
 
 #: applets/systemmonitor/diskactivity/metadata.json
 msgctxt "Name"
 msgid "Hard Disk Activity"
-msgstr ""
+msgstr "pali poki"
 
 #: applets/systemmonitor/diskusage/metadata.json
 msgctxt "Name"
 msgid "Disk Usage"
-msgstr ""
+msgstr "kepeken poki"
 
 #: applets/systemmonitor/memory/metadata.json
 msgctxt "Name"
 msgid "Memory Usage"
-msgstr ""
+msgstr "kepeken sona"
 
 #: applets/systemmonitor/net/metadata.json
 msgctxt "Name"
 msgid "Network speed"
-msgstr ""
+msgstr "tenpo linluwi"
 
 #: applets/systemmonitor/systemmonitor/package/metadata.json
 msgctxt "Name"
 msgid "System monitor Sensor"
-msgstr ""
+msgstr "ilo lili pi lukin lawa"
 
 #: applets/systemtray/container/package/metadata.json
 #: applets/systemtray/package/metadata.json
 msgctxt "Name"
 msgid "System Tray"
-msgstr ""
+msgstr "poki pi sitelen lili"
 
 #: appmenu/appmenu.json
 msgctxt "Name"
 msgid "Application menus daemon"
-msgstr ""
+msgstr "ilo len pi ilo mute"
 
 #: containmentactions/applauncher/plasma-containmentactions-applauncher.json
 msgctxt "Name"
 msgid "Application Launcher"
-msgstr ""
+msgstr "ilo pi open ilo"
 
 #: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
 msgctxt "Name"
 msgid "Standard Menu"
-msgstr ""
+msgstr "ilo open"
 
 #: containmentactions/paste/plasma-containmentactions-paste.json
 msgctxt "Name"
 msgid "Paste"
-msgstr ""
+msgstr "o pana tan poki jo"
 
 #: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
 msgctxt "Name"
 msgid "Switch Activity"
-msgstr ""
+msgstr "o ante e poki monsi"
 
 #: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
 msgctxt "Name"
 msgid "Switch Desktop"
-msgstr ""
+msgstr "o ante e monsi pali"
 
 #: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
 msgctxt "Name"
 msgid "Switch Window"
-msgstr ""
+msgstr "o ante e lupa"
 
 #: dataengines/activities/plasma-dataengine-activities.json
 msgctxt "Name"
 msgid "Activities Engine"
-msgstr ""
+msgstr "insa lawa pi poki monsi"
 
 #: dataengines/applicationjobs/plasma-dataengine-applicationjobs.json
 msgctxt "Name"
 msgid "Application Job Information"
-msgstr ""
+msgstr "sona pi pali ilo"
 
 #: dataengines/apps/plasma-dataengine-apps.json
 msgctxt "Name"
 msgid "Application Information"
-msgstr ""
+msgstr "sona ilo"
 
 #: dataengines/dict/plasma-dataengine-dict.json
 msgctxt "Name"
 msgid "Dictionary"
-msgstr ""
+msgstr "lipu nimi"
 
 #: dataengines/executable/plasma-dataengine-executable.json
 msgctxt "Name"
@@ -262,222 +265,222 @@ msgstr ""
 #: dataengines/weather/ions/bbcukmet/ion-bbcukmet.json
 msgctxt "Name"
 msgid "BBC Weather"
-msgstr ""
+msgstr "ilo kon tan kulupu BBC"
 
 #: dataengines/weather/ions/dwd/ion-dwd.json
 msgctxt "Name"
 msgid "German Weather Service"
-msgstr ""
+msgstr "ilo kon pi ma Tosi"
 
 #: dataengines/weather/ions/envcan/ion-envcan.json
 msgctxt "Name"
 msgid "Environment Canada"
-msgstr ""
+msgstr "ilo kon pi ma Kanata"
 
 #: dataengines/weather/ions/noaa/ion-noaa.json
 msgctxt "Name"
 msgid "NOAA's National Weather Service"
-msgstr ""
+msgstr "ilo kon pi ma Mewika"
 
 #: dataengines/weather/ions/wetter.com/ion-wettercom.json
 msgctxt "Name"
 msgid "wetter.com"
-msgstr ""
+msgstr "ilo kon tan lipu wetter.com"
 
 #: dataengines/weather/plasma-dataengine-weather.json
 msgctxt "Name"
 msgid "Weather"
-msgstr ""
+msgstr "ilo kon"
 
 #: devicenotifications/devicenotifications.json
 msgctxt "Name"
 msgid "Device Notifications"
-msgstr ""
+msgstr "mu pi ilo lili"
 
 #: freespacenotifier/freespacenotifier.json
 msgctxt "Name"
 msgid "Free Space Notifier"
-msgstr ""
+msgstr "mu poki pi ken kepeken"
 
 #: kcms/autostart/kcm_autostart.json
 msgctxt "Name"
 msgid "Autostart"
-msgstr ""
+msgstr "ilo open"
 
 #: kcms/colors/accentColorService/accentColorService.json
 msgctxt "Name"
 msgid "Accent Color"
-msgstr ""
+msgstr "kule wawa"
 
 #: kcms/colors/kcm_colors.json
 msgctxt "Name"
 msgid "Colors"
-msgstr ""
+msgstr "kule"
 
 #: kcms/cursortheme/kcm_cursortheme.json
 msgctxt "Name"
 msgid "Cursors"
-msgstr ""
+msgstr "sitelen luka"
 
 #: kcms/desktoptheme/kcm_desktoptheme.json
 msgctxt "Name"
 msgid "Plasma Style"
-msgstr ""
+msgstr "nasin lukin Plasma"
 
 #: kcms/feedback/kcm_feedback.json
 msgctxt "Name"
 msgid "User Feedback"
-msgstr ""
+msgstr "toki wile pi kulupu kepeken"
 
 #: kcms/fonts/kcm_fonts.json
 msgctxt "Name"
 msgid "Fonts"
-msgstr ""
+msgstr "nasin sitelen"
 
 #: kcms/icons/kcm_icons.json
 msgctxt "Name"
 msgid "Icons"
-msgstr ""
+msgstr "sitelen lili"
 
 #: kcms/kfontinst/kcmfontinst/kcm_fontinst.json
 msgctxt "Name"
 msgid "Font Management"
-msgstr ""
+msgstr "lawa pi nasin sitelen"
 
 #: kcms/kfontinst/thumbnail/fontthumbnail.json
 msgctxt "Name"
 msgid "Font Files"
-msgstr ""
+msgstr "lipu pi nasin sitelen"
 
 #: kcms/kfontinst/viewpart/kfontviewpart.json
 msgctxt "Name"
 msgid "Font Viewer"
-msgstr ""
+msgstr "ilo lukin pi nasin sitelen"
 
 #: kcms/lookandfeel/kcm_lookandfeel.json
 msgctxt "Name"
 msgid "Global Theme"
-msgstr ""
+msgstr "nasin lukin"
 
 #: kcms/nightcolor/kcm_nightcolor.json
 msgctxt "Name"
 msgid "Night Light"
-msgstr ""
+msgstr "suno mun"
 
 #: kcms/region_language/kcm_regionandlang.json
 msgctxt "Name"
 msgid "Region & Language"
-msgstr ""
+msgstr "nasin toki"
 
 #: kcms/soundtheme/kcm_soundtheme.json
 msgctxt "Name"
 msgid "System Sounds"
-msgstr ""
+msgstr "kalama mu"
 
 #: kcms/style/kcm_style.json
 msgctxt "Name"
 msgid "Application Style"
-msgstr ""
+msgstr "nasin lukin ilo"
 
 #: kcms/users/src/kcm_users.json
 msgctxt "Name"
 msgid "Users"
-msgstr ""
+msgstr "sijelo"
 
 #: kcms/wallpaper/kcm_wallpaper.json
 msgctxt "Name"
 msgid "Wallpaper"
-msgstr ""
+msgstr "sitelen monsi"
 
 #: kioworkers/desktop/desktopnotifier.json
 msgctxt "Name"
 msgid "Directory Watcher"
-msgstr ""
+msgstr "ilo lukin poki"
 
 #: ktimezoned/ktimezoned.json
 msgctxt "Name"
 msgid "Time Zone"
-msgstr ""
+msgstr "ma tenpo"
 
 #: libcolorcorrect/kded/colorcorrectlocationupdater.json
 msgctxt "Name"
 msgid "Automatic Location for Night Color"
-msgstr ""
+msgstr "ilo ni li sona e ni: \"tenpo suno lon ma ni li seme?\""
 
 #: libkmpris/kded/mprisservice.json
 msgctxt "Name"
 msgid "Media Controller"
-msgstr ""
+msgstr "ilo kalama"
 
 #: lookandfeel/org.kde.breezedark/metadata.json
 msgctxt "Name"
 msgid "Breeze Dark"
-msgstr ""
+msgstr "nasin lukin mun pi kon telo"
 
 #: lookandfeel/org.kde.breeze/metadata.json
 msgctxt "Name"
 msgid "Breeze"
-msgstr ""
+msgstr "nasin lukin suno pi kon telo"
 
 #: lookandfeel/org.kde.breezetwilight/metadata.json
 msgctxt "Name"
 msgid "Breeze Twilight"
-msgstr ""
+msgstr "nasin lukin pi kon telo"
 
 #: phonon/platform_kde/phononbackend.json
 msgctxt "Name"
 msgid "KDE Multimedia Backend"
-msgstr ""
+msgstr "ilo monsi pi kalama KDE"
 
 #: plasmacalendarintegration/holidayeventsplugin.json
 msgctxt "Name"
 msgid "Holidays"
-msgstr ""
+msgstr "tenpo pona"
 
 #: runners/appstream/plasma-runner-appstream.json
 msgctxt "Name"
 msgid "Software Center"
-msgstr ""
+msgstr "ilo pi lawa ilo"
 
 #: runners/bookmarks/plasma-runner-bookmarks.json
 msgctxt "Name"
 msgid "Bookmarks"
-msgstr ""
+msgstr "ijo suli"
 
 #: runners/calculator/plasma-runner-calculator.json
 msgctxt "Name"
 msgid "Calculator"
-msgstr ""
+msgstr "ilo nanpa"
 
 #: runners/helprunner/helprunner.json
 msgctxt "Name"
 msgid "Help Runner"
-msgstr ""
+msgstr "ilo pi alasa sona"
 
 #: runners/kill/plasma-runner-kill.json
 msgctxt "Name"
 msgid "Terminate Applications"
-msgstr ""
+msgstr "moli ilo"
 
 #: runners/locations/plasma-runner-locations.json
 msgctxt "Name"
 msgid "Locations"
-msgstr ""
+msgstr "ma"
 
 #: runners/powerdevil/plasma-runner-powerdevil.json
 msgctxt "Name"
 msgid "Power"
-msgstr ""
+msgstr "wawa"
 
 #: runners/recentdocuments/plasma-runner-recentdocuments.json
 msgctxt "Name"
 msgid "Recent Files"
-msgstr ""
+msgstr "lipu pi tenpo poka"
 
 #: runners/services/plasma-runner-services.json
 msgctxt "Name"
 msgid "Applications"
-msgstr ""
+msgstr "ilo"
 
 #: runners/sessions/plasma-runner-sessions.json
 msgctxt "Name"

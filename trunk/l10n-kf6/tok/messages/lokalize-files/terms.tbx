@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
-<martif xml:lang="en_US" type="TBX">
+<martif type="TBX" xml:lang="en_US">
     <text>
         <body>
         <termEntry id="janet_blackquill-1">
@@ -263,7 +263,33 @@ usually context is enough that we don't need to use anything more than a "weka"<
             <term>ilo mute</term>
           </tig>
           <tig>
-            <term></term>
+            <term/>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="janet_blackquill-18">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>window</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>lupa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-19">
+        <descrip type="definition">the breeze theme is being localised as kon telo
+</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>breeze</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>kon telo</term>
           </tig>
         </langSet>
       </termEntry>
