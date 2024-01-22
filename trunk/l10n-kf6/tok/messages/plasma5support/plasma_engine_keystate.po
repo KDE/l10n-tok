@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-10 00:46+0000\n"
+"POT-Creation-Date: 2024-01-22 00:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,75 +16,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: keystate.cpp:15
+#: keystate.cpp:18
 msgid "Shift"
 msgstr ""
 
-#: keystate.cpp:16
+#: keystate.cpp:19
 msgid "Ctrl"
 msgstr ""
 
-#: keystate.cpp:17
+#: keystate.cpp:20
 msgid "Alt"
 msgstr ""
 
-#: keystate.cpp:18
+#: keystate.cpp:21
 msgid "Meta"
 msgstr ""
 
-#: keystate.cpp:19
+#: keystate.cpp:22
 msgid "Super"
 msgstr ""
 
-#: keystate.cpp:20
+#: keystate.cpp:23
 msgid "Hyper"
 msgstr ""
 
-#: keystate.cpp:21
+#: keystate.cpp:24
 msgid "AltGr"
 msgstr ""
 
-#: keystate.cpp:22
+#: keystate.cpp:25
 msgid "Num Lock"
 msgstr ""
 
-#: keystate.cpp:23
+#: keystate.cpp:26
 msgid "Caps Lock"
 msgstr ""
 
-#: keystate.cpp:24
+#: keystate.cpp:27
 msgid "Scroll Lock"
 msgstr ""
 
-#: keystate.cpp:26
+#: keystate.cpp:29
 msgid "Left Button"
 msgstr ""
 
-#: keystate.cpp:27
+#: keystate.cpp:30
 msgid "Right Button"
 msgstr ""
 
-#: keystate.cpp:28
+#: keystate.cpp:31
 msgid "Middle Button"
 msgstr ""
 
-#: keystate.cpp:29
+#: keystate.cpp:32
 msgid "First X Button"
 msgstr ""
 
-#: keystate.cpp:30
+#: keystate.cpp:33
 msgid "Second X Button"
 msgstr ""
 
-#: keystate.cpp:44 keystate.cpp:54 keystate.cpp:81 keystate.cpp:102
-#: keystate.cpp:110
+#: keystate.cpp:47 keystate.cpp:57 keystate.cpp:84 keystate.cpp:105
+#: keystate.cpp:113
 msgid "Pressed"
 msgstr ""
 
-#: keystate.cpp:45 keystate.cpp:88 keystate.cpp:111
+#: keystate.cpp:48 keystate.cpp:91 keystate.cpp:114
 msgid "Latched"
 msgstr ""
 
-#: keystate.cpp:46 keystate.cpp:95 keystate.cpp:112
+#: keystate.cpp:49 keystate.cpp:98 keystate.cpp:115
 msgid "Locked"
 msgstr ""
