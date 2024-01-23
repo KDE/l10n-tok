@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-22 00:44+0000\n"
+"POT-Creation-Date: 2024-01-23 00:45+0000\n"
 "PO-Revision-Date: 2024-01-16 16:47-0500\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -240,11 +240,6 @@ msgstr ""
 #: dataengines/soliddevice/plasma-dataengine-soliddevice.json
 msgctxt "Name"
 msgid "Device Information"
-msgstr ""
-
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
-msgctxt "Name"
-msgid "Status Notifier Information"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
@@ -753,13 +748,6 @@ msgctxt "Description"
 msgid "Device data via Solid"
 msgstr ""
 
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
-msgctxt "Description"
-msgid ""
-"Engine for applications' status information, based on the Status Notifier "
-"protocol."
-msgstr ""
-
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Description"
 msgid "Date and time by timezone"
@@ -1146,11 +1134,6 @@ msgstr ""
 #: dataengines/places/plasma-dataengine-places.json
 msgctxt "Authors Name"
 msgid "Alex Merry"
-msgstr ""
-
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.json
-msgctxt "Authors Name"
-msgid "Matthieu Gallien"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
