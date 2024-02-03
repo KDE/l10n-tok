@@ -122,4 +122,3 @@ msgstr "ante;sitelen;kalama;mlt;kde;"
 msgctxt "Name"
 msgid "MLT Playlist"
 msgstr "lipu musi pi ilo MLT"
-
