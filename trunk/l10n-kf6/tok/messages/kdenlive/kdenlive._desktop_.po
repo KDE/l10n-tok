@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-29 00:43+0000\n"
+"POT-Creation-Date: 2024-04-23 00:44+0000\n"
 "PO-Revision-Date: 2024-02-02 10:05-0500\n"
 "Last-Translator: Ellis Walsh <ellisgwalsh@gmail.com>\n"
 "Language-Team: Toki Pona\n"
@@ -113,7 +113,7 @@ msgctxt "Comment"
 msgid "Nonlinear video editor by KDE"
 msgstr "ilo pi ante sitelen tan kulupu KDE"
 
-#: data/org.kde.kdenlive.desktop:146
+#: data/org.kde.kdenlive.desktop:147
 msgctxt "Keywords"
 msgid "editing;video;audio;mlt;kde;"
 msgstr "ante;sitelen;kalama;mlt;kde;"
