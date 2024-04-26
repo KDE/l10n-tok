@@ -293,6 +293,27 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="janet_blackquill-20">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>location</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>poki</term>
+          </tig>
+          <tig>
+            <term>nasin</term>
+          </tig>
+          <tig>
+            <term>ma</term>
+          </tig>
+          <tig>
+            <term>lipu</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

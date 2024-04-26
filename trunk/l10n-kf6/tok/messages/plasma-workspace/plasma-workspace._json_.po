@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-04-09 00:46+0000\n"
-"PO-Revision-Date: 2024-01-16 16:47-0500\n"
+"PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
 "Language: tok\n"
@@ -453,7 +453,7 @@ msgstr "moli ilo"
 #: runners/locations/plasma-runner-locations.json
 msgctxt "Name"
 msgid "Locations"
-msgstr "ma"
+msgstr "poki"
 
 #: runners/powerdevil/plasma-runner-powerdevil.json
 msgctxt "Name"
