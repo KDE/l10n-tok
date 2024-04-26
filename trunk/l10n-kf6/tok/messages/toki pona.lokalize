@@ -1,0 +1,5 @@
+[General]
+LangCode=tok
+PotBaseDir=../templates-kf6
+ProjectID=toki-pona
+TargetLangCode=tok
