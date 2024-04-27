@@ -33,9 +33,9 @@ msgid ""
 "Do you wish to install the font(s) for personal use (only available to you), "
 "or system-wide (available to all users)?"
 msgstr ""
-"sina jo e ken tu. nanpa wan li ni: nasin sitelen ni li tawa sijelo sina taso."
-" nanpa tu li ni: nasin sitelen ni li tawa sijelo ale lon ilo ni. sina wile e"
-" ken seme?"
+"sina jo e ken tu. nanpa wan li ni: nasin sitelen ni li tawa sijelo sina "
+"taso. nanpa tu li ni: nasin sitelen ni li tawa sijelo ale lon ilo ni. sina "
+"wile e ken seme?"
 
 #: apps/Installer.cpp:35 kcmfontinst/KCmFontInst.cpp:956
 #, fuzzy, kde-format
