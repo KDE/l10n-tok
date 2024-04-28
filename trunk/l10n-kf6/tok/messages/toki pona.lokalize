@@ -1,4 +1,5 @@
 [General]
+GlossaryTbx=lokalize-files/terms.tbx
 LangCode=tok
 PotBaseDir=../templates-kf6
 ProjectID=toki-pona
