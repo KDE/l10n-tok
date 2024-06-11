@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-04-09 00:46+0000\n"
+"POT-Creation-Date: 2024-06-11 00:47+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Calendar"
 msgstr "ilo tenpo"
 
-#: applets/cameraindicator/metadata.json
+#: applets/cameraindicator/package/metadata.json
 msgctxt "Name"
 msgid "Camera Indicator"
 msgstr "mu pi ilo lukin"
@@ -556,7 +556,7 @@ msgctxt "Description"
 msgid "Month display with your appointments and events"
 msgstr ""
 
-#: applets/cameraindicator/metadata.json
+#: applets/cameraindicator/package/metadata.json
 msgctxt "Description"
 msgid "Shows whether any camera is currently used by an app"
 msgstr ""
@@ -1069,7 +1069,7 @@ msgctxt "Authors Name"
 msgid "Natalie Clarius"
 msgstr ""
 
-#: applets/cameraindicator/metadata.json
+#: applets/cameraindicator/package/metadata.json
 msgctxt "Authors Name"
 msgid "Fushan Wen"
 msgstr ""
