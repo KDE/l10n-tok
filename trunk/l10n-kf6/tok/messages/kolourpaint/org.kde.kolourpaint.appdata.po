@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-11-05 12:26+0000\n"
+"POT-Creation-Date: 2024-06-18 00:38+0000\n"
 "PO-Revision-Date: 2022-04-21 13:22+0000\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -53,7 +53,9 @@ msgstr "ona li ken sitelen e linja sike"
 
 #. (itstool) path: ul/li
 #: org.kde.kolourpaint.appdata.xml:17
-msgid "Colour picker"
+#, fuzzy
+#| msgid "Colour picker"
+msgid "Color picker"
 msgstr "ilo pi pana kule"
 
 #. (itstool) path: ul/li
