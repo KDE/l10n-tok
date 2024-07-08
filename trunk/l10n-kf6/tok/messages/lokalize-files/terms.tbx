@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
 <martif type="TBX" xml:lang="en_US">
-    <text>
-        <body>
-        <termEntry id="janet_blackquill-1">
+  <text>
+    <body>
+      <termEntry id="janet_blackquill-1">
         <descrip type="subjectField">wawa</descrip>
         <langSet xml:lang="en-US">
           <descrip type="definition">to make something visually fuzzy</descrip>
@@ -23,7 +23,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="janet_blackquill-0">
+      <termEntry id="janet_blackquill-0">
         <descrip type="subjectField">wawa</descrip>
         <langSet xml:lang="en-US">
           <descrip type="definition">the standard string for a get hot new stuff button
@@ -38,7 +38,7 @@ opens a dialog to download new Something</descrip>
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="janet_blackquill-3">
+      <termEntry id="janet_blackquill-3">
         <descrip type="subjectField">wawa</descrip>
         <langSet xml:lang="en-US">
           <descrip type="definition">the mouse pointer thingy</descrip>
@@ -145,7 +145,7 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="janet_blackquill-2">
+      <termEntry id="janet_blackquill-2">
         <descrip type="subjectField">wawa</descrip>
         <langSet xml:lang="en-US">
           <tig>
@@ -175,7 +175,7 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="janet_blackquill-11">
+      <termEntry id="janet_blackquill-11">
         <langSet xml:lang="en-US">
           <tig>
             <term>clipboard</term>
@@ -267,7 +267,7 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="janet_blackquill-18">
+      <termEntry id="janet_blackquill-18">
         <langSet xml:lang="en-US">
           <tig>
             <term>window</term>
@@ -293,7 +293,7 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="janet_blackquill-20">
+      <termEntry id="janet_blackquill-20">
         <langSet xml:lang="en-US">
           <tig>
             <term>location</term>
@@ -314,6 +314,71 @@ usually context is enough that we don't need to use anything more than a "weka"<
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="janet_blackquill-21">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>panel</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>palisa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-22">
+        <descrip type="definition">←</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>left</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>←</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-23">
+        <descrip type="definition">→</descrip>
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>right</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>→</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-24">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>size</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>suli</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="janet_blackquill-25">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>position</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="tok">
+          <tig>
+            <term>poka</term>
+          </tig>
+          <tig>
+            <term></term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
-    </text>
+  </text>
 </martif>
