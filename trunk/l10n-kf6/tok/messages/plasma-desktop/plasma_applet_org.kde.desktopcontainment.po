@@ -22,7 +22,8 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: package/contents/config/config.qml:23 package/contents/ui/FolderViewLayer.qml:401
+#: package/contents/config/config.qml:23
+#: package/contents/ui/FolderViewLayer.qml:401
 #, kde-format
 msgid "Icons"
 msgstr ""
@@ -598,4 +599,3 @@ msgstr ""
 msgctxt "@item:inmenu lock icon positions in place"
 msgid "Locked"
 msgstr ""
-

@@ -21,4 +21,3 @@ msgstr ""
 #, kde-format
 msgid "Set flexible size"
 msgstr "o ken e ante suli"
-

@@ -91,8 +91,7 @@ msgstr "o open e lipu linluwi %1"
 msgid "Copyright"
 msgstr "jan lawa"
 
-#: contents/configuration/AboutPlugin.qml:158
-#: contents/explorer/Tooltip.qml:94
+#: contents/configuration/AboutPlugin.qml:158 contents/explorer/Tooltip.qml:94
 msgid "License:"
 msgstr "lipu lawa:"
 
@@ -587,7 +586,8 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: contents/lockscreen/MainBlock.qml:107 contents/lockscreen/NoPasswordUnlock.qml:17
+#: contents/lockscreen/MainBlock.qml:107
+#: contents/lockscreen/NoPasswordUnlock.qml:17
 msgid "Unlock"
 msgstr ""
 
@@ -620,7 +620,6 @@ msgid "Next track"
 msgstr ""
 
 #: contents/osd/OsdItem.qml:32
-#, java-printf-format
 msgctxt "Percentage value"
 msgid "%1%"
 msgstr ""
@@ -645,5 +644,3 @@ msgstr "o weka tan tomo ante"
 #: contents/views/Panel.qml:302
 msgid "Panel Focus Indicator"
 msgstr ""
-
-

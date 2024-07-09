@@ -446,4 +446,3 @@ msgstr ""
 
 #~ msgid "Unknown %1"
 #~ msgstr "sona ala %1"
-
