@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-07-12 00:44+0000\n"
+"POT-Creation-Date: 2024-07-17 00:45+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -29,15 +29,15 @@ msgctxt "Name"
 msgid "Device Status"
 msgstr ""
 
+#: components/shellprivate/plasmoids.knsrc:2
+msgctxt "Name"
+msgid "Plasma Widgets"
+msgstr "ilo lili Plasma"
+
 #: components/shellprivate/wallpaperplugin.knsrc:2
 msgctxt "Name"
 msgid "Wallpaper Plugins"
 msgstr "ilo pi sitelen monsi"
-
-#: components/shellprivate/widgetexplorer/plasmoids.knsrc:2
-msgctxt "Name"
-msgid "Plasma Widgets"
-msgstr "ilo lili Plasma"
 
 #: freespacenotifier/freespacenotifier.notifyrc:3
 msgctxt "Comment"
