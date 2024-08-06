@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-07-20 00:45+0000\n"
+"POT-Creation-Date: 2024-08-06 00:45+0000\n"
 "PO-Revision-Date: 2024-07-07 20:42-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -19,17 +19,17 @@ msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr ""
 
-#: app/kdesystemsettings.desktop:75
+#: app/kdesystemsettings.desktop:76
 msgctxt "Name"
 msgid "KDE System Settings"
 msgstr ""
 
-#: app/kdesystemsettings.desktop:142 app/systemsettings.desktop:192
+#: app/kdesystemsettings.desktop:144 app/systemsettings.desktop:194
 msgctxt "Comment"
 msgid "Configuration tools for your computer"
 msgstr ""
 
-#: app/kdesystemsettings.desktop:206 app/systemsettings.desktop:253
+#: app/kdesystemsettings.desktop:209 app/systemsettings.desktop:256
 msgctxt "Keywords"
 msgid "systemsettings"
 msgstr ""
@@ -39,32 +39,32 @@ msgctxt "GenericName"
 msgid "System Settings"
 msgstr ""
 
-#: app/systemsettings.desktop:100
+#: app/systemsettings.desktop:101
 msgctxt "Name"
 msgid "System Settings"
 msgstr "ilo lawa"
 
-#: app/systemsettings.desktop:295
+#: app/systemsettings.desktop:298
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:352
+#: app/systemsettings.desktop:356
 msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: app/systemsettings.desktop:411
+#: app/systemsettings.desktop:416
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr ""
 
-#: app/systemsettings.desktop:469
+#: app/systemsettings.desktop:475
 msgctxt "Name"
 msgid "Power Management"
 msgstr ""
 
-#: app/systemsettings.desktop:554
+#: app/systemsettings.desktop:561
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""
@@ -114,7 +114,7 @@ msgctxt "Name"
 msgid "Display & Monitor"
 msgstr ""
 
-#: categories/settings-hardware-display.desktop:53
+#: categories/settings-hardware-display.desktop:54
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr ""
