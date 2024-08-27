@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-25 00:46+0000\n"
+"POT-Creation-Date: 2024-08-27 00:48+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -196,11 +196,6 @@ msgctxt "Name"
 msgid "Geolocation"
 msgstr ""
 
-#: dataengines/hotplug/plasma-dataengine-hotplug.json
-msgctxt "Name"
-msgid "Hotplug Events"
-msgstr ""
-
 #: dataengines/mouse/plasma-dataengine-mouse.json
 msgctxt "Name"
 msgid "Pointer Position"
@@ -225,11 +220,6 @@ msgstr ""
 #: dataengines/powermanagement/plasma-dataengine-powermanagement.json
 msgctxt "Name"
 msgid "Power Management"
-msgstr ""
-
-#: dataengines/soliddevice/plasma-dataengine-soliddevice.json
-msgctxt "Name"
-msgid "Device Information"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
@@ -690,11 +680,6 @@ msgctxt "Description"
 msgid "Geolocation Data Engine"
 msgstr ""
 
-#: dataengines/hotplug/plasma-dataengine-hotplug.json
-msgctxt "Description"
-msgid "Tracks hot-pluggable devices as they appear and disappear."
-msgstr ""
-
 #: dataengines/mouse/plasma-dataengine-mouse.json
 msgctxt "Description"
 msgid "Mouse position and cursor"
@@ -718,11 +703,6 @@ msgstr ""
 #: dataengines/powermanagement/plasma-dataengine-powermanagement.json
 msgctxt "Description"
 msgid "Battery, AC, sleep and PowerDevil information."
-msgstr ""
-
-#: dataengines/soliddevice/plasma-dataengine-soliddevice.json
-msgctxt "Description"
-msgid "Device data via Solid"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
@@ -1051,8 +1031,6 @@ msgid "Martin Klapetek"
 msgstr ""
 
 #: applets/icon/package/metadata.json applets/panelspacer/package/metadata.json
-#: dataengines/hotplug/plasma-dataengine-hotplug.json
-#: dataengines/soliddevice/plasma-dataengine-soliddevice.json
 msgctxt "Authors Name"
 msgid "The Plasma Team"
 msgstr ""
