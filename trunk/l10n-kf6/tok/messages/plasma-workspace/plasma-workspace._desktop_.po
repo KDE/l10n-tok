@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-11 00:46+0000\n"
+"POT-Creation-Date: 2024-08-28 00:45+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -38,6 +38,24 @@ msgstr "ilo lili Plasma"
 msgctxt "Name"
 msgid "Wallpaper Plugins"
 msgstr "ilo pi sitelen monsi"
+
+#: donationmessage/donationmessage.notifyrc:6
+#: donationmessage/donationmessage.notifyrc:12
+msgctxt "Name"
+msgid "Request for Donation"
+msgstr ""
+
+#: donationmessage/donationmessage.notifyrc:7
+#: donationmessage/donationmessage.notifyrc:13
+msgctxt "Comment"
+msgid "Shows a yearly request to donate to KDE"
+msgstr ""
+
+#: donationmessage/donationmessage.notifyrc:9
+#: phonon/platform_kde/phonon.notifyrc:79
+msgctxt "Name"
+msgid "Application"
+msgstr ""
 
 #: freespacenotifier/freespacenotifier.notifyrc:3
 msgctxt "Comment"
@@ -539,11 +557,6 @@ msgstr ""
 #: phonon/platform_kde/phonon.notifyrc:3
 msgctxt "Comment"
 msgid "Multimedia System"
-msgstr ""
-
-#: phonon/platform_kde/phonon.notifyrc:79
-msgctxt "Name"
-msgid "Application"
 msgstr ""
 
 #: phonon/platform_kde/phonon.notifyrc:144
