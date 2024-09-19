@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-18 00:46+0000\n"
+"POT-Creation-Date: 2024-09-19 00:45+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -283,6 +283,21 @@ msgstr ""
 #: klipper/klipperrc.desktop:1891
 msgctxt "Description"
 msgid "ftp URL"
+msgstr ""
+
+#: klipper/org.kde.klipper.desktop:2
+msgctxt "Name"
+msgid "Klipper"
+msgstr ""
+
+#: klipper/org.kde.klipper.desktop:92
+msgctxt "GenericName"
+msgid "Clipboard Tool"
+msgstr ""
+
+#: klipper/org.kde.klipper.desktop:190
+msgctxt "Comment"
+msgid "A cut & paste history utility"
 msgstr ""
 
 #: krunner/org.kde.krunner.desktop.cmake:3
