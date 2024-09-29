@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-21 00:49+0000\n"
+"POT-Creation-Date: 2024-09-29 00:48+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -221,11 +221,6 @@ msgstr ""
 #: runners/places/plasma-runner-places.json
 msgctxt "Name"
 msgid "Places"
-msgstr ""
-
-#: dataengines/powermanagement/plasma-dataengine-powermanagement.json
-msgctxt "Name"
-msgid "Power Management"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
@@ -712,11 +707,6 @@ msgstr ""
 #: dataengines/places/plasma-dataengine-places.json
 msgctxt "Description"
 msgid "Places, as seen in the file manager and in file dialogs."
-msgstr ""
-
-#: dataengines/powermanagement/plasma-dataengine-powermanagement.json
-msgctxt "Description"
-msgid "Battery, AC, sleep and PowerDevil information."
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
