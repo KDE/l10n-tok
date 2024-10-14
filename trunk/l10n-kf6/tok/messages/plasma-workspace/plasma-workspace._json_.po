@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-06 00:48+0000\n"
+"POT-Creation-Date: 2024-10-14 00:48+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -190,11 +190,6 @@ msgstr "sona ilo"
 #: dataengines/executable/plasma-dataengine-executable.json
 msgctxt "Name"
 msgid "Run Commands"
-msgstr ""
-
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
-msgctxt "Name"
-msgid "Files and Directories"
 msgstr ""
 
 #: dataengines/notifications/plasma-dataengine-notifications.json
@@ -657,11 +652,6 @@ msgstr ""
 #: dataengines/executable/plasma-dataengine-executable.json
 msgctxt "Description"
 msgid "Run Executable Data Engine"
-msgstr ""
-
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.json
-msgctxt "Description"
-msgid "Information about files and directories."
 msgstr ""
 
 #: dataengines/notifications/plasma-dataengine-notifications.json
