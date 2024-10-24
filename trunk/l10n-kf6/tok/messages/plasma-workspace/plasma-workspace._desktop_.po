@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-16 00:47+0000\n"
+"POT-Creation-Date: 2024-10-24 00:45+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -446,6 +446,11 @@ msgstr ""
 #: menu/desktop/kf5-graphics.directory:3
 msgctxt "Name"
 msgid "Graphics"
+msgstr ""
+
+#: menu/desktop/kf5-help.directory:3
+msgctxt "Name"
+msgid "Help"
 msgstr ""
 
 #: menu/desktop/kf5-internet.directory:3
