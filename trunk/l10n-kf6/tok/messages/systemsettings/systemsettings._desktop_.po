@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-10-23 00:47+0000\n"
+"POT-Creation-Date: 2024-12-13 09:57+0000\n"
 "PO-Revision-Date: 2024-07-07 20:42-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -44,27 +44,27 @@ msgctxt "Name"
 msgid "System Settings"
 msgstr "ilo lawa"
 
-#: app/systemsettings.desktop:301
+#: app/systemsettings.desktop:302
 msgctxt "Name"
 msgid "Global Theme"
 msgstr ""
 
-#: app/systemsettings.desktop:359
+#: app/systemsettings.desktop:360
 msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#: app/systemsettings.desktop:419
+#: app/systemsettings.desktop:420
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr ""
 
-#: app/systemsettings.desktop:478
+#: app/systemsettings.desktop:479
 msgctxt "Name"
 msgid "Power Management"
 msgstr ""
 
-#: app/systemsettings.desktop:564
+#: app/systemsettings.desktop:565
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr ""
