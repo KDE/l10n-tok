@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-10 09:37+0000\n"
+"POT-Creation-Date: 2025-01-19 00:50+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -598,36 +598,6 @@ msgctxt "Description"
 msgid "Transfers application's menu to the desktop"
 msgstr ""
 
-#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
-msgctxt "Description"
-msgid "Simple application launcher"
-msgstr ""
-
-#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
-msgctxt "Description"
-msgid "The menu that normally shows on right-click"
-msgstr ""
-
-#: containmentactions/paste/plasma-containmentactions-paste.json
-msgctxt "Description"
-msgid "Creates a widget from the contents of the clipboard"
-msgstr ""
-
-#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
-msgctxt "Description"
-msgid "Switch to another activity"
-msgstr ""
-
-#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
-msgctxt "Description"
-msgid "Switch to another virtual desktop"
-msgstr ""
-
-#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
-msgctxt "Description"
-msgid "Show a list of windows to switch to"
-msgstr ""
-
 #: dataengines/applicationjobs/plasma-dataengine-applicationjobs.json
 msgctxt "Description"
 msgid "Application job updates (via kuiserver)"
@@ -998,16 +968,6 @@ msgstr ""
 #: runners/appstream/plasma-runner-appstream.json
 msgctxt "Authors Name"
 msgid "Aleix Pol Gonzalez"
-msgstr ""
-
-#: containmentactions/applauncher/plasma-containmentactions-applauncher.json
-#: containmentactions/contextmenu/plasma-containmentactions-contextmenu.json
-#: containmentactions/paste/plasma-containmentactions-paste.json
-#: containmentactions/switchactivity/plasma-containmentactions-switchactivity.json
-#: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.json
-#: containmentactions/switchwindow/plasma-containmentactions-switchwindow.json
-msgctxt "Authors Name"
-msgid "Chani"
 msgstr ""
 
 #: dataengines/time/plasma-dataengine-time.json
