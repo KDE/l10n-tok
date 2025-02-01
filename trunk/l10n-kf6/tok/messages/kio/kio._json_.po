@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 01:14+0000\n"
+"POT-Creation-Date: 2025-02-01 00:49+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -11,6 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n == 0 ? 0 : n == 1 ? 1 : n == 2 ? 2 : 3;\n"
+
+#: src/filewidgets/dropIntoNewFolder/dropintonewfolderPlugin.json
+msgctxt "Name"
+msgid "Drop Into New Folder"
+msgstr ""
 
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Name"
