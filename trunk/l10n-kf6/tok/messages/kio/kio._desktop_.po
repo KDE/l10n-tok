@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-15 00:49+0000\n"
+"POT-Creation-Date: 2025-02-16 00:48+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -970,7 +970,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:22
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:23
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1125,7 +1125,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "ilo alasa Microsoft Developer Network"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:30
+#: src/urifilters/ikws/searchproviders/mdn.desktop:31
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
