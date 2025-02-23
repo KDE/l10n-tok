@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-21 00:47+0000\n"
+"POT-Creation-Date: 2025-02-23 00:47+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -478,8 +478,11 @@ msgid "https://dx.doi.org/\\\\{@}"
 msgstr "https://dx.doi.org/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Duck Duck Go"
 msgctxt "Name"
-msgid "Duck Duck Go"
+msgid "DuckDuckGo"
 msgstr "ilo alasa DuckDuckGo"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:84
@@ -1693,9 +1696,12 @@ msgstr ""
 "&wikia_search_submit=Search"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Wikia"
 msgctxt "Name"
-msgid "Wikipedia - The Free Encyclopedia"
-msgstr "lipu Wikipedia"
+msgid "Wikipedia"
+msgstr "lipu Wikia"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:102
 msgctxt "Query"
@@ -1855,6 +1861,10 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia - The Free Encyclopedia"
+#~ msgstr "lipu Wikipedia"
 
 #~ msgctxt "Name"
 #~ msgid "KDE App Search"
