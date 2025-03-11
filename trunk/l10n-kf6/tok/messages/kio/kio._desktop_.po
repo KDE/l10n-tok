@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-08 00:50+0000\n"
+"POT-Creation-Date: 2025-03-11 00:47+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -269,7 +269,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:33
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:34
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
@@ -459,7 +459,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:33
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:34
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -991,7 +991,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:31
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:32
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1146,7 +1146,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "ilo alasa Microsoft Developer Network"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:33
+#: src/urifilters/ikws/searchproviders/mdn.desktop:34
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1266,7 +1266,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:33
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:34
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1301,7 +1301,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:33
+#: src/urifilters/ikws/searchproviders/npm.desktop:34
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
