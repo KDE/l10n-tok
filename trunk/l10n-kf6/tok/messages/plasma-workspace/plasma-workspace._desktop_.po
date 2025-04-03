@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-11 00:47+0000\n"
+"POT-Creation-Date: 2025-04-03 00:48+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -40,18 +40,18 @@ msgid "Wallpaper Plugins"
 msgstr "ilo pi sitelen monsi"
 
 #: donationmessage/donationmessage.notifyrc:6
-#: donationmessage/donationmessage.notifyrc:160
+#: donationmessage/donationmessage.notifyrc:162
 msgctxt "Name"
 msgid "Request for Donation"
 msgstr ""
 
-#: donationmessage/donationmessage.notifyrc:51
-#: donationmessage/donationmessage.notifyrc:206
+#: donationmessage/donationmessage.notifyrc:52
+#: donationmessage/donationmessage.notifyrc:209
 msgctxt "Comment"
 msgid "Shows a yearly request to donate to KDE"
 msgstr ""
 
-#: donationmessage/donationmessage.notifyrc:95
+#: donationmessage/donationmessage.notifyrc:97
 #: phonon/platform_kde/phonon.notifyrc:79
 msgctxt "Name"
 msgid "Application"
@@ -223,7 +223,7 @@ msgctxt "Name"
 msgid "Notification Manager"
 msgstr ""
 
-#: libnotificationmanager/libnotificationmanager.notifyrc:42
+#: libnotificationmanager/libnotificationmanager.notifyrc:43
 msgctxt "Name"
 msgid "Summary for unread inhibited notifications"
 msgstr ""
@@ -497,17 +497,17 @@ msgctxt "Name"
 msgid "Linux Kernel"
 msgstr ""
 
-#: oom-notifier/oom-notifier.notifyrc:46
+#: oom-notifier/oom-notifier.notifyrc:47
 msgctxt "Comment"
 msgid "The core of the operating system"
 msgstr ""
 
-#: oom-notifier/oom-notifier.notifyrc:91
+#: oom-notifier/oom-notifier.notifyrc:93
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr ""
 
-#: oom-notifier/oom-notifier.notifyrc:138
+#: oom-notifier/oom-notifier.notifyrc:141
 msgctxt "Comment"
 msgid "A very serious error has occurred"
 msgstr ""
