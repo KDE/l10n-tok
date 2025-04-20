@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-08 00:48+0000\n"
+"POT-Creation-Date: 2025-04-20 00:47+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -223,7 +223,7 @@ msgctxt "Name"
 msgid "Notification Manager"
 msgstr ""
 
-#: libnotificationmanager/libnotificationmanager.notifyrc:44
+#: libnotificationmanager/libnotificationmanager.notifyrc:45
 msgctxt "Name"
 msgid "Summary for unread inhibited notifications"
 msgstr ""
