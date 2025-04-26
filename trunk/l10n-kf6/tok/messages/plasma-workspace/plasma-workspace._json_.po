@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-25 00:51+0000\n"
+"POT-Creation-Date: 2025-04-26 00:52+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -69,7 +69,7 @@ msgctxt "Name"
 msgid "Input Method"
 msgstr "nasin sitelen"
 
-#: applets/mediacontroller/package/metadata.json
+#: applets/mediacontroller/metadata.json
 msgctxt "Name"
 msgid "Media Player"
 msgstr "ilo kalama"
@@ -542,7 +542,7 @@ msgctxt "Description"
 msgid "Manage your input methods"
 msgstr ""
 
-#: applets/mediacontroller/package/metadata.json
+#: applets/mediacontroller/metadata.json
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Media Player"
@@ -940,8 +940,7 @@ msgctxt "Authors Name"
 msgid "Kai Uwe Broulik"
 msgstr ""
 
-#: applets/calendar/package/metadata.json
-#: applets/mediacontroller/package/metadata.json
+#: applets/calendar/package/metadata.json applets/mediacontroller/metadata.json
 #: runners/recentdocuments/plasma-runner-recentdocuments.json
 msgctxt "Authors Name"
 msgid "Sebastian Kügler"
