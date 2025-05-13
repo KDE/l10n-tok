@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-08 00:48+0000\n"
+"POT-Creation-Date: 2025-05-13 00:48+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -46,9 +46,11 @@ msgid "Empty File..."
 msgstr "lipu sitelen..."
 
 #: src/new_file_templates/EmptyFile.desktop:59
-#: src/new_file_templates/TextFile.desktop:96
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Enter text filename:"
 msgctxt "Comment"
-msgid "Enter text filename:"
+msgid "Enter name for empty file:"
 msgstr "o pana e nimi tawa lipu toki:"
 
 #: src/new_file_templates/HTMLFile.desktop:2
@@ -95,6 +97,11 @@ msgstr "o pana e ma pi nimi URL:"
 msgctxt "Name"
 msgid "Text File..."
 msgstr "lipu sitelen..."
+
+#: src/new_file_templates/TextFile.desktop:96
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr "o pana e nimi tawa lipu toki:"
 
 #: src/schemehandlers/telnet/ktelnetservice6.desktop:9
 msgctxt "Name"
