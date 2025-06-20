@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-11 02:03+0000\n"
+"POT-Creation-Date: 2025-06-20 02:02+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -113,12 +113,12 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "nimi open pi alasa linluwi"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:68
+#: src/kcms/webshortcuts/webshortcuts.desktop:69
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "o ante e nimi open pi alasa linluwi"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:125
+#: src/kcms/webshortcuts/webshortcuts.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -324,7 +324,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "tomo sona ArchWiki"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:58
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:59
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -384,7 +384,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "pakala pi ilo tan kulupu KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:58
+#: src/urifilters/ikws/searchproviders/bug.desktop:59
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -460,7 +460,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "ilo alasa pi sona Python"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:53
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1657,7 +1657,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "ilo pi alasa ilo pi ma ilo Debian"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:54
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://packages.debian.org/\\\\{@}"
@@ -1761,7 +1761,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "ilo alasa Acronym Database"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:54
+#: src/urifilters/ikws/searchproviders/wine.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
