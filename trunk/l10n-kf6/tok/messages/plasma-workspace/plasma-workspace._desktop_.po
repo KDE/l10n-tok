@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-20 00:47+0000\n"
+"POT-Creation-Date: 2025-06-27 00:49+0000\n"
 "PO-Revision-Date: 2024-07-07 21:04-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -14,20 +14,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 24.05.0\n"
 
-#: applets/devicenotifier/openWithFileManager.desktop:7
-msgctxt "Name"
-msgid "Open with File Manager"
-msgstr "o lukin kepeken ilo poki"
-
-#: applets/devicenotifier/plugin/devicenotifications.notifyrc:2
+#: applets/devicenotifier/devicenotifications.notifyrc:2
 msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: applets/devicenotifier/plugin/devicenotifications.notifyrc:84
+#: applets/devicenotifier/devicenotifications.notifyrc:84
 msgctxt "Name"
 msgid "Device Status"
 msgstr ""
+
+#: applets/devicenotifier/openWithFileManager.desktop:7
+msgctxt "Name"
+msgid "Open with File Manager"
+msgstr "o lukin kepeken ilo poki"
 
 #: components/shellprivate/plasmoids.knsrc:2
 msgctxt "Name"
