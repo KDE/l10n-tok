@@ -22,12 +22,12 @@ msgstr "toki Inli pi ma Mewika"
 #: src/language_files/af/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Afrikaans"
-msgstr ""
+msgstr "toki Apikan"
 
 #: src/language_files/ar/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Arabic"
-msgstr ""
+msgstr "toki Alapi"
 
 #: src/language_files/as/kf6_entry.desktop:2
 msgctxt "Name"
@@ -57,32 +57,32 @@ msgstr ""
 #: src/language_files/bg/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Bulgarian"
-msgstr ""
+msgstr "toki Pokasi"
 
 #: src/language_files/bn_IN/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Bengali (India)"
-msgstr ""
+msgstr "toki Panla pi ma Palata"
 
 #: src/language_files/bn/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Bengali"
-msgstr ""
+msgstr "toki Panla"
 
 #: src/language_files/br/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Breton"
-msgstr ""
+msgstr "toki Peson"
 
 #: src/language_files/bs/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Bosnian"
-msgstr ""
+msgstr "toki Posan"
 
 #: src/language_files/ca/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Catalan"
-msgstr ""
+msgstr "toki Katala"
 
 #: src/language_files/ca@valencia/kf6_entry.desktop:2
 msgctxt "Name"
@@ -102,27 +102,27 @@ msgstr ""
 #: src/language_files/cs/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Czech"
-msgstr ""
+msgstr "toki Seki"
 
 #: src/language_files/cy/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Welsh"
-msgstr ""
+msgstr "toki Kinli"
 
 #: src/language_files/da/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Danish"
-msgstr ""
+msgstr "toki Tansi"
 
 #: src/language_files/de/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "German"
-msgstr ""
+msgstr "toki Tosi"
 
 #: src/language_files/el/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Greek"
-msgstr ""
+msgstr "toki Elina"
 
 #: src/language_files/en_GB/kf6_entry.desktop:2
 #, fuzzy
@@ -135,37 +135,37 @@ msgstr "toki Inli pi ma Mewika"
 #: src/language_files/eo/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Esperanto"
-msgstr ""
+msgstr "toki Epelanto"
 
 #: src/language_files/es/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Spanish"
-msgstr ""
+msgstr "toki Epanja"
 
 #: src/language_files/et/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Estonian"
-msgstr ""
+msgstr "toki Esi"
 
 #: src/language_files/eu/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Basque"
-msgstr ""
+msgstr "toki Esuka"
 
 #: src/language_files/fa/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Farsi"
-msgstr ""
+msgstr "toki Pasi"
 
 #: src/language_files/fi/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Finnish"
-msgstr ""
+msgstr "toki Sumi"
 
 #: src/language_files/fr/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "French"
-msgstr ""
+msgstr "toki Kanse"
 
 #: src/language_files/fy/kf6_entry.desktop:2
 msgctxt "Name"
@@ -175,12 +175,12 @@ msgstr ""
 #: src/language_files/ga/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Irish"
-msgstr ""
+msgstr "toki Ele"
 
 #: src/language_files/gd/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "toki Kalike"
 
 #: src/language_files/gl/kf6_entry.desktop:2
 msgctxt "Name"
@@ -195,17 +195,17 @@ msgstr ""
 #: src/language_files/ha/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Hausa"
-msgstr ""
+msgstr "toki Awasa"
 
 #: src/language_files/he/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Hebrew"
-msgstr ""
+msgstr "toki Iwisi"
 
 #: src/language_files/hi/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Hindi"
-msgstr ""
+msgstr "toki Insi"
 
 #: src/language_files/hne/kf6_entry.desktop:2
 msgctxt "Name"
@@ -215,7 +215,7 @@ msgstr ""
 #: src/language_files/hr/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Croatian"
-msgstr ""
+msgstr "toki Lowasi"
 
 #: src/language_files/hsb/kf6_entry.desktop:2
 msgctxt "Name"
@@ -225,7 +225,7 @@ msgstr ""
 #: src/language_files/hu/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Hungarian"
-msgstr ""
+msgstr "toki Mosijo"
 
 #: src/language_files/hy/kf6_entry.desktop:2
 msgctxt "Name"
@@ -240,7 +240,7 @@ msgstr ""
 #: src/language_files/id/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Indonesian"
-msgstr ""
+msgstr "toki Intonesija"
 
 #: src/language_files/ie/kf6_entry.desktop:2
 msgctxt "Name"
@@ -250,22 +250,22 @@ msgstr ""
 #: src/language_files/is/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Icelandic"
-msgstr ""
+msgstr "toki Isilan"
 
 #: src/language_files/it/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Italian"
-msgstr ""
+msgstr "toki Italija"
 
 #: src/language_files/ja/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Japanese"
-msgstr ""
+msgstr "toki Nijon"
 
 #: src/language_files/ka/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Georgian"
-msgstr ""
+msgstr "toki Katuli"
 
 #: src/language_files/kk/kf6_entry.desktop:2
 msgctxt "Name"
@@ -285,7 +285,7 @@ msgstr ""
 #: src/language_files/ko/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Korean"
-msgstr ""
+msgstr "toki Anku"
 
 #: src/language_files/ku/kf6_entry.desktop:2
 msgctxt "Name"
@@ -340,7 +340,7 @@ msgstr ""
 #: src/language_files/nb/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "toki Nosiki"
 
 #: src/language_files/nds/kf6_entry.desktop:2
 msgctxt "Name"
@@ -355,12 +355,12 @@ msgstr ""
 #: src/language_files/nl/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Dutch"
-msgstr ""
+msgstr "toki Netelan"
 
 #: src/language_files/nn/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Norwegian Nynorsk"
-msgstr ""
+msgstr "toki Nosiki sin"
 
 #: src/language_files/oc/kf6_entry.desktop:2
 msgctxt "Name"
@@ -380,7 +380,7 @@ msgstr ""
 #: src/language_files/pl/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Polish"
-msgstr ""
+msgstr "toki Posuki"
 
 #: src/language_files/ps/kf6_entry.desktop:2
 msgctxt "Name"
@@ -390,22 +390,22 @@ msgstr ""
 #: src/language_files/pt_BR/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Brazil portuguese"
-msgstr ""
+msgstr "toki Potuke pi ma Pasiju"
 
 #: src/language_files/pt/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Portuguese"
-msgstr ""
+msgstr "toki Potuke"
 
 #: src/language_files/ro/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Romanian"
-msgstr ""
+msgstr "toki Lomuno"
 
 #: src/language_files/ru/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Russian"
-msgstr ""
+msgstr "toki Losi"
 
 #: src/language_files/se/kf6_entry.desktop:2
 msgctxt "Name"
@@ -445,17 +445,17 @@ msgstr ""
 #: src/language_files/sr/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Serbian"
-msgstr ""
+msgstr "toki Sopisi"
 
 #: src/language_files/sr@latin/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Serbian Latin"
-msgstr ""
+msgstr "toki Sopisi pi sitelen Lasina"
 
 #: src/language_files/sv/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Swedish"
-msgstr ""
+msgstr "toki Sensa"
 
 #: src/language_files/ta/kf6_entry.desktop:2
 msgctxt "Name"
@@ -465,7 +465,7 @@ msgstr ""
 #: src/language_files/te/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Telugu"
-msgstr ""
+msgstr "toki Teluku"
 
 #: src/language_files/tg/kf6_entry.desktop:2
 msgctxt "Name"
@@ -475,17 +475,17 @@ msgstr ""
 #: src/language_files/th/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Thai"
-msgstr ""
+msgstr "toki Tawi"
 
 #: src/language_files/tok/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Toki Pona"
-msgstr ""
+msgstr "toki pona"
 
 #: src/language_files/tr/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Turkish"
-msgstr ""
+msgstr "toki Tuki"
 
 #: src/language_files/tt/kf6_entry.desktop:2
 msgctxt "Name"
@@ -500,7 +500,7 @@ msgstr ""
 #: src/language_files/uk/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Ukrainian"
-msgstr ""
+msgstr "toki Ukawina"
 
 #: src/language_files/uz@cyrillic/kf6_entry.desktop:2
 msgctxt "Name"
@@ -530,7 +530,7 @@ msgstr ""
 #: src/language_files/zh_CN/kf6_entry.desktop:2
 msgctxt "Name"
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "toki Sonko"
 
 #: src/language_files/zh_HK/kf6_entry.desktop:2
 msgctxt "Name"
