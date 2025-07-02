@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-06-27 00:53+0000\n"
+"POT-Creation-Date: 2025-07-02 07:15+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "Disks & Devices"
 msgstr "poki en ilo ante"
 
-#: applets/digital-clock/package/metadata.json
+#: applets/digital-clock/metadata.json
 msgctxt "Name"
 msgid "Digital Clock"
 msgstr "ilo nanpa tenpo"
@@ -522,7 +522,7 @@ msgctxt "Description"
 msgid "Notifications and access for devices"
 msgstr ""
 
-#: applets/digital-clock/package/metadata.json
+#: applets/digital-clock/metadata.json
 msgctxt "Description"
 msgid "Time displayed in a digital format"
 msgstr ""
@@ -961,7 +961,7 @@ msgctxt "Authors Name"
 msgid "Viranch Mehta, Jacopo De Simoi"
 msgstr ""
 
-#: applets/digital-clock/package/metadata.json
+#: applets/digital-clock/metadata.json
 #: plasmacalendarintegration/holidayeventsplugin.json
 msgctxt "Authors Name"
 msgid "Martin Klapetek"
