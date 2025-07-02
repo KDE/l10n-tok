@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-07-02 07:11+0000\n"
-"PO-Revision-Date: 2024-01-15 17:54-0500\n"
+"PO-Revision-Date: 2024-01-15 18:09-0500\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
 "Language: tok\n"
@@ -15,9 +15,10 @@ msgstr ""
 "X-Generator: Lokalize 22.11.70\n"
 
 #: src/entry.desktop:2
+#, fuzzy
 msgctxt "Name"
 msgid "US English"
-msgstr "toki Inli pi ma Mewika"
+msgstr "toki Inli pi ma Juke"
 
 #: src/language_files/af/kf6_entry.desktop:2
 msgctxt "Name"
@@ -125,12 +126,9 @@ msgid "Greek"
 msgstr "toki Elina"
 
 #: src/language_files/en_GB/kf6_entry.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "US English"
 msgctxt "Name"
 msgid "British English"
-msgstr "toki Inli pi ma Mewika"
+msgstr "toki Inli pi ma Juke"
 
 #: src/language_files/eo/kf6_entry.desktop:2
 msgctxt "Name"
@@ -541,3 +539,7 @@ msgstr ""
 msgctxt "Name"
 msgid "Traditional Chinese"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "KDE Test Language"
+#~ msgstr "toki KDE"
