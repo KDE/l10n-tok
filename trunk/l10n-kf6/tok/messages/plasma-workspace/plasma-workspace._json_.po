@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-11 00:53+0000\n"
+"POT-Creation-Date: 2025-07-12 00:53+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -279,6 +279,11 @@ msgctxt "Name"
 msgid "Night Light"
 msgstr "suno mun"
 
+#: kcms/nighttime/kcm_nighttime.json
+msgctxt "Name"
+msgid "Day-Night Cycle"
+msgstr ""
+
 #: kcms/region_language/kcm_regionandlang.json
 msgctxt "Name"
 msgid "Region & Language"
@@ -313,14 +318,6 @@ msgstr "ilo lukin poki"
 msgctxt "Name"
 msgid "Time Zone"
 msgstr "ma tenpo"
-
-#: libcolorcorrect/kded/colorcorrectlocationupdater.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Automatic Location for Night Color"
-msgctxt "Name"
-msgid "Automatic Location for Night Light"
-msgstr "ilo ni li sona e ni: \"tenpo suno lon ma ni li seme?\""
 
 #: libkmpris/kded/mprisservice.json
 msgctxt "Name"
@@ -678,6 +675,11 @@ msgctxt "Description"
 msgid "Adjust screen color temperature based on time"
 msgstr ""
 
+#: kcms/nighttime/kcm_nighttime.json
+msgctxt "Description"
+msgid "Configure the day-night cycle times"
+msgstr ""
+
 #: kcms/notifications/kcm_notifications.json
 msgctxt "Description"
 msgid "Event Notifications and Actions"
@@ -721,11 +723,6 @@ msgstr ""
 #: ktimezoned/ktimezoned.json
 msgctxt "Description"
 msgid "Provides the system's time zone to applications"
-msgstr ""
-
-#: libcolorcorrect/kded/colorcorrectlocationupdater.json
-msgctxt "Description"
-msgid "Provides location updates for Night Light"
 msgstr ""
 
 #: libkmpris/kded/mprisservice.json
@@ -1062,6 +1059,11 @@ msgid ""
 "temperature,blue,light"
 msgstr ""
 
+#: kcms/nighttime/kcm_nighttime.json
+msgctxt "X-KDE-Keywords"
+msgid "dark,light,night,day"
+msgstr ""
+
 #: kcms/notifications/kcm_notifications.json
 msgctxt "X-KDE-Keywords"
 msgid ""
@@ -1109,6 +1111,13 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr "sitelen monsi"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Automatic Location for Night Color"
+#~ msgctxt "Name"
+#~ msgid "Automatic Location for Night Light"
+#~ msgstr "ilo ni li sona e ni: \"tenpo suno lon ma ni li seme?\""
 
 #~ msgctxt "Name"
 #~ msgid "BBC Weather"
