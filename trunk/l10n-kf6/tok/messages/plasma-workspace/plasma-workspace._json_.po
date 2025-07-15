@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-12 00:53+0000\n"
+"POT-Creation-Date: 2025-07-15 00:54+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -80,7 +80,7 @@ msgctxt "Name"
 msgid "Notifications"
 msgstr "mu ilo"
 
-#: applets/panelspacer/package/metadata.json
+#: applets/panelspacer/metadata.json
 msgctxt "Name"
 msgid "Panel Spacer"
 msgstr "kon suli"
@@ -522,7 +522,7 @@ msgctxt "Description"
 msgid "Display notifications and jobs"
 msgstr ""
 
-#: applets/panelspacer/package/metadata.json
+#: applets/panelspacer/metadata.json
 msgctxt "Description"
 msgid "Reserve empty spaces within the panel."
 msgstr ""
@@ -904,7 +904,7 @@ msgctxt "Authors Name"
 msgid "Martin Klapetek"
 msgstr ""
 
-#: applets/icon/package/metadata.json applets/panelspacer/package/metadata.json
+#: applets/icon/package/metadata.json applets/panelspacer/metadata.json
 msgctxt "Authors Name"
 msgid "The Plasma Team"
 msgstr ""
