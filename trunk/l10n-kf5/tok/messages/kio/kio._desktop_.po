@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-06-20 02:02+0000\n"
+"POT-Creation-Date: 2025-07-19 06:39+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -314,7 +314,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "ilo pi alasa ilo pi ma ilo Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:62
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:63
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "https://www.archlinux.org/packages/?q=\\\\{@}"
@@ -1422,7 +1422,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "ilo alasa pi sona Qt sin"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:54
+#: src/urifilters/ikws/searchproviders/qt5.desktop:55
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1435,7 +1435,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "ilo alasa pi sona Qt sin"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:54
+#: src/urifilters/ikws/searchproviders/qt6.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1458,7 +1458,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ilo pi alasa sitelen Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:66
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1478,7 +1478,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "ilo pi alasa esun Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:66
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1518,7 +1518,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "lipu nimi tawa toki Kaleko tan Real Academia Galega (RAG)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:68
+#: src/urifilters/ikws/searchproviders/rag.desktop:69
 msgctxt "Query"
 msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
