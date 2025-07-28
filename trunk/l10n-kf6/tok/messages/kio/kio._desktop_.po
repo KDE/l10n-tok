@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-06-07 00:49+0000\n"
+"POT-Creation-Date: 2025-07-28 00:47+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -276,7 +276,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:36
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
@@ -466,7 +466,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:36
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -492,7 +492,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "ilo alasa DuckDuckGo"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:37
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:38
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -594,7 +594,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:35
+#: src/urifilters/ikws/searchproviders/fedora.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://directory.fsf.org/search/?query=\\\\{@}"
@@ -998,7 +998,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:35
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:36
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1153,7 +1153,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "ilo alasa Microsoft Developer Network"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:36
+#: src/urifilters/ikws/searchproviders/mdn.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1273,7 +1273,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:36
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:37
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1308,7 +1308,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:36
+#: src/urifilters/ikws/searchproviders/npm.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1728,7 +1728,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "lipu Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:37
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:38
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1882,7 +1882,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:42
+#: templates/kioworker6/kioworker6.kdevtemplate:43
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
