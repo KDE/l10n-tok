@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-04 03:27+0000\n"
+"POT-Creation-Date: 2025-09-09 04:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: dataengines/devicenotifications/devicenotifications.notifyrc:83
+#: dataengines/devicenotifications/devicenotifications.notifyrc:82
 msgctxt "Name"
 msgid "Device Status"
 msgstr ""
@@ -41,27 +41,27 @@ msgctxt "Comment"
 msgid "KDE Free Space Notifier Daemon"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:72
+#: freespacenotifier/freespacenotifier.notifyrc:71
 msgctxt "Name"
 msgid "Low Disk Space"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:144
+#: freespacenotifier/freespacenotifier.notifyrc:142
 msgctxt "Name"
 msgid "Warning"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:231
+#: freespacenotifier/freespacenotifier.notifyrc:228
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:308
+#: freespacenotifier/freespacenotifier.notifyrc:304
 msgctxt "Name"
 msgid "Running low on disk space"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:377
+#: freespacenotifier/freespacenotifier.notifyrc:372
 msgctxt "Comment"
 msgid "You are running low on disk space"
 msgstr ""
@@ -81,12 +81,12 @@ msgctxt "GenericName"
 msgid "Color scheme editor"
 msgstr ""
 
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:51
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:50
 msgctxt "Name"
 msgid "KColorSchemeEditor"
 msgstr ""
 
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:99
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:97
 msgctxt "Comment"
 msgid "Plasma color scheme editor"
 msgstr ""
@@ -121,7 +121,7 @@ msgctxt "Name"
 msgid "KFontView"
 msgstr ""
 
-#: kcms/kfontinst/apps/org.kde.kfontview.desktop:54
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:53
 msgctxt "GenericName"
 msgid "Font Viewer"
 msgstr ""
@@ -131,12 +131,12 @@ msgctxt "Name"
 msgid "Font Installer"
 msgstr ""
 
-#: kcms/kfontinst/dbus/fontinst.actions:53
+#: kcms/kfontinst/dbus/fontinst.actions:52
 msgctxt "Name"
 msgid "Manage system-wide fonts."
 msgstr ""
 
-#: kcms/kfontinst/dbus/fontinst.actions:102
+#: kcms/kfontinst/dbus/fontinst.actions:100
 msgctxt "Description"
 msgid "Modifying the system-wide font configuration requires privileges."
 msgstr ""
@@ -162,7 +162,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioworkers/desktop/./directory.trash:60
+#: kioworkers/desktop/./directory.trash:59
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
@@ -172,12 +172,12 @@ msgctxt "Name"
 msgid "Klipper"
 msgstr ""
 
-#: klipper/klipper.desktop:91 klipper/org.kde.klipper.desktop:91
+#: klipper/klipper.desktop:90 klipper/org.kde.klipper.desktop:90
 msgctxt "GenericName"
 msgid "Clipboard Tool"
 msgstr ""
 
-#: klipper/klipper.desktop:194 klipper/org.kde.klipper.desktop:194
+#: klipper/klipper.desktop:192 klipper/org.kde.klipper.desktop:192
 msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
@@ -187,89 +187,89 @@ msgctxt "Description"
 msgid "Jpeg-Image"
 msgstr ""
 
-#: klipper/klipperrc.desktop:110
+#: klipper/klipperrc.desktop:109
 msgctxt "Description"
 msgid "Launch &Gwenview"
 msgstr ""
 
-#: klipper/klipperrc.desktop:194
+#: klipper/klipperrc.desktop:192
 msgctxt "Description"
 msgid "Web-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:288 klipper/klipperrc.desktop:1965
+#: klipper/klipperrc.desktop:285 klipper/klipperrc.desktop:1944
 msgctxt "Description"
 msgid "Open with &default Browser"
 msgstr ""
 
-#: klipper/klipperrc.desktop:373 klipper/klipperrc.desktop:2050
+#: klipper/klipperrc.desktop:369 klipper/klipperrc.desktop:2028
 msgctxt "Description"
 msgid "Open with &Konqueror"
 msgstr ""
 
-#: klipper/klipperrc.desktop:467 klipper/klipperrc.desktop:2143
+#: klipper/klipperrc.desktop:462 klipper/klipperrc.desktop:2120
 msgctxt "Description"
 msgid "Open with &Mozilla"
 msgstr ""
 
-#: klipper/klipperrc.desktop:560 klipper/klipperrc.desktop:1401
-#: klipper/klipperrc.desktop:1683 klipper/klipperrc.desktop:2236
+#: klipper/klipperrc.desktop:554 klipper/klipperrc.desktop:1386
+#: klipper/klipperrc.desktop:1665 klipper/klipperrc.desktop:2212
 msgctxt "Description"
 msgid "Send &URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:655
+#: klipper/klipperrc.desktop:648
 msgctxt "Description"
 msgid "Open with &Firefox"
 msgstr ""
 
-#: klipper/klipperrc.desktop:746
+#: klipper/klipperrc.desktop:738
 msgctxt "Description"
 msgid "Send &Page"
 msgstr ""
 
-#: klipper/klipperrc.desktop:840
+#: klipper/klipperrc.desktop:831
 msgctxt "Description"
 msgid "Mail-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:934
+#: klipper/klipperrc.desktop:924
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1027
+#: klipper/klipperrc.desktop:1016
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1119
+#: klipper/klipperrc.desktop:1107
 msgctxt "Description"
 msgid "Text File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1215
+#: klipper/klipperrc.desktop:1202
 msgctxt "Description"
 msgid "Launch K&Write"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1307
+#: klipper/klipperrc.desktop:1293
 msgctxt "Description"
 msgid "Local file URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1495 klipper/klipperrc.desktop:1777
-#: klipper/klipperrc.desktop:2330
+#: klipper/klipperrc.desktop:1479 klipper/klipperrc.desktop:1758
+#: klipper/klipperrc.desktop:2305
 msgctxt "Description"
 msgid "Send &File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1589
+#: klipper/klipperrc.desktop:1572
 msgctxt "Description"
 msgid "Gopher URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1871
+#: klipper/klipperrc.desktop:1851
 msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
@@ -279,7 +279,7 @@ msgctxt "Name"
 msgid "KRunner"
 msgstr ""
 
-#: krunner/org.kde.krunner.desktop.cmake:71
+#: krunner/org.kde.krunner.desktop.cmake:70
 msgctxt "Name"
 msgid "Run command on clipboard contents"
 msgstr ""
@@ -289,10 +289,10 @@ msgctxt "Name"
 msgid "Plasma (Wayland)"
 msgstr ""
 
-#: login-sessions/plasmawayland.desktop.cmake:56
-#: login-sessions/plasmawayland-dev.desktop.cmake:51
-#: login-sessions/plasmax11.desktop.cmake:54
-#: login-sessions/plasmax11-dev.desktop.cmake:52
+#: login-sessions/plasmawayland.desktop.cmake:55
+#: login-sessions/plasmawayland-dev.desktop.cmake:50
+#: login-sessions/plasmax11.desktop.cmake:53
+#: login-sessions/plasmax11-dev.desktop.cmake:51
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr ""
@@ -317,7 +317,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr ""
 
-#: lookandfeel/sddm-theme/metadata.desktop:58
+#: lookandfeel/sddm-theme/metadata.desktop:57
 msgctxt "Description"
 msgid "Breeze"
 msgstr ""
@@ -488,7 +488,7 @@ msgctxt "Name"
 msgid "Accessibility"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-accessibility.directory:97
+#: menu/desktop/kf5-utilities-accessibility.directory:96
 msgctxt "Comment"
 msgid "Accessibility"
 msgstr ""
@@ -498,7 +498,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-desktop.directory:65
+#: menu/desktop/kf5-utilities-desktop.directory:64
 msgctxt "Comment"
 msgid "Desktop"
 msgstr ""
@@ -508,7 +508,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr ""
 
-#: menu/desktop/kf5-utilities.directory:65
+#: menu/desktop/kf5-utilities.directory:64
 msgctxt "Comment"
 msgid "Utilities"
 msgstr ""
@@ -518,7 +518,7 @@ msgctxt "Name"
 msgid "File"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-file.directory:66
+#: menu/desktop/kf5-utilities-file.directory:65
 msgctxt "Comment"
 msgid "File"
 msgstr ""
@@ -528,7 +528,7 @@ msgctxt "Name"
 msgid "Peripherals"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-peripherals.directory:93
+#: menu/desktop/kf5-utilities-peripherals.directory:92
 msgctxt "Comment"
 msgid "Peripherals"
 msgstr ""
@@ -538,7 +538,7 @@ msgctxt "Name"
 msgid "PIM"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-pim.directory:90
+#: menu/desktop/kf5-utilities-pim.directory:89
 msgctxt "Comment"
 msgid "PIM"
 msgstr ""
@@ -548,7 +548,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-xutils.directory:63
+#: menu/desktop/kf5-utilities-xutils.directory:62
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr ""
@@ -558,17 +558,17 @@ msgctxt "Comment"
 msgid "Multimedia System"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:77
+#: phonon/platform_kde/phonon.notifyrc:76
 msgctxt "Name"
 msgid "Application"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:140
+#: phonon/platform_kde/phonon.notifyrc:138
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:209
+#: phonon/platform_kde/phonon.notifyrc:206
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -578,7 +578,7 @@ msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr ""
 
-#: plasma-windowed/org.kde.plasmawindowed.desktop.cmake:57
+#: plasma-windowed/org.kde.plasmawindowed.desktop.cmake:56
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr ""
@@ -588,7 +588,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr ""
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:61
+#: runners/baloo/plasma-runner-baloosearch.desktop:60
 msgctxt "Comment"
 msgid "Searches through files, emails and contacts"
 msgstr ""
@@ -608,7 +608,7 @@ msgctxt "Name"
 msgid "CDE"
 msgstr ""
 
-#: themes/qtcde.themerc:92
+#: themes/qtcde.themerc:91
 msgctxt "Comment"
 msgid "Built-in unthemed CDE style"
 msgstr ""
@@ -618,7 +618,7 @@ msgctxt "Name"
 msgid "Cleanlooks"
 msgstr ""
 
-#: themes/qtcleanlooks.themerc:72
+#: themes/qtcleanlooks.themerc:71
 msgctxt "Comment"
 msgid "Built-in unthemed style similar to Clearlooks from GNOME"
 msgstr ""
@@ -628,7 +628,7 @@ msgctxt "Name"
 msgid "GTK+ Style"
 msgstr ""
 
-#: themes/qtgtk.themerc:75
+#: themes/qtgtk.themerc:74
 msgctxt "Comment"
 msgid "Style that uses the GTK+ theming engine"
 msgstr ""
@@ -638,7 +638,7 @@ msgctxt "Name"
 msgid "Motif"
 msgstr ""
 
-#: themes/qtmotif.themerc:87
+#: themes/qtmotif.themerc:86
 msgctxt "Comment"
 msgid "Built-in unthemed Motif style"
 msgstr ""
@@ -648,7 +648,7 @@ msgctxt "Name"
 msgid "Plastique"
 msgstr ""
 
-#: themes/qtplastique.themerc:73
+#: themes/qtplastique.themerc:72
 msgctxt "Comment"
 msgid "Built-in unthemed style similar to Plastik from KDE3"
 msgstr ""
@@ -658,7 +658,7 @@ msgctxt "Name"
 msgid "MS Windows 9x"
 msgstr ""
 
-#: themes/qtwindows.themerc:89
+#: themes/qtwindows.themerc:88
 msgctxt "Comment"
 msgid "Built-in unthemed Windows 9x style"
 msgstr ""
