@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-09 01:13+0000\n"
+"POT-Creation-Date: 2025-09-11 00:49+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -16,16 +16,6 @@ msgstr ""
 msgctxt "Name"
 msgid "KIO"
 msgstr ""
-
-#: src/kioworkers/file/kauth/file.actions:2
-msgctxt "Name"
-msgid "Execute action as root."
-msgstr "o pali e ni kepeken wawa."
-
-#: src/kioworkers/file/kauth/file.actions:62
-msgctxt "Description"
-msgid "Root privileges are required to complete the action."
-msgstr "pali ni li wile e wawa."
 
 #: src/new_file_templates/Directory.desktop:2
 msgctxt "Name"
@@ -1886,6 +1876,14 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Execute action as root."
+#~ msgstr "o pali e ni kepeken wawa."
+
+#~ msgctxt "Description"
+#~ msgid "Root privileges are required to complete the action."
+#~ msgstr "pali ni li wile e wawa."
 
 #, fuzzy
 #~| msgctxt "Query"
