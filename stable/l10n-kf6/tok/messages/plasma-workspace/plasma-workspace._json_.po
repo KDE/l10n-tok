@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-26 00:52+0000\n"
+"POT-Creation-Date: 2025-08-02 00:53+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -44,12 +44,12 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr "poki jo"
 
-#: applets/devicenotifier/package/metadata.json
+#: applets/devicenotifier/metadata.json
 msgctxt "Name"
 msgid "Disks & Devices"
 msgstr "poki en ilo ante"
 
-#: applets/digital-clock/package/metadata.json
+#: applets/digital-clock/metadata.json
 msgctxt "Name"
 msgid "Digital Clock"
 msgstr "ilo nanpa tenpo"
@@ -74,13 +74,13 @@ msgctxt "Name"
 msgid "Media Player"
 msgstr "ilo kalama"
 
-#: applets/notifications/package/metadata.json
+#: applets/notifications/metadata.json
 #: kcms/notifications/kcm_notifications.json
 msgctxt "Name"
 msgid "Notifications"
 msgstr "mu ilo"
 
-#: applets/panelspacer/package/metadata.json
+#: applets/panelspacer/metadata.json
 msgctxt "Name"
 msgid "Panel Spacer"
 msgstr "kon suli"
@@ -186,36 +186,6 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr ""
 
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.json
-msgctxt "Name"
-msgid "BBC Weather"
-msgstr "ilo kon tan kulupu BBC"
-
-#: dataengines/weather/ions/dwd/ion-dwd.json
-msgctxt "Name"
-msgid "German Weather Service"
-msgstr "ilo kon pi ma Tosi"
-
-#: dataengines/weather/ions/envcan/ion-envcan.json
-msgctxt "Name"
-msgid "Environment Canada"
-msgstr "ilo kon pi ma Kanata"
-
-#: dataengines/weather/ions/noaa/ion-noaa.json
-msgctxt "Name"
-msgid "NOAA's National Weather Service"
-msgstr "ilo kon pi ma Mewika"
-
-#: dataengines/weather/ions/wetter.com/ion-wettercom.json
-msgctxt "Name"
-msgid "wetter.com"
-msgstr "ilo kon tan lipu wetter.com"
-
-#: dataengines/weather/plasma-dataengine-weather.json
-msgctxt "Name"
-msgid "Weather"
-msgstr "ilo kon"
-
 #: devicenotifications/devicenotifications.json
 msgctxt "Name"
 msgid "Device Notifications"
@@ -304,10 +274,23 @@ msgctxt "Name"
 msgid "Global Theme"
 msgstr "nasin lukin"
 
+#: kcms/lookandfeel/kded/lookandfeelautoswitcher.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Global Theme"
+msgctxt "Name"
+msgid "Global Theme Auto-Switcher"
+msgstr "nasin lukin"
+
 #: kcms/nightlight/kcm_nightlight.json
 msgctxt "Name"
 msgid "Night Light"
 msgstr "suno mun"
+
+#: kcms/nighttime/kcm_nighttime.json
+msgctxt "Name"
+msgid "Day-Night Cycle"
+msgstr ""
 
 #: kcms/region_language/kcm_regionandlang.json
 msgctxt "Name"
@@ -343,14 +326,6 @@ msgstr "ilo lukin poki"
 msgctxt "Name"
 msgid "Time Zone"
 msgstr "ma tenpo"
-
-#: libcolorcorrect/kded/colorcorrectlocationupdater.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Automatic Location for Night Color"
-msgctxt "Name"
-msgid "Automatic Location for Night Light"
-msgstr "ilo ni li sona e ni: \"tenpo suno lon ma ni li seme?\""
 
 #: libkmpris/kded/mprisservice.json
 msgctxt "Name"
@@ -517,12 +492,12 @@ msgctxt "Description"
 msgid "Provides access to the clipboard history"
 msgstr ""
 
-#: applets/devicenotifier/package/metadata.json
+#: applets/devicenotifier/metadata.json
 msgctxt "Description"
 msgid "Notifications and access for devices"
 msgstr ""
 
-#: applets/digital-clock/package/metadata.json
+#: applets/digital-clock/metadata.json
 msgctxt "Description"
 msgid "Time displayed in a digital format"
 msgstr ""
@@ -550,12 +525,12 @@ msgctxt "Description"
 msgid "Media player controls"
 msgstr "ilo kalama"
 
-#: applets/notifications/package/metadata.json
+#: applets/notifications/metadata.json
 msgctxt "Description"
 msgid "Display notifications and jobs"
 msgstr ""
 
-#: applets/panelspacer/package/metadata.json
+#: applets/panelspacer/metadata.json
 msgctxt "Description"
 msgid "Reserve empty spaces within the panel."
 msgstr ""
@@ -623,36 +598,6 @@ msgstr ""
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Description"
 msgid "Date and time by timezone"
-msgstr ""
-
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.json
-msgctxt "Description"
-msgid "XML Data from the British Broadcasting Corporation"
-msgstr ""
-
-#: dataengines/weather/ions/dwd/ion-dwd.json
-msgctxt "Description"
-msgid "Weather forecast by German Weather Service"
-msgstr ""
-
-#: dataengines/weather/ions/envcan/ion-envcan.json
-msgctxt "Description"
-msgid "XML Data from Environment Canada"
-msgstr ""
-
-#: dataengines/weather/ions/noaa/ion-noaa.json
-msgctxt "Description"
-msgid "XML Data from NOAA's National Weather Service"
-msgstr ""
-
-#: dataengines/weather/ions/wetter.com/ion-wettercom.json
-msgctxt "Description"
-msgid "Weather forecast by wetter.com"
-msgstr ""
-
-#: dataengines/weather/plasma-dataengine-weather.json
-msgctxt "Description"
-msgid "Weather data from multiple online sources"
 msgstr ""
 
 #: devicenotifications/devicenotifications.json
@@ -733,9 +678,19 @@ msgctxt "Description"
 msgid "Choose global look and feel"
 msgstr ""
 
+#: kcms/lookandfeel/kded/lookandfeelautoswitcher.json
+msgctxt "Description"
+msgid "Switches between dark and light Global Themes based on time of day"
+msgstr ""
+
 #: kcms/nightlight/kcm_nightlight.json
 msgctxt "Description"
 msgid "Adjust screen color temperature based on time"
+msgstr ""
+
+#: kcms/nighttime/kcm_nighttime.json
+msgctxt "Description"
+msgid "Configure the day-night cycle times"
 msgstr ""
 
 #: kcms/notifications/kcm_notifications.json
@@ -783,11 +738,6 @@ msgctxt "Description"
 msgid "Provides the system's time zone to applications"
 msgstr ""
 
-#: libcolorcorrect/kded/colorcorrectlocationupdater.json
-msgctxt "Description"
-msgid "Provides location updates for Night Light"
-msgstr ""
-
 #: libkmpris/kded/mprisservice.json
 msgctxt "Description"
 msgid "Controls media players using global keyboard shortcuts"
@@ -816,7 +766,7 @@ msgstr ""
 
 #: plasmacalendarintegration/holidayeventsplugin.json
 msgctxt "Description"
-msgid "Calendar plugin for displaying public holidays"
+msgid "Show public holidays in various countries or states"
 msgstr ""
 
 #: runners/appstream/plasma-runner-appstream.json
@@ -931,8 +881,7 @@ msgctxt "Authors Name"
 msgid "Marco Martin"
 msgstr ""
 
-#: applets/appmenu/package/metadata.json
-#: applets/notifications/package/metadata.json
+#: applets/appmenu/package/metadata.json applets/notifications/metadata.json
 #: applets/systemmonitor/coreusage/metadata.json
 #: applets/systemmonitor/cpu/metadata.json
 #: applets/systemmonitor/memory/metadata.json kcms/colors/kcm_colors.json
@@ -956,18 +905,18 @@ msgctxt "Authors Name"
 msgid "Martin Gräßlin"
 msgstr ""
 
-#: applets/devicenotifier/package/metadata.json
+#: applets/devicenotifier/metadata.json
 msgctxt "Authors Name"
 msgid "Viranch Mehta, Jacopo De Simoi"
 msgstr ""
 
-#: applets/digital-clock/package/metadata.json
+#: applets/digital-clock/metadata.json
 #: plasmacalendarintegration/holidayeventsplugin.json
 msgctxt "Authors Name"
 msgid "Martin Klapetek"
 msgstr ""
 
-#: applets/icon/package/metadata.json applets/panelspacer/package/metadata.json
+#: applets/icon/package/metadata.json applets/panelspacer/metadata.json
 msgctxt "Authors Name"
 msgid "The Plasma Team"
 msgstr ""
@@ -986,11 +935,6 @@ msgstr ""
 #: dataengines/time/plasma-dataengine-time.json
 msgctxt "Authors Name"
 msgid "Aaron Seigo"
-msgstr ""
-
-#: dataengines/weather/plasma-dataengine-weather.json
-msgctxt "Authors Name"
-msgid "Shawn Starr"
 msgstr ""
 
 #: lookandfeel/org.kde.breezedark/metadata.json
@@ -1127,6 +1071,11 @@ msgid ""
 "temperature,blue,light"
 msgstr ""
 
+#: kcms/nighttime/kcm_nighttime.json
+msgctxt "X-KDE-Keywords"
+msgid "dark,light,night,day"
+msgstr ""
+
 #: kcms/notifications/kcm_notifications.json
 msgctxt "X-KDE-Keywords"
 msgid ""
@@ -1174,6 +1123,37 @@ msgstr ""
 msgctxt "X-KDE-Keywords"
 msgid "wallpaper,desktop"
 msgstr "sitelen monsi"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Automatic Location for Night Color"
+#~ msgctxt "Name"
+#~ msgid "Automatic Location for Night Light"
+#~ msgstr "ilo ni li sona e ni: \"tenpo suno lon ma ni li seme?\""
+
+#~ msgctxt "Name"
+#~ msgid "BBC Weather"
+#~ msgstr "ilo kon tan kulupu BBC"
+
+#~ msgctxt "Name"
+#~ msgid "German Weather Service"
+#~ msgstr "ilo kon pi ma Tosi"
+
+#~ msgctxt "Name"
+#~ msgid "Environment Canada"
+#~ msgstr "ilo kon pi ma Kanata"
+
+#~ msgctxt "Name"
+#~ msgid "NOAA's National Weather Service"
+#~ msgstr "ilo kon pi ma Mewika"
+
+#~ msgctxt "Name"
+#~ msgid "wetter.com"
+#~ msgstr "ilo kon tan lipu wetter.com"
+
+#~ msgctxt "Name"
+#~ msgid "Weather"
+#~ msgstr "ilo kon"
 
 #~ msgctxt "Name"
 #~ msgid "Activities Engine"
