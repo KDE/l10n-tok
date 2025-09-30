@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-09-12 00:49+0000\n"
+"POT-Creation-Date: 2025-09-30 00:50+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -482,7 +482,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "ilo alasa DuckDuckGo"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:39
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:40
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -584,7 +584,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:37
+#: src/urifilters/ikws/searchproviders/fedora.desktop:38
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://directory.fsf.org/search/?query=\\\\{@}"
@@ -988,7 +988,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:37
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:38
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1718,7 +1718,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "lipu Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:39
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:40
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
