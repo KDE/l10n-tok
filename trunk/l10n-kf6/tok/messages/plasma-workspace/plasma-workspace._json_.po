@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-06 00:53+0000\n"
+"POT-Creation-Date: 2025-12-10 00:54+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -179,11 +179,6 @@ msgstr ""
 #: dataengines/notifications/plasma-dataengine-notifications.json
 msgctxt "Name"
 msgid "Application Notifications"
-msgstr ""
-
-#: dataengines/time/plasma-dataengine-time.json
-msgctxt "Name"
-msgid "Date and Time"
 msgstr ""
 
 #: devicenotifications/devicenotifications.json
@@ -590,11 +585,6 @@ msgctxt "Description"
 msgid "Passive visual notifications for the user."
 msgstr ""
 
-#: dataengines/time/plasma-dataengine-time.json
-msgctxt "Description"
-msgid "Date and time by timezone"
-msgstr ""
-
 #: devicenotifications/devicenotifications.json
 msgctxt "Description"
 msgid "Play audible feedback when devices are inserted or removed"
@@ -925,11 +915,6 @@ msgstr ""
 #: runners/appstream/plasma-runner-appstream.json
 msgctxt "Authors Name"
 msgid "Aleix Pol Gonzalez"
-msgstr ""
-
-#: dataengines/time/plasma-dataengine-time.json
-msgctxt "Authors Name"
-msgid "Aaron Seigo"
 msgstr ""
 
 #: lookandfeel/org.kde.breezedark/metadata.json
