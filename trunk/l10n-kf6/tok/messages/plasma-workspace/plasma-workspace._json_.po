@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-10 00:54+0000\n"
+"POT-Creation-Date: 2026-01-09 00:53+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -1097,12 +1097,18 @@ msgid ""
 msgstr ""
 
 #: kcms/wallpaper/kcm_wallpaper.json
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Wallpaper"
 msgctxt "X-KDE-Keywords"
-msgid "wallpaper,desktop"
-msgstr "sitelen monsi"
+msgid ""
+"wallpaper,desktop,background,slideshow,haenau,hunyango,picture of the day,"
+"dynamic wallpaper,live wallpaper,animated wallpaper"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Wallpaper"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "wallpaper,desktop"
+#~ msgstr "sitelen monsi"
 
 #~ msgctxt "Name"
 #~ msgid "KDE Multimedia Backend"
