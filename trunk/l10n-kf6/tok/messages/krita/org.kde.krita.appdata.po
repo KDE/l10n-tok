@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-03 00:43+0000\n"
+"POT-Creation-Date: 2026-02-04 00:42+0000\n"
 "PO-Revision-Date: 2022-03-06 00:28+0000\n"
 "Last-Translator: Logan Wemyss <vixietsq@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -15,28 +15,23 @@ msgstr ""
 "%100>=11 && n%100<=14 ? 2 : 3;\n"
 "X-Generator: Weblate 4.10.1\n"
 
-#. (itstool) path: component/developer_name
-#: org.kde.krita.appdata.xml:7
-msgid "Krita Foundation"
-msgstr "kulupu Krita"
-
 #. (itstool) path: component/name
-#: org.kde.krita.appdata.xml:9
+#: org.kde.krita.appdata.xml:11
 msgid "Krita"
 msgstr "ilo sitelen Krita"
 
 #. (itstool) path: component/summary
-#: org.kde.krita.appdata.xml:10
+#: org.kde.krita.appdata.xml:12
 msgid "Digital Painting, Creative Freedom"
 msgstr "sitelen ilo, wawa sitelen"
 
 #. (itstool) path: description/p
-#: org.kde.krita.appdata.xml:12
+#: org.kde.krita.appdata.xml:14
 msgid "Krita is the full-featured digital art studio."
 msgstr "ilo sitelen Krita li tomo sitelen lon ilo sina."
 
 #. (itstool) path: description/p
-#: org.kde.krita.appdata.xml:13
+#: org.kde.krita.appdata.xml:15
 msgid ""
 "It is perfect for sketching and painting, and presents an end–to–end "
 "solution for creating digital painting files from scratch by masters."
@@ -44,7 +39,7 @@ msgstr ""
 "sitelen la ona li wawa. ona li pana e wile ale pi sitelen ilo tawa sina."
 
 #. (itstool) path: description/p
-#: org.kde.krita.appdata.xml:14
+#: org.kde.krita.appdata.xml:16
 msgid ""
 "Krita is a great choice for creating concept art, comics, textures for "
 "rendering and matte paintings. Krita supports many colorspaces like RGB and "
@@ -53,29 +48,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.krita.appdata.xml:18
+#: org.kde.krita.appdata.xml:20
 msgid ""
 "Have fun painting with the advanced brush engines, amazing filters and many "
 "handy features that make Krita enormously productive."
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:28
+#: org.kde.krita.appdata.xml:30
 msgid "Krita is a full-featured digital painting studio"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:32
+#: org.kde.krita.appdata.xml:34
 msgid "The startup window now also gives you the latest news about Krita"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:36
+#: org.kde.krita.appdata.xml:38
 msgid "There are over ten immensely powerful brush engines"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:40
+#: org.kde.krita.appdata.xml:42
 msgid ""
 "Into animation? Krita provides everything you need for traditional, hand-"
 "drawn animation"
@@ -84,34 +79,37 @@ msgstr ""
 "li ken pali e sitelen tawa kepeken ni"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:44
+#: org.kde.krita.appdata.xml:46
 msgid ""
 "If you're new to digital painting, there's an extensive, up-to-date manual"
 msgstr "sina sona ala sitelen kepeken ilo nanpa la, mi jo e lipu sona suli"
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:48
+#: org.kde.krita.appdata.xml:50
 msgid "Krita offers powerful filters"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:52
+#: org.kde.krita.appdata.xml:54
 msgid ""
 "And, there is integration with G'Mic, too, which adds hundreds of filters "
 "more"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:56
+#: org.kde.krita.appdata.xml:58
 msgid "Join our Youtube channel!"
 msgstr ""
 
 #. (itstool) path: caption/a
-#: org.kde.krita.appdata.xml:60
+#: org.kde.krita.appdata.xml:62
 msgid "Krita Artists community"
 msgstr ""
 
 #. (itstool) path: screenshot/caption
-#: org.kde.krita.appdata.xml:60
+#: org.kde.krita.appdata.xml:62
 msgid "Or the active <_:a-1/>"
 msgstr ""
+
+#~ msgid "Krita Foundation"
+#~ msgstr "kulupu Krita"
