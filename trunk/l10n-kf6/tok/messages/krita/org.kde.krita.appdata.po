@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-03-25 00:42+0000\n"
+"POT-Creation-Date: 2026-03-26 00:41+0000\n"
 "PO-Revision-Date: 2022-03-06 00:28+0000\n"
 "Last-Translator: Logan Wemyss <vixietsq@gmail.com>\n"
 "Language-Team: Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-"
@@ -115,7 +115,7 @@ msgstr ""
 #: org.kde.krita.appdata.xml:84
 msgid ""
 "A new major release featuring the new on-canvas text tool, gap-closing "
-"features, selection toolboar and the new knife tool"
+"features, selection toolbar and the new knife tool"
 msgstr ""
 
 #. (itstool) path: release/description
