@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-10 01:02+0000\n"
+"POT-Creation-Date: 2026-04-11 00:55+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -266,7 +266,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:46
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:47
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
@@ -988,7 +988,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:47
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:48
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
