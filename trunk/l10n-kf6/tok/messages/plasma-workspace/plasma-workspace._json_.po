@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-21 00:55+0000\n"
+"POT-Creation-Date: 2026-04-17 00:55+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -68,6 +68,11 @@ msgstr "weka"
 msgctxt "Name"
 msgid "Input Method"
 msgstr "nasin sitelen"
+
+#: applets/margins-separator/metadata.json
+msgctxt "Name"
+msgid "Margins Separator"
+msgstr ""
 
 #: applets/mediacontroller/metadata.json
 msgctxt "Name"
@@ -492,6 +497,12 @@ msgctxt "Description"
 msgid "Manage your input methods"
 msgstr ""
 
+#: applets/margins-separator/metadata.json
+msgctxt "Description"
+msgid ""
+"To be used as a separator between margin areas in themes that support them"
+msgstr ""
+
 #: applets/mediacontroller/metadata.json
 #, fuzzy
 #| msgctxt "Name"
@@ -880,6 +891,11 @@ msgstr ""
 #: runners/appstream/plasma-runner-appstream.json
 msgctxt "Authors Name"
 msgid "Aleix Pol Gonzalez"
+msgstr ""
+
+#: applets/margins-separator/metadata.json
+msgctxt "Authors Name"
+msgid "Niccolo Venerandi"
 msgstr ""
 
 #: lookandfeel/org.kde.breezedark/metadata.json
