@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-17 00:55+0000\n"
+"POT-Creation-Date: 2026-04-18 00:56+0000\n"
 "PO-Revision-Date: 2024-04-26 14:54-0400\n"
 "Last-Translator: Janet Blackquill <uhhadd@gmail.com>\n"
 "Language-Team: C <kde-i18n-doc@kde.org>\n"
@@ -332,7 +332,7 @@ msgctxt "Name"
 msgid "Breeze Twilight"
 msgstr "nasin lukin pi kon telo"
 
-#: oom-notifier/oom-notifier.json
+#: oom_notifier/oom_notifier.json
 msgctxt "Name"
 msgid "Out of Memory Notifier"
 msgstr ""
@@ -719,7 +719,7 @@ msgctxt "Description"
 msgid "Breeze Twilight by the KDE VDG"
 msgstr ""
 
-#: oom-notifier/oom-notifier.json
+#: oom_notifier/oom_notifier.json
 msgctxt "Description"
 msgid ""
 "Informs when applications get terminated to prevent out of memory conditions"
