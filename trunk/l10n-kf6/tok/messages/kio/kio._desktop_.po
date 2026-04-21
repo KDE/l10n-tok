@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-04-19 00:51+0000\n"
+"POT-Creation-Date: 2026-04-21 00:53+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1591,7 +1591,7 @@ msgctxt "Name"
 msgid "Startpage"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/startpage.desktop:5
+#: src/urifilters/ikws/searchproviders/startpage.desktop:17
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
