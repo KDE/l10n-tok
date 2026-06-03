@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-05-30 00:52+0000\n"
+"POT-Creation-Date: 2026-06-03 01:22+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1349,7 +1349,7 @@ msgctxt "Name"
 msgid "OpenStreetMap"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:27
+#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:28
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
