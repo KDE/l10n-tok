@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-02 02:15+0000\n"
+"POT-Creation-Date: 2026-06-06 02:45+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -1498,7 +1498,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "ilo pi sitelen tawa Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:66
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:67
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
