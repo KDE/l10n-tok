@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-05 00:52+0000\n"
+"POT-Creation-Date: 2026-06-16 00:52+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -22,7 +22,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "poki..."
 
-#: src/new_file_templates/Directory.desktop:98
+#: src/new_file_templates/Directory.desktop:100
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "o pana e nimi tawa poki:"
@@ -35,7 +35,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "lipu sitelen..."
 
-#: src/new_file_templates/EmptyFile.desktop:64
+#: src/new_file_templates/EmptyFile.desktop:66
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Enter text filename:"
@@ -48,7 +48,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "lipu pi nasin HTML..."
 
-#: src/new_file_templates/HTMLFile.desktop:98
+#: src/new_file_templates/HTMLFile.desktop:100
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "o nimi e lipu pi nasin HTML:"
@@ -58,7 +58,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "nasin tawa lipu anu poki..."
 
-#: src/new_file_templates/linkPath.desktop:67
+#: src/new_file_templates/linkPath.desktop:69
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr "o pana e nimi lipu anu nimi poki:"
@@ -68,7 +68,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "nasin tawa ilo..."
 
-#: src/new_file_templates/linkProgram.desktop:95
+#: src/new_file_templates/linkProgram.desktop:97
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "nasin tawa ilo sin"
@@ -78,7 +78,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "nasin tawa ma ante (pi nimi URL)..."
 
-#: src/new_file_templates/linkURL.desktop:97
+#: src/new_file_templates/linkURL.desktop:99
 msgctxt "Comment"
 msgid "URL location to link to:"
 msgstr "o pana e ma pi nimi URL:"
@@ -88,7 +88,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "lipu sitelen..."
 
-#: src/new_file_templates/TextFile.desktop:97
+#: src/new_file_templates/TextFile.desktop:99
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "o pana e nimi tawa lipu toki:"
@@ -103,7 +103,7 @@ msgctxt "Name"
 msgid "7Digital"
 msgstr "ilo alasa 7Digital"
 
-#: src/urifilters/ikws/searchproviders/7digital.desktop:86
+#: src/urifilters/ikws/searchproviders/7digital.desktop:88
 msgctxt "Query"
 msgid ""
 "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
@@ -115,7 +115,7 @@ msgctxt "Name"
 msgid "Acronym Database"
 msgstr "ilo alasa Acronym Database"
 
-#: src/urifilters/ikws/searchproviders/acronym.desktop:99
+#: src/urifilters/ikws/searchproviders/acronym.desktop:101
 msgctxt "Query"
 msgid "https://www.abbreviations.com/\\\\{@}"
 msgstr "https://www.abbreviations.com/\\\\{@}"
@@ -125,7 +125,7 @@ msgctxt "Name"
 msgid "Amazon"
 msgstr "ilo esun Amazon"
 
-#: src/urifilters/ikws/searchproviders/amazon.desktop:85
+#: src/urifilters/ikws/searchproviders/amazon.desktop:87
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
@@ -139,7 +139,7 @@ msgctxt "Name"
 msgid "Amazon MP3"
 msgstr "ilo esun Amazon MP3"
 
-#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:86
+#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:88
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
@@ -153,7 +153,7 @@ msgctxt "Name"
 msgid "All Music Guide"
 msgstr "ilo All Music Guide"
 
-#: src/urifilters/ikws/searchproviders/amg.desktop:98
+#: src/urifilters/ikws/searchproviders/amg.desktop:100
 msgctxt "Query"
 msgid "https://www.allmusic.com/search/all/\\\\{@}"
 msgstr "https://www.allmusic.com/search/all/\\\\{@}"
@@ -163,7 +163,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "ilo pi alasa ilo pi ma ilo Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:72
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:74
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "https://www.archlinux.org/packages/?q=\\\\{@}"
@@ -173,7 +173,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "tomo sona ArchWiki"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:68
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:70
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -183,7 +183,7 @@ msgctxt "Name"
 msgid "ARD Mediathek"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/ard.desktop:28
+#: src/urifilters/ikws/searchproviders/ard.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -196,7 +196,7 @@ msgctxt "Name"
 msgid "Debian Backports Search"
 msgstr "ilo pi alasa ilo pi ma ilo Debian Backports"
 
-#: src/urifilters/ikws/searchproviders/backports.desktop:97
+#: src/urifilters/ikws/searchproviders/backports.desktop:99
 msgctxt "Query"
 msgid ""
 "https://packages.debian.org/search?suite=squeeze-"
@@ -210,7 +210,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr "ilo alasa Baidu"
 
-#: src/urifilters/ikws/searchproviders/baidu.desktop:85
+#: src/urifilters/ikws/searchproviders/baidu.desktop:87
 msgctxt "Query"
 msgid "https://www.baidu.com/s?wd=\\\\{@}"
 msgstr "https://www.baidu.com/s?wd=\\\\{@}"
@@ -220,7 +220,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr "lipu nimi Beolingus lon kulupu ilo"
 
-#: src/urifilters/ikws/searchproviders/beolingus.desktop:83
+#: src/urifilters/ikws/searchproviders/beolingus.desktop:85
 msgctxt "Query"
 msgid ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
@@ -236,7 +236,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "ilo alasa Bing"
 
-#: src/urifilters/ikws/searchproviders/bing.desktop:84
+#: src/urifilters/ikws/searchproviders/bing.desktop:86
 msgctxt "Query"
 msgid "https://www.bing.com/search?q=\\\\{@}"
 msgstr "https://www.bing.com/search?q=\\\\{@}"
@@ -246,7 +246,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:59
+#: src/urifilters/ikws/searchproviders/boo.desktop:61
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -259,7 +259,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "pakala pi ilo tan kulupu KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:68
+#: src/urifilters/ikws/searchproviders/bug.desktop:70
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -269,7 +269,7 @@ msgctxt "Name"
 msgid "QRZ.com Callsign Database"
 msgstr "ilo QRZ.com Callsign Database"
 
-#: src/urifilters/ikws/searchproviders/call.desktop:99
+#: src/urifilters/ikws/searchproviders/call.desktop:101
 msgctxt "Query"
 msgid "https://www.qrz.com/db/\\\\{@}"
 msgstr "https://www.qrz.com/db/\\\\{@}"
@@ -279,7 +279,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:48
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:50
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
@@ -292,7 +292,7 @@ msgctxt "Name"
 msgid "CIA World Fact Book"
 msgstr "lipu sona pi ma ale tan kulupu CIA"
 
-#: src/urifilters/ikws/searchproviders/cia.desktop:97
+#: src/urifilters/ikws/searchproviders/cia.desktop:99
 msgctxt "Query"
 msgid ""
 "https://www.cia.gov/search?q=\\\\{@}"
@@ -308,7 +308,7 @@ msgctxt "Name"
 msgid "CiteSeer: Scientific Literature Digital Library"
 msgstr "ilo CiteSeer"
 
-#: src/urifilters/ikws/searchproviders/citeseer.desktop:100
+#: src/urifilters/ikws/searchproviders/citeseer.desktop:102
 msgctxt "Query"
 msgid ""
 "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
@@ -320,7 +320,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:59
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:61
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -332,7 +332,7 @@ msgctxt "Name"
 msgid "CPAN - Comprehensive Perl Archive Network"
 msgstr "ilo CPAN"
 
-#: src/urifilters/ikws/searchproviders/cpan.desktop:100
+#: src/urifilters/ikws/searchproviders/cpan.desktop:102
 msgctxt "Query"
 msgid ""
 "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
@@ -344,7 +344,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:67
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://soundcloud.com/search?q=\\\\{@}"
@@ -360,7 +360,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "ilo alasa pi sona Python"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:66
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:68
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -373,7 +373,7 @@ msgctxt "Name"
 msgid "CTAN Catalog"
 msgstr "lipu sinpin CTAN"
 
-#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:100
+#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:102
 msgctxt "Query"
 msgid ""
 "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
@@ -387,7 +387,7 @@ msgctxt "Name"
 msgid "CTAN - Comprehensive TeX Archive Network"
 msgstr "ilo alasa CTAN"
 
-#: src/urifilters/ikws/searchproviders/ctan.desktop:100
+#: src/urifilters/ikws/searchproviders/ctan.desktop:102
 msgctxt "Query"
 msgid "https://ctan.org/search?phrase=\\\\{@}"
 msgstr "https://ctan.org/search?phrase=\\\\{@}"
@@ -397,7 +397,7 @@ msgctxt "Name"
 msgid "Debian BTS Bug Search"
 msgstr "ilo alasa pi pakala lon ma ilo Debian"
 
-#: src/urifilters/ikws/searchproviders/dbug.desktop:97
+#: src/urifilters/ikws/searchproviders/dbug.desktop:99
 msgctxt "Query"
 msgid "https://bugs.debian.org/\\\\{@}"
 msgstr "https://bugs.debian.org/\\\\{@}"
@@ -407,8 +407,8 @@ msgctxt "Name"
 msgid "dict.cc Translation: German to English"
 msgstr "ilo pi ante toki dict.cc: toki Tosi tawa toki Inli"
 
-#: src/urifilters/ikws/searchproviders/de2en.desktop:100
-#: src/urifilters/ikws/searchproviders/en2de.desktop:100
+#: src/urifilters/ikws/searchproviders/de2en.desktop:102
+#: src/urifilters/ikws/searchproviders/en2de.desktop:102
 msgctxt "Query"
 msgid "https://www.dict.cc/?s=\\\\{@}"
 msgstr "https://www.dict.cc/?s=\\\\{@}"
@@ -418,8 +418,8 @@ msgctxt "Name"
 msgid "LEO - Translate Between German and French"
 msgstr "ilo pi ante toki LEO: toki Tosi tawa toki Kanse"
 
-#: src/urifilters/ikws/searchproviders/de2fr.desktop:99
-#: src/urifilters/ikws/searchproviders/fr2de.desktop:99
+#: src/urifilters/ikws/searchproviders/de2fr.desktop:101
+#: src/urifilters/ikws/searchproviders/fr2de.desktop:101
 msgctxt "Query"
 msgid "https://dict.leo.org/?lp=frde&search=\\\\{@}"
 msgstr "https://dict.leo.org/?lp=frde&search=\\\\{@}"
@@ -429,7 +429,7 @@ msgctxt "Name"
 msgid "Debian Package Search"
 msgstr "ilo pi alasa ilo pi ma ilo Debian"
 
-#: src/urifilters/ikws/searchproviders/deb.desktop:101
+#: src/urifilters/ikws/searchproviders/deb.desktop:103
 msgctxt "Query"
 msgid "https://packages.debian.org/\\\\{@}"
 msgstr "https://packages.debian.org/\\\\{@}"
@@ -439,7 +439,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr "ilo pi ante toki DeepL"
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:68
+#: src/urifilters/ikws/searchproviders/deepl.desktop:70
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -449,7 +449,7 @@ msgctxt "Name"
 msgid "CNRTL/TILF French dictionary"
 msgstr "ilo alasa nimi pi CNTRL/TILF tawa toki Kanse"
 
-#: src/urifilters/ikws/searchproviders/dictfr.desktop:87
+#: src/urifilters/ikws/searchproviders/dictfr.desktop:89
 msgctxt "Query"
 msgid "https://www.cnrtl.fr/definition/\\\\{@}"
 msgstr "https://www.cnrtl.fr/definition/\\\\{@}"
@@ -459,7 +459,7 @@ msgctxt "Name"
 msgid "DocBook - The Definitive Guide"
 msgstr "lipu DocBook"
 
-#: src/urifilters/ikws/searchproviders/docbook.desktop:102
+#: src/urifilters/ikws/searchproviders/docbook.desktop:104
 msgctxt "Query"
 msgid "https://www.docbook.org/tdg/en/html/\\\\{1}.html"
 msgstr "https://www.docbook.org/tdg/en/html/\\\\{1}.html"
@@ -469,7 +469,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:49
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -482,7 +482,7 @@ msgctxt "Name"
 msgid "Digital Object Identifier"
 msgstr "ilo alasa Digital Object Identifier"
 
-#: src/urifilters/ikws/searchproviders/doi.desktop:99
+#: src/urifilters/ikws/searchproviders/doi.desktop:101
 msgctxt "Query"
 msgid "https://dx.doi.org/\\\\{@}"
 msgstr "https://dx.doi.org/\\\\{@}"
@@ -495,7 +495,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "ilo alasa DuckDuckGo"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:51
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:53
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -505,7 +505,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Info"
 msgstr "ilo pi alasa sona DuckDuckGo"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:84
+#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:86
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
@@ -515,7 +515,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Shopping"
 msgstr "ilo pi alasa esun DuckDuckGo"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:85
+#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:87
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
@@ -525,7 +525,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "ilo alasa Ecosia"
 
-#: src/urifilters/ikws/searchproviders/ecosia.desktop:84
+#: src/urifilters/ikws/searchproviders/ecosia.desktop:86
 msgctxt "Query"
 msgid "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 msgstr "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
@@ -540,7 +540,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Spanish"
 msgstr "ilo pi ante toki WordReference.com: toki Inli tawa toki Epanja"
 
-#: src/urifilters/ikws/searchproviders/en2es.desktop:100
+#: src/urifilters/ikws/searchproviders/en2es.desktop:102
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgstr "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
@@ -550,7 +550,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to French"
 msgstr "ilo pi ante toki WordReference.com: toki Inli tawa toki Kanse"
 
-#: src/urifilters/ikws/searchproviders/en2fr.desktop:100
+#: src/urifilters/ikws/searchproviders/en2fr.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -563,8 +563,8 @@ msgctxt "Name"
 msgid "WordReference.com Translation: English to Italian"
 msgstr "ilo pi ante toki WordReference.com: toki Inli tawa toki Italija"
 
-#: src/urifilters/ikws/searchproviders/en2it.desktop:100
-#: src/urifilters/ikws/searchproviders/it2en.desktop:100
+#: src/urifilters/ikws/searchproviders/en2it.desktop:102
+#: src/urifilters/ikws/searchproviders/it2en.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -577,7 +577,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: Spanish to English"
 msgstr "ilo pi ante toki WordReference.com: toki Epanja tawa toki Inli"
 
-#: src/urifilters/ikws/searchproviders/es2en.desktop:100
+#: src/urifilters/ikws/searchproviders/es2en.desktop:102
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgstr "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
@@ -587,7 +587,7 @@ msgctxt "Name"
 msgid "Facebook"
 msgstr "ilo Facebook"
 
-#: src/urifilters/ikws/searchproviders/facebook.desktop:86
+#: src/urifilters/ikws/searchproviders/facebook.desktop:88
 msgctxt "Query"
 msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -597,7 +597,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:49
+#: src/urifilters/ikws/searchproviders/fedora.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://directory.fsf.org/search/?query=\\\\{@}"
@@ -610,7 +610,7 @@ msgctxt "Name"
 msgid "Feedster"
 msgstr "ilo Feedster"
 
-#: src/urifilters/ikws/searchproviders/feedster.desktop:102
+#: src/urifilters/ikws/searchproviders/feedster.desktop:104
 msgctxt "Query"
 msgid ""
 "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
@@ -622,7 +622,7 @@ msgctxt "Name"
 msgid "Flathub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/flathub.desktop:28
+#: src/urifilters/ikws/searchproviders/flathub.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -638,7 +638,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "ilo alasa pi sona Qt4"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:67
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:69
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -650,7 +650,7 @@ msgctxt "Name"
 msgid "Flickr Creative Commons"
 msgstr "ilo sitelen Flickr (ijo pi wile mani ala taso)"
 
-#: src/urifilters/ikws/searchproviders/flickrcc.desktop:85
+#: src/urifilters/ikws/searchproviders/flickrcc.desktop:87
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
 msgstr "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
@@ -660,7 +660,7 @@ msgctxt "Name"
 msgid "Flickr"
 msgstr "ilo sitelen Flickr"
 
-#: src/urifilters/ikws/searchproviders/flickr.desktop:86
+#: src/urifilters/ikws/searchproviders/flickr.desktop:88
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}"
 msgstr "https://www.flickr.com/search/?q=\\\\{@}"
@@ -670,7 +670,7 @@ msgctxt "Name"
 msgid "Free On-Line Dictionary of Computing"
 msgstr "lipu Free On-Line Dictionary of Computing"
 
-#: src/urifilters/ikws/searchproviders/foldoc.desktop:100
+#: src/urifilters/ikws/searchproviders/foldoc.desktop:102
 msgctxt "Query"
 msgid "https://foldoc.org/\\\\{@}"
 msgstr "https://foldoc.org/\\\\{@}"
@@ -685,7 +685,7 @@ msgctxt "Name"
 msgid "WordReference.com Translation: French to English"
 msgstr "ilo pi ante toki WordReference.com: toki Kanse tawa toki Inli"
 
-#: src/urifilters/ikws/searchproviders/fr2en.desktop:100
+#: src/urifilters/ikws/searchproviders/fr2en.desktop:102
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -698,7 +698,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "ilo Freecode"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:79
+#: src/urifilters/ikws/searchproviders/freecode.desktop:81
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr "http://freecode.com/search?q=\\\\{@}"
@@ -708,7 +708,7 @@ msgctxt "Name"
 msgid "FreeDB"
 msgstr "ilo FreeDB"
 
-#: src/urifilters/ikws/searchproviders/freedb.desktop:102
+#: src/urifilters/ikws/searchproviders/freedb.desktop:104
 msgctxt "Query"
 msgid "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
 msgstr "http://www.freedb.org/freedb_search.php?words=\\\\{@}"
@@ -718,7 +718,7 @@ msgctxt "Name"
 msgid "FSF/UNESCO Free Software Directory"
 msgstr "lipu pi ilo pona tan FSF/UNESCO"
 
-#: src/urifilters/ikws/searchproviders/fsd.desktop:99
+#: src/urifilters/ikws/searchproviders/fsd.desktop:101
 msgctxt "Query"
 msgid "https://directory.fsf.org/search/?query=\\\\{@}"
 msgstr "https://directory.fsf.org/search/?query=\\\\{@}"
@@ -728,7 +728,7 @@ msgctxt "Name"
 msgid "GitHub"
 msgstr "ilo GitHub"
 
-#: src/urifilters/ikws/searchproviders/github.desktop:86
+#: src/urifilters/ikws/searchproviders/github.desktop:88
 msgctxt "Query"
 msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 msgstr "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -738,7 +738,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr "ilo GitLab"
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:71
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:73
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr "https://gitlab.com/search?search=\\\\{@}"
@@ -748,7 +748,7 @@ msgctxt "Name"
 msgid "Google Advanced Search"
 msgstr "ilo pi alasa wawa tan ilo Google"
 
-#: src/urifilters/ikws/searchproviders/google_advanced.desktop:103
+#: src/urifilters/ikws/searchproviders/google_advanced.desktop:105
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
@@ -770,7 +770,7 @@ msgctxt "Name"
 msgid "Google Code"
 msgstr "ilo alasa pi ilo lon ilo Google"
 
-#: src/urifilters/ikws/searchproviders/google_code.desktop:85
+#: src/urifilters/ikws/searchproviders/google_code.desktop:87
 msgctxt "Query"
 msgid "https://code.google.com/query/#q=\\\\{%2520}"
 msgstr "https://code.google.com/query/#q=\\\\{%2520}"
@@ -780,7 +780,7 @@ msgctxt "Name"
 msgid "Google"
 msgstr "ilo alasa Google"
 
-#: src/urifilters/ikws/searchproviders/google.desktop:106
+#: src/urifilters/ikws/searchproviders/google.desktop:108
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
 msgstr "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
@@ -790,7 +790,7 @@ msgctxt "Name"
 msgid "Google Groups"
 msgstr "ilo toki Google Groups"
 
-#: src/urifilters/ikws/searchproviders/google_groups.desktop:104
+#: src/urifilters/ikws/searchproviders/google_groups.desktop:106
 msgctxt "Query"
 msgid "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 msgstr "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
@@ -800,7 +800,7 @@ msgctxt "Name"
 msgid "Google Image Search"
 msgstr "ilo pi alasa sitelen Google"
 
-#: src/urifilters/ikws/searchproviders/google_images.desktop:104
+#: src/urifilters/ikws/searchproviders/google_images.desktop:106
 msgctxt "Query"
 msgid "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
 msgstr "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
@@ -810,7 +810,7 @@ msgctxt "Name"
 msgid "Google (I'm Feeling Lucky)"
 msgstr "ilo Google (pilin musi)"
 
-#: src/urifilters/ikws/searchproviders/google_lucky.desktop:101
+#: src/urifilters/ikws/searchproviders/google_lucky.desktop:103
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
@@ -824,7 +824,7 @@ msgctxt "Name"
 msgid "Google Maps"
 msgstr "ilo nasin Google"
 
-#: src/urifilters/ikws/searchproviders/google_maps.desktop:85
+#: src/urifilters/ikws/searchproviders/google_maps.desktop:87
 msgctxt "Query"
 msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
 msgstr "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
@@ -834,7 +834,7 @@ msgctxt "Name"
 msgid "Google Movies"
 msgstr "ilo alasa pi sitelen tawa suli tan ilo Google"
 
-#: src/urifilters/ikws/searchproviders/google_movie.desktop:104
+#: src/urifilters/ikws/searchproviders/google_movie.desktop:106
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "https://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -844,7 +844,7 @@ msgctxt "Name"
 msgid "Google News"
 msgstr "ilo alasa pi ijo sin tan ilo Google"
 
-#: src/urifilters/ikws/searchproviders/google_news.desktop:104
+#: src/urifilters/ikws/searchproviders/google_news.desktop:106
 msgctxt "Query"
 msgid "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -854,7 +854,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "ilo pi alasa esun tan ilo Google"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:79
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:81
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -864,7 +864,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "lipu nimi pi toki Katalan (Gran Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:72
+#: src/urifilters/ikws/searchproviders/grec.desktop:74
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -874,7 +874,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com"
 msgstr "lipu nimi HyperDictionary.com"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:102
+#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:104
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -884,7 +884,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com Thesaurus"
 msgstr "lipu pi nimi sama tan lipu nimi HyperDictionary.com"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary_thesaurus.desktop:101
+#: src/urifilters/ikws/searchproviders/hyperdictionary_thesaurus.desktop:103
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?Dict=T&define=\\\\{@}"
@@ -894,7 +894,7 @@ msgctxt "Name"
 msgid "Identi.ca Groups"
 msgstr "kulupu lon ilo Identi.ca"
 
-#: src/urifilters/ikws/searchproviders/identica_groups.desktop:85
+#: src/urifilters/ikws/searchproviders/identica_groups.desktop:87
 msgctxt "Query"
 msgid "https://identi.ca/search/group?q=\\\\{@}"
 msgstr "https://identi.ca/search/group?q=\\\\{@}"
@@ -904,7 +904,7 @@ msgctxt "Name"
 msgid "Identi.ca Notices"
 msgstr "ijo suli pi ilo Identi.ca"
 
-#: src/urifilters/ikws/searchproviders/identica_notices.desktop:85
+#: src/urifilters/ikws/searchproviders/identica_notices.desktop:87
 msgctxt "Query"
 msgid "https://identi.ca/search/notice?q=\\\\{@}"
 msgstr "https://identi.ca/search/notice?q=\\\\{@}"
@@ -914,7 +914,7 @@ msgctxt "Name"
 msgid "Identi.ca People"
 msgstr "jan lon ilo Identi.ca"
 
-#: src/urifilters/ikws/searchproviders/identica_people.desktop:85
+#: src/urifilters/ikws/searchproviders/identica_people.desktop:87
 msgctxt "Query"
 msgid "https://identi.ca/search/people?q=\\\\{@}&search=Search"
 msgstr "https://identi.ca/search/people?q=\\\\{@}&search=Search"
@@ -924,7 +924,7 @@ msgctxt "Name"
 msgid "Internet Movie Database"
 msgstr "ilo alasa IMDB"
 
-#: src/urifilters/ikws/searchproviders/imdb.desktop:101
+#: src/urifilters/ikws/searchproviders/imdb.desktop:103
 msgctxt "Query"
 msgid "https://imdb.com/find?s=all&q=\\\\{@}"
 msgstr "https://imdb.com/find?s=all&q=\\\\{@}"
@@ -934,7 +934,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:67
+#: src/urifilters/ikws/searchproviders/invent.desktop:69
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr "https://invent.kde.org/search?search=\\\\{@}"
@@ -947,7 +947,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:65
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:67
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -963,7 +963,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr "tomo lon ma tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:64
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -976,7 +976,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr "tomo lon ma tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:67
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:69
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
@@ -991,7 +991,7 @@ msgctxt "Name"
 msgid "Jamendo"
 msgstr "ilo pi kalama musi Jamendo"
 
-#: src/urifilters/ikws/searchproviders/jamendo.desktop:87
+#: src/urifilters/ikws/searchproviders/jamendo.desktop:89
 msgctxt "Query"
 msgid "https://www.jamendo.com/en/search?qs=q=\\\\{@}"
 msgstr "https://www.jamendo.com/en/search?qs=q=\\\\{@}"
@@ -1001,7 +1001,7 @@ msgctxt "Name"
 msgid "Ask Jeeves"
 msgstr "ilo alasa Ask Jeeves"
 
-#: src/urifilters/ikws/searchproviders/jeeves.desktop:101
+#: src/urifilters/ikws/searchproviders/jeeves.desktop:103
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.baidu.com/s?wd=\\\\{@}"
@@ -1014,7 +1014,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:49
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1027,7 +1027,7 @@ msgctxt "Name"
 msgid "KDE API Documentation"
 msgstr "alasa sona pi leko ilo tan kulupu KDE"
 
-#: src/urifilters/ikws/searchproviders/kde.desktop:103
+#: src/urifilters/ikws/searchproviders/kde.desktop:105
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1040,7 +1040,7 @@ msgctxt "Name"
 msgid "KDE Forums"
 msgstr "tomo toki lipu pi kulupu KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_forums.desktop:85
+#: src/urifilters/ikws/searchproviders/kde_forums.desktop:87
 msgctxt "Query"
 msgid ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
@@ -1057,7 +1057,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "tomo toki lipu pi kulupu KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:67
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1071,7 +1071,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr "alasa sona pi ilo tan kulupu KDE (TechBase)"
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:85
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:87
 msgctxt "Query"
 msgid "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1081,7 +1081,7 @@ msgctxt "Name"
 msgid "KDE UserBase"
 msgstr "alasa sona pi ilo tan kulupu KDE (UserBase)"
 
-#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:85
+#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:87
 msgctxt "Query"
 msgid "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1094,7 +1094,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr "tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:67
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1107,7 +1107,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:67
+#: src/urifilters/ikws/searchproviders/krita.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1120,7 +1120,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:67
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -1133,7 +1133,7 @@ msgctxt "Name"
 msgid "LEO-Translate"
 msgstr "ilo pi ante toki LEO"
 
-#: src/urifilters/ikws/searchproviders/leo.desktop:102
+#: src/urifilters/ikws/searchproviders/leo.desktop:104
 msgctxt "Query"
 msgid "https://dict.leo.org/?search=\\\\{@}"
 msgstr "https://dict.leo.org/?search=\\\\{@}"
@@ -1143,7 +1143,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:67
+#: src/urifilters/ikws/searchproviders/linguee.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1156,7 +1156,7 @@ msgctxt "Name"
 msgid "Magnatune"
 msgstr "ilo pi kalama musi Magnatune"
 
-#: src/urifilters/ikws/searchproviders/magnatune.desktop:86
+#: src/urifilters/ikws/searchproviders/magnatune.desktop:88
 msgctxt "Query"
 msgid "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgstr "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
@@ -1169,7 +1169,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "ilo alasa Microsoft Developer Network"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:49
+#: src/urifilters/ikws/searchproviders/mdn.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1182,7 +1182,7 @@ msgctxt "Name"
 msgid "MetaCrawler"
 msgstr "ilo alasa MetaCrawler"
 
-#: src/urifilters/ikws/searchproviders/metacrawler.desktop:103
+#: src/urifilters/ikws/searchproviders/metacrawler.desktop:105
 msgctxt "Query"
 msgid "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 msgstr ""
@@ -1196,7 +1196,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "ilo alasa pi sona Qt4"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:66
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:68
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1209,7 +1209,7 @@ msgctxt "Name"
 msgid "Microsoft Developer Network Search"
 msgstr "ilo alasa Microsoft Developer Network"
 
-#: src/urifilters/ikws/searchproviders/msdn.desktop:101
+#: src/urifilters/ikws/searchproviders/msdn.desktop:103
 msgctxt "Query"
 msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
 msgstr "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1219,7 +1219,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between German and Russian"
 msgstr "ilo pi ante toki Multitran: toki Tosi en toki Losi"
 
-#: src/urifilters/ikws/searchproviders/multitran-deru.desktop:98
+#: src/urifilters/ikws/searchproviders/multitran-deru.desktop:100
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
@@ -1229,7 +1229,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between English and Russian"
 msgstr "ilo pi ante toki Multitran: toki Inli en toki Losi"
 
-#: src/urifilters/ikws/searchproviders/multitran-enru.desktop:98
+#: src/urifilters/ikws/searchproviders/multitran-enru.desktop:100
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
@@ -1239,7 +1239,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Spanish and Russian"
 msgstr "ilo pi ante toki Multitran: toki Epanja en toki Losi"
 
-#: src/urifilters/ikws/searchproviders/multitran-esru.desktop:98
+#: src/urifilters/ikws/searchproviders/multitran-esru.desktop:100
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
@@ -1249,7 +1249,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between French and Russian"
 msgstr "ilo pi ante toki Multitran: toki Kanse en toki Losi"
 
-#: src/urifilters/ikws/searchproviders/multitran-frru.desktop:98
+#: src/urifilters/ikws/searchproviders/multitran-frru.desktop:100
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
@@ -1259,7 +1259,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Italian and Russian"
 msgstr "ilo pi ante toki Multitran: toki Italija en toki Losi"
 
-#: src/urifilters/ikws/searchproviders/multitran-itru.desktop:98
+#: src/urifilters/ikws/searchproviders/multitran-itru.desktop:100
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
@@ -1269,7 +1269,7 @@ msgctxt "Name"
 msgid "Multitran - Translate Between Dutch and Russian"
 msgstr "ilo pi ante toki Multitran: toki Netalan en toki Losi"
 
-#: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:98
+#: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:100
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
 msgstr "https://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
@@ -1279,7 +1279,7 @@ msgctxt "Name"
 msgid "Netcraft"
 msgstr "ilo Netcraft"
 
-#: src/urifilters/ikws/searchproviders/netcraft.desktop:102
+#: src/urifilters/ikws/searchproviders/netcraft.desktop:104
 msgctxt "Query"
 msgid "https://uptime.netcraft.com/up/graph?site=\\\\{@}"
 msgstr "https://uptime.netcraft.com/up/graph?site=\\\\{@}"
@@ -1289,7 +1289,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:49
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:51
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1300,7 +1300,7 @@ msgctxt "Name"
 msgid "Telephonebook Search Provider"
 msgstr "ilo alasa pi nimi toki lon ma Netelan"
 
-#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:98
+#: src/urifilters/ikws/searchproviders/nl-telephone.desktop:100
 msgctxt "Query"
 msgid ""
 "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
@@ -1314,7 +1314,7 @@ msgctxt "Name"
 msgid "Teletekst Search Provider"
 msgstr "ilo alasa Teletekst"
 
-#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:100
+#: src/urifilters/ikws/searchproviders/nl-teletekst.desktop:102
 msgctxt "Query"
 msgid "https://nos.nl/teletekst#\\\\{@}"
 msgstr "https://nos.nl/teletekst#\\\\{@}"
@@ -1324,7 +1324,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:49
+#: src/urifilters/ikws/searchproviders/npm.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1337,7 +1337,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "ilo alasa pi namako ilo openDesktop.org"
 
-#: src/urifilters/ikws/searchproviders/opendesktop.desktop:85
+#: src/urifilters/ikws/searchproviders/opendesktop.desktop:87
 msgctxt "Query"
 msgid ""
 "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1349,7 +1349,7 @@ msgctxt "Name"
 msgid "OpenStreetMap"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:29
+#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:31
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1362,7 +1362,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:66
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:68
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1375,7 +1375,7 @@ msgctxt "Name"
 msgid "OpenPGP Key Search"
 msgstr "ilo alasa OpenPGP"
 
-#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:100
+#: src/urifilters/ikws/searchproviders/pgpkeys.desktop:102
 msgctxt "Query"
 msgid "https://pgp.mit.edu/pks/lookup?search=\\\\{@}&op=vindex"
 msgstr "https://pgp.mit.edu/pks/lookup?search=\\\\{@}&op=vindex"
@@ -1385,7 +1385,7 @@ msgctxt "Name"
 msgid "PHP Search"
 msgstr "ilo alasa PHP"
 
-#: src/urifilters/ikws/searchproviders/php.desktop:101
+#: src/urifilters/ikws/searchproviders/php.desktop:103
 msgctxt "Query"
 msgid "https://secure.php.net/manual-lookup.php?pattern=\\\\{@}"
 msgstr "https://secure.php.net/manual-lookup.php?pattern=\\\\{@}"
@@ -1395,7 +1395,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:67
+#: src/urifilters/ikws/searchproviders/protondb.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1408,7 +1408,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:58
+#: src/urifilters/ikws/searchproviders/pypi.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://vimeo.com/search?q=\\\\{@}"
@@ -1421,7 +1421,7 @@ msgctxt "Name"
 msgid "Python Reference Manual"
 msgstr "ilo alasa pi sona Python"
 
-#: src/urifilters/ikws/searchproviders/python.desktop:102
+#: src/urifilters/ikws/searchproviders/python.desktop:104
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
@@ -1438,7 +1438,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "ilo alasa pi sona Qt sin"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:67
+#: src/urifilters/ikws/searchproviders/qt5.desktop:69
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1451,7 +1451,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "ilo alasa pi sona Qt sin"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:67
+#: src/urifilters/ikws/searchproviders/qt6.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
@@ -1464,7 +1464,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "ilo alasa Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:76
+#: src/urifilters/ikws/searchproviders/qwant.desktop:78
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
@@ -1474,7 +1474,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "ilo pi alasa sitelen Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:75
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:77
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1484,7 +1484,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "ilo pi alasa sin Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:76
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:78
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
@@ -1494,7 +1494,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "ilo pi alasa esun Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:75
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:77
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1504,7 +1504,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "ilo toki Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:76
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:78
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
@@ -1514,7 +1514,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "ilo pi sitelen tawa Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:75
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:77
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
@@ -1524,7 +1524,7 @@ msgctxt "Name"
 msgid "Dictionary of the Spanish Academy (RAE)"
 msgstr "lipu nimi tawa toki Epanja tan Real Academia Española (RAE)"
 
-#: src/urifilters/ikws/searchproviders/rae.desktop:102
+#: src/urifilters/ikws/searchproviders/rae.desktop:104
 msgctxt "Query"
 msgid "https://dle.rae.es/\\\\{@}"
 msgstr "https://dle.rae.es/\\\\{@}"
@@ -1534,7 +1534,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "lipu nimi tawa toki Kaleko tan Real Academia Galega (RAG)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:77
+#: src/urifilters/ikws/searchproviders/rag.desktop:79
 msgctxt "Query"
 msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
@@ -1544,7 +1544,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:66
+#: src/urifilters/ikws/searchproviders/reddit.desktop:68
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1557,7 +1557,7 @@ msgctxt "Name"
 msgid "IETF Requests for Comments"
 msgstr "ilo alasa pi wile tawa kulupu IETF"
 
-#: src/urifilters/ikws/searchproviders/rfc.desktop:97
+#: src/urifilters/ikws/searchproviders/rfc.desktop:99
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://tools.ietf.org/id/\\\\{@}"
@@ -1570,7 +1570,7 @@ msgctxt "Name"
 msgid "RPM-Find"
 msgstr "ilo alasa pi poki RPM"
 
-#: src/urifilters/ikws/searchproviders/rpmfind.desktop:102
+#: src/urifilters/ikws/searchproviders/rpmfind.desktop:104
 msgctxt "Query"
 msgid "https://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
 msgstr "https://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
@@ -1580,7 +1580,7 @@ msgctxt "Name"
 msgid "Ruby Application Archive"
 msgstr "ilo alasa pi ilo lon toki ilo Ruby"
 
-#: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:102
+#: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:104
 msgctxt "Query"
 msgid "https://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
 msgstr "https://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
@@ -1593,7 +1593,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "ilo alasa pi sona Qt4"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:65
+#: src/urifilters/ikws/searchproviders/rust.desktop:67
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -1606,7 +1606,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ilo pi kalama musi Soundcloud"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:73
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:75
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr "https://soundcloud.com/search?q=\\\\{@}"
@@ -1616,7 +1616,7 @@ msgctxt "Name"
 msgid "SourceForge"
 msgstr "tomo pali ilo SourceForge"
 
-#: src/urifilters/ikws/searchproviders/sourceforge.desktop:102
+#: src/urifilters/ikws/searchproviders/sourceforge.desktop:104
 msgctxt "Query"
 msgid ""
 "https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
@@ -1630,7 +1630,7 @@ msgctxt "Name"
 msgid "Startpage"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/startpage.desktop:28
+#: src/urifilters/ikws/searchproviders/startpage.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1643,7 +1643,7 @@ msgctxt "Name"
 msgid "Technorati"
 msgstr "ilo alasa Technorati"
 
-#: src/urifilters/ikws/searchproviders/technorati.desktop:102
+#: src/urifilters/ikws/searchproviders/technorati.desktop:104
 msgctxt "Query"
 msgid "https://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
 msgstr "https://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
@@ -1653,7 +1653,7 @@ msgctxt "Name"
 msgid "Technorati Tags"
 msgstr "ilo alasa pi nimi lili Technorati"
 
-#: src/urifilters/ikws/searchproviders/technoratitags.desktop:98
+#: src/urifilters/ikws/searchproviders/technoratitags.desktop:100
 msgctxt "Query"
 msgid "https://technorati.com/tag/\\\\{@}?sourceid=kde-search"
 msgstr "https://technorati.com/tag/\\\\{@}?sourceid=kde-search"
@@ -1663,7 +1663,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Thesaurus"
 msgstr "lipu pi nimi sama tan kulupu Merriam-Webster"
 
-#: src/urifilters/ikws/searchproviders/thesaurus.desktop:101
+#: src/urifilters/ikws/searchproviders/thesaurus.desktop:103
 msgctxt "Query"
 msgid "https://www.merriam-webster.com/thesaurus/\\\\{@}"
 msgstr "https://www.merriam-webster.com/thesaurus/\\\\{@}"
@@ -1673,7 +1673,7 @@ msgctxt "Name"
 msgid "TV Tome"
 msgstr "lipu TV Tome"
 
-#: src/urifilters/ikws/searchproviders/tvtome.desktop:101
+#: src/urifilters/ikws/searchproviders/tvtome.desktop:103
 msgctxt "Query"
 msgid "https://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
 msgstr "https://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
@@ -1686,7 +1686,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "ilo pi alasa ilo pi ma ilo Debian"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:67
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://packages.debian.org/\\\\{@}"
@@ -1699,7 +1699,7 @@ msgctxt "Name"
 msgid "Urban Dictionary"
 msgstr "lipu nimi Urban Dictionary"
 
-#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:84
+#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:86
 msgctxt "Query"
 msgid "https://www.urbandictionary.com/define.php?term=\\\\{@}"
 msgstr "https://www.urbandictionary.com/define.php?term=\\\\{@}"
@@ -1709,7 +1709,7 @@ msgctxt "Name"
 msgid "U.S. Patent Database"
 msgstr "ilo alasa pi kulupu U.S.P.T.O."
 
-#: src/urifilters/ikws/searchproviders/uspto.desktop:101
+#: src/urifilters/ikws/searchproviders/uspto.desktop:103
 msgctxt "Query"
 msgid ""
 "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
@@ -1723,7 +1723,7 @@ msgctxt "Name"
 msgid "Vimeo"
 msgstr "ilo pi sitelen tawa Vimeo"
 
-#: src/urifilters/ikws/searchproviders/vimeo.desktop:86
+#: src/urifilters/ikws/searchproviders/vimeo.desktop:88
 msgctxt "Query"
 msgid "https://vimeo.com/search?q=\\\\{@}"
 msgstr "https://vimeo.com/search?q=\\\\{@}"
@@ -1733,7 +1733,7 @@ msgctxt "Name"
 msgid "Voila"
 msgstr "ilo esun Voila"
 
-#: src/urifilters/ikws/searchproviders/voila.desktop:104
+#: src/urifilters/ikws/searchproviders/voila.desktop:106
 msgctxt "Query"
 msgid "https://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
 msgstr "https://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
@@ -1743,7 +1743,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Dictionary"
 msgstr "lipu nimi Merriam-Webster"
 
-#: src/urifilters/ikws/searchproviders/webster.desktop:102
+#: src/urifilters/ikws/searchproviders/webster.desktop:104
 msgctxt "Query"
 msgid "https://www.merriam-webster.com/dictionary/\\\\{@}"
 msgstr "https://www.merriam-webster.com/dictionary/\\\\{@}"
@@ -1753,7 +1753,7 @@ msgctxt "Name"
 msgid "Wikia"
 msgstr "lipu Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikia.desktop:85
+#: src/urifilters/ikws/searchproviders/wikia.desktop:87
 msgctxt "Query"
 msgid ""
 "https://www.wikia.com/Special:Search?search=\\\\{@}"
@@ -1770,7 +1770,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "lipu Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:51
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:53
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1780,7 +1780,7 @@ msgctxt "Name"
 msgid "Wiktionary - The Free Dictionary"
 msgstr "lipu Wiktionary"
 
-#: src/urifilters/ikws/searchproviders/wiktionary.desktop:101
+#: src/urifilters/ikws/searchproviders/wiktionary.desktop:103
 msgctxt "Query"
 msgid "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1793,7 +1793,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "ilo alasa Acronym Database"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:67
+#: src/urifilters/ikws/searchproviders/wine.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1806,7 +1806,7 @@ msgctxt "Name"
 msgid "Wolfram Alpha"
 msgstr "ilo pi nasin nanpa WolframAlpha"
 
-#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:86
+#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:88
 msgctxt "Query"
 msgid "https://www.wolframalpha.com/input/?i=\\\\{@}"
 msgstr "https://www.wolframalpha.com/input/?i=\\\\{@}"
@@ -1816,7 +1816,7 @@ msgctxt "Name"
 msgid "WordReference.com English Dictionary"
 msgstr "lipu nimi pi toki inli tan lipu WordReference.com"
 
-#: src/urifilters/ikws/searchproviders/wordref.desktop:101
+#: src/urifilters/ikws/searchproviders/wordref.desktop:103
 msgctxt "Query"
 msgid "https://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 msgstr "https://www.wordreference.com/english/definition.asp?en=\\\\{@}"
@@ -1826,7 +1826,7 @@ msgctxt "Name"
 msgid "Yahoo"
 msgstr "ilo alasa Yahoo"
 
-#: src/urifilters/ikws/searchproviders/yahoo.desktop:88
+#: src/urifilters/ikws/searchproviders/yahoo.desktop:90
 msgctxt "Query"
 msgid ""
 "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
@@ -1840,7 +1840,7 @@ msgctxt "Name"
 msgid "Yahoo Images"
 msgstr "ilo pi alasa sitelen Yahoo"
 
-#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:86
+#: src/urifilters/ikws/searchproviders/yahoo_image.desktop:88
 msgctxt "Query"
 msgid ""
 "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
@@ -1854,7 +1854,7 @@ msgctxt "Name"
 msgid "Yahoo Local"
 msgstr "ilo alasa Yahoo Local"
 
-#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:85
+#: src/urifilters/ikws/searchproviders/yahoo_local.desktop:87
 msgctxt "Query"
 msgid ""
 "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
@@ -1866,7 +1866,7 @@ msgctxt "Name"
 msgid "Yahoo Shopping"
 msgstr "ilo pi alasa esun Yahoo"
 
-#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:85
+#: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:87
 msgctxt "Query"
 msgid ""
 "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
@@ -1882,7 +1882,7 @@ msgctxt "Name"
 msgid "Yahoo Video"
 msgstr "ilo pi alasa sitelen Yahoo"
 
-#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:84
+#: src/urifilters/ikws/searchproviders/yahoo_video.desktop:86
 msgctxt "Query"
 msgid ""
 "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
@@ -1896,7 +1896,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:65
+#: src/urifilters/ikws/searchproviders/yandex.desktop:67
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://ctan.org/search?phrase=\\\\{@}"
@@ -1909,7 +1909,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr "ilo YouTube"
 
-#: src/urifilters/ikws/searchproviders/youtube.desktop:86
+#: src/urifilters/ikws/searchproviders/youtube.desktop:88
 msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
@@ -1919,7 +1919,7 @@ msgctxt "Name"
 msgid "ZDF Mediathek"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/zdf.desktop:28
+#: src/urifilters/ikws/searchproviders/zdf.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1937,7 +1937,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:54
+#: templates/kioworker6/kioworker6.kdevtemplate:56
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
