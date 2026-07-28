@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-06 02:45+0000\n"
+"POT-Creation-Date: 2026-07-28 02:15+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -995,7 +995,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:54
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1011,7 +1011,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr "tomo lon ma tomo pali KDE Invent"
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:53
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://invent.kde.org/search?search=\\\\{@}"
@@ -1577,7 +1577,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "ilo alasa pi sona Qt4"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:54
+#: src/urifilters/ikws/searchproviders/rust.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
