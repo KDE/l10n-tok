@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-08-03 02:49+0000\n"
+"POT-Creation-Date: 2026-08-16 02:48+0000\n"
 "PO-Revision-Date: 2024-02-02 10:05-0500\n"
 "Last-Translator: Ellis Walsh <ellisgwalsh@gmail.com>\n"
 "Language-Team: Toki Pona\n"
@@ -76,7 +76,7 @@ msgctxt "Name"
 msgid "Speech recognition finished"
 msgstr "pali li pini"
 
-#: data/kdenlive.notifyrc:572
+#: data/kdenlive.notifyrc:573
 msgctxt "Comment"
 msgid "A speech recognition job (such as automatic subtitling) has finished"
 msgstr ""
