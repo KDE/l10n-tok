@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ante-toki-pi-ilo-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-09-29 00:52+0000\n"
+"POT-Creation-Date: 2026-10-04 00:55+0000\n"
 "PO-Revision-Date: 2022-02-12 00:24\n"
 "Last-Translator: \n"
 "Language-Team: toki pona\n"
@@ -183,7 +183,7 @@ msgctxt "Name"
 msgid "ARD Mediathek"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/ard.desktop:40
+#: src/urifilters/ikws/searchproviders/ard.desktop:41
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -622,7 +622,7 @@ msgctxt "Name"
 msgid "Flathub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/flathub.desktop:40
+#: src/urifilters/ikws/searchproviders/flathub.desktop:41
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.flickr.com/search/?q=\\\\{@}"
@@ -1349,7 +1349,7 @@ msgctxt "Name"
 msgid "OpenStreetMap"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:40
+#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:41
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1630,7 +1630,7 @@ msgctxt "Name"
 msgid "Startpage"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/startpage.desktop:40
+#: src/urifilters/ikws/searchproviders/startpage.desktop:41
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
@@ -1919,7 +1919,7 @@ msgctxt "Name"
 msgid "ZDF Mediathek"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/zdf.desktop:39
+#: src/urifilters/ikws/searchproviders/zdf.desktop:40
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.bing.com/search?q=\\\\{@}"
